@@ -1,0 +1,169 @@
+{
+  "feeds": [
+    {
+      "macroarea": "Scienza, medicina, ambiente, AI accademica",
+      "titolo": "https://journals.plos.org/plosone/feed/rss",
+      "url": "https://journals.plos.org/plosone/feed/rss"
+    },
+    {
+      "macroarea": "Scienza, medicina, ambiente, AI accademica",
+      "titolo": "https://journals.plos.org/plosbiology/feed/rss",
+      "url": "https://journals.plos.org/plosbiology/feed/rss"
+    },
+    {
+      "macroarea": "Scienza, medicina, ambiente, AI accademica",
+      "titolo": "http://elife.elifesciences.org/rss/recent.xml",
+      "url": "http://elife.elifesciences.org/rss/recent.xml"
+    },
+    {
+      "macroarea": "Scienza, medicina, ambiente, AI accademica",
+      "titolo": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/0413066/?limit=15&name=Cell&utm_campaign=journals",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/0413066/?limit=15&name=Cell&utm_campaign=journals"
+    },
+    {
+      "macroarea": "Scienza, medicina, ambiente, AI accademica",
+      "titolo": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/9432918/?limit=15&name=Immunity&utm_campaign=journals",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/9432918/?limit=15&name=Immunity&utm_campaign=journals"
+    },
+    {
+      "macroarea": "Scienza, medicina, ambiente, AI accademica",
+      "titolo": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/0404511/?limit=15&name=Science&utm_campaign=journals",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/rss/journals/0404511/?limit=15&name=Science&utm_campaign=journals"
+    },
+    {
+      "macroarea": "Scienza, medicina, ambiente, AI accademica",
+      "titolo": "http://pubmedsearches.blogspot.com/feeds/posts/default",
+      "url": "http://pubmedsearches.blogspot.com/feeds/posts/default"
+    },
+    {
+      "macroarea": "Scienza, medicina, ambiente, AI accademica",
+      "titolo": "http://export.arxiv.org/rss/cs.AI",
+      "url": "http://export.arxiv.org/rss/cs.AI"
+    },
+    {
+      "macroarea": "Scienza, medicina, ambiente, AI accademica",
+      "titolo": "http://export.arxiv.org/rss/physics",
+      "url": "http://export.arxiv.org/rss/physics"
+    },
+    {
+      "macroarea": "Scienza, medicina, ambiente, AI accademica",
+      "titolo": "http://export.arxiv.org/api/query?search_query=q-bio.NC&sortBy=lastUpdatedDate&sortOrder=descending&max_results=100",
+      "url": "http://export.arxiv.org/api/query?search_query=q-bio.NC&sortBy=lastUpdatedDate&sortOrder=descending&max_results=100"
+    },
+    {
+      "macroarea": "Scienza, medicina, ambiente, AI accademica",
+      "titolo": "http://feeds.technologyreview.com/technology_review_blog_arxiv",
+      "url": "http://feeds.technologyreview.com/technology_review_blog_arxiv"
+    },
+    {
+      "macroarea": "Scienza, medicina, ambiente, AI accademica",
+      "titolo": "http://export.arxiv.org/api/query?search_query=au:+Bengio_Y&sortBy=lastUpdatedDate&sortOrder=descending&max_results=100",
+      "url": "http://export.arxiv.org/api/query?search_query=au:+Bengio_Y&sortBy=lastUpdatedDate&sortOrder=descending&max_results=100"
+    },
+    {
+      "macroarea": "Scienza, medicina, ambiente, AI accademica",
+      "titolo": "http://export.arxiv.org/api/query?search_query=au:+Ng_A&sortBy=lastUpdatedDate&sortOrder=descending&max_results=100",
+      "url": "http://export.arxiv.org/api/query?search_query=au:+Ng_A&sortBy=lastUpdatedDate&sortOrder=descending&max_results=100"
+    },
+    {
+      "macroarea": "Scienza, medicina, ambiente, AI accademica",
+      "titolo": "http://export.arxiv.org/api/query?search_query=au:+LeCun_Y&sortBy=lastUpdatedDate&sortOrder=descending&max_results=100",
+      "url": "http://export.arxiv.org/api/query?search_query=au:+LeCun_Y&sortBy=lastUpdatedDate&sortOrder=descending&max_results=100"
+    },
+    {
+      "macroarea": "Scienza, medicina, ambiente, AI accademica",
+      "titolo": "http://export.arxiv.org/api/query?search_query=au:+Lichtman_J&sortBy=lastUpdatedDate&sortOrder=descending&max_results=100",
+      "url": "http://export.arxiv.org/api/query?search_query=au:+Lichtman_J&sortBy=lastUpdatedDate&sortOrder=descending&max_results=100"
+    },
+    {
+      "macroarea": "Economia, politica, società, policy globali",
+      "titolo": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+      "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml"
+    },
+    {
+      "macroarea": "Economia, politica, società, policy globali",
+      "titolo": "https://www.who.int/feeds/entity/mediacentre/news/en/rss.xml",
+      "url": "https://www.who.int/feeds/entity/mediacentre/news/en/rss.xml"
+    },
+    {
+      "macroarea": "Economia, politica, società, policy globali",
+      "titolo": "http://www.project-syndicate.org/ps.rss",
+      "url": "http://www.project-syndicate.org/ps.rss"
+    },
+    {
+      "macroarea": "Economia, politica, società, policy globali",
+      "titolo": "http://equitablegrowth.org/feed",
+      "url": "http://equitablegrowth.org/feed"
+    },
+    {
+      "macroarea": "Economia, politica, società, policy globali",
+      "titolo": "https://www.brookings.edu/feed/",
+      "url": "https://www.brookings.edu/feed/"
+    },
+    {
+      "macroarea": "Economia, politica, società, policy globali",
+      "titolo": "https://voxeu.org/rss.xml",
+      "url": "https://voxeu.org/rss.xml"
+    },
+    {
+      "macroarea": "The Conversation (multiarea)",
+      "titolo": "http://theconversation.com/au/arts/articles.atom",
+      "url": "http://theconversation.com/au/arts/articles.atom"
+    },
+    {
+      "macroarea": "The Conversation (multiarea)",
+      "titolo": "http://theconversation.com/au/education/articles.atom",
+      "url": "http://theconversation.com/au/education/articles.atom"
+    },
+    {
+      "macroarea": "The Conversation (multiarea)",
+      "titolo": "http://theconversation.com/au/environment/articles.atom",
+      "url": "http://theconversation.com/au/environment/articles.atom"
+    },
+    {
+      "macroarea": "The Conversation (multiarea)",
+      "titolo": "http://theconversation.com/au/politics/articles.atom",
+      "url": "http://theconversation.com/au/politics/articles.atom"
+    },
+    {
+      "macroarea": "The Conversation (multiarea)",
+      "titolo": "http://theconversation.com/au/home-page/articles.atom",
+      "url": "http://theconversation.com/au/home-page/articles.atom"
+    },
+    {
+      "macroarea": "The Conversation (multiarea)",
+      "titolo": "https://theconversation.com/uk/articles.atom",
+      "url": "https://theconversation.com/uk/articles.atom"
+    },
+    {
+      "macroarea": "The Conversation (multiarea)",
+      "titolo": "http://theconversation.com/uk/technology/articles.atom",
+      "url": "http://theconversation.com/uk/technology/articles.atom"
+    },
+    {
+      "macroarea": "The Conversation (multiarea)",
+      "titolo": "http://theconversation.com/uk/environment/articles.atom",
+      "url": "http://theconversation.com/uk/environment/articles.atom"
+    },
+    {
+      "macroarea": "The Conversation (multiarea)",
+      "titolo": "https://theconversation.com/us/articles.atom",
+      "url": "https://theconversation.com/us/articles.atom"
+    },
+    {
+      "macroarea": "The Conversation (multiarea)",
+      "titolo": "https://theconversation.com/us/home-page/news.atom",
+      "url": "https://theconversation.com/us/home-page/news.atom"
+    },
+    {
+      "macroarea": "The Conversation (multiarea)",
+      "titolo": "http://theconversation.edu.au/articles",
+      "url": "http://theconversation.edu.au/articles"
+    },
+    {
+      "macroarea": "The Conversation (multiarea)",
+      "titolo": "https://theconversation.com/fr/technologie/articles.atom",
+      "url": "https://theconversation.com/fr/technologie/articles.atom"
+    }
+  ]
+}
