@@ -1,0 +1,25 @@
+name: Deploy Feed to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Copy feed to docs
+        run: |
+          mkdir -p docs
+          cp NFeed_Live.json docs/NFeed_Live.json
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add docs/NFeed_Live.json
+          git commit -m "Update feed for GitHub Pages" || echo "No changes"
+          git push
