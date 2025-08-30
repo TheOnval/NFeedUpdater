@@ -140,27 +140,6 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003355"
   },
   {
-    "titolo": "Thrifty wide-context models of B cell receptor somatic hypermutation",
-    "data": "Fri, 29 Aug 2025 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "matsen@fredhutch.org (Will Dumm)",
-    "link": "https://elifesciences.org/articles/105471"
-  },
-  {
-    "titolo": "Temporal dynamics of viral fitness and the adaptive immune response in HCV infection",
-    "data": "Fri, 29 Aug 2025 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "luciani@unsw.edu.au (Rowena A Bull)",
-    "link": "https://elifesciences.org/articles/102232"
-  },
-  {
-    "titolo": "Identifying in vivo genetic dependencies of melanocyte and melanoma development",
-    "data": "Fri, 29 Aug 2025 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "richard.white@ludwig.ox.ac.uk (Zhitao Ming)",
-    "link": "https://elifesciences.org/articles/100257"
-  },
-  {
     "titolo": "The long noncoding RNA lnc-FANCI-2 intrinsically restricts RAS signaling in human papillomavirus type 16-infected cervical cancer cells",
     "data": "Fri, 29 Aug 2025 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -168,18 +147,11 @@
     "link": "https://elifesciences.org/articles/102681"
   },
   {
-    "titolo": "Mesolimbic dopamine ramps reflect environmental timescales",
+    "titolo": "Thrifty wide-context models of B cell receptor somatic hypermutation",
     "data": "Fri, 29 Aug 2025 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "VijayMohan.KNamboodiri@ucsf.edu (Vijay Mohan K Namboodiri)",
-    "link": "https://elifesciences.org/articles/98666"
-  },
-  {
-    "titolo": "Multi-omics investigation of spontaneous T2DM macaque emphasizes gut microbiota could up-regulate the absorption of excess palmitic acid in the T2DM progression",
-    "data": "Fri, 29 Aug 2025 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "ljtjf@126.com (Zhenxin Fan)",
-    "link": "https://elifesciences.org/articles/104355"
+    "autore": "matsen@fredhutch.org (Will Dumm)",
+    "link": "https://elifesciences.org/articles/105471"
   },
   {
     "titolo": "Cap-independent co-expression of dsRNA-sensing and NF-κB pathway inhibitors enables controllable self-amplifying RNA expression with reduced immunotoxicity",
@@ -189,18 +161,32 @@
     "link": "https://elifesciences.org/articles/105978"
   },
   {
-    "titolo": "Unsupervised pipeline for the identification of cortical excitatory and inhibitory neurons in high-density multielectrode arrays with ground-truth validation",
-    "data": "Thu, 28 Aug 2025 00:00:00 +0000",
+    "titolo": "Identifying in vivo genetic dependencies of melanocyte and melanoma development",
+    "data": "Fri, 29 Aug 2025 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "jthivier@uottawa.ca (Philippe Vincent-Lamarre)",
-    "link": "https://elifesciences.org/articles/106557"
+    "autore": "richard.white@ludwig.ox.ac.uk (Zhitao Ming)",
+    "link": "https://elifesciences.org/articles/100257"
   },
   {
-    "titolo": "Innate immunity and training to subvert original antigenic sin by the humoral immune response",
-    "data": "Thu, 28 Aug 2025 00:00:00 +0000",
+    "titolo": "Multi-omics investigation of spontaneous T2DM macaque emphasizes gut microbiota could up-regulate the absorption of excess palmitic acid in the T2DM progression",
+    "data": "Fri, 29 Aug 2025 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "DLINGWOOD@mgh.harvard.edu (Faez Amokrane Nait Mohamed)",
-    "link": "https://elifesciences.org/articles/106654"
+    "autore": "ljtjf@126.com (Zhenxin Fan)",
+    "link": "https://elifesciences.org/articles/104355"
+  },
+  {
+    "titolo": "Mesolimbic dopamine ramps reflect environmental timescales",
+    "data": "Fri, 29 Aug 2025 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "VijayMohan.KNamboodiri@ucsf.edu (Vijay Mohan K Namboodiri)",
+    "link": "https://elifesciences.org/articles/98666"
+  },
+  {
+    "titolo": "Temporal dynamics of viral fitness and the adaptive immune response in HCV infection",
+    "data": "Fri, 29 Aug 2025 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "luciani@unsw.edu.au (Rowena A Bull)",
+    "link": "https://elifesciences.org/articles/102232"
   },
   {
     "titolo": "Age-dependent predictors of effective reinforcement motor learning across childhood",
@@ -210,214 +196,228 @@
     "link": "https://elifesciences.org/articles/101036"
   },
   {
+    "titolo": "DeePosit, an AI-based tool for detecting mouse urine and fecal depositions from thermal video clips of behavioral experiments",
+    "data": "Thu, 28 Aug 2025 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "davidpelz@gmail.com (Taghreed Suliman)",
+    "link": "https://elifesciences.org/articles/100739"
+  },
+  {
+    "titolo": "Innate immunity and training to subvert original antigenic sin by the humoral immune response",
+    "data": "Thu, 28 Aug 2025 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "DLINGWOOD@mgh.harvard.edu (Faez Amokrane Nait Mohamed)",
+    "link": "https://elifesciences.org/articles/106654"
+  },
+  {
     "titolo": "Stereo-seq V2: Spatial mapping of total RNA on FFPE sections with high resolution",
     "data": "Fri, 29 Aug 2025 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Xun Xu",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40882628/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250830050650&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40882628/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250830081054&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Hepatocyte metabolic adaptations during pregnancy and lactation",
     "data": "Fri, 29 Aug 2025 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Cheng-Ran Xu",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40882627/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250830050650&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40882627/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250830081054&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "GRK-biased adrenergic agonists for the treatment of type 2 diabetes and obesity",
     "data": "Fri, 29 Aug 2025 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Tore Bengtsson",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40882626/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250830050650&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40882626/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250830081054&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "A split-site E3 ligase mechanism enables ZNFX1 to ubiquitinate and cluster single-stranded RNA into ubiquitin-coated nucleoprotein particles",
     "data": "Thu, 28 Aug 2025 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Tim Clausen",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40876457/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250830050650&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40876457/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250830081054&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Proximity-specific ribosome profiling reveals the logic of localized mitochondrial translation",
     "data": "Thu, 28 Aug 2025 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Jonathan S Weissman",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40876456/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250830050650&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40876456/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250830081054&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Structurally conserved human anti-A35 antibodies protect mice and macaques from mpox virus infection",
     "data": "Wed, 27 Aug 2025 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Zheng Zhang",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40865530/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250830050650&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40865530/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250830081054&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Human monoclonal antibodies targeting A35 protect from death caused by mpox",
     "data": "Wed, 27 Aug 2025 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Camila H Coelho",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40865529/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250830050650&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40865529/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250830081054&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Extensive cross-species transmission of pathogens and antibiotic resistance genes in mammals neglected by public health surveillance",
     "data": "Wed, 27 Aug 2025 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Shuo Su",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40865528/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250830050650&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40865528/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250830081054&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Mitochondrial activity tunes nociceptor resilience to excitotoxicity",
     "data": "Wed, 27 Aug 2025 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "David Julius",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40865527/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250830050650&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40865527/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250830081054&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Tumor transcriptome-wide expression classifiers predict treatment sensitivity in advanced prostate cancers",
     "data": "Wed, 27 Aug 2025 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Gerhardt Attard",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40865526/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250830050650&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40865526/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250830081054&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Unfolded protein response transcription factor XBP1 suppresses necroptosis-induced colitis by reinforcing the mucus barrier",
     "data": "Wed, 27 Aug 2025 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Manolis Pasparakis",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40865520/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250830050653&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40865520/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250830081055&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Microglia in the hypothalamic paraventricular nucleus sense hemodynamic disturbance and promote sympathetic excitation in hypertension",
     "data": "Sat, 23 Aug 2025 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Peng Shi",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40848725/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250830050653&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40848725/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250830081055&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Transcription factor BACH2 shapes tissue-resident memory T cell programs to promote HIV-1 persistence",
     "data": "Fri, 22 Aug 2025 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Ya-Chi Ho",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40845842/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250830050653&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40845842/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250830081055&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Immunopathogenesis of lethal H5N1 avian influenza virus clade 2.3.4.4b infection in macaques",
     "data": "Tue, 19 Aug 2025 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Dan H Barouch",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40829590/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250830050653&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40829590/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250830081055&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Spatiotemporal dynamics of CXCL10 encode contextual immune information revealed by the genetically encoded fluorescent sensor",
     "data": "Sat, 16 Aug 2025 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Miao Jing",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40818452/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250830050653&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40818452/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250830081055&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Succinate preserves CD8<sup>+</sup> T cell fitness to augment antitumor immunity",
     "data": "Fri, 15 Aug 2025 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Lianjun Zhang",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40816269/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250830050653&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40816269/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250830081055&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Inhibition of tumor cell macropinocytosis driver DHODH reverses immunosuppression and overcomes anti-PD1 resistance",
     "data": "Fri, 15 Aug 2025 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Xuetao Cao",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40816268/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250830050653&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40816268/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250830081055&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Neural tuners of lung immunity",
     "data": "Wed, 13 Aug 2025 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Felipe A Pinho-Ribeiro",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40803314/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250830050653&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40803314/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250830081055&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Dumping polyamines helps regulatory T cells \"repair\" a cancerous relationship",
     "data": "Wed, 13 Aug 2025 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Will Bailis",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40803313/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250830050653&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40803313/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250830081055&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "The high (I)COSt of costimulation for exhausted T cells",
     "data": "Wed, 13 Aug 2025 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Ian A Parish",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40803312/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250830050653&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40803312/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250830081055&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Mapping the anatomy of placebo analgesia",
     "data": "Thu, 28 Aug 2025 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Lauren Y Atlas",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40875865/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250830050654&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40875865/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250830081057&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "The rise of rideable horses",
     "data": "Thu, 28 Aug 2025 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Laurent Frantz",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40875864/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250830050654&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40875864/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250830081057&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Penetrance and variant consequences-Two sides of the same coin?",
     "data": "Thu, 28 Aug 2025 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Amelie Stein",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40875863/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250830050654&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40875863/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250830081057&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Unraveling the arc of vaccine progress",
     "data": "Thu, 28 Aug 2025 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Seth Berkley",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40875862/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250830050654&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40875862/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250830081057&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Land availability and policy commitments limit global climate mitigation from forestation",
     "data": "Thu, 28 Aug 2025 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Zhangcai Qin",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40875861/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250830050654&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40875861/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250830081057&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Machine learning-based penetrance of genetic variants",
     "data": "Thu, 28 Aug 2025 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Ron Do",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40875860/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250830050654&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40875860/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250830081057&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Academic leadership in uncertain timesPeril And Promise <em>Beverly Daniel Tatum</em> Basic Books, 2025. 368 pp",
     "data": "Thu, 28 Aug 2025 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Susan Elrod",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40875859/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250830050654&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40875859/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250830081057&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Creating connection with wings and strings",
     "data": "Thu, 28 Aug 2025 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Emily Jean Justus",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40875858/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250830050654&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40875858/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250830081057&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Transcription factors SP5 and SP8 drive primary cilia formation in mammalian embryos",
     "data": "Thu, 28 Aug 2025 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Alexandra L Joyner",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40875857/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250830050654&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40875857/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250830081057&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "New clues found about the assembly of life's first proteins",
     "data": "Thu, 28 Aug 2025 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Robert F Service",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40875856/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250830050654&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40875856/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250830081057&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "New Zealand's indigenous peoples  -- keywords EMBASE",
