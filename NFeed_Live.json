@@ -140,27 +140,6 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003355"
   },
   {
-    "titolo": "Development of D-box peptides to inhibit the anaphase-promoting complex/cyclosome",
-    "data": "Mon, 01 Sep 2025 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "lsi10@cam.ac.uk (Thomas Tischer)",
-    "link": "https://elifesciences.org/articles/104238"
-  },
-  {
-    "titolo": "Evidence for deliberate burial of the dead by <i>Homo naledi</i>",
-    "data": "Mon, 01 Sep 2025 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "lrberger@ngs.org (Zubair Jinnah)",
-    "link": "https://elifesciences.org/articles/89106"
-  },
-  {
-    "titolo": "How the Global South is reshaping scholarly communication",
-    "data": "Mon, 01 Sep 2025 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "debat.humberto@inta.gob.ar (Roseline Dzekem Dine)",
-    "link": "https://elifesciences.org/articles/108426"
-  },
-  {
     "titolo": "Coral anthozoan-specific opsins employ a novel chloride counterion for spectral tuning",
     "data": "Mon, 01 Sep 2025 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -175,11 +154,46 @@
     "link": "https://elifesciences.org/articles/102840"
   },
   {
-    "titolo": "Mesolimbic dopamine ramps reflect environmental timescales",
+    "titolo": "How the Global South is reshaping scholarly communication",
+    "data": "Mon, 01 Sep 2025 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "debat.humberto@inta.gob.ar (Roseline Dzekem Dine)",
+    "link": "https://elifesciences.org/articles/108426"
+  },
+  {
+    "titolo": "Development of D-box peptides to inhibit the anaphase-promoting complex/cyclosome",
+    "data": "Mon, 01 Sep 2025 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "lsi10@cam.ac.uk (Thomas Tischer)",
+    "link": "https://elifesciences.org/articles/104238"
+  },
+  {
+    "titolo": "Evidence for deliberate burial of the dead by <i>Homo naledi</i>",
+    "data": "Mon, 01 Sep 2025 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "lrberger@ngs.org (Zubair Jinnah)",
+    "link": "https://elifesciences.org/articles/89106"
+  },
+  {
+    "titolo": "The long noncoding RNA lnc-FANCI-2 intrinsically restricts RAS signaling in human papillomavirus type 16-infected cervical cancer cells",
     "data": "Fri, 29 Aug 2025 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "VijayMohan.KNamboodiri@ucsf.edu (Vijay Mohan K Namboodiri)",
-    "link": "https://elifesciences.org/articles/98666"
+    "autore": "zhengt@exchange.nih.gov (Zhi-Ming Zheng)",
+    "link": "https://elifesciences.org/articles/102681"
+  },
+  {
+    "titolo": "Identifying in vivo genetic dependencies of melanocyte and melanoma development",
+    "data": "Fri, 29 Aug 2025 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "richard.white@ludwig.ox.ac.uk (Zhitao Ming)",
+    "link": "https://elifesciences.org/articles/100257"
+  },
+  {
+    "titolo": "Cap-independent co-expression of dsRNA-sensing and NF-κB pathway inhibitors enables controllable self-amplifying RNA expression with reduced immunotoxicity",
+    "data": "Fri, 29 Aug 2025 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "tony.ky.lim@gmail.com (Tony KY Lim)",
+    "link": "https://elifesciences.org/articles/105978"
   },
   {
     "titolo": "Thrifty wide-context models of B cell receptor somatic hypermutation",
@@ -196,228 +210,214 @@
     "link": "https://elifesciences.org/articles/104355"
   },
   {
-    "titolo": "The long noncoding RNA lnc-FANCI-2 intrinsically restricts RAS signaling in human papillomavirus type 16-infected cervical cancer cells",
-    "data": "Fri, 29 Aug 2025 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "zhengt@exchange.nih.gov (Zhi-Ming Zheng)",
-    "link": "https://elifesciences.org/articles/102681"
-  },
-  {
-    "titolo": "Cap-independent co-expression of dsRNA-sensing and NF-κB pathway inhibitors enables controllable self-amplifying RNA expression with reduced immunotoxicity",
-    "data": "Fri, 29 Aug 2025 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "tony.ky.lim@gmail.com (Tony KY Lim)",
-    "link": "https://elifesciences.org/articles/105978"
-  },
-  {
     "titolo": "Stereo-seq V2: Spatial mapping of total RNA on FFPE sections with high resolution",
     "data": "Fri, 29 Aug 2025 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Xun Xu",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40882628/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250901203037&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40882628/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250901232326&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Hepatocyte metabolic adaptations during pregnancy and lactation",
     "data": "Fri, 29 Aug 2025 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Cheng-Ran Xu",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40882627/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250901203037&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40882627/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250901232326&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "GRK-biased adrenergic agonists for the treatment of type 2 diabetes and obesity",
     "data": "Fri, 29 Aug 2025 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Tore Bengtsson",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40882626/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250901203037&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40882626/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250901232326&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "A split-site E3 ligase mechanism enables ZNFX1 to ubiquitinate and cluster single-stranded RNA into ubiquitin-coated nucleoprotein particles",
     "data": "Thu, 28 Aug 2025 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Tim Clausen",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40876457/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250901203037&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40876457/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250901232326&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Proximity-specific ribosome profiling reveals the logic of localized mitochondrial translation",
     "data": "Thu, 28 Aug 2025 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Jonathan S Weissman",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40876456/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250901203037&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40876456/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250901232326&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Structurally conserved human anti-A35 antibodies protect mice and macaques from mpox virus infection",
     "data": "Wed, 27 Aug 2025 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Zheng Zhang",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40865530/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250901203037&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40865530/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250901232326&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Human monoclonal antibodies targeting A35 protect from death caused by mpox",
     "data": "Wed, 27 Aug 2025 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Camila H Coelho",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40865529/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250901203037&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40865529/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250901232326&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Extensive cross-species transmission of pathogens and antibiotic resistance genes in mammals neglected by public health surveillance",
     "data": "Wed, 27 Aug 2025 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Shuo Su",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40865528/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250901203037&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40865528/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250901232326&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Mitochondrial activity tunes nociceptor resilience to excitotoxicity",
     "data": "Wed, 27 Aug 2025 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "David Julius",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40865527/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250901203037&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40865527/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250901232326&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Tumor transcriptome-wide expression classifiers predict treatment sensitivity in advanced prostate cancers",
     "data": "Wed, 27 Aug 2025 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Gerhardt Attard",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40865526/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250901203037&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40865526/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20250901232326&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Anchored screening identifies transcription factor blueprints underlying dendritic cell diversity and subset-specific anti-tumor immunity",
     "data": "Sat, 30 Aug 2025 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Carlos-Filipe Pereira",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40885192/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250901203039&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40885192/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250901232328&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Nucleotide-dependent conformational changes direct peptide export by the transporter associated with antigen processing",
     "data": "Sat, 30 Aug 2025 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Jue Chen",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40885191/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250901203039&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40885191/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250901232328&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Unfolded protein response transcription factor XBP1 suppresses necroptosis-induced colitis by reinforcing the mucus barrier",
     "data": "Wed, 27 Aug 2025 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Manolis Pasparakis",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40865520/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250901203039&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40865520/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250901232328&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Microglia in the hypothalamic paraventricular nucleus sense hemodynamic disturbance and promote sympathetic excitation in hypertension",
     "data": "Sat, 23 Aug 2025 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Peng Shi",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40848725/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250901203039&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40848725/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250901232328&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Transcription factor BACH2 shapes tissue-resident memory T cell programs to promote HIV-1 persistence",
     "data": "Fri, 22 Aug 2025 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Ya-Chi Ho",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40845842/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250901203039&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40845842/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250901232328&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Immunopathogenesis of lethal H5N1 avian influenza virus clade 2.3.4.4b infection in macaques",
     "data": "Tue, 19 Aug 2025 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Dan H Barouch",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40829590/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250901203039&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40829590/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250901232328&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Spatiotemporal dynamics of CXCL10 encode contextual immune information revealed by the genetically encoded fluorescent sensor",
     "data": "Sat, 16 Aug 2025 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Miao Jing",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40818452/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250901203039&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40818452/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250901232328&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Succinate preserves CD8<sup>+</sup> T cell fitness to augment antitumor immunity",
     "data": "Fri, 15 Aug 2025 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Lianjun Zhang",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40816269/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250901203039&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40816269/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250901232328&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Inhibition of tumor cell macropinocytosis driver DHODH reverses immunosuppression and overcomes anti-PD1 resistance",
     "data": "Fri, 15 Aug 2025 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Xuetao Cao",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40816268/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250901203039&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40816268/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250901232328&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Neural tuners of lung immunity",
     "data": "Wed, 13 Aug 2025 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Felipe A Pinho-Ribeiro",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40803314/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250901203039&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40803314/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20250901232328&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Mapping the anatomy of placebo analgesia",
     "data": "Thu, 28 Aug 2025 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Lauren Y Atlas",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40875865/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250901203041&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40875865/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250901232329&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "The rise of rideable horses",
     "data": "Thu, 28 Aug 2025 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Laurent Frantz",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40875864/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250901203041&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40875864/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250901232329&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Penetrance and variant consequences-Two sides of the same coin?",
     "data": "Thu, 28 Aug 2025 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Amelie Stein",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40875863/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250901203041&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40875863/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250901232329&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Unraveling the arc of vaccine progress",
     "data": "Thu, 28 Aug 2025 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Seth Berkley",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40875862/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250901203041&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40875862/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250901232329&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Land availability and policy commitments limit global climate mitigation from forestation",
     "data": "Thu, 28 Aug 2025 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Zhangcai Qin",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40875861/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250901203041&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40875861/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250901232329&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Machine learning-based penetrance of genetic variants",
     "data": "Thu, 28 Aug 2025 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Ron Do",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40875860/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250901203041&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40875860/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250901232329&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Academic leadership in uncertain timesPeril And Promise <em>Beverly Daniel Tatum</em> Basic Books, 2025. 368 pp",
     "data": "Thu, 28 Aug 2025 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Susan Elrod",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40875859/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250901203041&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40875859/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250901232329&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Creating connection with wings and strings",
     "data": "Thu, 28 Aug 2025 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Emily Jean Justus",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40875858/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250901203041&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40875858/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250901232329&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "Transcription factors SP5 and SP8 drive primary cilia formation in mammalian embryos",
     "data": "Thu, 28 Aug 2025 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Alexandra L Joyner",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40875857/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250901203041&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40875857/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250901232329&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "New clues found about the assembly of life's first proteins",
     "data": "Thu, 28 Aug 2025 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Robert F Service",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/40875856/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250901203041&v=2.18.0.post9+e462414"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/40875856/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20250901232329&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "New Zealand's indigenous peoples  -- keywords EMBASE",
@@ -1190,6 +1190,13 @@
     "link": "http://cepr.org/research/programme-areas/international-macroeconomics"
   },
   {
+    "titolo": "Curious Kids: in ancient Egypt, did pyramids really have booby traps? Why was treasure hidden inside?",
+    "data": "2025-09-02T01:21:48Z",
+    "fonte": "Arts + Culture – The Conversation",
+    "autore": "Serena Love, Honorary Research Fellow in Archaeology, The University of Queensland",
+    "link": "https://theconversation.com/curious-kids-in-ancient-egypt-did-pyramids-really-have-booby-traps-why-was-treasure-hidden-inside-262319"
+  },
+  {
     "titolo": "It was lonely during WWII. Those at home and away coped through letters",
     "data": "2025-09-01T20:08:04Z",
     "fonte": "Arts + Culture – The Conversation",
@@ -1251,13 +1258,6 @@
     "fonte": "Arts + Culture – The Conversation",
     "autore": "Kirk Dodd, Lecturer in English and Writing, University of Sydney",
     "link": "https://theconversation.com/impressive-performances-and-production-values-but-joanna-murray-smiths-the-talented-mr-ripley-doesnt-quite-land-260921"
-  },
-  {
-    "titolo": "Destiny is a fierce new stage show exploring love, loss and rebellion under the shadow of apartheid South Africa",
-    "data": "2025-08-25T03:20:39Z",
-    "fonte": "Arts + Culture – The Conversation",
-    "autore": "Sarah Austin, Senior Lecturer in Theatre, The University of Melbourne",
-    "link": "https://theconversation.com/destiny-is-a-fierce-new-stage-show-exploring-love-loss-and-rebellion-under-the-shadow-of-apartheid-south-africa-262515"
   },
   {
     "titolo": "From daycare through to uni, we’ve all had this type of teacher",
@@ -1470,6 +1470,34 @@
     "link": "https://theconversation.com/the-governor-of-california-is-in-a-high-stakes-battle-with-donald-trump-its-not-yet-clear-who-will-win-263803"
   },
   {
+    "titolo": "Digital platforms are now the ultimate political power brokers, with consequences for democracy",
+    "data": "2025-09-02T02:28:59Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Francesco Bailo, Lecturer in Data Analytics in the Social Sciences, University of Sydney",
+    "link": "https://theconversation.com/digital-platforms-are-now-the-ultimate-political-power-brokers-with-consequences-for-democracy-263537"
+  },
+  {
+    "titolo": "Why was the Afghanistan earthquake so deadly? A disaster resilience expert explains",
+    "data": "2025-09-02T01:40:12Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Iftekhar Ahmed, Associate Professor in Construction Management/Disaster Resilience, University of Newcastle",
+    "link": "https://theconversation.com/why-was-the-afghanistan-earthquake-so-deadly-a-disaster-resilience-expert-explains-264274"
+  },
+  {
+    "titolo": "Should I exercise if I’m still sore from last time?",
+    "data": "2025-09-02T01:37:16Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Hunter Bennett, Lecturer in Exercise Science, University of South Australia",
+    "link": "https://theconversation.com/should-i-exercise-if-im-still-sore-from-last-time-263046"
+  },
+  {
+    "titolo": "Curious Kids: in ancient Egypt, did pyramids really have booby traps? Why was treasure hidden inside?",
+    "data": "2025-09-02T01:21:48Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Serena Love, Honorary Research Fellow in Archaeology, The University of Queensland",
+    "link": "https://theconversation.com/curious-kids-in-ancient-egypt-did-pyramids-really-have-booby-traps-why-was-treasure-hidden-inside-262319"
+  },
+  {
     "titolo": "Low expectations and thwarted desires: Geoff Dyer’s memoir of a working-class childhood",
     "data": "2025-09-01T20:08:16Z",
     "fonte": "Home – The Conversation",
@@ -1510,34 +1538,6 @@
     "fonte": "Home – The Conversation",
     "autore": "Bryan G. Fry, Professor of Toxicology, School of the Environment, The University of Queensland",
     "link": "https://theconversation.com/80-years-since-the-end-of-world-war-ii-a-dangerous-legacy-lingers-in-the-pacific-264127"
-  },
-  {
-    "titolo": "Australia’s government says social media age checks ‘can be done’, despite errors and privacy risks",
-    "data": "2025-09-01T07:04:38Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Lisa M. Given, Professor of Information Sciences & Director, Social Change Enabling Impact Platform, RMIT University",
-    "link": "https://theconversation.com/australias-government-says-social-media-age-checks-can-be-done-despite-errors-and-privacy-risks-264257"
-  },
-  {
-    "titolo": "By sending non-visa holders to Nauru, Australia is shifting its responsibilities",
-    "data": "2025-09-01T06:33:28Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Lisa van Toor, Lecturer, School of Law & Criminology, Murdoch University",
-    "link": "https://theconversation.com/by-sending-non-visa-holders-to-nauru-australia-is-shifting-its-responsibilities-264256"
-  },
-  {
-    "titolo": "What chaos at the US CDC could mean for the rest of the world",
-    "data": "2025-09-01T06:10:26Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Michael Toole, Associate Principal Research Fellow, Burnet Institute",
-    "link": "https://theconversation.com/what-chaos-at-the-us-cdc-could-mean-for-the-rest-of-the-world-264188"
-  },
-  {
-    "titolo": "Politicians have scapegoated immigration for decades. It’s time to flip the script",
-    "data": "2025-09-01T05:52:08Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Jane McAdam, Scientia Professor and ARC Laureate Fellow, Kaldor Centre for International Refugee Law, UNSW Sydney",
-    "link": "https://theconversation.com/politicians-have-scapegoated-immigration-for-decades-its-time-to-flip-the-script-264266"
   },
   {
     "titolo": "How to save global cancer research from Trump’s cuts",
@@ -1890,6 +1890,34 @@
     "link": "https://theconversation.com/customers-like-diversity-from-brands-but-can-smell-hypocrisy-a-mile-away-218683"
   },
   {
+    "titolo": "Digital platforms are now the ultimate political power brokers, with consequences for democracy",
+    "data": "2025-09-02T02:28:59Z",
+    "fonte": "English – The Conversation",
+    "autore": "Francesco Bailo, Lecturer in Data Analytics in the Social Sciences, University of Sydney",
+    "link": "https://theconversation.com/digital-platforms-are-now-the-ultimate-political-power-brokers-with-consequences-for-democracy-263537"
+  },
+  {
+    "titolo": "Why was the Afghanistan earthquake so deadly? A disaster resilience expert explains",
+    "data": "2025-09-02T01:40:12Z",
+    "fonte": "English – The Conversation",
+    "autore": "Iftekhar Ahmed, Associate Professor in Construction Management/Disaster Resilience, University of Newcastle",
+    "link": "https://theconversation.com/why-was-the-afghanistan-earthquake-so-deadly-a-disaster-resilience-expert-explains-264274"
+  },
+  {
+    "titolo": "Should I exercise if I’m still sore from last time?",
+    "data": "2025-09-02T01:37:16Z",
+    "fonte": "English – The Conversation",
+    "autore": "Hunter Bennett, Lecturer in Exercise Science, University of South Australia",
+    "link": "https://theconversation.com/should-i-exercise-if-im-still-sore-from-last-time-263046"
+  },
+  {
+    "titolo": "Curious Kids: in ancient Egypt, did pyramids really have booby traps? Why was treasure hidden inside?",
+    "data": "2025-09-02T01:21:48Z",
+    "fonte": "English – The Conversation",
+    "autore": "Serena Love, Honorary Research Fellow in Archaeology, The University of Queensland",
+    "link": "https://theconversation.com/curious-kids-in-ancient-egypt-did-pyramids-really-have-booby-traps-why-was-treasure-hidden-inside-262319"
+  },
+  {
     "titolo": "How to save global cancer research from Trump’s cuts",
     "data": "2025-09-01T22:32:29Z",
     "fonte": "English – The Conversation",
@@ -1930,34 +1958,6 @@
     "fonte": "English – The Conversation",
     "autore": "Rowena Ditzell, Lecturer in Management at UTS Business School, University of Technology Sydney",
     "link": "https://theconversation.com/its-ok-for-people-to-cry-at-work-heres-how-you-can-respond-as-a-colleague-or-manager-263632"
-  },
-  {
-    "titolo": "80 years since the end of World War II, a dangerous legacy lingers in the Pacific",
-    "data": "2025-09-01T20:06:16Z",
-    "fonte": "English – The Conversation",
-    "autore": "Bryan G. Fry, Professor of Toxicology, School of the Environment, The University of Queensland",
-    "link": "https://theconversation.com/80-years-since-the-end-of-world-war-ii-a-dangerous-legacy-lingers-in-the-pacific-264127"
-  },
-  {
-    "titolo": "North Korea’s hidden wildlife trade: new research reveals state involvement",
-    "data": "2025-09-01T16:14:10Z",
-    "fonte": "English – The Conversation",
-    "autore": "Joshua Elves-Powell, Associate Lecturer in Biodiversity Conservation and Ecology, UCL",
-    "link": "https://theconversation.com/north-koreas-hidden-wildlife-trade-new-research-reveals-state-involvement-264237"
-  },
-  {
-    "titolo": "What we do (and don’t know) about autism and ageing – new research",
-    "data": "2025-09-01T16:14:06Z",
-    "fonte": "English – The Conversation",
-    "autore": "Gavin Stewart, British Academy Postdoctoral Research Fellow, Social Genetic and Developmental Psychiatry Centre, King's College London",
-    "link": "https://theconversation.com/what-we-do-and-dont-know-about-autism-and-ageing-new-research-264140"
-  },
-  {
-    "titolo": "Four reasons why the UK lags behind its rivals on productivity",
-    "data": "2025-09-01T16:14:04Z",
-    "fonte": "English – The Conversation",
-    "autore": "Guilherme Klein Martins, Lecturer in Economics, University of Leeds",
-    "link": "https://theconversation.com/four-reasons-why-the-uk-lags-behind-its-rivals-on-productivity-264149"
   },
   {
     "titolo": "Drones et robots tueurs dans la guerre : soldat ou algorithme, qui décidera de la vie et de la mort demain ?",
