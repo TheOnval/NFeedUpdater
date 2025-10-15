@@ -140,13 +140,6 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003428"
   },
   {
-    "titolo": "Homeostatic synaptic plasticity of miniature excitatory postsynaptic currents in mouse cortical cultures requires neuronal <i>Rab3a</i>",
-    "data": "Tue, 14 Oct 2025 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "koesteag@ucmail.uc.edu (Mark M Rich)",
-    "link": "https://elifesciences.org/articles/90261"
-  },
-  {
     "titolo": "HIF1A-mediated pathways promote euploid cell survival in chromosomally mosaic embryos",
     "data": "Tue, 14 Oct 2025 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -154,11 +147,11 @@
     "link": "https://elifesciences.org/articles/101912"
   },
   {
-    "titolo": "Transcranial direct current stimulation modulates primate brain dynamics across states of consciousness",
-    "data": "Mon, 13 Oct 2025 00:00:00 +0000",
+    "titolo": "Homeostatic synaptic plasticity of miniature excitatory postsynaptic currents in mouse cortical cultures requires neuronal <i>Rab3a</i>",
+    "data": "Tue, 14 Oct 2025 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "guylaine.hoffner@inserm.fr (Rodrigo Cofre)",
-    "link": "https://elifesciences.org/articles/101688"
+    "autore": "koesteag@ucmail.uc.edu (Mark M Rich)",
+    "link": "https://elifesciences.org/articles/90261"
   },
   {
     "titolo": "KDM5 demethylases suppress R-loop-mediated ‘viral mimicry’ and DNA damage in breast cancer cells",
@@ -166,6 +159,20 @@
     "fonte": "eLife: latest articles",
     "autore": "classon.marie@gmail.com (Zhijian J Chen)",
     "link": "https://elifesciences.org/articles/106249"
+  },
+  {
+    "titolo": "Probing the staying power of chemogenetics",
+    "data": "Mon, 13 Oct 2025 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "ikagan@dpz.eu (Maria Puchik)",
+    "link": "https://elifesciences.org/articles/109193"
+  },
+  {
+    "titolo": "Transcranial direct current stimulation modulates primate brain dynamics across states of consciousness",
+    "data": "Mon, 13 Oct 2025 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "guylaine.hoffner@inserm.fr (Rodrigo Cofre)",
+    "link": "https://elifesciences.org/articles/101688"
   },
   {
     "titolo": "Shared functional organization between pulvinar-cortical and cortico-cortical connectivity and its structural and molecular imaging correlates",
@@ -180,13 +187,6 @@
     "fonte": "eLife: latest articles",
     "autore": "mizrahi.adi@mail.huji.ac.il (Shaul Druckmann)",
     "link": "https://elifesciences.org/articles/106387"
-  },
-  {
-    "titolo": "Probing the staying power of chemogenetics",
-    "data": "Mon, 13 Oct 2025 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "ikagan@dpz.eu (Maria Puchik)",
-    "link": "https://elifesciences.org/articles/109193"
   },
   {
     "titolo": "Synchronous ensembles of hippocampal CA1 pyramidal neurons during novel exploration",
@@ -208,6 +208,76 @@
     "fonte": "eLife: latest articles",
     "autore": "xzhang@uestc.edu.cn (Xinjun Zhang)",
     "link": "https://elifesciences.org/articles/103996"
+  },
+  {
+    "titolo": "Phase 1/2a clinical trial of hESC-derived dopamine progenitors in Parkinson's disease",
+    "data": "Tue, 14 Oct 2025 06:00:00 -0400",
+    "fonte": "Cell",
+    "autore": "Dong-Wook Kim",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41086804/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251015021153&v=2.18.0.post9+e462414"
+  },
+  {
+    "titolo": "Choreography of rapid actin filament disassembly by coronin, cofilin, and AIP1",
+    "data": "Sat, 11 Oct 2025 06:00:00 -0400",
+    "fonte": "Cell",
+    "autore": "Stefan Raunser",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41075793/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251015021153&v=2.18.0.post9+e462414"
+  },
+  {
+    "titolo": "Genetic modifiers and ascertainment drive variable expressivity of complex disorders",
+    "data": "Wed, 08 Oct 2025 06:00:00 -0400",
+    "fonte": "Cell",
+    "autore": "Santhosh Girirajan",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41061703/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251015021153&v=2.18.0.post9+e462414"
+  },
+  {
+    "titolo": "Time-resolved fluorescent proteins expand fluorescent microscopy in temporal and spectral domains",
+    "data": "Fri, 03 Oct 2025 06:00:00 -0400",
+    "fonte": "Cell",
+    "autore": "Xin Zhang",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41043434/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251015021153&v=2.18.0.post9+e462414"
+  },
+  {
+    "titolo": "ABP1/ABL3-TMK1 cell-surface auxin signaling targets PIN2-mediated auxin fluxes for root gravitropism",
+    "data": "Fri, 03 Oct 2025 06:00:00 -0400",
+    "fonte": "Cell",
+    "autore": "Jiří Friml",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41043433/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251015021153&v=2.18.0.post9+e462414"
+  },
+  {
+    "titolo": "Epithelial-mesenchymal transition",
+    "data": "Fri, 03 Oct 2025 06:00:00 -0400",
+    "fonte": "Cell",
+    "autore": "Jean Paul Thiery",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41043405/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251015021153&v=2.18.0.post9+e462414"
+  },
+  {
+    "titolo": "Decoding Alzheimer's disease at the cellular level reveals promising combination therapy",
+    "data": "Fri, 03 Oct 2025 06:00:00 -0400",
+    "fonte": "Cell",
+    "autore": "Nicholas P Tatonetti",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41043404/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251015021153&v=2.18.0.post9+e462414"
+  },
+  {
+    "titolo": "Genomic atlas of 8,105 accessions reveals stepwise domestication, global dissemination, and improvement trajectories in soybean",
+    "data": "Thu, 02 Oct 2025 06:00:00 -0400",
+    "fonte": "Cell",
+    "autore": "Zhixi Tian",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41038165/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251015021153&v=2.18.0.post9+e462414"
+  },
+  {
+    "titolo": "Sequencing-free whole-genome spatial transcriptomics at single-molecule resolution",
+    "data": "Thu, 02 Oct 2025 06:00:00 -0400",
+    "fonte": "Cell",
+    "autore": "Siyuan Wang",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41038164/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251015021153&v=2.18.0.post9+e462414"
+  },
+  {
+    "titolo": "The immunoproteasome disturbs neuronal metabolism and drives neurodegeneration in multiple sclerosis",
+    "data": "Wed, 01 Oct 2025 06:00:00 -0400",
+    "fonte": "Cell",
+    "autore": "Manuel A Friese",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41033312/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251015021153&v=2.18.0.post9+e462414"
   },
   {
     "titolo": "New Zealand's indigenous peoples  -- keywords EMBASE",
@@ -280,144 +350,144 @@
     "link": "http://pubmedsearches.blogspot.com/2024/11/intra-cranial-arteries.html"
   },
   {
-    "titolo": "The Geometry of Reasoning: Flowing Logics in Representation Space",
-    "data": "Tue, 14 Oct 2025 00:00:00 -0400",
+    "titolo": "AI Agents for the Dhumbal Card Game: A Comparative Study",
+    "data": "Wed, 15 Oct 2025 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Yufa Zhou, Yixiao Wang, Xunjian Yin, Shuyan Zhou, Anru R. Zhang",
-    "link": "https://arxiv.org/abs/2510.09782"
+    "autore": "Sahaj Raj Malla",
+    "link": "https://arxiv.org/abs/2510.11736"
   },
   {
-    "titolo": "How can we assess human-agent interactions? Case studies in software agent design",
-    "data": "Tue, 14 Oct 2025 00:00:00 -0400",
+    "titolo": "Beyond Consensus: Mitigating the Agreeableness Bias in LLM Judge Evaluations",
+    "data": "Wed, 15 Oct 2025 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Valerie Chen, Rohit Malhotra, Xingyao Wang, Juan Michelini, Xuhui Zhou, Aditya Bharat Soni, Hoang H. Tran, Calvin Smith, Ameet Talwalkar, Graham Neubig",
-    "link": "https://arxiv.org/abs/2510.09801"
+    "autore": "Suryaansh Jain, Umair Z. Ahmed, Shubham Sahai, Ben Leong",
+    "link": "https://arxiv.org/abs/2510.11822"
   },
   {
-    "titolo": "AI and Consciousness",
-    "data": "Tue, 14 Oct 2025 00:00:00 -0400",
+    "titolo": "Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation",
+    "data": "Wed, 15 Oct 2025 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Eric Schwitzgebel",
-    "link": "https://arxiv.org/abs/2510.09858"
+    "autore": "Sayash Kapoor, Benedikt Stroebl, Peter Kirgis, Nitya Nadgir, Zachary S Siegel, Boyi Wei, Tianci Xue, Ziru Chen, Felix Chen, Saiteja Utpala, Franck Ndzomga, Dheeraj Oruganty, Sophie Luskin, Kangheng Liu, Botao Yu, Amit Arora, Dongyoon Hahm, Harsh Trivedi, Huan Sun, Juyong Lee, Tengjun Jin, Yifan Mai, Yifei Zhou, Yuxuan Zhu, Rishi Bommasani, Daniel Kang, Dawn Song, Peter Henderson, Yu Su, Percy Liang, Arvind Narayanan",
+    "link": "https://arxiv.org/abs/2510.11977"
   },
   {
-    "titolo": "Beyond AlphaEarth: Toward Human-Centered Spatial Representation via POI-Guided Contrastive Learning",
-    "data": "Tue, 14 Oct 2025 00:00:00 -0400",
+    "titolo": "CGBench: Benchmarking Language Model Scientific Reasoning for Clinical Genetics Research",
+    "data": "Wed, 15 Oct 2025 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Junyuan Liu, Quan Qin, Guangsheng Dong, Xinglei Wang, Jiazhuang Feng, Zichao Zeng, Tao Cheng",
-    "link": "https://arxiv.org/abs/2510.09894"
+    "autore": "Owen Queen, Harrison G. Zhang, James Zou",
+    "link": "https://arxiv.org/abs/2510.11985"
   },
   {
-    "titolo": "Autonomous Agents for Scientific Discovery: Orchestrating Scientists, Language, Code, and Physics",
-    "data": "Tue, 14 Oct 2025 00:00:00 -0400",
+    "titolo": "Asking Clarifying Questions for Preference Elicitation With Large Language Models",
+    "data": "Wed, 15 Oct 2025 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Lianhao Zhou, Hongyi Ling, Cong Fu, Yepeng Huang, Michael Sun, Wendi Yu, Xiaoxuan Wang, Xiner Li, Xingyu Su, Junkai Zhang, Xiusi Chen, Chenxing Liang, Xiaofeng Qian, Heng Ji, Wei Wang, Marinka Zitnik, Shuiwang Ji",
-    "link": "https://arxiv.org/abs/2510.09901"
+    "autore": "Ali Montazeralghaem, Guy Tennenholtz, Craig Boutilier, Ofer Meshi",
+    "link": "https://arxiv.org/abs/2510.12015"
   },
   {
-    "titolo": "The Personalization Trap: How User Memory Alters Emotional Reasoning in LLMs",
-    "data": "Tue, 14 Oct 2025 00:00:00 -0400",
+    "titolo": "CausalTrace: A Neurosymbolic Causal Analysis Agent for Smart Manufacturing",
+    "data": "Wed, 15 Oct 2025 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Xi Fang, Weijie Xu, Yuchong Zhang, Stephanie Eckman, Scott Nickleach, Chandan K. Reddy",
-    "link": "https://arxiv.org/abs/2510.09905"
+    "autore": "Chathurangi Shyalika, Aryaman Sharma, Fadi El Kalach, Utkarshani Jaimini, Cory Henson, Ramy Harik, Amit Sheth",
+    "link": "https://arxiv.org/abs/2510.12033"
   },
   {
-    "titolo": "Follow My Lead: Logical Fallacy Classification with Knowledge-Augmented LLMs",
-    "data": "Tue, 14 Oct 2025 00:00:00 -0400",
+    "titolo": "Do Large Language Models Respect Contracts? Evaluating and Enforcing Contract-Adherence in Code Generation",
+    "data": "Wed, 15 Oct 2025 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Olivia Peiyu Wang, Tashvi Bansal, Ryan Bai, Emily M. Chui, Leilani H. Gilpin",
-    "link": "https://arxiv.org/abs/2510.09970"
+    "autore": "Soohan Lim, Joonghyuk Hahn, Hyunwoo Park, Sang-Ki Ko, Yo-Sub Han",
+    "link": "https://arxiv.org/abs/2510.12047"
   },
   {
-    "titolo": "Deliberative Dynamics and Value Alignment in LLM Debates",
-    "data": "Tue, 14 Oct 2025 00:00:00 -0400",
+    "titolo": "Empowering LLM Agents with Geospatial Awareness: Toward Grounded Reasoning for Wildfire Response",
+    "data": "Wed, 15 Oct 2025 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Pratik S. Sachdeva, Tom van Nuenen",
-    "link": "https://arxiv.org/abs/2510.10002"
+    "autore": "Yiheng Chen, Lingyao Li, Zihui Ma, Qikai Hu, Yilun Zhu, Min Deng, Runlong Yu",
+    "link": "https://arxiv.org/abs/2510.12061"
   },
   {
-    "titolo": "RIPRAG: Hack a Black-box Retrieval-Augmented Generation Question-Answering System with Reinforcement Learning",
-    "data": "Tue, 14 Oct 2025 00:00:00 -0400",
+    "titolo": "ThinkPilot: Steering Reasoning Models via Automated Think-prefixes Optimization",
+    "data": "Wed, 15 Oct 2025 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Meng Xi, Sihan Lv, Yechen Jin, Guanjie Cheng, Naibo Wang, Ying Li, Jianwei Yin",
-    "link": "https://arxiv.org/abs/2510.10008"
+    "autore": "Sunzhu Li, Zhiyu Lin, Shuling Yang, Jiale Zhao, Wei Chen",
+    "link": "https://arxiv.org/abs/2510.12063"
   },
   {
-    "titolo": "Failure-Driven Workflow Refinement",
-    "data": "Tue, 14 Oct 2025 00:00:00 -0400",
+    "titolo": "AI Agents as Universal Task Solvers",
+    "data": "Wed, 15 Oct 2025 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Jusheng Zhang, Kaitong Cai, Qinglin Zeng, Ningyuan Liu, Stephen Fan, Ziliang Chen, Keze Wang",
-    "link": "https://arxiv.org/abs/2510.10035"
+    "autore": "Alessandro Achille, Stefano Soatto",
+    "link": "https://arxiv.org/abs/2510.12066"
   },
   {
-    "titolo": "Modal analysis and optimization of swimming active filaments",
-    "data": "Tue, 14 Oct 2025 00:00:00 -0400",
+    "titolo": "Towards High-Efficiency Particle Detection Using Superconducting Microwire Arrays",
+    "data": "Wed, 15 Oct 2025 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "John Severn, Eric Lauga",
-    "link": "https://arxiv.org/abs/2510.09627"
+    "autore": "Christina Wang, Cristi\\'an Pe\\~na, Adolf Bornheim, Shuoxing Wu, Alexander Albert, Thomas Sievert, Artur Apresyan, Emanuel Knehr, Boris Korzh, Jamie Luskin, Ludovico Mori, Sahil Patel, Guillermo Reales Guti\\'errez, Manish Sahu, Ekkehart Schmidt, Matthew Shaw, Elise Sledge, Maria Spiropulu, Towsif Taher, Si Xie",
+    "link": "https://arxiv.org/abs/2510.11725"
   },
   {
-    "titolo": "Performance of Machine Learning Methods for Gravity Inversion: Successes and Challenges",
-    "data": "Tue, 14 Oct 2025 00:00:00 -0400",
+    "titolo": "Method to search for the triple-neutron state in an electron scattering experiment",
+    "data": "Wed, 15 Oct 2025 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Vahid Negahdari, Shirin Samadi Bahrami, Seyed Reza Moghadasi, Mohammad Reza Razvan",
-    "link": "https://arxiv.org/abs/2510.09632"
+    "autore": "Tianhao Shao, Jinhui Chen, Yu-Gang Ma, Josef Pochodzalla",
+    "link": "https://arxiv.org/abs/2510.11731"
   },
   {
-    "titolo": "From deep to shallow water 2D wave turbulence: Emergence of soliton gas",
-    "data": "Tue, 14 Oct 2025 00:00:00 -0400",
+    "titolo": "The Effective Radius of an Electric Point Charge in Nonlinear Electrodynamics",
+    "data": "Wed, 15 Oct 2025 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Thibault Leduque, Maxime Kaczmarek, Herv\\'e Michallet, Eric Barth\\'elemy, Nicolas Mordant",
-    "link": "https://arxiv.org/abs/2510.09637"
+    "autore": "Tengyang Liu, Yisong Yang",
+    "link": "https://arxiv.org/abs/2510.11733"
   },
   {
-    "titolo": "Intelligent Prediction and Optimization of Open-Hole Wellbore Multiphysics Stability: A Synergistic PINN-DRL Approach",
-    "data": "Tue, 14 Oct 2025 00:00:00 -0400",
+    "titolo": "Enhancing the mass resolving power of FRIB's proposed high-voltage MR-ToF mass separator and spectrometer: addressing non-ideal conditions",
+    "data": "Wed, 15 Oct 2025 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Yu Song, Zehua Song, Jin Yang, Kejin Chen, Kun Jiang, Jizhou Tang",
-    "link": "https://arxiv.org/abs/2510.09638"
+    "autore": "Christian Michael Ireland, Franziska Maria Maier, Einstein Dhayal, Erich Leistenschneider, Ryan Ringle, Austin Sjaarda",
+    "link": "https://arxiv.org/abs/2510.11741"
   },
   {
-    "titolo": "A feasibility study of passive ventilation via origami-driven stack effect",
-    "data": "Tue, 14 Oct 2025 00:00:00 -0400",
+    "titolo": "Zero-Shot Large Language Model Agents for Fully Automated Radiotherapy Treatment Planning",
+    "data": "Wed, 15 Oct 2025 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Ahmad F. Zueter, Ahmad S. Dalaq, Mohammed F. Daqaq",
-    "link": "https://arxiv.org/abs/2510.09639"
+    "autore": "Dongrong Yang, Xin Wu, Yibo Xie, Xinyi Li, Qiuwen Wu, Jackie Wu, Yang Sheng",
+    "link": "https://arxiv.org/abs/2510.11754"
   },
   {
-    "titolo": "Fabrication, Characterization and Modeling of a High-Temperature Superconducting Double Racetrack Coil",
-    "data": "Tue, 14 Oct 2025 00:00:00 -0400",
+    "titolo": "Advanced creep modelling for polymers: A variable-order fractional calculus approach",
+    "data": "Wed, 15 Oct 2025 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Lauro Ferreira (GeePs), Yasmine Baazizi (GeePs), Simon Meunier (GeePs), Tanguy Phulpin (GeePs), Tianyong Gong (GeePs), Lo\\\"ic Qu\\'eval (GeePs)",
-    "link": "https://arxiv.org/abs/2510.09640"
+    "autore": "Jos\\'e Geraldo Telles Ribeiro, Americo Cunha Jr",
+    "link": "https://arxiv.org/abs/2510.11765"
   },
   {
-    "titolo": "Coherent Rayleigh-Brillouin scattering: influences of intermolecular potentials and chirp rates",
-    "data": "Tue, 14 Oct 2025 00:00:00 -0400",
+    "titolo": "Ideal Optical Antimatter using Passive Lossy Materials under Complex Frequency Excitation",
+    "data": "Wed, 15 Oct 2025 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Lei Wu",
-    "link": "https://arxiv.org/abs/2510.09641"
+    "autore": "Olivia Y. Long, Peter B. Catrysse, Seunghoon Han, Shanhui Fan",
+    "link": "https://arxiv.org/abs/2510.11796"
   },
   {
-    "titolo": "Adhesive forces in droplet kinetic friction",
-    "data": "Tue, 14 Oct 2025 00:00:00 -0400",
+    "titolo": "Marcus Theory and The Condon Approximation Revisited I: E-SHAKE and Seam Sampling",
+    "data": "Wed, 15 Oct 2025 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Glen McHale (Institute for Multiscale Thermofluids, School of Engineering, The University of Edinburgh, Edinburgh, UK), Sara Janahi (Institute for Multiscale Thermofluids, School of Engineering, The University of Edinburgh, Edinburgh, UK), Hern\\'an Barrio-Zhang (Institute for Multiscale Thermofluids, School of Engineering, The University of Edinburgh, Edinburgh, UK), Yaofeng Wang (Institute for Multiscale Thermofluids, School of Engineering, The University of Edinburgh, Edinburgh, UK), Jinju Chen (Department of Materials, Loughborough University, Loughborough, UK), Gary G. Wells (Institute for Multiscale Thermofluids, School of Engineering, The University of Edinburgh, Edinburgh, UK), Rodrigo Ledesma-Aguilar (Institute for Multiscale Thermofluids, School of Engineering, The University of Edinburgh, Edinburgh, UK)",
-    "link": "https://arxiv.org/abs/2510.09642"
+    "autore": "D. Vale Cofer-Shabica, Jennifer R. DeRosa, Joseph E. Subotnik",
+    "link": "https://arxiv.org/abs/2510.11810"
   },
   {
-    "titolo": "A Beamdump Facility at Jefferson Lab",
-    "data": "Tue, 14 Oct 2025 00:00:00 -0400",
+    "titolo": "Interference-induced cavity resonances and imaginary Rabi splitting",
+    "data": "Wed, 15 Oct 2025 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Patrick Achenbach, Andrei Afanasev, Pawel Ambrozewicz, Adi Ashkenazi, Dipanwita Banerjee, Marco Battaglieri, Jay Benesch, Mariangela Bondi, Paul Brindza, Alexandre Camsonne, Eric M. Christy, Ethan W. Cline, Chris Cuevas, Jens Dilling, Luca Doria, Stuart Fegan, Marco Filippini, Antonino Fulci, Simona Giovannella, Stefano Grazzi, Heather Jackson, Douglas Higinbotham, Cynthia Keppel, Vladimir Khachatryan, Michael Kohl, Hanjie Liu, Zhen Liu, Camillo Mariani, Ralph Marinaro, Kevin McFarland, Claudio Montanari, Vishvas Pandey, Eduard Pozdeyev, Jianwei Qiu, Patrizia Rossi, Riccardo Rossini, Todd Satogata, Glenn Schrader, Adrian Signer, Daniel Snowden-Ifft, Marco Spreafico, Diktys Stratakis, Manjukrishna Suresh, Holly Szumila, Julia Tena Vidal, Davide Terzania, Charlie Velasquez, Michael Wood, Takayuki Yamazaki, Yuhong Zhang",
-    "link": "https://arxiv.org/abs/2510.09652"
+    "autore": "Anael Ben-Asher, Antonio I. Fernandez-Dominguez, Johannes Feist",
+    "link": "https://arxiv.org/abs/2510.11850"
   },
   {
-    "titolo": "Bigger is Faster in the Adaptive Immune Response",
-    "data": "Tue, 14 Oct 2025 00:00:00 -0400",
+    "titolo": "Lithium Faraday Filter: Some Like It Hot",
+    "data": "Wed, 15 Oct 2025 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Jannatul Ferdous, G. Matthew Fricke, Judy L. Cannon, Melanie E. Moses",
-    "link": "https://arxiv.org/abs/2510.09678"
+    "autore": "Maximilian Luka, Yijun Wang, Denis Uhland, Ilja Gerhardt",
+    "link": "https://arxiv.org/abs/2510.11859"
   },
   {
     "titolo": "Non-linear associations of amyloid-$β$ with resting-state functional\n  networks and their cognitive relevance in a large community-based cohort of\n  cognitively normal older adults",
@@ -1120,6 +1190,13 @@
     "link": "https://theconversation.com/ai-in-the-classroom-is-hard-to-detect-time-to-bring-back-oral-tests-265955"
   },
   {
+    "titolo": "Banning combustion engine cars by 2035 will be necessary to get Australia moving on electric vehicles",
+    "data": "2025-10-15T04:47:49Z",
+    "fonte": "Environment + Energy – The Conversation",
+    "autore": "Hussein Dia, Professor of Transport Technology and Sustainability, Swinburne University of Technology",
+    "link": "https://theconversation.com/banning-combustion-engine-cars-by-2035-will-be-necessary-to-get-australia-moving-on-electric-vehicles-267530"
+  },
+  {
     "titolo": "Blocked bays and failed handshakes: many public EV chargers are unusable – despite being ‘online’",
     "data": "2025-10-14T19:10:18Z",
     "fonte": "Environment + Energy – The Conversation",
@@ -1183,11 +1260,11 @@
     "link": "https://theconversation.com/labor-is-close-to-a-deal-on-environmental-law-reforms-there-are-troubling-signs-these-will-fall-short-267102"
   },
   {
-    "titolo": "Why does NZ’s new energy plan sideline renewables and ignore progress made already?",
-    "data": "2025-10-09T02:41:40Z",
-    "fonte": "Environment + Energy – The Conversation",
-    "autore": "Barry Barton, Professor of Law, University of Waikato",
-    "link": "https://theconversation.com/why-does-nzs-new-energy-plan-sideline-renewables-and-ignore-progress-made-already-266879"
+    "titolo": "Labor slides back in a Victorian Resolve poll; federal Labor still well on top",
+    "data": "2025-10-15T02:45:08Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Adrian Beaumont, Election Analyst (Psephologist) at The Conversation; and Honorary Associate, School of Mathematics and Statistics, The University of Melbourne",
+    "link": "https://theconversation.com/labor-slides-back-in-a-victorian-resolve-poll-federal-labor-still-well-on-top-267287"
   },
   {
     "titolo": "The government wants more of us living in high rises. Here’s why Australians don’t want to",
@@ -1253,11 +1330,32 @@
     "link": "https://theconversation.com/australias-isis-brides-have-returned-governments-can-do-better-at-handling-this-situation-267213"
   },
   {
-    "titolo": "Your body can be a portable gym: how to ditch membership fees and expensive equipment",
-    "data": "2025-10-13T02:06:21Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "Jackson Fyfe, Senior Lecturer, Strength and Conditioning Sciences, Deakin University",
-    "link": "https://theconversation.com/your-body-can-be-a-portable-gym-how-to-ditch-membership-fees-and-expensive-equipment-264036"
+    "titolo": "Banning combustion engine cars by 2035 will be necessary to get Australia moving on electric vehicles",
+    "data": "2025-10-15T04:47:49Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Hussein Dia, Professor of Transport Technology and Sustainability, Swinburne University of Technology",
+    "link": "https://theconversation.com/banning-combustion-engine-cars-by-2035-will-be-necessary-to-get-australia-moving-on-electric-vehicles-267530"
+  },
+  {
+    "titolo": "5 reasons we shouldn’t ‘compliment’ people who lose weight",
+    "data": "2025-10-15T04:19:05Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Lily O'Hara, Senior Lecturer in Public Health, Griffith University",
+    "link": "https://theconversation.com/5-reasons-we-shouldnt-compliment-people-who-lose-weight-264696"
+  },
+  {
+    "titolo": "Should I increase weights at the gym? How often? And by how much?",
+    "data": "2025-10-15T03:14:09Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Hunter Bennett, Lecturer in Exercise Science, University of South Australia",
+    "link": "https://theconversation.com/should-i-increase-weights-at-the-gym-how-often-and-by-how-much-263048"
+  },
+  {
+    "titolo": "Labor slides back in a Victorian Resolve poll; federal Labor still well on top",
+    "data": "2025-10-15T02:45:08Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Adrian Beaumont, Election Analyst (Psephologist) at The Conversation; and Honorary Associate, School of Mathematics and Statistics, The University of Melbourne",
+    "link": "https://theconversation.com/labor-slides-back-in-a-victorian-resolve-poll-federal-labor-still-well-on-top-267287"
   },
   {
     "titolo": "Why do kids want to talk about bums and poos all the time?",
@@ -1300,34 +1398,6 @@
     "fonte": "Home – The Conversation",
     "autore": "Cassandra Mudgway, Senior Lecturer in Law, University of Canterbury",
     "link": "https://theconversation.com/polls-and-trolls-is-violent-online-abuse-turning-women-off-local-politics-267225"
-  },
-  {
-    "titolo": "Theft, lies and butterflies: the Englishman who stole thousands of specimens from our museums",
-    "data": "2025-10-14T19:10:48Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Prudence Gibson, Lecturer and Researcher in Plant Humanities, UNSW Sydney",
-    "link": "https://theconversation.com/theft-lies-and-butterflies-the-englishman-who-stole-thousands-of-specimens-from-our-museums-265975"
-  },
-  {
-    "titolo": "William Barak’s missing art: Wurundjeri Elders lead the search to reclaim lost cultural treasures",
-    "data": "2025-10-14T19:10:33Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Jacqui Wandin, Indigenous Knowledge Holder, Indigenous Knowledge",
-    "link": "https://theconversation.com/william-baraks-missing-art-wurundjeri-elders-lead-the-search-to-reclaim-lost-cultural-treasures-266069"
-  },
-  {
-    "titolo": "Blocked bays and failed handshakes: many public EV chargers are unusable – despite being ‘online’",
-    "data": "2025-10-14T19:10:18Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Tisura Gamage, Graduate Student Researcher in Transport Technology, University of California, Davis",
-    "link": "https://theconversation.com/blocked-bays-and-failed-handshakes-many-public-ev-chargers-are-unusable-despite-being-online-239402"
-  },
-  {
-    "titolo": "AI systems and humans ‘see’ the world differently – and that’s why AI images look so garish",
-    "data": "2025-10-14T19:10:06Z",
-    "fonte": "Home – The Conversation",
-    "autore": "T.J. Thomson, Senior Lecturer in Visual Communication & Digital Media, RMIT University",
-    "link": "https://theconversation.com/ai-systems-and-humans-see-the-world-differently-and-thats-why-ai-images-look-so-garish-260178"
   },
   {
     "titolo": "How the high-rise tower block came to symbolise the contradictions of modern Britain",
@@ -1680,6 +1750,20 @@
     "link": "https://theconversation.com/customers-like-diversity-from-brands-but-can-smell-hypocrisy-a-mile-away-218683"
   },
   {
+    "titolo": "Banning combustion engine cars by 2035 will be necessary to get Australia moving on electric vehicles",
+    "data": "2025-10-15T04:47:49Z",
+    "fonte": "English – The Conversation",
+    "autore": "Hussein Dia, Professor of Transport Technology and Sustainability, Swinburne University of Technology",
+    "link": "https://theconversation.com/banning-combustion-engine-cars-by-2035-will-be-necessary-to-get-australia-moving-on-electric-vehicles-267530"
+  },
+  {
+    "titolo": "5 reasons we shouldn’t ‘compliment’ people who lose weight",
+    "data": "2025-10-15T04:19:05Z",
+    "fonte": "English – The Conversation",
+    "autore": "Lily O'Hara, Senior Lecturer in Public Health, Griffith University",
+    "link": "https://theconversation.com/5-reasons-we-shouldnt-compliment-people-who-lose-weight-264696"
+  },
+  {
     "titolo": "Should I increase weights at the gym? How often? And by how much?",
     "data": "2025-10-15T03:14:09Z",
     "fonte": "English – The Conversation",
@@ -1734,20 +1818,6 @@
     "fonte": "English – The Conversation",
     "autore": "Cassandra Mudgway, Senior Lecturer in Law, University of Canterbury",
     "link": "https://theconversation.com/polls-and-trolls-is-violent-online-abuse-turning-women-off-local-politics-267225"
-  },
-  {
-    "titolo": "Flamingos are making a home in Florida again after 100 years – an ecologist explains why they may be returning for good",
-    "data": "2025-10-14T19:20:23Z",
-    "fonte": "English – The Conversation",
-    "autore": "Jerome Lorenz, Biology Researcher, Florida International University",
-    "link": "https://theconversation.com/flamingos-are-making-a-home-in-florida-again-after-100-years-an-ecologist-explains-why-they-may-be-returning-for-good-258658"
-  },
-  {
-    "titolo": "Theft, lies and butterflies: the Englishman who stole thousands of specimens from our museums",
-    "data": "2025-10-14T19:10:48Z",
-    "fonte": "English – The Conversation",
-    "autore": "Prudence Gibson, Lecturer and Researcher in Plant Humanities, UNSW Sydney",
-    "link": "https://theconversation.com/theft-lies-and-butterflies-the-englishman-who-stole-thousands-of-specimens-from-our-museums-265975"
   },
   {
     "titolo": "Comment le sens de l’orientation vient aux enfants – et ce qu’y changent les GPS",
