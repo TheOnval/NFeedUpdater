@@ -105,6 +105,13 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003426"
   },
   {
+    "titolo": "The future-focused Proactive Conservation Index highlights unrecognized global priorities for vertebrate conservation",
+    "data": "Tue, 21 Oct 2025 14:00:00 GMT",
+    "fonte": "PLOS Biology",
+    "autore": "Gabriel Henrique de Oliveira Caetano, Gopal Murali, Daniel Pincheira-Donoso, Reut Vardi, Lior Greenspoon, Shai Meiri, Uri Roll",
+    "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003422"
+  },
+  {
     "titolo": "Expansion of the functional genomics GRACE library reveals genes relevant for temperature-dependent fitness in <i>Candida albicans</i>",
     "data": "Fri, 17 Oct 2025 14:00:00 GMT",
     "fonte": "PLOS Biology",
@@ -133,46 +140,11 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003416"
   },
   {
-    "titolo": "Recurrent circuits encode <i>de novo</i> visual center-surround computations in the mouse superior colliculus",
-    "data": "Thu, 16 Oct 2025 14:00:00 GMT",
-    "fonte": "PLOS Biology",
-    "autore": "Peng Cui, Kuisong Song, Dimitrios Mariatos-Metaxas, Arturo G. Isla, Teresa Femenia, Iakovos Lazaridis, Konstantinos Meletis, Arvind Kumar, Andreas A. Kardamakis",
-    "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003414"
-  },
-  {
     "titolo": "Asymmetric cortical projections to striatal direct and indirect pathways distinctly control actions",
     "data": "Tue, 21 Oct 2025 00:00:00 +0000",
     "fonte": "eLife: latest articles",
     "autore": "xjin@bio.ecnu.edu.cn (Xunyi Yan)",
     "link": "https://elifesciences.org/articles/92992"
-  },
-  {
-    "titolo": "TopBP1 biomolecular condensates as a new therapeutic target in advanced-stage colorectal cancer",
-    "data": "Tue, 21 Oct 2025 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "celine.gongora@inserm.fr (Véronique Garambois)",
-    "link": "https://elifesciences.org/articles/106196"
-  },
-  {
-    "titolo": "3D directional tuning in the orofacial sensorimotor cortex during natural feeding and drinking",
-    "data": "Tue, 21 Oct 2025 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "vhosack@uw.edu (Victoria B Hosack)",
-    "link": "https://elifesciences.org/articles/101325"
-  },
-  {
-    "titolo": "The capsule and genetic background, rather than specific individual loci, strongly influence in vitro pneumococcal growth kinetics",
-    "data": "Tue, 21 Oct 2025 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "chrispin.chaguza@gmail.com (Stephen D Bentley)",
-    "link": "https://elifesciences.org/articles/105555"
-  },
-  {
-    "titolo": "Twist is the key to the gating of mechanosensitive ion channel NOMPC",
-    "data": "Tue, 21 Oct 2025 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "c.song@pku.edu.cn (Jingze Duan)",
-    "link": "https://elifesciences.org/articles/102941"
   },
   {
     "titolo": "Exploring neurodevelopment via spatiotemporal collation of anatomical networks with NeuroSC",
@@ -182,18 +154,32 @@
     "link": "https://elifesciences.org/articles/103977"
   },
   {
-    "titolo": "Probing the role of synaptic adhesion molecule RTN4RL2 in setting up cochlear connectivity",
-    "data": "Mon, 20 Oct 2025 00:00:00 +0000",
+    "titolo": "Twist is the key to the gating of mechanosensitive ion channel NOMPC",
+    "data": "Tue, 21 Oct 2025 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "yunfeng.hua@shsmu.edu.cn (Yunfeng Hua)",
-    "link": "https://elifesciences.org/articles/103481"
+    "autore": "c.song@pku.edu.cn (Jingze Duan)",
+    "link": "https://elifesciences.org/articles/102941"
   },
   {
-    "titolo": "The unique synaptic circuitry of specialized olfactory glomeruli in <i>Drosophila melanogaster</i>",
-    "data": "Mon, 20 Oct 2025 00:00:00 +0000",
+    "titolo": "3D directional tuning in the orofacial sensorimotor cortex during natural feeding and drinking",
+    "data": "Tue, 21 Oct 2025 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "jrybak@ice.mpg.de (Thomas Pertsch)",
-    "link": "https://elifesciences.org/articles/88824"
+    "autore": "vhosack@uw.edu (Victoria B Hosack)",
+    "link": "https://elifesciences.org/articles/101325"
+  },
+  {
+    "titolo": "TopBP1 biomolecular condensates as a new therapeutic target in advanced-stage colorectal cancer",
+    "data": "Tue, 21 Oct 2025 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "celine.gongora@inserm.fr (Véronique Garambois)",
+    "link": "https://elifesciences.org/articles/106196"
+  },
+  {
+    "titolo": "The capsule and genetic background, rather than specific individual loci, strongly influence in vitro pneumococcal growth kinetics",
+    "data": "Tue, 21 Oct 2025 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "chrispin.chaguza@gmail.com (Stephen D Bentley)",
+    "link": "https://elifesciences.org/articles/105555"
   },
   {
     "titolo": "Erythrocytosis-inducing PHD2 mutations implicate biological role for N-terminal prolyl-hydroxylation in HIF1α oxygen-dependent degradation domain",
@@ -203,11 +189,25 @@
     "link": "https://elifesciences.org/articles/107121"
   },
   {
-    "titolo": "Resident memory macrophages and trained innate immunity at barrier tissues",
+    "titolo": "Probing the role of synaptic adhesion molecule RTN4RL2 in setting up cochlear connectivity",
     "data": "Mon, 20 Oct 2025 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "jeyanat@mcmaster.ca (Zhou Xing)",
-    "link": "https://elifesciences.org/articles/106549"
+    "autore": "yunfeng.hua@shsmu.edu.cn (Yunfeng Hua)",
+    "link": "https://elifesciences.org/articles/103481"
+  },
+  {
+    "titolo": "Protein language model identifies disordered, conserved motifs implicated in phase separation",
+    "data": "Mon, 20 Oct 2025 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "binz@mit.edu (Yumeng Zhang)",
+    "link": "https://elifesciences.org/articles/105309"
+  },
+  {
+    "titolo": "How hunger guides new brain cells to their destination",
+    "data": "Mon, 20 Oct 2025 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "lnguyen@uliege.be (Laurent Nguyen)",
+    "link": "https://elifesciences.org/articles/109178"
   },
   {
     "titolo": "New Zealand's indigenous peoples  -- keywords EMBASE",
@@ -770,6 +770,27 @@
     "link": "http://arxiv.org/abs/2410.12234v1"
   },
   {
+    "titolo": "UN sounds alarm over spike in sexual violence against women in DR Congo",
+    "data": "Tue, 21 Oct 2025 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2025/10/1166150"
+  },
+  {
+    "titolo": "Decade of slowing deforestation offers hope for forests",
+    "data": "Tue, 21 Oct 2025 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2025/10/1166148"
+  },
+  {
+    "titolo": "Sudan: Over one million return to Khartoum amid fragile recovery",
+    "data": "Tue, 21 Oct 2025 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2025/10/1166147"
+  },
+  {
     "titolo": "UN rights office sounds alarm over ‘skyrocketing’ Israeli settler violence during olive harvest",
     "data": "Tue, 21 Oct 2025 12:00:00 +0000",
     "fonte": "UN News - Global perspective Human stories",
@@ -817,27 +838,6 @@
     "fonte": "UN News - Global perspective Human stories",
     "autore": "Anonimo",
     "link": "https://news.un.org/feed/view/en/story/2025/10/1166138"
-  },
-  {
-    "titolo": "$31 trillion debt is holding back developing countries, UN trade summit hears",
-    "data": "Mon, 20 Oct 2025 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2025/10/1166135"
-  },
-  {
-    "titolo": "What happens when Afghan women and girls go offline?",
-    "data": "Sat, 18 Oct 2025 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2025/10/1166124"
-  },
-  {
-    "titolo": "Central African Republic: ‘3R’ combatants in the northwest lay down their arms",
-    "data": "Fri, 17 Oct 2025 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2025/10/1166129"
   },
   {
     "titolo": "The Benefits of Unemployment Insurance For Marginally Attached Workers",
@@ -980,6 +980,13 @@
     "link": "https://cepr.org/research/programme-areas/international-macroeconomics"
   },
   {
+    "titolo": "The uneasy history of horror films and disability",
+    "data": "2025-10-21T19:04:31Z",
+    "fonte": "Arts + Culture – The Conversation",
+    "autore": "Katie Ellis, Professor in Internet Studies, Curtin University",
+    "link": "https://theconversation.com/the-uneasy-history-of-horror-films-and-disability-263344"
+  },
+  {
     "titolo": "Meow Meow’s The Red Shoes takes us beyond the showgirl’s feathers and frills",
     "data": "2025-10-21T03:01:48Z",
     "fonte": "Arts + Culture – The Conversation",
@@ -1041,13 +1048,6 @@
     "fonte": "Arts + Culture – The Conversation",
     "autore": "Dana McKay, Associate Dean, Interaction, Technology and Information, RMIT University",
     "link": "https://theconversation.com/the-world-wide-web-was-meant-to-unite-us-but-is-tearing-us-apart-instead-is-there-another-way-266253"
-  },
-  {
-    "titolo": "Finding culture and community through dance at the 2025 Lyon Dance Biennale",
-    "data": "2025-10-15T01:39:25Z",
-    "fonte": "Arts + Culture – The Conversation",
-    "autore": "Philipa Margaret Rothfield, Honorary Staff Member, Department of Politics, Media and Philosophy, La Trobe University; University of Southern Denmark",
-    "link": "https://theconversation.com/finding-culture-and-community-through-dance-at-the-2025-lyon-dance-biennale-267228"
   },
   {
     "titolo": "There are new plans to fix how universities will run. But will they work?",
@@ -1120,6 +1120,13 @@
     "link": "https://theconversation.com/australian-teachers-are-some-of-the-highest-users-of-ai-in-classrooms-around-the-world-new-survey-266894"
   },
   {
+    "titolo": "Switching off the huge Gladstone coal station in 2029 will cause problems. It needs a longer, smarter phase-out",
+    "data": "2025-10-21T19:04:06Z",
+    "fonte": "Environment + Energy – The Conversation",
+    "autore": "Alexander Klimenko, Director, Centre for Multiscale Energy Systems, The University of Queensland",
+    "link": "https://theconversation.com/switching-off-the-huge-gladstone-coal-station-in-2029-will-cause-problems-it-needs-a-longer-smarter-phase-out-267326"
+  },
+  {
     "titolo": "NZ’s government wants tourism to drive economic growth – but how will it deal with aviation emissions?",
     "data": "2025-10-20T19:11:22Z",
     "fonte": "Environment + Energy – The Conversation",
@@ -1181,13 +1188,6 @@
     "fonte": "Environment + Energy – The Conversation",
     "autore": "Damien Fordham, Associate Professor of Global Change Ecology, University of Adelaide",
     "link": "https://theconversation.com/it-took-just-60-years-for-red-foxes-to-colonise-australia-from-victoria-to-the-pilbara-267322"
-  },
-  {
-    "titolo": "Reform of NZ’s protected lands is overdue – but the public should decide about economic activities",
-    "data": "2025-10-13T19:11:03Z",
-    "fonte": "Environment + Energy – The Conversation",
-    "autore": "Valentina Dinica, Associate Professor in Sustainability and Public Policy, Te Herenga Waka — Victoria University of Wellington",
-    "link": "https://theconversation.com/reform-of-nzs-protected-lands-is-overdue-but-the-public-should-decide-about-economic-activities-267105"
   },
   {
     "titolo": "Politics with Michelle Grattan: Tony Abbott on Australia’s past and the opposition’s future",
@@ -1260,6 +1260,48 @@
     "link": "https://theconversation.com/how-frances-political-dramas-threaten-more-instability-in-violence-wracked-new-caledonia-267424"
   },
   {
+    "titolo": "Mandy Sayer’s memoirs challenge the accepted boundaries of a father-daughter relationship",
+    "data": "2025-10-21T19:04:44Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Liz Evans, Adjunct Researcher, English and Writing, University of Tasmania",
+    "link": "https://theconversation.com/mandy-sayers-memoirs-challenge-the-accepted-boundaries-of-a-father-daughter-relationship-264357"
+  },
+  {
+    "titolo": "The uneasy history of horror films and disability",
+    "data": "2025-10-21T19:04:31Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Katie Ellis, Professor in Internet Studies, Curtin University",
+    "link": "https://theconversation.com/the-uneasy-history-of-horror-films-and-disability-263344"
+  },
+  {
+    "titolo": "Will the ‘military sleep method’ really help me fall asleep in 2 minutes?",
+    "data": "2025-10-21T19:04:20Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Dean J. Miller, Senior Lecturer, Appleton Institute, HealthWise Research Group, CQUniversity Australia",
+    "link": "https://theconversation.com/will-the-military-sleep-method-really-help-me-fall-asleep-in-2-minutes-265193"
+  },
+  {
+    "titolo": "Switching off the huge Gladstone coal station in 2029 will cause problems. It needs a longer, smarter phase-out",
+    "data": "2025-10-21T19:04:06Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Alexander Klimenko, Director, Centre for Multiscale Energy Systems, The University of Queensland",
+    "link": "https://theconversation.com/switching-off-the-huge-gladstone-coal-station-in-2029-will-cause-problems-it-needs-a-longer-smarter-phase-out-267326"
+  },
+  {
+    "titolo": "How forensic analysis and traditional knowledge reveal the story of a unique boomerang",
+    "data": "2025-10-21T19:03:38Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Ron Jones, Elder of Wurundjeri Woi-wurrung Cultural Heritage Aboriginal Corporation, Indigenous Knowledge",
+    "link": "https://theconversation.com/how-forensic-analysis-and-traditional-knowledge-reveal-the-story-of-a-unique-boomerang-265876"
+  },
+  {
+    "titolo": "A Supreme Court showdown looms for Trump’s tariffs. Will it limit presidential power?",
+    "data": "2025-10-21T19:03:22Z",
+    "fonte": "Home – The Conversation",
+    "autore": "David Smith, Associate Professor in American Politics and Foreign Policy, US Studies Centre, University of Sydney",
+    "link": "https://theconversation.com/a-supreme-court-showdown-looms-for-trumps-tariffs-will-it-limit-presidential-power-267630"
+  },
+  {
     "titolo": "Mega-strike: where is the ‘ethical line’ in public health and are doctors really crossing it?",
     "data": "2025-10-21T17:46:25Z",
     "fonte": "Home – The Conversation",
@@ -1286,48 +1328,6 @@
     "fonte": "Home – The Conversation",
     "autore": "Vincent Ho, Associate Professor and Clinical Academic Gastroenterologist, Western Sydney University",
     "link": "https://theconversation.com/eat-kiwifruit-for-constipation-new-guidelines-say-but-ditch-the-high-fibre-diet-267617"
-  },
-  {
-    "titolo": "How does a flaming piece of space junk end up on Earth? A space archaeologist explains",
-    "data": "2025-10-21T03:43:04Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Alice Gorman, Associate Professor in Archaeology and Space Studies, Flinders University",
-    "link": "https://theconversation.com/how-does-a-flaming-piece-of-space-junk-end-up-on-earth-a-space-archaeologist-explains-267856"
-  },
-  {
-    "titolo": "Can Albanese claim ‘success’ with Trump? Beyond the banter, the vague commitments should be viewed with scepticism",
-    "data": "2025-10-21T03:34:42Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Emma Shortis, Adjunct Senior Fellow, School of Global, Urban and Social Studies, RMIT University",
-    "link": "https://theconversation.com/can-albanese-claim-success-with-trump-beyond-the-banter-the-vague-commitments-should-be-viewed-with-scepticism-267434"
-  },
-  {
-    "titolo": "Meow Meow’s The Red Shoes takes us beyond the showgirl’s feathers and frills",
-    "data": "2025-10-21T03:01:48Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Will Visconti, Teacher and Researcher, Art History, University of Sydney",
-    "link": "https://theconversation.com/meow-meows-the-red-shoes-takes-us-beyond-the-showgirls-feathers-and-frills-267546"
-  },
-  {
-    "titolo": "An Amazon outage has rattled the internet. A computer scientist explains why the ‘cloud’ needs to change",
-    "data": "2025-10-21T02:17:34Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Jongkil Jay Jeong, Senior Fellow, School of Computing and Information System, The University of Melbourne",
-    "link": "https://theconversation.com/an-amazon-outage-has-rattled-the-internet-a-computer-scientist-explains-why-the-cloud-needs-to-change-267954"
-  },
-  {
-    "titolo": "LeBron James will be the first NBA player to reach 23 seasons. How is he still one of the best?",
-    "data": "2025-10-21T01:59:49Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Dylan Hicks, Lecturer & Movement Scientist / PhD Sports Biomechanics, Flinders University",
-    "link": "https://theconversation.com/lebron-james-will-be-the-first-nba-player-to-reach-23-seasons-how-is-he-still-one-of-the-best-265754"
-  },
-  {
-    "titolo": "‘Soviet-era Stasi’ or defender of media freedoms? The battle for the Broadcasting Standards Authority",
-    "data": "2025-10-21T01:53:52Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Peter Thompson, Associate Professor  in Media and Communication, Te Herenga Waka — Victoria University of Wellington",
-    "link": "https://theconversation.com/soviet-era-stasi-or-defender-of-media-freedoms-the-battle-for-the-broadcasting-standards-authority-267732"
   },
   {
     "titolo": "Kent County Council is Reform’s ‘shop window’ – its leaked Zoom call implies chaos and poor leadership",
@@ -1540,6 +1540,13 @@
     "link": "https://theconversation.com/why-climate-summits-fail-and-three-ways-to-save-them-267470"
   },
   {
+    "titolo": "King, pope, Jedi, Superman: Trump’s social media images exclusively target his base and try to blur political reality",
+    "data": "2025-10-21T18:39:30Z",
+    "fonte": "The Conversation – Articles (US)",
+    "autore": "Tanja Aitamurto, Associate Professor of Communication, University of Illinois Chicago",
+    "link": "https://theconversation.com/king-pope-jedi-superman-trumps-social-media-images-exclusively-target-his-base-and-try-to-blur-political-reality-259950"
+  },
+  {
     "titolo": "Trump’s National Guard deployments reignite 200-year-old legal debate over state vs. federal power",
     "data": "2025-10-21T13:44:23Z",
     "fonte": "The Conversation – Articles (US)",
@@ -1601,13 +1608,6 @@
     "fonte": "The Conversation – Articles (US)",
     "autore": "David W. Lawson, Professor of Anthropology, University of California, Santa Barbara",
     "link": "https://theconversation.com/rethinking-polygamy-new-research-upends-conventional-thinking-about-the-advantages-of-monogamous-marriage-267201"
-  },
-  {
-    "titolo": "Flying is safe thanks to data and cooperation  – here’s what the AI industry could learn from airlines on safety",
-    "data": "2025-10-21T12:33:39Z",
-    "fonte": "The Conversation – Articles (US)",
-    "autore": "James Higgins, Professor of Aviation, University of North Dakota",
-    "link": "https://theconversation.com/flying-is-safe-thanks-to-data-and-cooperation-heres-what-the-ai-industry-could-learn-from-airlines-on-safety-265960"
   },
   {
     "titolo": "The US really is unlike other rich countries when it comes to job insecurity – and AI could make it even more ‘exceptional’",
@@ -1680,6 +1680,62 @@
     "link": "https://theconversation.com/customers-like-diversity-from-brands-but-can-smell-hypocrisy-a-mile-away-218683"
   },
   {
+    "titolo": "Prince Andrew didn’t really give up his titles, and truly removing them would be onerous",
+    "data": "2025-10-21T20:00:43Z",
+    "fonte": "English – The Conversation",
+    "autore": "Justin Vovk, Adjunct Professor. History of the Royal Family, Redeemer University",
+    "link": "https://theconversation.com/prince-andrew-didnt-really-give-up-his-titles-and-truly-removing-them-would-be-onerous-267940"
+  },
+  {
+    "titolo": "Mandy Sayer’s memoirs challenge the accepted boundaries of a father-daughter relationship",
+    "data": "2025-10-21T19:04:44Z",
+    "fonte": "English – The Conversation",
+    "autore": "Liz Evans, Adjunct Researcher, English and Writing, University of Tasmania",
+    "link": "https://theconversation.com/mandy-sayers-memoirs-challenge-the-accepted-boundaries-of-a-father-daughter-relationship-264357"
+  },
+  {
+    "titolo": "The uneasy history of horror films and disability",
+    "data": "2025-10-21T19:04:31Z",
+    "fonte": "English – The Conversation",
+    "autore": "Katie Ellis, Professor in Internet Studies, Curtin University",
+    "link": "https://theconversation.com/the-uneasy-history-of-horror-films-and-disability-263344"
+  },
+  {
+    "titolo": "Will the ‘military sleep method’ really help me fall asleep in 2 minutes?",
+    "data": "2025-10-21T19:04:20Z",
+    "fonte": "English – The Conversation",
+    "autore": "Dean J. Miller, Senior Lecturer, Appleton Institute, HealthWise Research Group, CQUniversity Australia",
+    "link": "https://theconversation.com/will-the-military-sleep-method-really-help-me-fall-asleep-in-2-minutes-265193"
+  },
+  {
+    "titolo": "Switching off the huge Gladstone coal station in 2029 will cause problems. It needs a longer, smarter phase-out",
+    "data": "2025-10-21T19:04:06Z",
+    "fonte": "English – The Conversation",
+    "autore": "Alexander Klimenko, Director, Centre for Multiscale Energy Systems, The University of Queensland",
+    "link": "https://theconversation.com/switching-off-the-huge-gladstone-coal-station-in-2029-will-cause-problems-it-needs-a-longer-smarter-phase-out-267326"
+  },
+  {
+    "titolo": "How forensic analysis and traditional knowledge reveal the story of a unique boomerang",
+    "data": "2025-10-21T19:03:38Z",
+    "fonte": "English – The Conversation",
+    "autore": "Ron Jones, Elder of Wurundjeri Woi-wurrung Cultural Heritage Aboriginal Corporation, Indigenous Knowledge",
+    "link": "https://theconversation.com/how-forensic-analysis-and-traditional-knowledge-reveal-the-story-of-a-unique-boomerang-265876"
+  },
+  {
+    "titolo": "A Supreme Court showdown looms for Trump’s tariffs. Will it limit presidential power?",
+    "data": "2025-10-21T19:03:22Z",
+    "fonte": "English – The Conversation",
+    "autore": "David Smith, Associate Professor in American Politics and Foreign Policy, US Studies Centre, University of Sydney",
+    "link": "https://theconversation.com/a-supreme-court-showdown-looms-for-trumps-tariffs-will-it-limit-presidential-power-267630"
+  },
+  {
+    "titolo": "King, pope, Jedi, Superman: Trump’s social media images exclusively target his base and try to blur political reality",
+    "data": "2025-10-21T18:39:30Z",
+    "fonte": "English – The Conversation",
+    "autore": "Tanja Aitamurto, Associate Professor of Communication, University of Illinois Chicago",
+    "link": "https://theconversation.com/king-pope-jedi-superman-trumps-social-media-images-exclusively-target-his-base-and-try-to-blur-political-reality-259950"
+  },
+  {
     "titolo": "Mega-strike: where is the ‘ethical line’ in public health and are doctors really crossing it?",
     "data": "2025-10-21T17:46:25Z",
     "fonte": "English – The Conversation",
@@ -1692,62 +1748,6 @@
     "fonte": "English – The Conversation",
     "autore": "Lisa Lazard, Professor in Psychology, The Open University",
     "link": "https://theconversation.com/kent-county-council-is-reforms-shop-window-its-leaked-zoom-call-implies-chaos-and-poor-leadership-267900"
-  },
-  {
-    "titolo": "I tried out a new version of Minecraft to see why environmental storylines help children learn",
-    "data": "2025-10-21T17:07:43Z",
-    "fonte": "English – The Conversation",
-    "autore": "Elliot Honeybun-Arnolda, Senior Research Associate, Environmental Sciences, University of East Anglia",
-    "link": "https://theconversation.com/i-tried-out-a-new-version-of-minecraft-to-see-why-environmental-storylines-help-children-learn-267161"
-  },
-  {
-    "titolo": "Chinese car firm BYD is racing ahead with its electric vehicles. Here’s how more established brands can catch up",
-    "data": "2025-10-21T17:07:40Z",
-    "fonte": "English – The Conversation",
-    "autore": "Pietro Micheli, Professor of Business Performance and Innovation, Warwick Business School, University of Warwick",
-    "link": "https://theconversation.com/chinese-car-firm-byd-is-racing-ahead-with-its-electric-vehicles-heres-how-more-established-brands-can-catch-up-267028"
-  },
-  {
-    "titolo": "The maps of Ursula K Le Guin reveal a fascinating insight into world-building in fantasy fiction",
-    "data": "2025-10-21T17:07:38Z",
-    "fonte": "English – The Conversation",
-    "autore": "Mike Duggan, Lecturer in Digital Culture and Technology, King's College London",
-    "link": "https://theconversation.com/the-maps-of-ursula-k-le-guin-reveal-a-fascinating-insight-into-world-building-in-fantasy-fiction-267561"
-  },
-  {
-    "titolo": "Stirling prize 2025: Appleby Blue pioneers affordable social housing tackling elderly loneliness",
-    "data": "2025-10-21T17:07:36Z",
-    "fonte": "English – The Conversation",
-    "autore": "John Flint, Professor of Town and Regional Planning, University of Sheffield",
-    "link": "https://theconversation.com/stirling-prize-2025-appleby-blue-pioneers-affordable-social-housing-tackling-elderly-loneliness-268017"
-  },
-  {
-    "titolo": "Fertility: the ovaries play a key role in reproductive decline, new research shows",
-    "data": "2025-10-21T17:07:35Z",
-    "fonte": "English – The Conversation",
-    "autore": "Anna Murray, Professor of Human Genetics, Department of Clinical and Biomedical Sciences, University of Exeter",
-    "link": "https://theconversation.com/fertility-the-ovaries-play-a-key-role-in-reproductive-decline-new-research-shows-267460"
-  },
-  {
-    "titolo": "Trump-Putin Budapest summit would have posed threat to international rule of law and Ukraine’s relations with Hungary",
-    "data": "2025-10-21T17:07:33Z",
-    "fonte": "English – The Conversation",
-    "autore": "Marc Roscoe Loustau, Affiliated Fellow at the Institute for Advanced Study, Central European University",
-    "link": "https://theconversation.com/trump-putin-budapest-summit-would-have-posed-threat-to-international-rule-of-law-and-ukraines-relations-with-hungary-267881"
-  },
-  {
-    "titolo": "The Netherlands is trying to draw a line under a year of chaos with fresh elections – will it work?",
-    "data": "2025-10-21T17:07:26Z",
-    "fonte": "English – The Conversation",
-    "autore": "Esmee Bakker, PhD Candidate at the Institute for Research on Far Right Extremism (IRex), University of Tübingen",
-    "link": "https://theconversation.com/the-netherlands-is-trying-to-draw-a-line-under-a-year-of-chaos-with-fresh-elections-will-it-work-267076"
-  },
-  {
-    "titolo": "Scary stories for kids: these tales of terror made me a hit at sleepovers as a pre-teen",
-    "data": "2025-10-21T17:07:23Z",
-    "fonte": "English – The Conversation",
-    "autore": "Christina Morin, Professor in School of English Irish & Communication, University of Limerick",
-    "link": "https://theconversation.com/scary-stories-for-kids-these-tales-of-terror-made-me-a-hit-at-sleepovers-as-a-pre-teen-267783"
   },
   {
     "titolo": "Créer des ovules humains à partir de la peau : vers une nouvelle fertilité ?",
