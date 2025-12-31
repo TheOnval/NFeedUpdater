@@ -1,12 +1,5 @@
 [
   {
-    "titolo": "Epidermal resident memory T cell fitness requires antigen encounter in the skin",
-    "data": "Tue, 30 Dec 2025 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "dankaplan@pitt.edu (Youran R Zhang)",
-    "link": "https://elifesciences.org/articles/107096"
-  },
-  {
     "titolo": "Evolution of a fuzzy ribonucleoprotein complex in viral assembly",
     "data": "Tue, 30 Dec 2025 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -14,32 +7,11 @@
     "link": "https://elifesciences.org/articles/108922"
   },
   {
-    "titolo": "A system for functional studies of the major virulence factor of malaria parasites",
-    "data": "Mon, 29 Dec 2025 00:00:00 +0000",
+    "titolo": "Epidermal resident memory T cell fitness requires antigen encounter in the skin",
+    "data": "Tue, 30 Dec 2025 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "bruchhaus@bnitm.de (Tobias Spielmann)",
-    "link": "https://elifesciences.org/articles/103542"
-  },
-  {
-    "titolo": "DANCE provides an open-source and low-cost approach to quantify aggression and courtship in <i>Drosophila</i>",
-    "data": "Mon, 29 Dec 2025 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "pavan.agrawal@manipal.edu (Tanvi Kottat)",
-    "link": "https://elifesciences.org/articles/105465"
-  },
-  {
-    "titolo": "Glycosylated IgG antibodies contribute to the recovery of haemorrhagic fever with renal syndrome patients",
-    "data": "Mon, 29 Dec 2025 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "shiwf@ioz.ac.cn (Zixuan Gao)",
-    "link": "https://elifesciences.org/articles/106989"
-  },
-  {
-    "titolo": "Sex differences in bile acid homeostasis and excretion underlie the disparity in liver cancer incidence between males and females",
-    "data": "Mon, 29 Dec 2025 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "anakk@illinois.edu (Zeynep Madak-Erdogan)",
-    "link": "https://elifesciences.org/articles/96783"
+    "autore": "dankaplan@pitt.edu (Youran R Zhang)",
+    "link": "https://elifesciences.org/articles/107096"
   },
   {
     "titolo": "Dual-modal metabolic analysis reveals hypothermia-reversible uncoupling of oxidative phosphorylation in neonatal brain hypoxia-ischemia",
@@ -49,11 +21,25 @@
     "link": "https://elifesciences.org/articles/100129"
   },
   {
-    "titolo": "ANKEF1 is a key axonemal component essential for murine sperm motility and male fertility",
+    "titolo": "A system for functional studies of the major virulence factor of malaria parasites",
     "data": "Mon, 29 Dec 2025 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "zhuyun@ibp.ac.cn (Yushan Li)",
-    "link": "https://elifesciences.org/articles/105321"
+    "autore": "bruchhaus@bnitm.de (Tobias Spielmann)",
+    "link": "https://elifesciences.org/articles/103542"
+  },
+  {
+    "titolo": "Sex differences in bile acid homeostasis and excretion underlie the disparity in liver cancer incidence between males and females",
+    "data": "Mon, 29 Dec 2025 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "anakk@illinois.edu (Zeynep Madak-Erdogan)",
+    "link": "https://elifesciences.org/articles/96783"
+  },
+  {
+    "titolo": "Morphogenesis and morphometry of brain folding patterns across species",
+    "data": "Mon, 29 Dec 2025 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "lmahadev@g.harvard.edu (Yeonsu Jung)",
+    "link": "https://elifesciences.org/articles/107138"
   },
   {
     "titolo": "Therapeutic benefits of maintaining CDK4/6 inhibitors and incorporating CDK2 inhibitors beyond progression in breast cancer",
@@ -63,221 +49,235 @@
     "link": "https://elifesciences.org/articles/104545"
   },
   {
-    "titolo": "Biophysical basis for brain folding and misfolding patterns in ferrets and humans",
+    "titolo": "DANCE provides an open-source and low-cost approach to quantify aggression and courtship in <i>Drosophila</i>",
     "data": "Mon, 29 Dec 2025 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "lmahadev@g.harvard.edu (Sifan Yin)",
-    "link": "https://elifesciences.org/articles/107141"
+    "autore": "pavan.agrawal@manipal.edu (Tanvi Kottat)",
+    "link": "https://elifesciences.org/articles/105465"
+  },
+  {
+    "titolo": "ANKEF1 is a key axonemal component essential for murine sperm motility and male fertility",
+    "data": "Mon, 29 Dec 2025 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "zhuyun@ibp.ac.cn (Yushan Li)",
+    "link": "https://elifesciences.org/articles/105321"
+  },
+  {
+    "titolo": "Glycosylated IgG antibodies contribute to the recovery of haemorrhagic fever with renal syndrome patients",
+    "data": "Mon, 29 Dec 2025 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "shiwf@ioz.ac.cn (Zixuan Gao)",
+    "link": "https://elifesciences.org/articles/106989"
+  },
+  {
+    "titolo": "Mechanisms of HSV-1 helicase-primase inhibition and replication fork complex assembly",
+    "data": "Tue, 30 Dec 2025 06:00:00 -0500",
+    "fonte": "Cell",
+    "autore": "Jonathan Abraham",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41468884/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251231011232&v=2.18.0.post22+67771e2"
+  },
+  {
+    "titolo": "Neuronal calcium spikes enable vector inversion in the Drosophila brain",
+    "data": "Tue, 30 Dec 2025 06:00:00 -0500",
+    "fonte": "Cell",
+    "autore": "Gaby Maimon",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41468883/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251231011232&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "Tumor-produced ammonia is metabolized by regulatory T cells to further impede anti-tumor immunity",
     "data": "Thu, 25 Dec 2025 06:00:00 -0500",
     "fonte": "Cell",
     "autore": "Ling Lu",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41448182/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251230223608&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41448182/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251231011232&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "Stimulant medications affect arousal and reward, not attention networks",
     "data": "Thu, 25 Dec 2025 06:00:00 -0500",
     "fonte": "Cell",
     "autore": "Nico U F Dosenbach",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41448140/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251230223608&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41448140/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251231011232&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "The evolving landscape of Alzheimer's disease therapy: From Aβ to tau",
     "data": "Thu, 25 Dec 2025 06:00:00 -0500",
     "fonte": "Cell",
     "autore": "Ilse Dewachter",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41448139/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251230223608&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41448139/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251231011232&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "Stimulants as agents of arousal in whole-brain functional connectivity",
     "data": "Thu, 25 Dec 2025 06:00:00 -0500",
     "fonte": "Cell",
     "autore": "Elizabeth V Goldfarb",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41448138/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251230223608&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41448138/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251231011232&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "A gut-to-brain pathway that limits protein intake",
     "data": "Thu, 25 Dec 2025 06:00:00 -0500",
     "fonte": "Cell",
     "autore": "Marito Hayashi",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41448137/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251230223608&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41448137/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251231011232&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "A 3D in vitro model for studying human implantation and implantation failure",
     "data": "Wed, 24 Dec 2025 06:00:00 -0500",
     "fonte": "Cell",
     "autore": "Leqian Yu",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41443192/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251230223608&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41443192/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251231011232&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "Modeling human embryo implantation in vitro",
     "data": "Wed, 24 Dec 2025 06:00:00 -0500",
     "fonte": "Cell",
     "autore": "Peter J Rugg-Gunn",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41443191/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251230223608&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41443191/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251231011232&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "Mapping cellular targets of covalent cancer drugs in the entire mammalian body",
     "data": "Tue, 23 Dec 2025 06:00:00 -0500",
     "fonte": "Cell",
     "autore": "Li Ye",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41435821/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251230223608&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41435821/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251231011232&v=2.18.0.post22+67771e2"
   },
   {
-    "titolo": "Hepatic adaptation to chronic metabolic stress primes tumorigenesis",
-    "data": "Tue, 23 Dec 2025 06:00:00 -0500",
-    "fonte": "Cell",
-    "autore": "Alex K Shalek",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41435820/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251230223608&v=2.18.0.post22+67771e2"
-  },
-  {
-    "titolo": "Nuclear speckle proteins form intrinsic and MALAT1-dependent microphases",
-    "data": "Sat, 20 Dec 2025 06:00:00 -0500",
-    "fonte": "Cell",
-    "autore": "Rohit V Pappu",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41421357/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20251230223608&v=2.18.0.post22+67771e2"
+    "titolo": "Remodeling of skull bone channels regulates immune infiltration into the meninges during neuroinflammation",
+    "data": "Tue, 30 Dec 2025 06:00:00 -0500",
+    "fonte": "Immunity",
+    "autore": "Rejane Rua",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41468886/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20251231011234&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "Transcription factor Maf promotes expression of repressor Zeb2 to drive microglia development in primitive hematopoiesis",
     "data": "Sat, 27 Dec 2025 06:00:00 -0500",
     "fonte": "Immunity",
     "autore": "Kenneth M Murphy",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41455473/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20251230223609&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41455473/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20251231011234&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "Positioning and reversible suppression of CCR7<sup>+</sup> dendritic cells in perivascular tumor niches shape cancer immunity",
     "data": "Sat, 20 Dec 2025 06:00:00 -0500",
     "fonte": "Immunity",
     "autore": "Mikael J Pittet",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41421339/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20251230223609&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41421339/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20251231011234&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "Opposing functions of distinct regulatory T cell subsets in colorectal cancer",
     "data": "Tue, 16 Dec 2025 06:00:00 -0500",
     "fonte": "Immunity",
     "autore": "Alexander Y Rudensky",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41401810/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20251230223609&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41401810/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20251231011234&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "Innate type 2 lymphocytes trigger an inflammatory switch in alveolar macrophages",
     "data": "Fri, 12 Dec 2025 06:00:00 -0500",
     "fonte": "Immunity",
     "autore": "Bart N Lambrecht",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41386231/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20251230223609&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41386231/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20251231011234&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "Tolerance to ferroptosis facilitates lipid metabolism and pathogenic type 2 immunity in allergic airway inflammation",
     "data": "Thu, 11 Dec 2025 06:00:00 -0500",
     "fonte": "Immunity",
     "autore": "Christoph Wilhelm",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41380684/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20251230223609&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41380684/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20251231011234&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "The TCR-SUB1-DOCK2 axis promotes autoimmunity by driving pathogenic CD4<sup>+</sup> T cell tissue infiltration",
     "data": "Wed, 10 Dec 2025 06:00:00 -0500",
     "fonte": "Immunity",
     "autore": "Feng Wang",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41371223/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20251230223609&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41371223/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20251231011234&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "The history and promise of Treg cells",
     "data": "Wed, 10 Dec 2025 06:00:00 -0500",
     "fonte": "Immunity",
     "autore": "Diane Mathis",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41371212/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20251230223609&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41371212/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20251231011234&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "A surprising link: TET2 clonal hematopoiesis boosts immune checkpoint therapy",
     "data": "Wed, 10 Dec 2025 06:00:00 -0500",
     "fonte": "Immunity",
     "autore": "Chengcheng Jin",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41371211/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20251230223609&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41371211/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20251231011234&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "Shape-shifting microglia respond to neuronal hyperexcitability",
     "data": "Wed, 10 Dec 2025 06:00:00 -0500",
     "fonte": "Immunity",
     "autore": "Diego Gomez-Nicola",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41371210/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20251230223609&v=2.18.0.post22+67771e2"
-  },
-  {
-    "titolo": "Intestinal plasma cells get in formation",
-    "data": "Wed, 10 Dec 2025 06:00:00 -0500",
-    "fonte": "Immunity",
-    "autore": "Carla R Nowosad",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41371209/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20251230223609&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41371210/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20251231011234&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "Tricks for treats",
     "data": "Thu, 18 Dec 2025 06:00:00 -0500",
     "fonte": "Science",
     "autore": "Jonathan M Jacobs",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41411454/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20251230223611&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41411454/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20251231011236&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "Erratum for the Research Article \"Robust epitaxy of single-crystal transition-metal dichalcogenides on lanthanum-passivated sapphire\" by X. Zou <em>et al</em>",
     "data": "Thu, 18 Dec 2025 06:00:00 -0500",
     "fonte": "Science",
     "autore": "Anonimo",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41411453/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20251230223611&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41411453/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20251231011236&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "Erratum for the Report \"TFEB links autophagy to lysosomal biogenesis\" by C. Settembre <em>et al</em>",
     "data": "Thu, 18 Dec 2025 06:00:00 -0500",
     "fonte": "Science",
     "autore": "Anonimo",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41411452/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20251230223611&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41411452/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20251231011236&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "Reevaluating PFAS exposure risks from marine fish",
     "data": "Thu, 18 Dec 2025 06:00:00 -0500",
     "fonte": "Science",
     "autore": "Elsie M Sunderland",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41411451/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20251230223611&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41411451/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20251231011236&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "Pathways of pain",
     "data": "Thu, 18 Dec 2025 06:00:00 -0500",
     "fonte": "Science",
     "autore": "Irene Miguel-Aliaga",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41411450/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20251230223611&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41411450/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20251231011236&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "The green giant",
     "data": "Thu, 18 Dec 2025 06:00:00 -0500",
     "fonte": "Science",
     "autore": "Tim Appenzeller",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41411449/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20251230223611&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41411449/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20251231011236&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "The burden of silence",
     "data": "Thu, 18 Dec 2025 06:00:00 -0500",
     "fonte": "Science",
     "autore": "Stephanie Bailey",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41411448/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20251230223611&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41411448/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20251231011236&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "Runners-up",
     "data": "Thu, 18 Dec 2025 06:00:00 -0500",
     "fonte": "Science",
     "autore": "Erik Stokstad",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41411447/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20251230223611&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41411447/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20251231011236&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "Good morning, sunshine",
     "data": "Thu, 18 Dec 2025 06:00:00 -0500",
     "fonte": "Science",
     "autore": "Tim Appenzeller",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41411446/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20251230223611&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41411446/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20251231011236&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "AQP5: A functional gastric cancer stem cell marker in mouse and human tumors",
     "data": "Thu, 18 Dec 2025 06:00:00 -0500",
     "fonte": "Science",
     "autore": "Nick Barker",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41411445/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20251230223611&v=2.18.0.post22+67771e2"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41411445/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20251231011236&v=2.18.0.post22+67771e2"
   },
   {
     "titolo": "New Zealand's indigenous peoples  -- keywords EMBASE",
@@ -350,144 +350,74 @@
     "link": "http://pubmedsearches.blogspot.com/2024/11/intra-cranial-arteries.html"
   },
   {
-    "titolo": "From Visual Perception to Deep Empathy: An Automated Assessment Framework for House-Tree-Person Drawings Using Multimodal LLMs and Multi-Agent Collaboration",
-    "data": "Tue, 30 Dec 2025 00:00:00 -0500",
+    "titolo": "Bidirectional RAG: Safe Self-Improving Retrieval-Augmented Generation Through Multi-Stage Validation",
+    "data": "Wed, 31 Dec 2025 00:00:00 -0500",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Shuide Wen, Yu Sun, Beier Ku, Zhi Gao, Lijun Ma, Yang Yang, Can Jiao",
-    "link": "https://arxiv.org/abs/2512.21360"
+    "autore": "Teja Chinthala",
+    "link": "https://arxiv.org/abs/2512.22199"
   },
   {
-    "titolo": "A Study of Solving Life-and-Death Problems in Go Using Relevance-Zone Based Solvers",
-    "data": "Tue, 30 Dec 2025 00:00:00 -0500",
+    "titolo": "Emergent Persuasion: Will LLMs Persuade Without Being Prompted?",
+    "data": "Wed, 31 Dec 2025 00:00:00 -0500",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Chung-Chin Shih, Ti-Rong Wu, Ting Han Wei, Yu-Shan Hsu, Hung Guei, I-Chen Wu",
-    "link": "https://arxiv.org/abs/2512.21365"
+    "autore": "Vincent Chang, Thee Ho, Sunishchal Dev, Kevin Zhu, Shi Feng, Kellin Pelrine, Matthew Kowal",
+    "link": "https://arxiv.org/abs/2512.22201"
   },
   {
-    "titolo": "Three-way conflict analysis based on alliance and conflict functions",
-    "data": "Tue, 30 Dec 2025 00:00:00 -0500",
+    "titolo": "GamiBench: Evaluating Spatial Reasoning and 2D-to-3D Planning Capabilities of MLLMs with Origami Folding Tasks",
+    "data": "Wed, 31 Dec 2025 00:00:00 -0500",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Junfang Luo, Mengjun Hu, Guangming Lang, Xin Yang, Keyun Qin",
-    "link": "https://arxiv.org/abs/2512.21419"
+    "autore": "Ryan Spencer, Roey Yaari, Ritvik Vemavarapu, Joyce Yang, Steven Ngo, Utkarsh Sharma",
+    "link": "https://arxiv.org/abs/2512.22207"
   },
   {
-    "titolo": "Feasible strategies in three-way conflict analysis with three-valued ratings",
-    "data": "Tue, 30 Dec 2025 00:00:00 -0500",
+    "titolo": "Toward Equitable Recovery: A Fairness-Aware AI Framework for Prioritizing Post-Flood Aid in Bangladesh",
+    "data": "Wed, 31 Dec 2025 00:00:00 -0500",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Jing Liu, Mengjun Hu, Guangming Lang",
-    "link": "https://arxiv.org/abs/2512.21420"
+    "autore": "Farjana Yesmin, Romana Akter",
+    "link": "https://arxiv.org/abs/2512.22210"
   },
   {
-    "titolo": "Three-way decision with incomplete information based on similarity and satisfiability",
-    "data": "Tue, 30 Dec 2025 00:00:00 -0500",
+    "titolo": "With Great Capabilities Come Great Responsibilities: Introducing the Agentic Risk & Capability Framework for Governing Agentic AI Systems",
+    "data": "Wed, 31 Dec 2025 00:00:00 -0500",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Junfang Luo, Mengjun Hu, Keyun Qin",
-    "link": "https://arxiv.org/abs/2512.21421"
+    "autore": "Shaun Khoo, Jessica Foo, Roy Ka-Wei Lee",
+    "link": "https://arxiv.org/abs/2512.22211"
   },
   {
-    "titolo": "LogicLens: Visual-Logical Co-Reasoning for Text-Centric Forgery Analysis",
-    "data": "Tue, 30 Dec 2025 00:00:00 -0500",
+    "titolo": "We are not able to identify AI-generated images",
+    "data": "Wed, 31 Dec 2025 00:00:00 -0500",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Fanwei Zeng, Changtao Miao, Jing Huang, Zhiya Tan, Shutao Gong, Xiaoming Yu, Yang Wang, Huazhe Tan, Weibin Yao, Jianshu Li",
-    "link": "https://arxiv.org/abs/2512.21482"
+    "autore": "Adrien Pav\\~ao",
+    "link": "https://arxiv.org/abs/2512.22236"
   },
   {
-    "titolo": "Leash: Adaptive Length Penalty and Reward Shaping for Efficient Large Reasoning Model",
-    "data": "Tue, 30 Dec 2025 00:00:00 -0500",
+    "titolo": "Shape of Thought: When Distribution Matters More than Correctness in Reasoning Tasks",
+    "data": "Wed, 31 Dec 2025 00:00:00 -0500",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Yanhao Li, Lu Ma, Jiaran Zhang, Lexiang Tang, Wentao Zhang, Guibo Luo",
-    "link": "https://arxiv.org/abs/2512.21540"
+    "autore": "Abhranil Chandra, Ayush Agrawal, Arian Hosseini, Sebastian Fischmeister, Rishabh Agarwal, Navin Goyal, Aaron Courville",
+    "link": "https://arxiv.org/abs/2512.22255"
   },
   {
-    "titolo": "NEMO-4-PAYPAL: Leveraging NVIDIA's Nemo Framework for empowering PayPal's Commerce Agent",
-    "data": "Tue, 30 Dec 2025 00:00:00 -0500",
+    "titolo": "Logic Sketch Prompting (LSP): A Deterministic and Interpretable Prompting Method",
+    "data": "Wed, 31 Dec 2025 00:00:00 -0500",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Ali Sahami, Sudhanshu Garg, Andrew Wang, Chaitanya Kulkarni, Farhad Farahani, Sean Yun-Shiuan Chuang, Jian Wan, Srinivasan Manoharan, Uma Kona, Nitin Sharma, Linsey Pang, Prakhar Mehrotra, Jessica Clark, Mark Moyou",
-    "link": "https://arxiv.org/abs/2512.21578"
+    "autore": "Satvik Tripathi",
+    "link": "https://arxiv.org/abs/2512.22258"
   },
   {
-    "titolo": "A Medical Multimodal Diagnostic Framework Integrating Vision-Language Models and Logic Tree Reasoning",
-    "data": "Tue, 30 Dec 2025 00:00:00 -0500",
+    "titolo": "SciEvalKit: An Open-source Evaluation Toolkit for Scientific General Intelligence",
+    "data": "Wed, 31 Dec 2025 00:00:00 -0500",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Zelin Zang, Wenyi Gu, Siqi Ma, Dan Yang, Yue Shen, Zhu Zhang, Guohui Fan, Wing-Kuen Ling, Fuji Yang",
-    "link": "https://arxiv.org/abs/2512.21583"
+    "autore": "Yiheng Wang, Yixin Chen, Shuo Li, Yifan Zhou, Bo Liu, Hengjian Gao, Jiakang Yuan, Jia Bu, Wanghan Xu, Yuhao Zhou, Xiangyu Zhao, Zhiwang Zhou, Fengxiang Wang, Haodong Duan, Songyang Zhang, Jun Yao, Han Deng, Yizhou Wang, Jiabei Xiao, Jiaqi Liu, Encheng Su, Yujie Liu, Weida Wang, Junchi Yao, Shenghe Zheng, Haoran Sun, Runmin Ma, Xiangchao Yan, Bo Zhang, Dongzhan Zhou, Shufei Zhang, Peng Ye, Xiaosong Wang, Shixiang Tang, Wenlong Zhang, Lei Bai",
+    "link": "https://arxiv.org/abs/2512.22334"
   },
   {
-    "titolo": "AMS-IO-Bench and AMS-IO-Agent: Benchmarking and Structured Reasoning for Analog and Mixed-Signal Integrated Circuit Input/Output Design",
-    "data": "Tue, 30 Dec 2025 00:00:00 -0500",
+    "titolo": "Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback",
+    "data": "Wed, 31 Dec 2025 00:00:00 -0500",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Zhishuai Zhang, Xintian Li, Shilong Liu, Aodong Zhang, Lu Jie, Nan Sun",
-    "link": "https://arxiv.org/abs/2512.21613"
-  },
-  {
-    "titolo": "The Solution of Potential-Driven, Steady-State Nonlinear Network Flow Equations via Graph Partitioning",
-    "data": "Tue, 30 Dec 2025 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Shriram Srinivasan, Kaarthik Sundar",
-    "link": "https://arxiv.org/abs/2512.22124"
-  },
-  {
-    "titolo": "The Complete Anatomy of the Madden-Julian Oscillation Revealed by Artificial Intelligence",
-    "data": "Tue, 30 Dec 2025 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Xiao Zhou, Yuze Sun, Jie Wu, Xiaomeng Huang",
-    "link": "https://arxiv.org/abs/2512.22144"
-  },
-  {
-    "titolo": "Neural ocean forecasting from sparse satellite-derived observations: a case-study for SSH dynamics and altimetry data",
-    "data": "Tue, 30 Dec 2025 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Daria Botvynko (Lab-STICC\\_OSE, IMT Atlantique - MEE, IMT Atlantique), Pierre Hasl\\'ee (Lab-STICC\\_OSE, IMT Atlantique - MEE, IMT Atlantique), Lucile Gaultier (ODL), Bertrand Chapron (LOPS), Clement de Boyer Mont\\'egut (LOPS), Anass El Aouni (MOi), Julien Le Sommer (IGE), Ronan Fablet (IMT Atlantique - MEE, Lab-STICC\\_OSE, ODYSSEY)",
-    "link": "https://arxiv.org/abs/2512.22152"
-  },
-  {
-    "titolo": "A Radiation Exchange Factor Transformation with Proven Convergence, Non-Negativity, and Energy Conservation",
-    "data": "Tue, 30 Dec 2025 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Nikolaj Maack Bielefeld",
-    "link": "https://arxiv.org/abs/2512.22157"
-  },
-  {
-    "titolo": "Self-referenced nonlinear interferometry for chromatic dispersion sensing across multiple length scales",
-    "data": "Tue, 30 Dec 2025 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Romain Dalidet, S\\'ebastien Tanzilli, Gregory Sauder, Laurent Labont\\'e, Anthony Martin",
-    "link": "https://arxiv.org/abs/2512.22161"
-  },
-  {
-    "titolo": "A Mathematical Primer on Water Ice",
-    "data": "Tue, 30 Dec 2025 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "L. Ridgway Scott",
-    "link": "https://arxiv.org/abs/2512.22194"
-  },
-  {
-    "titolo": "A Unified Pore-Scale Multiphysics Model for the Integrated Soot Transport-Deposition-Oxidation in Catalytic Diesel Particulate Filters",
-    "data": "Tue, 30 Dec 2025 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Yujing Zhang, Yunhua Zhang, Liang Fang, Diming Lou, Piqiang Tan, Zhiyuan Hu",
-    "link": "https://arxiv.org/abs/2512.22230"
-  },
-  {
-    "titolo": "A novel large-strain kinematic framework for fiber-reinforced laminated composites and its application in the characterization of damage",
-    "data": "Tue, 30 Dec 2025 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Sandipan Paul Shivam",
-    "link": "https://arxiv.org/abs/2512.22285"
-  },
-  {
-    "titolo": "Quantitative acoustic monitoring of ensembles of weakly nonlinear microbubble oscillations in optically inaccessible environments",
-    "data": "Tue, 30 Dec 2025 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Hohyun Lee, Reza Pakdaman Zangabad, Chulyong Kim, Victor Menezes, Juyoung Park, F. Levent Degertekin, Costas Arvanitis",
-    "link": "https://arxiv.org/abs/2512.22292"
-  },
-  {
-    "titolo": "Experimental study on the wall-pressure fluctuations of flow over an axisymmetric hull",
-    "data": "Tue, 30 Dec 2025 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Peng Jiang, Haoyu Zhang, Yi Dai, Tao Peng, Bin Xie, Shijun Liao",
-    "link": "https://arxiv.org/abs/2512.22299"
+    "autore": "Mengkang Hu, Bowei Xia, Yuran Wu, Ailing Yu, Yude Zou, Qiguang Chen, Shijian Wang, Jiarui Jin, Kexin Li, Wenxiang Jiao, Yuan Lu, Ping Luo",
+    "link": "https://arxiv.org/abs/2512.22336"
   },
   {
     "titolo": "Dynamical incompatibilities in paced finger tapping experiments",
