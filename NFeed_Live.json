@@ -140,11 +140,11 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003755"
   },
   {
-    "titolo": "Fragmentation and aggregation of cyanobacterial colonies",
+    "titolo": "Single-mRNA imaging and modeling reveal coupled translation initiation and elongation rates",
     "data": "Fri, 17 Apr 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "y.z.sinzato@uva.nl (Yuri Z Sinzato)",
-    "link": "https://elifesciences.org/articles/103503"
+    "autore": "cedric.gobet@epfl.ch (Jeffrey A Chao)",
+    "link": "https://elifesciences.org/articles/107160"
   },
   {
     "titolo": "Cdhr1a and pcdh15b may link photoreceptor outer segments with calyceal processes revealing a potential mechanism for cone-rod dystrophy",
@@ -154,11 +154,25 @@
     "link": "https://elifesciences.org/articles/102258"
   },
   {
-    "titolo": "Uncovering shared and tissue-specific molecular adaptations to intermittent fasting in liver, brain, and muscle",
+    "titolo": "Fragmentation and aggregation of cyanobacterial colonies",
     "data": "Fri, 17 Apr 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "jayanthag@imcb.a-star.edu.sg (Yong U Liu)",
-    "link": "https://elifesciences.org/articles/107332"
+    "autore": "y.z.sinzato@uva.nl (Yuri Z Sinzato)",
+    "link": "https://elifesciences.org/articles/103503"
+  },
+  {
+    "titolo": "Modality-agnostic decoding of vision and language from fMRI",
+    "data": "Fri, 17 Apr 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "mitja.nikolaus@posteo.de (Rufin VanRullen)",
+    "link": "https://elifesciences.org/articles/107933"
+  },
+  {
+    "titolo": "Correction: Autologous P63+ lung progenitor cell transplantation in idiopathic pulmonary fibrosis: a phase 1 clinical trial",
+    "data": "Fri, 17 Apr 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "Anonimo",
+    "link": "https://elifesciences.org/articles/111684"
   },
   {
     "titolo": "PTEN restrains SHH medulloblastoma growth through cell autonomous and nonautonomous mechanisms",
@@ -166,6 +180,13 @@
     "fonte": "eLife: latest articles",
     "autore": "joynera@mskcc.org (Zhimin Lao)",
     "link": "https://elifesciences.org/articles/108190"
+  },
+  {
+    "titolo": "Uncovering shared and tissue-specific molecular adaptations to intermittent fasting in liver, brain, and muscle",
+    "data": "Fri, 17 Apr 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "jayanthag@imcb.a-star.edu.sg (Yong U Liu)",
+    "link": "https://elifesciences.org/articles/107332"
   },
   {
     "titolo": "Global transcription factors analyses reveal hierarchy and synergism of regulatory networks and master virulence regulators in <i>Pseudomonas aeruginosa</i>",
@@ -189,235 +210,214 @@
     "link": "https://elifesciences.org/articles/101460"
   },
   {
-    "titolo": "Endogenous precision of the number sense",
-    "data": "Wed, 15 Apr 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "arthurpc@fas.harvard.edu (Michael Woodford)",
-    "link": "https://elifesciences.org/articles/101277"
-  },
-  {
-    "titolo": "A stress-activated neuronal ensemble in the supramammillary nucleus produces anxiety-like behavior in male mice",
-    "data": "Wed, 15 Apr 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "jhan2012@snnu.edu.cn (Zongpeng Sun)",
-    "link": "https://elifesciences.org/articles/108593"
-  },
-  {
-    "titolo": "New idtracker.ai rethinks multi-animal tracking as a representation learning problem to increase accuracy and reduce tracking time",
-    "data": "Wed, 15 Apr 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "gonzalo.polavieja@neuro.fchampalimaud.org (Tiago Costa)",
-    "link": "https://elifesciences.org/articles/107602"
-  },
-  {
     "titolo": "The spatiotemporal dynamics of postnatal vascularization in the mouse brain",
     "data": "Wed, 15 Apr 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Nicolas Renier",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41985458/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260417083102&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41985458/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260417112906&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "Electromagnetic field-inducible in vivo gene switch for remote spatiotemporal control of gene expression",
     "data": "Wed, 15 Apr 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Jongpil Kim",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41985457/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260417083102&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41985457/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260417112906&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "Rational design of G<sub>i</sub>-biased CB1 agonist with reduced side effects",
     "data": "Tue, 14 Apr 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Xiao-Ming Li",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41980782/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260417083102&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41980782/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260417112906&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "Ubiquitin Ligase COP1 Suppresses Neuroinflammation by Degrading c/EBPβ in Microglia",
     "data": "Wed, 08 Apr 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Vishva M Dixit",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41950930/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260417083102&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41950930/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260417112906&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "Senescence in cancer: Hallmarks, paradoxes, and therapeutic promise",
     "data": "Sun, 05 Apr 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Scott W Lowe",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41935528/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260417083102&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41935528/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260417112906&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "New approach methodologies for drug discovery",
     "data": "Fri, 03 Apr 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Joseph C Wu",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41932326/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260417083102&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41932326/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260417112906&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "Atomic unification in molecular AI",
     "data": "Fri, 03 Apr 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Xiaozhi Fu",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41932325/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260417083102&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41932325/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260417112906&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "Complete biosynthesis of nicotine",
     "data": "Fri, 03 Apr 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Dapeng Li",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41928514/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260417083102&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41928514/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260417112906&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "A 3D morphogenetic blueprint for metastatic outgrowth in breast cancer",
     "data": "Thu, 02 Apr 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Stefano Piccolo",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41923644/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260417083102&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41923644/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260417112906&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "Arbitrium phages can manipulate each other's lysis/lysogeny decisions",
     "data": "Thu, 02 Apr 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "E R Westra",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41923643/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260417083102&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41923643/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260417112906&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "Universal vaccines? Only if your antibody genes agree",
     "data": "Wed, 15 Apr 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Camila H Coelho",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41985450/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260417083104&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41985450/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260417112908&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "Two to tango: Microglia in glioblastoma invasion",
     "data": "Wed, 15 Apr 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Malay Haldar",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41985449/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260417083104&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41985449/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260417112908&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "A fast way to lose antibodies",
     "data": "Wed, 15 Apr 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Oliver J Harrison",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41985448/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260417083104&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41985448/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260417112908&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "PANoptosis fuels the fire of arthritis",
     "data": "Wed, 15 Apr 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Thirumala-Devi Kanneganti",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41985447/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260417083104&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41985447/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260417112908&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "Runx writes the RORγt code for immune tolerance",
     "data": "Wed, 15 Apr 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Chrysothemis C Brown",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41985446/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260417083104&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41985446/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260417112908&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "Training, memory, and tissue adaptation of NK cells and innate lymphoid cells",
     "data": "Wed, 15 Apr 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Christin Friedrich",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41985445/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260417083104&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41985445/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260417112908&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "Molecular and cellular bases of trained immunity",
     "data": "Wed, 15 Apr 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Luis B Barreiro",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41985444/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260417083104&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41985444/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260417112908&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "Spatial organization of tissue-resident memory T cells",
     "data": "Wed, 15 Apr 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Laura K Mackay",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41985443/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260417083104&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41985443/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260417112908&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "Functions and features of circulating memory T cells",
     "data": "Wed, 15 Apr 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Sara E Hamilton",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41985442/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260417083104&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41985442/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260417112908&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "Plasma cell ontogenies, functions, and lifespans",
     "data": "Wed, 15 Apr 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Deepta Bhattacharya",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41985441/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260417083104&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41985441/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260417112908&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "Protein-templated synthesis of dinucleotide repeat DNA by an antiphage reverse transcriptase",
     "data": "Thu, 16 Apr 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Alex Gao",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41990131/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260417083105&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41990131/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260417112910&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "Awakening latent regeneration in mammals",
     "data": "Thu, 09 Apr 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Jessica L Whited",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41955389/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260417083105&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41955389/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260417112910&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "Magma plumbing beneath Yellowstone",
     "data": "Thu, 09 Apr 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Jamie Farrell",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41955388/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260417083105&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41955388/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260417112910&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "A universal law for random fluctuations",
     "data": "Thu, 09 Apr 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Stella Kavokina",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41955387/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260417083105&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41955387/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260417112910&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "The sialic shield of leukemia cells",
     "data": "Thu, 09 Apr 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Vincenzo Bronte",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41955386/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260417083105&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41955386/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260417112910&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "Civil war among wild chimpanzees",
     "data": "Thu, 09 Apr 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "James Brooks",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41955385/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260417083105&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41955385/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260417112910&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "Diagnostics investments and disease burden",
     "data": "Thu, 09 Apr 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Robert M Califf",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41955384/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260417083105&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41955384/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260417112910&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "Species-specific oxygen sensing governs the initiation of vertebrate limb regeneration",
     "data": "Thu, 09 Apr 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Can Aztekin",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41955383/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260417083105&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41955383/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260417112910&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "The wisdom in mistakes",
     "data": "Thu, 09 Apr 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Soundarya Soundararajan",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41955381/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260417083105&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41955381/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260417112910&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "Luminal surface proteome of the brain vasculature uncovers blood-brain barrier regulators",
     "data": "Thu, 09 Apr 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Jiefu Li",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41955380/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260417083105&v=2.19.0.post6+133c1fe"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41955380/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260417112910&v=2.19.0.post6+133c1fe"
   },
   {
     "titolo": "New Zealand's indigenous peoples  -- keywords EMBASE",
@@ -784,6 +784,27 @@
     "link": "https://arxiv.org/abs/1803.06969v2"
   },
   {
+    "titolo": "Shockwaves of Middle East war reach Caribbean as food prices soar",
+    "data": "Fri, 17 Apr 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167321"
+  },
+  {
+    "titolo": "Record number of Rohingya refugees died at sea in 2025: UNHCR",
+    "data": "Fri, 17 Apr 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167320"
+  },
+  {
+    "titolo": "Gaza war’s terrible toll on women and girls highlights ongoing crisis",
+    "data": "Fri, 17 Apr 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/04/1167319"
+  },
+  {
     "titolo": "MIDDLE EAST LIVE 17 April: Israel-Lebanon ceasefire begins",
     "data": "Fri, 17 Apr 2026 12:00:00 +0000",
     "fonte": "UN News - Global perspective Human stories",
@@ -833,25 +854,18 @@
     "link": "https://news.un.org/feed/view/en/story/2026/04/1167308"
   },
   {
-    "titolo": "‘Sudan is an atrocities laboratory’, UN aid chief tells Berlin conference",
-    "data": "Wed, 15 Apr 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167309"
+    "titolo": "Fossil-Fuel Investments Are a Fiduciary Risk",
+    "data": "Fri, 17 Apr 2026 13:19:50 GMT",
+    "fonte": "Project Syndicate",
+    "autore": "Nicole Martens",
+    "link": "https://www.project-syndicate.org/commentary/fossil-fuel-investments-increasingly-violate-fiduciary-duty-in-africa-by-nicole-martens-2026-04"
   },
   {
-    "titolo": "Tobago’s teen archery champion takes aim at sustainability targets",
-    "data": "Wed, 15 Apr 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167310"
-  },
-  {
-    "titolo": "Africa: Nearly 20 million measles deaths averted since 2000",
-    "data": "Wed, 15 Apr 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/04/1167307"
+    "titolo": "To Strengthen Climate Resilience, Focus on Social Protection",
+    "data": "Fri, 17 Apr 2026 12:17:18 GMT",
+    "fonte": "Project Syndicate",
+    "autore": "Ana Toni",
+    "link": "https://www.project-syndicate.org/commentary/climate-crisis-intensifying-poverty-social-protection-can-help-by-ana-toni-and-kevin-watkins-2026-04"
   },
   {
     "titolo": "Europe’s Digital Decade Is in Disarray",
@@ -908,20 +922,6 @@
     "fonte": "Project Syndicate",
     "autore": "Yanis Varoufakis",
     "link": "https://www.project-syndicate.org/commentary/america-iran-war-resembles-gallipoli-not-suez-by-yanis-varoufakis-2026-04"
-  },
-  {
-    "titolo": "Hungary’s Counter-Counterrevolution",
-    "data": "Thu, 16 Apr 2026 11:07:44 GMT",
-    "fonte": "Project Syndicate",
-    "autore": "István Rév",
-    "link": "https://www.project-syndicate.org/onpoint/fall-of-orban-rise-of-magyar-in-hungary-by-istvan-rev-2026-04"
-  },
-  {
-    "titolo": "How Strategic Investment Is Redefining Economic Statecraft",
-    "data": "Wed, 15 Apr 2026 16:21:40 GMT",
-    "fonte": "Project Syndicate",
-    "autore": "Lars Frølund",
-    "link": "https://www.project-syndicate.org/commentary/fund-of-funds-approaches-are-reshaping-global-tech-race-by-lars-frolund-1-and-fiona-murray-2026-04"
   },
   {
     "titolo": "Factsheet: What the research says about early care and education in the United States",
@@ -1414,74 +1414,74 @@
     "link": "https://theconversation.com/nurses-with-higher-cultural-competence-dont-always-perform-better-new-study-279846"
   },
   {
+    "titolo": "Lee Cronin’s The Mummy – an uninspired, unscary gore fest that demonises disability and leans into stereotypes of Egypt",
+    "data": "2026-04-17T15:16:21Z",
+    "fonte": "The Conversation – Articles (UK)",
+    "autore": "Matt Jacobsen, Senior Lecturer in Film History in the School of Society and Environment, Queen Mary University of London",
+    "link": "https://theconversation.com/lee-cronins-the-mummy-an-uninspired-unscary-gore-fest-that-demonises-disability-and-leans-into-stereotypes-of-egypt-280957"
+  },
+  {
+    "titolo": "Why the ceasefire in Lebanon is unlikely to change much on the ground",
+    "data": "2026-04-17T15:16:18Z",
+    "fonte": "The Conversation – Articles (UK)",
+    "autore": "Tarek Abou Jaoude, Lecturer in Comparative Politics, Queen's University Belfast",
+    "link": "https://theconversation.com/why-the-ceasefire-in-lebanon-is-unlikely-to-change-much-on-the-ground-280851"
+  },
+  {
+    "titolo": "How we worked out a fossilised ‘pterosaur’ was actually a fish – new research",
+    "data": "2026-04-17T15:16:14Z",
+    "fonte": "The Conversation – Articles (UK)",
+    "autore": "David Unwin, Reader in Palaeobiology, School of Heritage and Culture, University of Leicester",
+    "link": "https://theconversation.com/how-we-worked-out-a-fossilised-pterosaur-was-actually-a-fish-new-research-280848"
+  },
+  {
+    "titolo": "Iran’s AI memes are reaching people who don’t follow the news – and winning the propaganda war",
+    "data": "2026-04-17T15:16:10Z",
+    "fonte": "The Conversation – Articles (UK)",
+    "autore": "Adam R. North, Early Career Researcher, Religions and Theology Department, University of Manchester",
+    "link": "https://theconversation.com/irans-ai-memes-are-reaching-people-who-dont-follow-the-news-and-winning-the-propaganda-war-280944"
+  },
+  {
+    "titolo": "How accelerating evolution could help corals survive future heatwaves – new study",
+    "data": "2026-04-17T15:16:07Z",
+    "fonte": "The Conversation – Articles (UK)",
+    "autore": "James Guest, Reader in Coral Reef Ecology, Newcastle University",
+    "link": "https://theconversation.com/how-accelerating-evolution-could-help-corals-survive-future-heatwaves-new-study-280487"
+  },
+  {
+    "titolo": "Why many of Hungary’s religious groups will be celebrating Viktor Orbán’s election loss",
+    "data": "2026-04-17T15:16:05Z",
+    "fonte": "The Conversation – Articles (UK)",
+    "autore": "Marc Roscoe Loustau, Affiliated Fellow at the Institute for Advanced Study, Central European University",
+    "link": "https://theconversation.com/why-many-of-hungarys-religious-groups-will-be-celebrating-viktor-orbans-election-loss-280478"
+  },
+  {
+    "titolo": "Want to cut your energy bills? Here’s how five experts are doing it",
+    "data": "2026-04-17T15:16:01Z",
+    "fonte": "The Conversation – Articles (UK)",
+    "autore": "Yvonne Ryan, Associate Professor in Environmental Science, University of Limerick",
+    "link": "https://theconversation.com/want-to-cut-your-energy-bills-heres-how-five-experts-are-doing-it-280182"
+  },
+  {
+    "titolo": "Legal aid for asylum seekers is hard to come by – it’s no wonder criminal advisers are taking advantage",
+    "data": "2026-04-17T12:56:49Z",
+    "fonte": "The Conversation – Articles (UK)",
+    "autore": "Nicole Hoellerer, Research associate, School of Sociology, Politics and International Studies, University of Bristol",
+    "link": "https://theconversation.com/legal-aid-for-asylum-seekers-is-hard-to-come-by-its-no-wonder-criminal-advisers-are-taking-advantage-280839"
+  },
+  {
+    "titolo": "80 million people globally claim Irish ancestry – why the release of 1926 Irish census records is so momentous",
+    "data": "2026-04-17T12:19:37Z",
+    "fonte": "The Conversation – Articles (UK)",
+    "autore": "Ciara Breathnach, Professor of Irish Gender History, University College Cork",
+    "link": "https://theconversation.com/80-million-people-globally-claim-irish-ancestry-why-the-release-of-1926-irish-census-records-is-so-momentous-280746"
+  },
+  {
     "titolo": "The best books about being a teenager – according to our experts",
     "data": "2026-04-17T12:02:43Z",
     "fonte": "The Conversation – Articles (UK)",
     "autore": "Sophie King-Hill, Associate Professor at the Health Services Management Centre, University of Birmingham",
     "link": "https://theconversation.com/the-best-books-about-being-a-teenager-according-to-our-experts-279024"
-  },
-  {
-    "titolo": "The Victorian sex abuse scandal that shocked Britain and changed the law – long before Epstein",
-    "data": "2026-04-17T12:00:58Z",
-    "fonte": "The Conversation – Articles (UK)",
-    "autore": "Caroline Derry, Senior Lecturer in Law, The Open University",
-    "link": "https://theconversation.com/the-victorian-sex-abuse-scandal-that-shocked-britain-and-changed-the-law-long-before-epstein-278822"
-  },
-  {
-    "titolo": "Crypto tolls in the Strait of Hormuz shows why bitcoin thrives in times of crisis",
-    "data": "2026-04-17T12:00:36Z",
-    "fonte": "The Conversation – Articles (UK)",
-    "autore": "Peter Howson, Assistant Professor in International Development, Northumbria University, Newcastle",
-    "link": "https://theconversation.com/crypto-tolls-in-the-strait-of-hormuz-shows-why-bitcoin-thrives-in-times-of-crisis-280676"
-  },
-  {
-    "titolo": "The problem with vet bills – a dog-owning economist explains",
-    "data": "2026-04-17T12:00:20Z",
-    "fonte": "The Conversation – Articles (UK)",
-    "autore": "David Rietzke, Senior Lecturer in Economics, Lancaster University",
-    "link": "https://theconversation.com/the-problem-with-vet-bills-a-dog-owning-economist-explains-280847"
-  },
-  {
-    "titolo": "Strait of Hormuz: why even neutral and distant countries like Switzerland can’t escape the fallout",
-    "data": "2026-04-17T11:52:42Z",
-    "fonte": "The Conversation – Articles (UK)",
-    "autore": "Salome M. S. Shokri-Kuehni, Adjunct Lecturer, Institute of Geo-Hydroinformatics, Technical University of Hamburg; United Nations University",
-    "link": "https://theconversation.com/strait-of-hormuz-why-even-neutral-and-distant-countries-like-switzerland-cant-escape-the-fallout-280762"
-  },
-  {
-    "titolo": "The truth about child IQ: research shows it fluctuates and may be an unreliable predictor of future success",
-    "data": "2026-04-17T11:24:13Z",
-    "fonte": "The Conversation – Articles (UK)",
-    "autore": "Margherita Malanchini, Reader in Psychology, Queen Mary University of London",
-    "link": "https://theconversation.com/the-truth-about-child-iq-research-shows-it-fluctuates-and-may-be-an-unreliable-predictor-of-future-success-271569"
-  },
-  {
-    "titolo": "How to run a marathon better: the nutritional and psychological hacks that matter most",
-    "data": "2026-04-17T11:20:21Z",
-    "fonte": "The Conversation – Articles (UK)",
-    "autore": "James Beale, Senior Lecturer in Sport Psychology, University of East London",
-    "link": "https://theconversation.com/how-to-run-a-marathon-better-the-nutritional-and-psychological-hacks-that-matter-most-279142"
-  },
-  {
-    "titolo": "US raises the stakes in the Strait of Hormuz",
-    "data": "2026-04-17T07:06:37Z",
-    "fonte": "The Conversation – Articles (UK)",
-    "autore": "Jonathan Este, Senior International Affairs Editor, Associate Editor, The Conversation",
-    "link": "https://theconversation.com/us-raises-the-stakes-in-the-strait-of-hormuz-280850"
-  },
-  {
-    "titolo": "Eight wonders of the world",
-    "data": "2026-04-16T16:12:56Z",
-    "fonte": "The Conversation – Articles (UK)",
-    "autore": "Anna Turns, Senior Environment Editor, The Conversation",
-    "link": "https://theconversation.com/eight-wonders-of-the-world-279159"
-  },
-  {
-    "titolo": "Electric vehicles pass tipping point, breaking the link with oil prices",
-    "data": "2026-04-16T15:59:26Z",
-    "fonte": "The Conversation – Articles (UK)",
-    "autore": "Robert Elliott, Professor of Economics, University of Birmingham",
-    "link": "https://theconversation.com/electric-vehicles-pass-tipping-point-breaking-the-link-with-oil-prices-280655"
   },
   {
     "titolo": "The truth about child IQ: research shows it fluctuates and may be an unreliable predictor of future success",
@@ -1554,6 +1554,20 @@
     "link": "https://theconversation.com/its-right-under-your-nose-why-some-people-cant-find-things-in-plain-sight-277845"
   },
   {
+    "titolo": "Crypto tolls in the Strait of Hormuz shows why bitcoin thrives in times of crisis",
+    "data": "2026-04-17T12:00:36Z",
+    "fonte": "Environment – The Conversation",
+    "autore": "Peter Howson, Assistant Professor in International Development, Northumbria University, Newcastle",
+    "link": "https://theconversation.com/crypto-tolls-in-the-strait-of-hormuz-shows-why-bitcoin-thrives-in-times-of-crisis-280676"
+  },
+  {
+    "titolo": "Strait of Hormuz: why even neutral and distant countries like Switzerland can’t escape the fallout",
+    "data": "2026-04-17T11:52:42Z",
+    "fonte": "Environment – The Conversation",
+    "autore": "Salome M. S. Shokri-Kuehni, Adjunct Lecturer, Institute of Geo-Hydroinformatics, Technical University of Hamburg; United Nations University",
+    "link": "https://theconversation.com/strait-of-hormuz-why-even-neutral-and-distant-countries-like-switzerland-cant-escape-the-fallout-280762"
+  },
+  {
     "titolo": "Eight wonders of the world",
     "data": "2026-04-16T16:12:56Z",
     "fonte": "Environment – The Conversation",
@@ -1610,18 +1624,60 @@
     "link": "https://theconversation.com/the-uk-wants-a-cleaner-steel-industry-but-its-plan-rests-on-a-supply-chain-that-doesnt-exist-yet-280308"
   },
   {
-    "titolo": "How to feed your garden birds without spreading disease",
-    "data": "2026-04-14T14:46:52Z",
-    "fonte": "Environment – The Conversation",
-    "autore": "Richard Gregory, Honorary Professor of Genetics, Evolution & Environment, UCL",
-    "link": "https://theconversation.com/how-to-feed-your-garden-birds-without-spreading-disease-280409"
+    "titolo": "Why the future of marijuana legalization remains hazy despite high public support",
+    "data": "2026-04-17T13:43:51Z",
+    "fonte": "The Conversation – Articles (US)",
+    "autore": "William Garriott, Professor of Law, Politics and Society, Drake University",
+    "link": "https://theconversation.com/why-the-future-of-marijuana-legalization-remains-hazy-despite-high-public-support-279960"
   },
   {
-    "titolo": "‘Protected’ seagrass meadows aren’t necessarily healthy – because pollution doesn’t stop at the shoreline",
-    "data": "2026-04-13T14:28:27Z",
-    "fonte": "Environment – The Conversation",
-    "autore": "Heidi McIlvenny, PhD Candidate, School of Biological Sciences, Queen's University Belfast",
-    "link": "https://theconversation.com/protected-seagrass-meadows-arent-necessarily-healthy-because-pollution-doesnt-stop-at-the-shoreline-279805"
+    "titolo": "Trump sidelined Congress’ authority over war on Iran – and lawmakers allowed it, extending a 75-year trend",
+    "data": "2026-04-17T12:49:57Z",
+    "fonte": "The Conversation – Articles (US)",
+    "autore": "Robert Haswell, PhD Candidate, Political Science, Carleton University",
+    "link": "https://theconversation.com/trump-sidelined-congress-authority-over-war-on-iran-and-lawmakers-allowed-it-extending-a-75-year-trend-280671"
+  },
+  {
+    "titolo": "Ancient teeth reveal clues to the environment humans’ early ancestors evolved in millions of years ago",
+    "data": "2026-04-17T12:47:48Z",
+    "fonte": "The Conversation – Articles (US)",
+    "autore": "Zelalem Bedaso, Associate Professor of Earth and Environmental Geosciences, University of Dayton",
+    "link": "https://theconversation.com/ancient-teeth-reveal-clues-to-the-environment-humans-early-ancestors-evolved-in-millions-of-years-ago-279544"
+  },
+  {
+    "titolo": "About half of young Americans can’t name a single Holocaust site, repeating a pattern of ignorance seen in postwar Germany",
+    "data": "2026-04-17T12:47:36Z",
+    "fonte": "The Conversation – Articles (US)",
+    "autore": "Daniela R. P. Weiner, Teaching Assistant Professor of the First Year Experience and Humanities, Stevens Institute of Technology",
+    "link": "https://theconversation.com/about-half-of-young-americans-cant-name-a-single-holocaust-site-repeating-a-pattern-of-ignorance-seen-in-postwar-germany-278507"
+  },
+  {
+    "titolo": "I’ve fired one of America’s most powerful lasers – here’s what a shot day looks like",
+    "data": "2026-04-17T12:47:22Z",
+    "fonte": "The Conversation – Articles (US)",
+    "autore": "Ahmed Helal, Research Scientist, The University of Texas at Austin",
+    "link": "https://theconversation.com/ive-fired-one-of-americas-most-powerful-lasers-heres-what-a-shot-day-looks-like-279520"
+  },
+  {
+    "titolo": "Trump’s coercive tactics in Latin America evoke era of gunboat diplomacy – and the rise of anti-imperialism it helped spur",
+    "data": "2026-04-17T12:47:09Z",
+    "fonte": "The Conversation – Articles (US)",
+    "autore": "Tony Wood, Assistant Professor of History, Modern Latin America, University of Colorado Boulder",
+    "link": "https://theconversation.com/trumps-coercive-tactics-in-latin-america-evoke-era-of-gunboat-diplomacy-and-the-rise-of-anti-imperialism-it-helped-spur-279238"
+  },
+  {
+    "titolo": "‘Right to race’ laws and the battle over America’s local racetracks",
+    "data": "2026-04-17T12:46:46Z",
+    "fonte": "The Conversation – Articles (US)",
+    "autore": "Joshua Vadeboncoeur, Assistant Professor of Sport Management, Gardner-Webb University",
+    "link": "https://theconversation.com/right-to-race-laws-and-the-battle-over-americas-local-racetracks-278034"
+  },
+  {
+    "titolo": "How Islamophobic rhetoric leaves an impact on the mental health of Muslim Americans",
+    "data": "2026-04-17T12:46:35Z",
+    "fonte": "The Conversation – Articles (US)",
+    "autore": "Anisah Bagasra, Associate Professor of Psychology, Kennesaw State University",
+    "link": "https://theconversation.com/how-islamophobic-rhetoric-leaves-an-impact-on-the-mental-health-of-muslim-americans-279046"
   },
   {
     "titolo": "Cannabis sales and use are high in Michigan – but federal law means research lags behind",
@@ -1636,62 +1692,6 @@
     "fonte": "The Conversation – Articles (US)",
     "autore": "Lauren Kahn, Senior Research Analyst, Center for Security and Emerging Technology, Georgetown University",
     "link": "https://theconversation.com/one-way-attack-drones-low-cost-high-tech-weapons-democratize-precision-warfare-280364"
-  },
-  {
-    "titolo": "Students expect their university will mishandle sexual misconduct, if they ever report it",
-    "data": "2026-04-16T12:46:29Z",
-    "fonte": "The Conversation – Articles (US)",
-    "autore": "Megan Rebecca Fallon, Interpersonal Violence Prevention Coordinator, Clemson University",
-    "link": "https://theconversation.com/students-expect-their-university-will-mishandle-sexual-misconduct-if-they-ever-report-it-279739"
-  },
-  {
-    "titolo": "Seeing women govern encourages support for women in politics – with no apparent backlash among men",
-    "data": "2026-04-16T12:46:15Z",
-    "fonte": "The Conversation – Articles (US)",
-    "autore": "Vladimir Chlouba, Assistant Professor of Leadership Studies, University of Richmond",
-    "link": "https://theconversation.com/seeing-women-govern-encourages-support-for-women-in-politics-with-no-apparent-backlash-among-men-269344"
-  },
-  {
-    "titolo": "Christian satellite TV has broadcast evangelical faith – and end-times prophecies – into Iran for decades",
-    "data": "2026-04-16T12:46:02Z",
-    "fonte": "The Conversation – Articles (US)",
-    "autore": "Febe Armanios, Professor of History, Middlebury College",
-    "link": "https://theconversation.com/christian-satellite-tv-has-broadcast-evangelical-faith-and-end-times-prophecies-into-iran-for-decades-280349"
-  },
-  {
-    "titolo": "Washington DC’s 240 million-gallon sewage spill is a symptom of nationwide trouble",
-    "data": "2026-04-16T12:45:49Z",
-    "fonte": "The Conversation – Articles (US)",
-    "autore": "Marccus D. Hendricks, Associate Professor of Urban Studies and Environmental Planning, University of Maryland",
-    "link": "https://theconversation.com/washington-dcs-240-million-gallon-sewage-spill-is-a-symptom-of-nationwide-trouble-277720"
-  },
-  {
-    "titolo": "As renaissance fairs become big business, can they retain their counterculture roots?",
-    "data": "2026-04-16T12:45:30Z",
-    "fonte": "The Conversation – Articles (US)",
-    "autore": "Reagan Yessler, Adjunct Professor of Human Geography, Pellissippi State Community College",
-    "link": "https://theconversation.com/as-renaissance-fairs-become-big-business-can-they-retain-their-counterculture-roots-273757"
-  },
-  {
-    "titolo": "Motown girl group Martha and the Vandellas not only recorded an anthem for the civil rights era – they fought for fair pay and proudly called themselves divas",
-    "data": "2026-04-16T12:45:20Z",
-    "fonte": "The Conversation – Articles (US)",
-    "autore": "Austin McCoy, Assistant Professor of History, West Virginia University",
-    "link": "https://theconversation.com/motown-girl-group-martha-and-the-vandellas-not-only-recorded-an-anthem-for-the-civil-rights-era-they-fought-for-fair-pay-and-proudly-called-themselves-divas-278383"
-  },
-  {
-    "titolo": "Health information delivered as a video game can bridge the communication gap between patients and providers",
-    "data": "2026-04-16T12:45:08Z",
-    "fonte": "The Conversation – Articles (US)",
-    "autore": "Elena Bertozzi, Professor of Game Design & Development, Quinnipiac University",
-    "link": "https://theconversation.com/health-information-delivered-as-a-video-game-can-bridge-the-communication-gap-between-patients-and-providers-280222"
-  },
-  {
-    "titolo": "How Trump’s repeated efforts to fire Federal Reserve Chair Powell harm the economy – and make battling inflation harder",
-    "data": "2026-04-16T00:15:40Z",
-    "fonte": "The Conversation – Articles (US)",
-    "autore": "Cristina Bodea, Professor of Political Science, Michigan State University",
-    "link": "https://theconversation.com/how-trumps-repeated-efforts-to-fire-federal-reserve-chair-powell-harm-the-economy-and-make-battling-inflation-harder-280766"
   },
   {
     "titolo": "The US really is unlike other rich countries when it comes to job insecurity – and AI could make it even more ‘exceptional’",
@@ -1764,74 +1764,81 @@
     "link": "https://theconversation.com/customers-like-diversity-from-brands-but-can-smell-hypocrisy-a-mile-away-218683"
   },
   {
-    "titolo": "The best books about being a teenager – according to our experts",
-    "data": "2026-04-17T12:02:43Z",
+    "titolo": "Lee Cronin’s The Mummy – an uninspired, unscary gore fest that demonises disability and leans into stereotypes of Egypt",
+    "data": "2026-04-17T15:16:21Z",
     "fonte": "English – The Conversation",
-    "autore": "Sophie King-Hill, Associate Professor at the Health Services Management Centre, University of Birmingham",
-    "link": "https://theconversation.com/the-best-books-about-being-a-teenager-according-to-our-experts-279024"
+    "autore": "Matt Jacobsen, Senior Lecturer in Film History in the School of Society and Environment, Queen Mary University of London",
+    "link": "https://theconversation.com/lee-cronins-the-mummy-an-uninspired-unscary-gore-fest-that-demonises-disability-and-leans-into-stereotypes-of-egypt-280957"
   },
   {
-    "titolo": "The Victorian sex abuse scandal that shocked Britain and changed the law – long before Epstein",
-    "data": "2026-04-17T12:00:58Z",
+    "titolo": "Why the ceasefire in Lebanon is unlikely to change much on the ground",
+    "data": "2026-04-17T15:16:18Z",
     "fonte": "English – The Conversation",
-    "autore": "Caroline Derry, Senior Lecturer in Law, The Open University",
-    "link": "https://theconversation.com/the-victorian-sex-abuse-scandal-that-shocked-britain-and-changed-the-law-long-before-epstein-278822"
+    "autore": "Tarek Abou Jaoude, Lecturer in Comparative Politics, Queen's University Belfast",
+    "link": "https://theconversation.com/why-the-ceasefire-in-lebanon-is-unlikely-to-change-much-on-the-ground-280851"
   },
   {
-    "titolo": "Crypto tolls in the Strait of Hormuz shows why bitcoin thrives in times of crisis",
-    "data": "2026-04-17T12:00:36Z",
+    "titolo": "How we worked out a fossilised ‘pterosaur’ was actually a fish – new research",
+    "data": "2026-04-17T15:16:14Z",
     "fonte": "English – The Conversation",
-    "autore": "Peter Howson, Assistant Professor in International Development, Northumbria University, Newcastle",
-    "link": "https://theconversation.com/crypto-tolls-in-the-strait-of-hormuz-shows-why-bitcoin-thrives-in-times-of-crisis-280676"
+    "autore": "David Unwin, Reader in Palaeobiology, School of Heritage and Culture, University of Leicester",
+    "link": "https://theconversation.com/how-we-worked-out-a-fossilised-pterosaur-was-actually-a-fish-new-research-280848"
   },
   {
-    "titolo": "The problem with vet bills – a dog-owning economist explains",
-    "data": "2026-04-17T12:00:20Z",
+    "titolo": "Iran’s AI memes are reaching people who don’t follow the news – and winning the propaganda war",
+    "data": "2026-04-17T15:16:10Z",
     "fonte": "English – The Conversation",
-    "autore": "David Rietzke, Senior Lecturer in Economics, Lancaster University",
-    "link": "https://theconversation.com/the-problem-with-vet-bills-a-dog-owning-economist-explains-280847"
+    "autore": "Adam R. North, Early Career Researcher, Religions and Theology Department, University of Manchester",
+    "link": "https://theconversation.com/irans-ai-memes-are-reaching-people-who-dont-follow-the-news-and-winning-the-propaganda-war-280944"
   },
   {
-    "titolo": "Strait of Hormuz: why even neutral and distant countries like Switzerland can’t escape the fallout",
-    "data": "2026-04-17T11:52:42Z",
+    "titolo": "How accelerating evolution could help corals survive future heatwaves – new study",
+    "data": "2026-04-17T15:16:07Z",
     "fonte": "English – The Conversation",
-    "autore": "Salome M. S. Shokri-Kuehni, Adjunct Lecturer, Institute of Geo-Hydroinformatics, Technical University of Hamburg; United Nations University",
-    "link": "https://theconversation.com/strait-of-hormuz-why-even-neutral-and-distant-countries-like-switzerland-cant-escape-the-fallout-280762"
+    "autore": "James Guest, Reader in Coral Reef Ecology, Newcastle University",
+    "link": "https://theconversation.com/how-accelerating-evolution-could-help-corals-survive-future-heatwaves-new-study-280487"
   },
   {
-    "titolo": "The truth about child IQ: research shows it fluctuates and may be an unreliable predictor of future success",
-    "data": "2026-04-17T11:24:13Z",
+    "titolo": "Why many of Hungary’s religious groups will be celebrating Viktor Orbán’s election loss",
+    "data": "2026-04-17T15:16:05Z",
     "fonte": "English – The Conversation",
-    "autore": "Margherita Malanchini, Reader in Psychology, Queen Mary University of London",
-    "link": "https://theconversation.com/the-truth-about-child-iq-research-shows-it-fluctuates-and-may-be-an-unreliable-predictor-of-future-success-271569"
+    "autore": "Marc Roscoe Loustau, Affiliated Fellow at the Institute for Advanced Study, Central European University",
+    "link": "https://theconversation.com/why-many-of-hungarys-religious-groups-will-be-celebrating-viktor-orbans-election-loss-280478"
   },
   {
-    "titolo": "How to run a marathon better: the nutritional and psychological hacks that matter most",
-    "data": "2026-04-17T11:20:21Z",
+    "titolo": "Want to cut your energy bills? Here’s how five experts are doing it",
+    "data": "2026-04-17T15:16:01Z",
     "fonte": "English – The Conversation",
-    "autore": "James Beale, Senior Lecturer in Sport Psychology, University of East London",
-    "link": "https://theconversation.com/how-to-run-a-marathon-better-the-nutritional-and-psychological-hacks-that-matter-most-279142"
+    "autore": "Yvonne Ryan, Associate Professor in Environmental Science, University of Limerick",
+    "link": "https://theconversation.com/want-to-cut-your-energy-bills-heres-how-five-experts-are-doing-it-280182"
   },
   {
-    "titolo": "How whaling evolved from its Basque origins into a vast global business",
-    "data": "2026-04-17T07:35:09Z",
+    "titolo": "Why the future of marijuana legalization remains hazy despite high public support",
+    "data": "2026-04-17T13:43:51Z",
     "fonte": "English – The Conversation",
-    "autore": "Álex Aguilar, Profesor de Biología Animal, Universitat de Barcelona",
-    "link": "https://theconversation.com/how-whaling-evolved-from-its-basque-origins-into-a-vast-global-business-280227"
+    "autore": "William Garriott, Professor of Law, Politics and Society, Drake University",
+    "link": "https://theconversation.com/why-the-future-of-marijuana-legalization-remains-hazy-despite-high-public-support-279960"
   },
   {
-    "titolo": "US raises the stakes in the Strait of Hormuz",
-    "data": "2026-04-17T07:06:37Z",
+    "titolo": "The IMF enjoys preferred creditor status: why it shouldn’t be the judge when it comes to other lenders",
+    "data": "2026-04-17T13:08:22Z",
     "fonte": "English – The Conversation",
-    "autore": "Jonathan Este, Senior International Affairs Editor, Associate Editor, The Conversation",
-    "link": "https://theconversation.com/us-raises-the-stakes-in-the-strait-of-hormuz-280850"
+    "autore": "Misheck Mutize, Post Doctoral Researcher, Graduate School of Business (GSB), University of Cape Town",
+    "link": "https://theconversation.com/the-imf-enjoys-preferred-creditor-status-why-it-shouldnt-be-the-judge-when-it-comes-to-other-lenders-280509"
   },
   {
-    "titolo": "Want to get the pill without seeing a GP? Here’s what you need to know",
-    "data": "2026-04-17T05:14:39Z",
+    "titolo": "Legal aid for asylum seekers is hard to come by – it’s no wonder criminal advisers are taking advantage",
+    "data": "2026-04-17T12:56:49Z",
     "fonte": "English – The Conversation",
-    "autore": "Jack Collins, Senior Lecturer, Sydney Pharmacy School, University of Sydney",
-    "link": "https://theconversation.com/want-to-get-the-pill-without-seeing-a-gp-heres-what-you-need-to-know-280719"
+    "autore": "Nicole Hoellerer, Research associate, School of Sociology, Politics and International Studies, University of Bristol",
+    "link": "https://theconversation.com/legal-aid-for-asylum-seekers-is-hard-to-come-by-its-no-wonder-criminal-advisers-are-taking-advantage-280839"
+  },
+  {
+    "titolo": "A Disneyland Paris, la géologie du Grand Nord mise en scène dans l’extension consacrée à la « Reine des Neiges »",
+    "data": "2026-04-17T14:14:22Z",
+    "fonte": "Science – The Conversation",
+    "autore": "Olivier Pourret, Enseignant-chercheur en géochimie et responsable intégrité scientifique et science ouverte, UniLaSalle",
+    "link": "https://theconversation.com/a-disneyland-paris-la-geologie-du-grand-nord-mise-en-scene-dans-lextension-consacree-a-la-reine-des-neiges-279786"
   },
   {
     "titolo": "Comment les reines bourdons peuvent-elles survivre plusieurs jours sous l'eau ?",
@@ -1895,12 +1902,5 @@
     "fonte": "Science – The Conversation",
     "autore": "Victor Gysembergh, Directeur de recherches au CNRS, Sorbonne Université",
     "link": "https://theconversation.com/palimpseste-darchimede-comment-une-page-perdue-a-refait-surface-a-blois-279261"
-  },
-  {
-    "titolo": "Qu’est-ce qu’un portefeuille européen d’identité numérique ? Quels en seront les usages, les avantages… et les risques ?",
-    "data": "2026-04-07T15:33:09Z",
-    "fonte": "Science – The Conversation",
-    "autore": "Claire Levallois-Barth, Professeur en droit à IMT Atlantique, titulaire des chaires 'Valeurs et Politiques des Informations Personnelles' et 'Économie des Communs de Données'., Institut Mines-Télécom (IMT)",
-    "link": "https://theconversation.com/quest-ce-quun-portefeuille-europeen-didentite-numerique-quels-en-seront-les-usages-les-avantages-et-les-risques-278837"
   }
 ]
