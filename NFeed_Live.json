@@ -140,11 +140,11 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003786"
   },
   {
-    "titolo": "MORC2 mediates transcriptional regulation through liquid-liquid phase separation",
+    "titolo": "Uncovering the electrical synapse proteome in retinal neurons via in vivo proximity labeling",
     "data": "Wed, 20 May 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "huangcd@ustc.edu.cn (Yu Wei)",
-    "link": "https://elifesciences.org/articles/108479"
+    "autore": "stetenbo@Central.UH.EDU (Ya-Ping Lin)",
+    "link": "https://elifesciences.org/articles/105935"
   },
   {
     "titolo": "Twelve phosphomimetic mutations induce the assembly of recombinant full-length human tau into paired helical filaments",
@@ -154,20 +154,6 @@
     "link": "https://elifesciences.org/articles/104778"
   },
   {
-    "titolo": "Multimodal MRI marker of cognition explains the association between cognition and mental health in the UK Biobank",
-    "data": "Wed, 20 May 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "is.buyanova@gmail.com (Narun Pat)",
-    "link": "https://elifesciences.org/articles/108109"
-  },
-  {
-    "titolo": "Uncovering the electrical synapse proteome in retinal neurons via in vivo proximity labeling",
-    "data": "Wed, 20 May 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "stetenbo@Central.UH.EDU (Ya-Ping Lin)",
-    "link": "https://elifesciences.org/articles/105935"
-  },
-  {
     "titolo": "The multifaceted role of EXOC6A in ciliogenesis",
     "data": "Wed, 20 May 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -175,25 +161,18 @@
     "link": "https://elifesciences.org/articles/108271"
   },
   {
-    "titolo": "Single-domain antibody inhibitors target the coiled coil arms of the <i>Bacillus subtilis</i> SMC complex",
-    "data": "Tue, 19 May 2026 00:00:00 +0000",
+    "titolo": "MORC2 mediates transcriptional regulation through liquid-liquid phase separation",
+    "data": "Wed, 20 May 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "stephan.gruber@unil.ch (Stephan Gruber)",
-    "link": "https://elifesciences.org/articles/111131"
+    "autore": "huangcd@ustc.edu.cn (Yu Wei)",
+    "link": "https://elifesciences.org/articles/108479"
   },
   {
-    "titolo": "Two neuropeptides that promote blood feeding in <i>Anopheles stephensi</i> mosquitoes",
-    "data": "Tue, 19 May 2026 00:00:00 +0000",
+    "titolo": "Multimodal MRI marker of cognition explains the association between cognition and mental health in the UK Biobank",
+    "data": "Wed, 20 May 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "prashali.bansal@tigs.res.in (Sonia Q Sen)",
-    "link": "https://elifesciences.org/articles/108625"
-  },
-  {
-    "titolo": "Lineage priming and cell type proportioning depends on the interplay between stochastic and deterministic factors",
-    "data": "Tue, 19 May 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "christopher.thompson@ucl.ac.uk (William Salvidge)",
-    "link": "https://elifesciences.org/articles/105512"
+    "autore": "is.buyanova@gmail.com (Narun Pat)",
+    "link": "https://elifesciences.org/articles/108109"
   },
   {
     "titolo": "Full factorial construction of synthetic microbial communities",
@@ -203,6 +182,20 @@
     "link": "https://elifesciences.org/articles/101906"
   },
   {
+    "titolo": "Lineage priming and cell type proportioning depends on the interplay between stochastic and deterministic factors",
+    "data": "Tue, 19 May 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "christopher.thompson@ucl.ac.uk (William Salvidge)",
+    "link": "https://elifesciences.org/articles/105512"
+  },
+  {
+    "titolo": "Single-domain antibody inhibitors target the coiled coil arms of the <i>Bacillus subtilis</i> SMC complex",
+    "data": "Tue, 19 May 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "stephan.gruber@unil.ch (Stephan Gruber)",
+    "link": "https://elifesciences.org/articles/111131"
+  },
+  {
     "titolo": "Cell surface localisation of GPI-anchored receptors in <i>Trypanosoma brucei</i>",
     "data": "Tue, 19 May 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -210,214 +203,221 @@
     "link": "https://elifesciences.org/articles/107191"
   },
   {
+    "titolo": "Two neuropeptides that promote blood feeding in <i>Anopheles stephensi</i> mosquitoes",
+    "data": "Tue, 19 May 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "prashali.bansal@tigs.res.in (Sonia Q Sen)",
+    "link": "https://elifesciences.org/articles/108625"
+  },
+  {
     "titolo": "The temporal architecture of the seminiferous epithelial cycle revealed by spatial transcriptomics",
     "data": "Sat, 16 May 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Long Cai",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42143021/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260520210823&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42143021/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260521003445&v=2.20.0"
   },
   {
     "titolo": "Transplanting light-dependent reactions for mammalian eye photosynthesis",
     "data": "Sat, 16 May 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "David Tai Leong",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42143020/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260520210823&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42143020/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260521003445&v=2.20.0"
   },
   {
     "titolo": "Cell-autonomous control of CAR signaling and receptor shedding via ADAM17-mediated proteolysis",
     "data": "Sat, 16 May 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Crystal L Mackall",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42143019/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260520210823&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42143019/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260521003445&v=2.20.0"
   },
   {
     "titolo": "Transplantation of encapsulated mitochondria alleviates dysfunction in mitochondrial and Parkinson's disease models",
     "data": "Fri, 15 May 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Xingguo Liu",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42140184/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260520210823&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42140184/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260521003445&v=2.20.0"
   },
   {
     "titolo": "A comparison of deep multiomics profiles across ethnicity, geography, and age",
     "data": "Thu, 14 May 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Michael P Snyder",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42134306/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260520210823&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42134306/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260521003445&v=2.20.0"
   },
   {
     "titolo": "Navigating the clinical progress of antibody-drug conjugates: Emerging opportunities and remaining challenges",
     "data": "Thu, 14 May 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Charles Dumontet",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42134305/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260520210823&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42134305/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260521003445&v=2.20.0"
   },
   {
     "titolo": "Glyceroneogenesis has a new PEP in its step(s)",
     "data": "Thu, 14 May 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Jessica B Spinelli",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42134304/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260520210823&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42134304/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260521003445&v=2.20.0"
   },
   {
     "titolo": "Scrambled signals: Bacterial viruses engage in information warfare",
     "data": "Thu, 14 May 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Alexander P Hynes",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42134303/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260520210823&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42134303/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260521003445&v=2.20.0"
   },
   {
     "titolo": "This is IT: How accelerated intermittent theta burst stimulation relieves depression symptoms",
     "data": "Thu, 14 May 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Dhakshin S Ramanathan",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42134302/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260520210823&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42134302/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260521003445&v=2.20.0"
   },
   {
     "titolo": "Discovery and heterologous reconstitution of a plant noncanonical quasi-circadian gene regulatory network",
     "data": "Wed, 13 May 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Wei Wang",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42127895/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260520210823&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42127895/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260521003445&v=2.20.0"
   },
   {
     "titolo": "Aged circulating CD8<sup>+</sup> T cells and their secreted factors drive cognitive decline",
     "data": "Fri, 15 May 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Saul A Villeda",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42140192/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260520210825&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42140192/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260521003447&v=2.20.0"
   },
   {
     "titolo": "Modulation of the mevalonate pathway by TCR engagement regulates T follicular helper cell generation in homeostasis and autoimmunity",
     "data": "Thu, 14 May 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Qianjin Lu",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42134327/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260520210825&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42134327/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260521003447&v=2.20.0"
   },
   {
     "titolo": "Paving the road for CARs in pediatric autoimmune diseases",
     "data": "Tue, 12 May 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Virginia Pascual",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42119368/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260520210825&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42119368/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260521003447&v=2.20.0"
   },
   {
     "titolo": "Rogue gut microbes derail memory",
     "data": "Tue, 12 May 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Thomas Blank",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42119367/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260520210825&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42119367/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260521003447&v=2.20.0"
   },
   {
     "titolo": "ART Interrupted: Insights into ART-free HIV remission",
     "data": "Tue, 12 May 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Eli A Boritz",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42119366/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260520210825&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42119366/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260521003447&v=2.20.0"
   },
   {
     "titolo": "CD8<sup>+</sup> T cells turn resilient under stress",
     "data": "Tue, 12 May 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Luciana Berod",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42119365/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260520210825&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42119365/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260521003447&v=2.20.0"
   },
   {
     "titolo": "A Krüppel of factors regulate T cell residency and exhaustion",
     "data": "Tue, 12 May 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Matthew E Pipkin",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42119364/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260520210825&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42119364/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260521003447&v=2.20.0"
   },
   {
     "titolo": "Daredevil human cDC2s tame wild TSLP to promote tolerance",
     "data": "Tue, 12 May 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Marc Dalod",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42119363/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260520210825&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42119363/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260521003447&v=2.20.0"
   },
   {
     "titolo": "Interleukin-17-Producing γδ T Cells Originate from SOX13<sup>+</sup> Progenitors that Are Independent of γδTCR Signaling",
     "data": "Sun, 10 May 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Joonsoo Kang",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42107888/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260520210825&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42107888/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260521003447&v=2.20.0"
   },
   {
     "titolo": "Spatiotemporal analysis reveals distinct inflammatory programs underlying chronic colitis",
     "data": "Thu, 07 May 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Eduardo J Villablanca",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42097141/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260520210825&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42097141/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260521003447&v=2.20.0"
   },
   {
     "titolo": "Picosecond ultralow-power switching device based on an antiferromagnet",
     "data": "Thu, 14 May 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Satoru Nakatsuji",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42133799/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260520210827&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42133799/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260521003449&v=2.20.0"
   },
   {
     "titolo": "River dynamics in a warming climate",
     "data": "Thu, 14 May 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Jonas A Eschenfelder",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42133789/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260520210827&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42133789/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260521003449&v=2.20.0"
   },
   {
     "titolo": "When aid stops",
     "data": "Thu, 14 May 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Axel Dreher",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42133788/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260520210827&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42133788/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260521003449&v=2.20.0"
   },
   {
     "titolo": "From wastewater analysis to public health action",
     "data": "Thu, 14 May 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Ariel Christensen",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42133787/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260520210827&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42133787/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260521003449&v=2.20.0"
   },
   {
     "titolo": "Scaffolds toughen bacteria-based therapy",
     "data": "Thu, 14 May 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Quanyin Hu",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42133786/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260520210827&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42133786/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260521003449&v=2.20.0"
   },
   {
     "titolo": "Erratum for the Research Article \"Matching sounds to shapes: Evidence of the bouba-kiki effect in naïve baby chicks\"",
     "data": "Thu, 14 May 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Anonimo",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42133785/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260520210827&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42133785/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260521003449&v=2.20.0"
   },
   {
     "titolo": "In Other Journals",
     "data": "Thu, 14 May 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Jake S Yeston",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42133784/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260520210827&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42133784/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260521003449&v=2.20.0"
   },
   {
     "titolo": "Defender of postdoc from China locked out of his lab",
     "data": "Thu, 14 May 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Jeffrey Mervis",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42133783/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260520210827&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42133783/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260521003449&v=2.20.0"
   },
   {
     "titolo": "Leading by listening",
     "data": "Thu, 14 May 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "João Conde",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42133782/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260520210827&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42133782/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260521003449&v=2.20.0"
   },
   {
     "titolo": "Ancient ice core could help explain why the ice ages switched rhythm",
     "data": "Thu, 14 May 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Elise Cutts",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42133781/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260520210827&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42133781/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260521003449&v=2.20.0"
   },
   {
     "titolo": "New Zealand's indigenous peoples  -- keywords EMBASE",
@@ -491,143 +491,220 @@
   },
   {
     "titolo": "Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance",
-    "data": "Wed, 20 May 2026 00:00:00 -0400",
+    "data": "Thu, 21 May 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
     "autore": "Shiqiang Wang, Herbert Woisetschl\\\"ager, Hans Arno Jacobsen, Mingyue Ji",
     "link": "https://arxiv.org/abs/2605.18801"
   },
   {
     "titolo": "Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production",
-    "data": "Wed, 20 May 2026 00:00:00 -0400",
+    "data": "Thu, 21 May 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
     "autore": "Yao Fehlis, Benjamin Bengfort, Zhangzhang Si, Vahid Eyorokon, Prema Roman, Patrick Deziel, Devon Slonaker, Steve Veldman, Ben Johnson, Joyce Rigelo, Michael Wharton, Steve Kramer",
     "link": "https://arxiv.org/abs/2605.18818"
   },
   {
     "titolo": "Evaluating the Utility of Personal Health Records in Personalized Health AI",
-    "data": "Wed, 20 May 2026 00:00:00 -0400",
+    "data": "Thu, 21 May 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
     "autore": "Rory Sayres, Kejia Chen, Ayush Jain, Matthew Thompson, Jonathan Richina, Xiang Yin, Jimmy Hu, Fan Zhang, Bob Lou, Mike Sanchez, Ines Mezerreg, Meredith Schreier, Hamsa Subramaniam, I-Ching Lee, Yugang Jia, Daniel Mcduff, Yossi Matias, Avinatan Hassidim, Dale Webster, Yun Liu, Jackie Barr, Quang Duong",
     "link": "https://arxiv.org/abs/2605.18937"
   },
   {
     "titolo": "Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency",
-    "data": "Wed, 20 May 2026 00:00:00 -0400",
+    "data": "Thu, 21 May 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
     "autore": "Anis Radianis",
     "link": "https://arxiv.org/abs/2605.19008"
   },
   {
     "titolo": "AgentNLQ: A General-Purpose Agent for Natural Language to SQL",
-    "data": "Wed, 20 May 2026 00:00:00 -0400",
+    "data": "Thu, 21 May 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
     "autore": "Olena Bogdanov, Yeunji Jung, Chandra Dhir, Pareekshitreddy Gaddam, Saurabh Jain, Lakshmi Tumati, Vijay Parthasarathy, Anup Shirgaonkar",
     "link": "https://arxiv.org/abs/2605.19010"
   },
   {
     "titolo": "KAN-MLP-Mixer: A comprehensive investigation of the usage of Kolmogorov-Arnold Networks (KANs) for improving IMU-based Human Activity Recognition",
-    "data": "Wed, 20 May 2026 00:00:00 -0400",
+    "data": "Thu, 21 May 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
     "autore": "Mengxi Liu, Sizhen Bian, Vitor Fortes, Francisco Calatrava Nicolas, Daniel Gei{\\ss}ler, Maximilian Kiefer-Emmanouilidis, Bo Zhou, Paul Lukowicz",
     "link": "https://arxiv.org/abs/2605.19031"
   },
   {
     "titolo": "Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On",
-    "data": "Wed, 20 May 2026 00:00:00 -0400",
+    "data": "Thu, 21 May 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
     "autore": "Yixiang Yao, Yuhang Yao, Xinyi Fan, Jiechao Gao, Jie Wang, Minjia Zhang, Srivatsan Ravi, Carlee Joe-Wong",
     "link": "https://arxiv.org/abs/2605.19035"
   },
   {
     "titolo": "Interference-Aware Multi-Task Unlearning",
-    "data": "Wed, 20 May 2026 00:00:00 -0400",
+    "data": "Thu, 21 May 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
     "autore": "Ying-Hua Huang, Rui Fang, Hsi-Wen Chen, Ming-Syan Chen",
     "link": "https://arxiv.org/abs/2605.19042"
   },
   {
     "titolo": "Embedding by Elicitation: Dynamic Representations for Bayesian Optimization of System Prompts",
-    "data": "Wed, 20 May 2026 00:00:00 -0400",
+    "data": "Thu, 21 May 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
     "autore": "Zhiyuan Jerry Lin, Benjamin Letham, Samuel Dooley, Maximilian Balandat, Eytan Bakshy",
     "link": "https://arxiv.org/abs/2605.19093"
   },
   {
     "titolo": "DecisionBench: A Benchmark for Emergent Delegation in Long-Horizon Agentic Workflows",
-    "data": "Wed, 20 May 2026 00:00:00 -0400",
+    "data": "Thu, 21 May 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
     "autore": "Yuxuan Gao, Megan Wang, Yi Ling Yu, Zijian Carl Ma, Ao Qu",
     "link": "https://arxiv.org/abs/2605.19099"
   },
   {
-    "titolo": "Ab initio simulation of market dynamics",
-    "data": "Wed, 20 May 2026 00:00:00 -0400",
+    "titolo": "Observational Constraints and Cosmological Dynamics of Interacting Fractional Holographic Dark Energy in Light of DESI DR2",
+    "data": "Thu, 21 May 2026 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Robert S. Farr",
-    "link": "https://arxiv.org/abs/2605.18756"
+    "autore": "Qihong Huang, Hao Chen, Qihong Wu",
+    "link": "https://arxiv.org/abs/2605.20214"
   },
   {
-    "titolo": "Achieving Generational Peace in Mali through Intergenerational Mean-Field-Type Game-based Incentives",
-    "data": "Wed, 20 May 2026 00:00:00 -0400",
+    "titolo": "Network-Based Interventions for HIV Prevention via Cascade-Aware Suppression of Transmission",
+    "data": "Thu, 21 May 2026 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Hamidou Tembine",
-    "link": "https://arxiv.org/abs/2605.18779"
+    "autore": "Akseli Kangaslahti, Davin Choo, Milind Tambe, Alastair van Heerden, Cheryl Johnson",
+    "link": "https://arxiv.org/abs/2605.20218"
   },
   {
-    "titolo": "A City-Scale Dataset of Traffic Flows, Travel Times, and Urban Context",
-    "data": "Wed, 20 May 2026 00:00:00 -0400",
+    "titolo": "Traversable Wormhole Geometry Reconstruction from the Rotation Curve of NGC 3198: A Comparative Study of Dark Matter Halo Profiles",
+    "data": "Thu, 21 May 2026 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Riccardo Cappi, Massimiliano Luca, Pietro Fontolan, Nicol\\`o Navarin, Bruno Lepri, Alessandro Sperduti",
-    "link": "https://arxiv.org/abs/2605.18782"
+    "autore": "Saibal Ray Aritra Sanyal",
+    "link": "https://arxiv.org/abs/2605.20221"
   },
   {
-    "titolo": "A Novel Urban Flood Dynamical System Model and a Corresponding Nonstandard Finite Difference Method",
-    "data": "Wed, 20 May 2026 00:00:00 -0400",
+    "titolo": "Universal Extremum Seeking Mechanism for Lift Variation in Soaring Birds Flight: A New Paradigm in Computational Physics and Biology",
+    "data": "Thu, 21 May 2026 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Yongfu Tian, Shan Ding, Guofeng Su, Jianguo Chen",
-    "link": "https://arxiv.org/abs/2605.18785"
+    "autore": "Simone Martini, Dipesh Kunwar, Sameh A. Eisa",
+    "link": "https://arxiv.org/abs/2605.20232"
   },
   {
-    "titolo": "Comment on \"Angle insensitive filters based on Fabry-Perot resonance structures\" [J. Appl. Phys. 136, 193102 (2024)]",
-    "data": "Wed, 20 May 2026 00:00:00 -0400",
+    "titolo": "Morphology-Driven optimization of Double Nanohole-based Plasmonic Optical Tweezers",
+    "data": "Thu, 21 May 2026 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Michele Cotrufo",
-    "link": "https://arxiv.org/abs/2605.18788"
+    "autore": "Pau Molet, Mariano Barella, Edona Karaka\\c{c}i, Maria Sanz Paz, Michael Mayer",
+    "link": "https://arxiv.org/abs/2605.20259"
   },
   {
-    "titolo": "Human-system Interface Style Guide for ACORN Control System",
-    "data": "Wed, 20 May 2026 00:00:00 -0400",
+    "titolo": "Production of Nuclear Battery $\\beta^{-}$ Emitters Driven by Fusion Neutrons",
+    "data": "Thu, 21 May 2026 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Rachael Hill (the ACORN Collaboration), Casey Kovesdi (the ACORN Collaboration), Torrey Mortenson (the ACORN Collaboration), Madelyn Polzin (the ACORN Collaboration), Zach Spielman (the ACORN Collaboration), Katya Le Blanc (the ACORN Collaboration)",
-    "link": "https://arxiv.org/abs/2605.18828"
+    "autore": "J. F. Parisi",
+    "link": "https://arxiv.org/abs/2605.20260"
   },
   {
-    "titolo": "Enhanced Ionization Charge Identification in the Short-Baseline Neutrino Program Neutrino Detectors with Deep Neural Networks",
-    "data": "Wed, 20 May 2026 00:00:00 -0400",
+    "titolo": "The NetMob26 Dataset: A High-Resolution Multi-Source View of Public Bus Mobility in Niter\\'oi",
+    "data": "Thu, 21 May 2026 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "P. Abratenko (ICARUS Collaboration, SBND Collaboration), N. Abrego-Martinez (ICARUS Collaboration, SBND Collaboration), R. Acciarri (ICARUS Collaboration, SBND Collaboration), A. Aduszkiewicz (ICARUS Collaboration, SBND Collaboration), F. Akbar (ICARUS Collaboration, SBND Collaboration), D. Andrade Aldana (ICARUS Collaboration, SBND Collaboration), L. Aliaga-Soplin (ICARUS Collaboration, SBND Collaboration), F. Abd Alrahman (ICARUS Collaboration, SBND Collaboration), R. Alvarez-Garrote (ICARUS Collaboration, SBND Collaboration), C. Andreopoulos (ICARUS Collaboration, SBND Collaboration), A. Antonakis (ICARUS Collaboration, SBND Collaboration), M. Artero Pons (ICARUS Collaboration, SBND Collaboration), J. Asaadi (ICARUS Collaboration, SBND Collaboration), W. F. Badgett (ICARUS Collaboration, SBND Collaboration), S. Baena (ICARUS Collaboration, SBND Collaboration), B. Baibussinov (ICARUS Collaboration, SBND Collaboration), S. Balasubramanian (ICARUS Collaboration, SBND Collaboration), A. Barnard (ICARUS Collaboration, SBND Collaboration), V. Basque (ICARUS Collaboration, SBND Collaboration), J. Bateman (ICARUS Collaboration, SBND Collaboration), A. Beever (ICARUS Collaboration, SBND Collaboration), B. Behera (ICARUS Collaboration, SBND Collaboration), E. Belchior (ICARUS Collaboration, SBND Collaboration), V. Bellini (ICARUS Collaboration, SBND Collaboration), R. Benocci (ICARUS Collaboration, SBND Collaboration), J. Berger (ICARUS Collaboration, SBND Collaboration), S. Bertolucci (ICARUS Collaboration, SBND Collaboration), M. Betancourt (ICARUS Collaboration, SBND Collaboration), A. Bhat (ICARUS Collaboration, SBND Collaboration), M. Bishai (ICARUS Collaboration, SBND Collaboration), A. Blake (ICARUS Collaboration, SBND Collaboration), A. Blanchet (ICARUS Collaboration, SBND Collaboration), F. Boffelli (ICARUS Collaboration, SBND Collaboration), B. Bogart (ICARUS Collaboration, SBND Collaboration), M. Bonesini (ICARUS Collaboration, SBND Collaboration), T. Boone (ICARUS Collaboration, SBND Collaboration), B. Bottino (ICARUS Collaboration, SBND Collaboration), A. Braggiotti (ICARUS Collaboration, SBND Collaboration), D. Brailsford (ICARUS Collaboration, SBND Collaboration), A. Brandt (ICARUS Collaboration, SBND Collaboration), S. J. Brice (ICARUS Collaboration, SBND Collaboration), S. Brickner (ICARUS Collaboration, SBND Collaboration), V. Brio (ICARUS Collaboration, SBND Collaboration), C. Brizzolari (ICARUS Collaboration, SBND Collaboration), M. B. Brunetti (ICARUS Collaboration, SBND Collaboration), H. S. Budd (ICARUS Collaboration, SBND Collaboration), L. Camilleri (ICARUS Collaboration, SBND Collaboration), A. Campani (ICARUS Collaboration, SBND Collaboration), A. Campos (ICARUS Collaboration, SBND Collaboration), D. Caratelli (ICARUS Collaboration, SBND Collaboration), D. Carber (ICARUS Collaboration, SBND Collaboration), B. Carlson (ICARUS Collaboration, SBND Collaboration), M. F. Carneiro (ICARUS Collaboration, SBND Collaboration), I. Caro Terrazas (ICARUS Collaboration, SBND Collaboration), H. Carranza (ICARUS Collaboration, SBND Collaboration), R. Castillo (ICARUS Collaboration, SBND Collaboration), F. Castillo Fernandez (ICARUS Collaboration, SBND Collaboration), F. Cavanna (ICARUS Collaboration, SBND Collaboration), S. Centro (ICARUS Collaboration, SBND Collaboration), G. Cerati (ICARUS Collaboration, SBND Collaboration), A. Chappell (ICARUS Collaboration, SBND Collaboration), A. Chatterjee (ICARUS Collaboration, SBND Collaboration), H. Chen (ICARUS Collaboration, SBND Collaboration), D. Cherdack (ICARUS Collaboration, SBND Collaboration), S. Cherubini (ICARUS Collaboration, SBND Collaboration), N. Chithirasreemadam (ICARUS Collaboration, SBND Collaboration), S. Chung (ICARUS Collaboration, SBND Collaboration), M. F. Cicala (ICARUS Collaboration, SBND Collaboration), M. Cicerchia (ICARUS Collaboration, SBND Collaboration), R. Coackley (ICARUS Collaboration, SBND Collaboration), T. E. Coan (ICARUS Collaboration, SBND Collaboration), A. Cocco (ICARUS Collaboration, SBND Collaboration), M. R. Convery (ICARUS Collaboration, SBND Collaboration), L. Cooper-Troendle (ICARUS Collaboration, SBND Collaboration), S. Copello (ICARUS Collaboration, SBND Collaboration), C. Cuesta (ICARUS Collaboration, SBND Collaboration), Y. Dabburi (ICARUS Collaboration, SBND Collaboration), O. Dalager (ICARUS Collaboration, SBND Collaboration), M. Dall'Olio (ICARUS Collaboration, SBND Collaboration), A. A. Dange (ICARUS Collaboration, SBND Collaboration), R. Darby (ICARUS Collaboration, SBND Collaboration), S. Kr Das (ICARUS Collaboration, SBND Collaboration), M. Diwan (ICARUS Collaboration, SBND Collaboration), Z. Djurcic (ICARUS Collaboration, SBND Collaboration), S. Dolan (ICARUS Collaboration, SBND Collaboration), S. Dominguez-Vidales (ICARUS Collaboration, SBND Collaboration), S. Di Domizio (ICARUS Collaboration, SBND Collaboration), S. Donati (ICARUS Collaboration, SBND Collaboration), F. Drielsma (ICARUS Collaboration, SBND Collaboration), M. Dubnowski (ICARUS Collaboration, SBND Collaboration), K. Duffy (ICARUS Collaboration, SBND Collaboration), J. Dyer (ICARUS Collaboration, SBND Collaboration), S. Dytman (ICARUS Collaboration, SBND Collaboration), A. Ereditato (ICARUS Collaboration, SBND Collaboration), J. J. Evans (ICARUS Collaboration, SBND Collaboration), A. Ezeribe (ICARUS Collaboration, SBND Collaboration), A. Falcone (ICARUS Collaboration, SBND Collaboration), C. Fan (ICARUS Collaboration, SBND Collaboration), C. Farnese (ICARUS Collaboration, SBND Collaboration), A. Fava (ICARUS Collaboration, SBND Collaboration), D. Di Ferdinando (ICARUS Collaboration, SBND Collaboration), A. Filkins (ICARUS Collaboration, SBND Collaboration), B. Fleming (ICARUS Collaboration, SBND Collaboration), W. Foreman (ICARUS Collaboration, SBND Collaboration), D. Franco (ICARUS Collaboration, SBND Collaboration), G. Fricano (ICARUS Collaboration, SBND Collaboration), I. Furic (ICARUS Collaboration, SBND Collaboration), A. Furmanski (ICARUS Collaboration, SBND Collaboration), N. Gallice (ICARUS Collaboration, SBND Collaboration), S. Gao (ICARUS Collaboration, SBND Collaboration), D. Garcia-Gamez (ICARUS Collaboration, SBND Collaboration), S. Gardiner (ICARUS Collaboration, SBND Collaboration), C. Gatto (ICARUS Collaboration, SBND Collaboration), D. Gibin (ICARUS Collaboration, SBND Collaboration), I. Gil-Botella (ICARUS Collaboration, SBND Collaboration), A. Gioiosa (ICARUS Collaboration, SBND Collaboration), S. Gollapinni (ICARUS Collaboration, SBND Collaboration), P. Green (ICARUS Collaboration, SBND Collaboration), W. C. Griffith (ICARUS Collaboration, SBND Collaboration), W. Gu (ICARUS Collaboration, SBND Collaboration), A. Guglielmi (ICARUS Collaboration, SBND Collaboration), G. Gurung (ICARUS Collaboration, SBND Collaboration), L. Hagaman (ICARUS Collaboration, SBND Collaboration), P. Hamilton (ICARUS Collaboration, SBND Collaboration), K. Hassinin (ICARUS Collaboration, SBND Collaboration), H. Hausner (ICARUS Collaboration, SBND Collaboration), A. Heggestuen (ICARUS Collaboration, SBND Collaboration), A. Hergenhan (ICARUS Collaboration, SBND Collaboration), M. Hernandez-Morquecho (ICARUS Collaboration, SBND Collaboration), P. Holanda (ICARUS Collaboration, SBND Collaboration), B. Howard (ICARUS Collaboration, SBND Collaboration), R. Howell (ICARUS Collaboration, SBND Collaboration), Z. Hulcher (ICARUS Collaboration, SBND Collaboration), I. Ingratta (ICARUS Collaboration, SBND Collaboration), M. S. Ismail (ICARUS Collaboration, SBND Collaboration), C. James (ICARUS Collaboration, SBND Collaboration), W. Jang (ICARUS Collaboration, SBND Collaboration), R. S. Jones (ICARUS Collaboration, SBND Collaboration), M. Jung (ICARUS Collaboration, SBND Collaboration), T. Junk (ICARUS Collaboration, SBND Collaboration), Y. -J. Jwa (ICARUS Collaboration, SBND Collaboration), D. Kalra (ICARUS Collaboration, SBND Collaboration), G. Karagiorgi (ICARUS Collaboration, SBND Collaboration), L. Kashur (ICARUS Collaboration, SBND Collaboration), K. J. Kelly (ICARUS Collaboration, SBND Collaboration), W. Ketchum (ICARUS Collaboration, SBND Collaboration), J. S. Kim (ICARUS Collaboration, SBND Collaboration), M. King (ICARUS Collaboration, SBND Collaboration), J. Klein (ICARUS Collaboration, SBND Collaboration), D. -H. Koh (ICARUS Collaboration, SBND Collaboration), L. Kotsiopoulou (ICARUS Collaboration, SBND Collaboration), T. Kroupova (ICARUS Collaboration, SBND Collaboration), V. A. Kudryavtsev (ICARUS Collaboration, SBND Collaboration), V. do Lago Pimentel (ICARUS Collaboration, SBND Collaboration), N. Lane (ICARUS Collaboration, SBND Collaboration), J. Larkin (ICARUS Collaboration, SBND Collaboration), H. Lay (ICARUS Collaboration, SBND Collaboration), R. LaZur (ICARUS Collaboration, SBND Collaboration), J. -Y. Li (ICARUS Collaboration, SBND Collaboration), Y. Li (ICARUS Collaboration, SBND Collaboration), K. Lin (ICARUS Collaboration, SBND Collaboration), B. R. Littlejohn (ICARUS Collaboration, SBND Collaboration), L. Liu (ICARUS Collaboration, SBND Collaboration), W. C. Louis (ICARUS Collaboration, SBND Collaboration), X. Lu (ICARUS Collaboration, SBND Collaboration), X. Luo (ICARUS Collaboration, SBND Collaboration), A. Machado (ICARUS Collaboration, SBND Collaboration), P. Machado (ICARUS Collaboration, SBND Collaboration), C. Mariani (ICARUS Collaboration, SBND Collaboration), F. Marinho (ICARUS Collaboration, SBND Collaboration), C. M. Marshall (ICARUS Collaboration, SBND Collaboration), J. Marshall (ICARUS Collaboration, SBND Collaboration), C. Martin-Morales (ICARUS Collaboration, SBND Collaboration), S. Martynenko (ICARUS Collaboration, SBND Collaboration), A. Mastbaum (ICARUS Collaboration, SBND Collaboration), N. Mauri (ICARUS Collaboration, SBND Collaboration), K. Mavrokoridis (ICARUS Collaboration, SBND Collaboration), N. McConkey (ICARUS Collaboration, SBND Collaboration), B. McCusker (ICARUS Collaboration, SBND Collaboration), K. S. McFarland (ICARUS Collaboration, SBND Collaboration), J. Mclaughlin (ICARUS Collaboration, SBND Collaboration), A. Menegolli (ICARUS Collaboration, SBND Collaboration), G. Meng (ICARUS Collaboration, SBND Collaboration), O. G. Miranda (ICARUS Collaboration, SBND Collaboration), A. Mogan (ICARUS Collaboration, SBND Collaboration), N. Moggi (ICARUS Collaboration, SBND Collaboration), E. Montagna (ICARUS Collaboration, SBND Collaboration), A. Montanari (ICARUS Collaboration, SBND Collaboration), C. Montanari (ICARUS Collaboration, SBND Collaboration), M. Mooney (ICARUS Collaboration, SBND Collaboration), A. F. Moor (ICARUS Collaboration, SBND Collaboration), G. Moreno-Granados (ICARUS Collaboration, SBND Collaboration), H. Da Motta (ICARUS Collaboration, SBND Collaboration), C. A. Moura (ICARUS Collaboration, SBND Collaboration), J. Mueller (ICARUS Collaboration, SBND Collaboration), S. Mulleriababu (ICARUS Collaboration, SBND Collaboration), M. Murphy (ICARUS Collaboration, SBND Collaboration), D. P. Mendez (ICARUS Collaboration, SBND Collaboration), D. Naples (ICARUS Collaboration, SBND Collaboration), A. Navrer-Agasson (ICARUS Collaboration, SBND Collaboration), M. Nebot-Guinot (ICARUS Collaboration, SBND Collaboration), V. C. L. Nguyen (ICARUS Collaboration, SBND Collaboration), F. J. Nicolas-Arnaldos (ICARUS Collaboration, SBND Collaboration), L. Di Noto (ICARUS Collaboration, SBND Collaboration), J. Nowak (ICARUS Collaboration, SBND Collaboration), S. B. Oh (ICARUS Collaboration, SBND Collaboration), N. Oza (ICARUS Collaboration, SBND Collaboration), O. Palamara (ICARUS Collaboration, SBND Collaboration), S. Palestini (ICARUS Collaboration, SBND Collaboration), N. Pallat (ICARUS Collaboration, SBND Collaboration), M. Pallavicini (ICARUS Collaboration, SBND Collaboration), V. Pandey (ICARUS Collaboration, SBND Collaboration), V. Paolone (ICARUS Collaboration, SBND Collaboration), A. Papadopoulou (ICARUS Collaboration, SBND Collaboration), H. B. Parkinson (ICARUS Collaboration, SBND Collaboration), L. Pasqualini (ICARUS Collaboration, SBND Collaboration), J. Paton (ICARUS Collaboration, SBND Collaboration), L. Patrizii (ICARUS Collaboration, SBND Collaboration), L. Paulucci (ICARUS Collaboration, SBND Collaboration), Z. Pavlovic (ICARUS Collaboration, SBND Collaboration), D. Payne (ICARUS Collaboration, SBND Collaboration), L. Pelegrina-Gutierrez (ICARUS Collaboration, SBND Collaboration), O. L. G. Peres (ICARUS Collaboration, SBND Collaboration), G. Petrillo (ICARUS Collaboration, SBND Collaboration), C. Petta (ICARUS Collaboration, SBND Collaboration), V. Pia (ICARUS Collaboration, SBND Collaboration), F. Pietropaolo (ICARUS Collaboration, SBND Collaboration), J. Plows (ICARUS Collaboration, SBND Collaboration), F. Poppi (ICARUS Collaboration, SBND Collaboration), M. Pozzato (ICARUS Collaboration, SBND Collaboration), M. L. Pumo (ICARUS Collaboration, SBND Collaboration), G. Putnam (ICARUS Collaboration, SBND Collaboration), X. Qian (ICARUS Collaboration, SBND Collaboration), R. Rajagopalan (ICARUS Collaboration, SBND Collaboration), A. Rappoldi (ICARUS Collaboration, SBND Collaboration), G. L. Raselli (ICARUS Collaboration, SBND Collaboration), P. Ratoff (ICARUS Collaboration, SBND Collaboration), H. Ray (ICARUS Collaboration, SBND Collaboration), M. Reggiani-Guzzo (ICARUS Collaboration, SBND Collaboration), S. Repetto (ICARUS Collaboration, SBND Collaboration), F. Resnati (ICARUS Collaboration, SBND Collaboration), A. M. Ricci (ICARUS Collaboration, SBND Collaboration), A. Roberts (ICARUS Collaboration, SBND Collaboration), M. Roda (ICARUS Collaboration, SBND Collaboration), A. de Roeck (ICARUS Collaboration, SBND Collaboration), J. Romeo-Araujo (ICARUS Collaboration, SBND Collaboration), M. Rosenberg (ICARUS Collaboration, SBND Collaboration), M. Ross-Lonergan (ICARUS Collaboration, SBND Collaboration), M. Rossella (ICARUS Collaboration, SBND Collaboration), N. Rowe (ICARUS Collaboration, SBND Collaboration), P. Roy (ICARUS Collaboration, SBND Collaboration), C. Rubbia (ICARUS Collaboration, SBND Collaboration), I. Safa (ICARUS Collaboration, SBND Collaboration), S. Saha (ICARUS Collaboration, SBND Collaboration), G. Salmoria (ICARUS Collaboration, SBND Collaboration), S. Samanta (ICARUS Collaboration, SBND Collaboration), A. Sanchez-Castillo (ICARUS Collaboration, SBND Collaboration), P. Sanchez-Lucas (ICARUS Collaboration, SBND Collaboration), A. Scaramelli (ICARUS Collaboration, SBND Collaboration), D. W. Schmitz (ICARUS Collaboration, SBND Collaboration), A. Schneider (ICARUS Collaboration, SBND Collaboration), A. Schukraft (ICARUS Collaboration, SBND Collaboration), H. Scott (ICARUS Collaboration, SBND Collaboration), E. Segreto (ICARUS Collaboration, SBND Collaboration), D. Senadheera (ICARUS Collaboration, SBND Collaboration), S-H. Seo (ICARUS Collaboration, SBND Collaboration), F. Sergiampietri (ICARUS Collaboration, SBND Collaboration), M. Shaevitz (ICARUS Collaboration, SBND Collaboration), P. Singh (ICARUS Collaboration, SBND Collaboration), G. Sirri (ICARUS Collaboration, SBND Collaboration), B. Slater (ICARUS Collaboration, SBND Collaboration), J. S. Smedley (ICARUS Collaboration, SBND Collaboration), J. Smith (ICARUS Collaboration, SBND Collaboration), M. Soares-Nunes (ICARUS Collaboration, SBND Collaboration), M. Soderberg (ICARUS Collaboration, SBND Collaboration), S. Soldner-Rembold (ICARUS Collaboration, SBND Collaboration), J. Spitz (ICARUS Collaboration, SBND Collaboration), M. Stancari (ICARUS Collaboration, SBND Collaboration), L. Stanco (ICARUS Collaboration, SBND Collaboration), J. Stewart (ICARUS Collaboration, SBND Collaboration), T. Strauss (ICARUS Collaboration, SBND Collaboration), A. M. Szelc (ICARUS Collaboration, SBND Collaboration), H. A. Tanaka (ICARUS Collaboration, SBND Collaboration), M. Tenti (ICARUS Collaboration, SBND Collaboration), K. Terao (ICARUS Collaboration, SBND Collaboration), F. Terranova (ICARUS Collaboration, SBND Collaboration), C. Thorpe (ICARUS Collaboration, SBND Collaboration), V. Togo (ICARUS Collaboration, SBND Collaboration), D. Torretta (ICARUS Collaboration, SBND Collaboration), M. Torti (ICARUS Collaboration, SBND Collaboration), F. Tortorici (ICARUS Collaboration, SBND Collaboration), D. Totani (ICARUS Collaboration, SBND Collaboration), M. Toups (ICARUS Collaboration, SBND Collaboration), C. Touramanis (ICARUS Collaboration, SBND Collaboration), R. Triozzi (ICARUS Collaboration, SBND Collaboration), Y. -T. Tsai (ICARUS Collaboration, SBND Collaboration), L. Tung (ICARUS Collaboration, SBND Collaboration), M. Del Tutto (ICARUS Collaboration, SBND Collaboration), T. Usher (ICARUS Collaboration, SBND Collaboration), G. A. Valdiviesso (ICARUS Collaboration, SBND Collaboration), F. Varanini (ICARUS Collaboration, SBND Collaboration), N. Vardy (ICARUS Collaboration, SBND Collaboration), S. Ventura (ICARUS Collaboration, SBND Collaboration), M. Vicenzi (ICARUS Collaboration, SBND Collaboration), C. Vignoli (ICARUS Collaboration, SBND Collaboration), L. Wan (ICARUS Collaboration, SBND Collaboration), R. G. Van de Water (ICARUS Collaboration, SBND Collaboration), M. Weber (ICARUS Collaboration, SBND Collaboration), H. Wei (ICARUS Collaboration, SBND Collaboration), T. Wester (ICARUS Collaboration, SBND Collaboration), A. White (ICARUS Collaboration, SBND Collaboration), F. A. Wieler (ICARUS Collaboration, SBND Collaboration), A. Wilkinson (ICARUS Collaboration, SBND Collaboration), Z. Williams (ICARUS Collaboration, SBND Collaboration), P. Wilson (ICARUS Collaboration, SBND Collaboration), R. J. Wilson (ICARUS Collaboration, SBND Collaboration), J. Wolfs (ICARUS Collaboration, SBND Collaboration), T. Wongjirad (ICARUS Collaboration, SBND Collaboration), A. Wood (ICARUS Collaboration, SBND Collaboration), E. Worcester (ICARUS Collaboration, SBND Collaboration), M. Worcester (ICARUS Collaboration, SBND Collaboration), S. Yadav (ICARUS Collaboration, SBND Collaboration), E. Yandel (ICARUS Collaboration, SBND Collaboration), T. Yang (ICARUS Collaboration, SBND Collaboration), L. Yates (ICARUS Collaboration, SBND Collaboration), B. Yu (ICARUS Collaboration, SBND Collaboration), H. Yu (ICARUS Collaboration, SBND Collaboration), J. Yu (ICARUS Collaboration, SBND Collaboration), B. Zamorano (ICARUS Collaboration, SBND Collaboration), A. Zani (ICARUS Collaboration, SBND Collaboration), A. Vazquez-Ramos (ICARUS Collaboration, SBND Collaboration), J. Zennamo (ICARUS Collaboration, SBND Collaboration), J. Zettlemoyer (ICARUS Collaboration, SBND Collaboration), C. Zhang (ICARUS Collaboration, SBND Collaboration), S. Zucchelli (ICARUS Collaboration, SBND Collaboration)",
-    "link": "https://arxiv.org/abs/2605.18861"
+    "autore": "Felipe Domingos, Humberto T. Marques-Neto, Bruno Pereira, Clayson Celes, Steffen Knoblauch, Vin\\'icius F. S. Mota",
+    "link": "https://arxiv.org/abs/2605.20263"
   },
   {
-    "titolo": "Enhanced Temperature Sensitivity in Ensemble NV Centers through Improved Optically Detected Magnetic Resonance Spectral Modeling",
-    "data": "Wed, 20 May 2026 00:00:00 -0400",
+    "titolo": "Spatial Activity Opportunity Fairness among Elderly Residents in Nagoya: A Comparative Analysis across Three Wards with Different Rent Levels",
+    "data": "Thu, 21 May 2026 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Yuki S. Kato, Shingo Sotoma, Keisuke Fujita, Masanori Fujiwara, Izuru Ohki, Yuichiro Matsuzaki, Norikazu Mizuochi, Yoshie Harada",
-    "link": "https://arxiv.org/abs/2605.18863"
+    "autore": "Jianhao Shi, Tomio Miwa",
+    "link": "https://arxiv.org/abs/2605.20280"
   },
   {
-    "titolo": "Environmental Stabilization of Perfect-Crystal Neutron Interferometry Using a Large Vacuum Chamber with Cryogenic Sample Access",
-    "data": "Wed, 20 May 2026 00:00:00 -0400",
+    "titolo": "The Era of Extremely Large Optical Telescopes The ELT",
+    "data": "Thu, 21 May 2026 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Robert Valdillez, David G. Cory, Robert W. Haun, Benjamin Heacock, Colin Heikes, Shannon F. Hoogerheide, Michael G. Huber, Taisiya Mineeva, Jeremy Paster, Dusan Sarenac, Dmitry A. Pushin, Albert R. Young",
-    "link": "https://arxiv.org/abs/2605.18874"
+    "autore": "Priya Hasan",
+    "link": "https://arxiv.org/abs/2605.20305"
   },
   {
-    "titolo": "Stop Drawing Scientific Claims from LLM Social Simulations Without Robustness Audits",
-    "data": "Wed, 20 May 2026 00:00:00 -0400",
+    "titolo": "Design and Fabrication of Coaxial Dual Core Optical Fiber Fan-in Device",
+    "data": "Thu, 21 May 2026 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Jinyi Ye, Lei Cao, Ding Chen, Emilio Ferrara",
-    "link": "https://arxiv.org/abs/2605.18890"
+    "autore": "Yuhong Ma, Shitai Yang, Libo Yuan",
+    "link": "https://arxiv.org/abs/2605.20307"
+  },
+  {
+    "titolo": "A simple model of co-emergence of grid and place fields",
+    "data": "2026-05-20T16:19:56Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Vijay Balasubramanian",
+    "link": "https://arxiv.org/abs/2605.21356v1"
+  },
+  {
+    "titolo": "Stimulus symmetries can confound representational similarity analyses",
+    "data": "2026-05-20T15:51:21Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Jacob A. Zavatone-Veth",
+    "link": "https://arxiv.org/abs/2605.21324v1"
+  },
+  {
+    "titolo": "Compartmental-reaction diffusion framework for microscale dynamics of extracellular serotonin in brain tissue",
+    "data": "2025-12-04T20:49:56Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Gregory Handy",
+    "link": "https://arxiv.org/abs/2512.10983v2"
+  },
+  {
+    "titolo": "Parallelized Hierarchical Connectome: A Spatiotemporal Recurrent Framework for Spiking State-Space Models",
+    "data": "2026-04-01T18:02:29Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Po-Han Chiang",
+    "link": "https://arxiv.org/abs/2604.01295v2"
+  },
+  {
+    "titolo": "Computational Auditory Periphery Models: the Return of the Rodent",
+    "data": "2026-05-18T19:53:18Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "S. Verhulst",
+    "link": "https://arxiv.org/abs/2605.19070v2"
+  },
+  {
+    "titolo": "Platonic Representations in the Human Brain: Unsupervised Recovery of Universal Geometry",
+    "data": "2026-05-19T21:04:15Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Lluís Fuentemilla",
+    "link": "https://arxiv.org/abs/2605.20496v1"
+  },
+  {
+    "titolo": "Task-conditioned probing of instruction-tuned multimodal LLMs: Region-specific brain alignment patterns under naturalistic stimuli",
+    "data": "2025-06-09T22:48:36Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Manish Gupta",
+    "link": "https://arxiv.org/abs/2506.08277v3"
+  },
+  {
+    "titolo": "Beyond Prediction Accuracy: Target-Space Recovery Profiles for Evaluating Model-Brain Alignment",
+    "data": "2026-05-19T17:14:27Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Kaoru Amano",
+    "link": "https://arxiv.org/abs/2605.20127v1"
+  },
+  {
+    "titolo": "Reshaping Neural Representation via Associative, Presynaptic Short-Term Plasticity",
+    "data": "2026-01-15T13:46:07Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Taro Toyoizumi",
+    "link": "https://arxiv.org/abs/2601.10397v3"
+  },
+  {
+    "titolo": "Performance of low vision individuals when selecting a target with head-pointing in virtual reality",
+    "data": "2026-05-19T13:11:35Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Eric Castet",
+    "link": "https://arxiv.org/abs/2605.19816v1"
+  },
+  {
+    "titolo": "Diffusion of Context and Credit Information in Markovian Models",
+    "data": "1995-10-01T00:00:00Z",
+    "fonte": "arXiv Query: search_query=au:\"Bengio Y\"&id_list=&start=0&max_results=100",
+    "autore": "P. Frasconi",
+    "link": "https://arxiv.org/abs/cs/9510101v1"
   },
   {
     "titolo": "The First Large Absorption Survey in HI (FLASH): II. Pilot Survey data release and first results",
@@ -698,6 +775,13 @@
     "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
     "autore": "T. Wilson",
     "link": "https://arxiv.org/abs/1608.00750v1"
+  },
+  {
+    "titolo": "Comparing Dynamics: Deep Neural Networks versus Glassy Systems",
+    "data": "2018-03-19T14:59:01Z",
+    "fonte": "arXiv Query: search_query=au:\"LeCun Y\"&id_list=&start=0&max_results=100",
+    "autore": "G. Biroli",
+    "link": "https://arxiv.org/abs/1803.06969v2"
   },
   {
     "titolo": "General Assembly backs historic World Court climate crisis ruling",
@@ -980,6 +1064,20 @@
     "link": "https://cepr.org/research/programme-areas/international-macroeconomics"
   },
   {
+    "titolo": "New film Birthright is a biting, relatable satire on Australia’s housing affordability crisis",
+    "data": "2026-05-21T02:52:18Z",
+    "fonte": "Arts + Culture – The Conversation",
+    "autore": "Gemma Blackwood, Lecturer, Media, University of Tasmania",
+    "link": "https://theconversation.com/new-film-birthright-is-a-biting-relatable-satire-on-australias-housing-affordability-crisis-282257"
+  },
+  {
+    "titolo": "One company dominates NZ’s live music scene – how do we encourage competition?",
+    "data": "2026-05-21T02:00:04Z",
+    "fonte": "Arts + Culture – The Conversation",
+    "autore": "Jesse Austin-Stewart, Lecturer, School of Music and Screen Arts, Te Kunenga ki Pūrehuroa – Massey University",
+    "link": "https://theconversation.com/one-company-dominates-nzs-live-music-scene-how-do-we-encourage-competition-282839"
+  },
+  {
     "titolo": "The Michelin Guide is coming to South Australia. The rest of the country will be watching",
     "data": "2026-05-20T20:06:44Z",
     "fonte": "Arts + Culture – The Conversation",
@@ -1034,20 +1132,6 @@
     "fonte": "Arts + Culture – The Conversation",
     "autore": "Sarah Austin, Senior Lecturer in Theatre, The University of Melbourne",
     "link": "https://theconversation.com/theatre-for-young-audiences-should-be-seen-as-critical-for-childrens-cultural-agency-282864"
-  },
-  {
-    "titolo": "What is the ‘Thucydides trap’ Xi warned Trump about? Lessons from an ancient war between Athens and Sparta",
-    "data": "2026-05-15T04:10:36Z",
-    "fonte": "Arts + Culture – The Conversation",
-    "autore": "David M. Pritchard, Associate Professor of Greek History, The University of Queensland",
-    "link": "https://theconversation.com/what-is-the-thucydides-trap-xi-warned-trump-about-lessons-from-an-ancient-war-between-athens-and-sparta-283054"
-  },
-  {
-    "titolo": "How public voting has turned Eurovision from a song contest into a political platform",
-    "data": "2026-05-15T02:41:33Z",
-    "fonte": "Arts + Culture – The Conversation",
-    "autore": "Oscar Vorobjovas-Pinta, Senior Lecturer in Business Services, Edith Cowan University",
-    "link": "https://theconversation.com/how-public-voting-has-turned-eurovision-from-a-song-contest-into-a-political-platform-282733"
   },
   {
     "titolo": "The government has blocked funding to 13 research projects for security reasons. What happens now?",
@@ -1120,6 +1204,13 @@
     "link": "https://theconversation.com/what-do-you-want-to-be-the-spark-that-helps-indigenous-people-go-to-uni-281870"
   },
   {
+    "titolo": "CSIRO is cutting climate science jobs. This is what’s at stake for Australia",
+    "data": "2026-05-21T01:18:59Z",
+    "fonte": "Environment + Energy – The Conversation",
+    "autore": "Sarah Perkins-Kirkpatrick, Deputy Director, Engagement and Impact, The ARC Centre of Excellence for the Weather of the 21st Century, Australian National University",
+    "link": "https://theconversation.com/csiro-is-cutting-climate-science-jobs-this-is-whats-at-stake-for-australia-283370"
+  },
+  {
     "titolo": "Women experience extreme heat differently to men. And they’re adapting to it in creative ways",
     "data": "2026-05-20T20:06:23Z",
     "fonte": "Environment + Energy – The Conversation",
@@ -1183,11 +1274,18 @@
     "link": "https://theconversation.com/future-big-droughts-may-be-worse-than-we-think-nzs-past-shows-why-282259"
   },
   {
-    "titolo": "New DNA evidence shows dingoes are almost 90% pure – and fall into eight distinct groups",
-    "data": "2026-05-14T20:10:32Z",
-    "fonte": "Environment + Energy – The Conversation",
-    "autore": "Shyamsundar Ravishankar, PhD candidate in Genomics, Adelaide University",
-    "link": "https://theconversation.com/new-dna-evidence-shows-dingoes-are-almost-90-pure-and-fall-into-eight-distinct-groups-282381"
+    "titolo": "Playing host to Putin and Trump, China sends a message – it’s now in the driver’s seat",
+    "data": "2026-05-21T02:53:21Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Alexander Korolev, Senior Lecturer in Politics and International Relations, UNSW Sydney",
+    "link": "https://theconversation.com/playing-host-to-putin-and-trump-china-sends-a-message-its-now-in-the-drivers-seat-283375"
+  },
+  {
+    "titolo": "Foreign Minister Wong orders ambassador called in over Israeli minister’s ‘shocking’ video",
+    "data": "2026-05-21T01:57:29Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Michelle Grattan, Professorial Fellow, University of Canberra",
+    "link": "https://theconversation.com/foreign-minister-wong-orders-ambassador-called-in-over-israeli-ministers-shocking-video-282995"
   },
   {
     "titolo": "We analysed the TikTok history of 142 men. Here’s what it taught us about the manosphere",
@@ -1246,88 +1344,74 @@
     "link": "https://theconversation.com/nz-is-criminalising-sexualised-deepfakes-banning-apps-that-make-them-should-be-next-282127"
   },
   {
-    "titolo": "The Making of One Nation: podcast out now",
-    "data": "2026-05-19T03:25:06Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "Isabella Podwinski, Social Media Producer, The Conversation",
-    "link": "https://theconversation.com/the-making-of-one-nation-podcast-out-now-283269"
-  },
-  {
-    "titolo": "Compulsory voting has boosted turnout in Australia – is it time NZ tried it?",
-    "data": "2026-05-18T20:09:28Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "Myra Williamson, Senior Lecturer in Law, Auckland University of Technology",
-    "link": "https://theconversation.com/compulsory-voting-has-boosted-turnout-in-australia-is-it-time-nz-tried-it-281744"
-  },
-  {
-    "titolo": "Tiny fossils found in 1.7 billion-year-old mud yield clues to the evolution of complex life",
-    "data": "2026-05-20T23:08:13Z",
+    "titolo": "Why diphtheria, whooping cough and measles have come back in Australia",
+    "data": "2026-05-21T04:22:09Z",
     "fonte": "Home – The Conversation",
-    "autore": "Leigh Anne Riedman, Postdoctoral Researcher, Department of Earth Science, University of California, Santa Barbara",
-    "link": "https://theconversation.com/tiny-fossils-found-in-1-7-billion-year-old-mud-yield-clues-to-the-evolution-of-complex-life-282371"
+    "autore": "Adrian Esterman, Professor of Biostatistics and Epidemiology, Adelaide University",
+    "link": "https://theconversation.com/why-diphtheria-whooping-cough-and-measles-have-come-back-in-australia-283364"
   },
   {
-    "titolo": "When AI giants go public, will ordinary investors know if they are along for the ride?",
-    "data": "2026-05-20T22:54:58Z",
+    "titolo": "Yáng Shuāng-zǐ, winner of the International Booker Prize, reveals a Taiwan many Australians have never seen",
+    "data": "2026-05-21T04:02:17Z",
     "fonte": "Home – The Conversation",
-    "autore": "Sara Ali, Research Fellow and Academic Database Advisor, Auckland University of Technology",
-    "link": "https://theconversation.com/when-ai-giants-go-public-will-ordinary-investors-know-if-they-are-along-for-the-ride-282963"
+    "autore": "Mei-fen Kuo, Lecturer in Contemporary Chinese Culture and History, Macquarie University",
+    "link": "https://theconversation.com/yang-shuang-z-winner-of-the-international-booker-prize-reveals-a-taiwan-many-australians-have-never-seen-283373"
   },
   {
-    "titolo": "The Michelin Guide is coming to South Australia. The rest of the country will be watching",
-    "data": "2026-05-20T20:06:44Z",
+    "titolo": "Australia is battling its worst diphtheria outbreak in decades. But vaccines could curb it",
+    "data": "2026-05-21T03:48:24Z",
     "fonte": "Home – The Conversation",
-    "autore": "Roshis Krishna Shrestha, Research Assistant Professor, School of Hotel and Tourism Management, Hong Kong Polytechnic University",
-    "link": "https://theconversation.com/the-michelin-guide-is-coming-to-south-australia-the-rest-of-the-country-will-be-watching-283072"
+    "autore": "Bianca Middleton, Senior Research Fellow, Global and Tropical Health Division, Menzies School of Health Research",
+    "link": "https://theconversation.com/australia-is-battling-its-worst-diphtheria-outbreak-in-decades-but-vaccines-could-curb-it-283362"
   },
   {
-    "titolo": "Poet, playwright, spy: Stephen Greenblatt conjures the brilliant life of Christopher Marlowe",
-    "data": "2026-05-20T20:06:34Z",
+    "titolo": "This little-known scheme can help first home buyers save thousands more for a deposit, with less tax",
+    "data": "2026-05-21T03:43:18Z",
     "fonte": "Home – The Conversation",
-    "autore": "Kate Flaherty, Senior Lecturer (English and Drama), Australian National University",
-    "link": "https://theconversation.com/poet-playwright-spy-stephen-greenblatt-conjures-the-brilliant-life-of-christopher-marlowe-280465"
+    "autore": "Natalie Peng, Lecturer in Accounting, The University of Queensland",
+    "link": "https://theconversation.com/this-little-known-scheme-can-help-first-home-buyers-save-thousands-more-for-a-deposit-with-less-tax-283278"
   },
   {
-    "titolo": "Women experience extreme heat differently to men. And they’re adapting to it in creative ways",
-    "data": "2026-05-20T20:06:23Z",
+    "titolo": "Playing host to Putin and Trump, China sends a message – it’s now in the driver’s seat",
+    "data": "2026-05-21T02:53:21Z",
     "fonte": "Home – The Conversation",
-    "autore": "Sergio Jarillo, Research Fellow in Climate Change Adaptation, The University of Melbourne",
-    "link": "https://theconversation.com/women-experience-extreme-heat-differently-to-men-and-theyre-adapting-to-it-in-creative-ways-282493"
+    "autore": "Alexander Korolev, Senior Lecturer in Politics and International Relations, UNSW Sydney",
+    "link": "https://theconversation.com/playing-host-to-putin-and-trump-china-sends-a-message-its-now-in-the-drivers-seat-283375"
   },
   {
-    "titolo": "Rare 567-million-year-old fossils refine our understanding of early animal evolution",
-    "data": "2026-05-20T20:06:11Z",
+    "titolo": "New film Birthright is a biting, relatable satire on Australia’s housing affordability crisis",
+    "data": "2026-05-21T02:52:18Z",
     "fonte": "Home – The Conversation",
-    "autore": "Anthony Clarke, Research Fellow, School of Earth and Planetary Sciences, Curtin University",
-    "link": "https://theconversation.com/rare-567-million-year-old-fossils-refine-our-understanding-of-early-animal-evolution-283260"
+    "autore": "Gemma Blackwood, Lecturer, Media, University of Tasmania",
+    "link": "https://theconversation.com/new-film-birthright-is-a-biting-relatable-satire-on-australias-housing-affordability-crisis-282257"
   },
   {
-    "titolo": "Blood biomarkers could detect earliest signs of Alzheimer’s disease – and slow its progression",
-    "data": "2026-05-20T20:06:00Z",
+    "titolo": "How do I know if my electric blanket or heated throw is safe?",
+    "data": "2026-05-21T02:09:36Z",
     "fonte": "Home – The Conversation",
-    "autore": "Ashleigh Barrett-Young, Research Fellow in Brain Health, University of Otago",
-    "link": "https://theconversation.com/blood-biomarkers-could-detect-earliest-signs-of-alzheimers-disease-and-slow-its-progression-282582"
+    "autore": "Niusha Shafiabady, Professor in Computational Intelligence, Australian Catholic University",
+    "link": "https://theconversation.com/how-do-i-know-if-my-electric-blanket-or-heated-throw-is-safe-282858"
   },
   {
-    "titolo": "‘Forever renting’ is common in New York, California and Europe. What lessons can we learn?",
-    "data": "2026-05-20T20:05:48Z",
+    "titolo": "One company dominates NZ’s live music scene – how do we encourage competition?",
+    "data": "2026-05-21T02:00:04Z",
     "fonte": "Home – The Conversation",
-    "autore": "Dorina Pojani, Associate Professor in Urban Planning, The University of Queensland",
-    "link": "https://theconversation.com/forever-renting-is-common-in-new-york-california-and-europe-what-lessons-can-we-learn-283141"
+    "autore": "Jesse Austin-Stewart, Lecturer, School of Music and Screen Arts, Te Kunenga ki Pūrehuroa – Massey University",
+    "link": "https://theconversation.com/one-company-dominates-nzs-live-music-scene-how-do-we-encourage-competition-282839"
   },
   {
-    "titolo": "Nearly everything we use online is owned by big tech. There’s a better way forward",
-    "data": "2026-05-20T20:05:35Z",
+    "titolo": "Foreign Minister Wong orders ambassador called in over Israeli minister’s ‘shocking’ video",
+    "data": "2026-05-21T01:57:29Z",
     "fonte": "Home – The Conversation",
-    "autore": "Daniel Angus, Professor of Digital Communication, Director of QUT Digital Media Research Centre, Queensland University of Technology",
-    "link": "https://theconversation.com/nearly-everything-we-use-online-is-owned-by-big-tech-theres-a-better-way-forward-282969"
+    "autore": "Michelle Grattan, Professorial Fellow, University of Canberra",
+    "link": "https://theconversation.com/foreign-minister-wong-orders-ambassador-called-in-over-israeli-ministers-shocking-video-282995"
   },
   {
-    "titolo": "We analysed the TikTok history of 142 men. Here’s what it taught us about the manosphere",
-    "data": "2026-05-20T20:05:23Z",
+    "titolo": "CSIRO is cutting climate science jobs. This is what’s at stake for Australia",
+    "data": "2026-05-21T01:18:59Z",
     "fonte": "Home – The Conversation",
-    "autore": "Zac Seidler, Associate Professor, Centre for Youth Mental Health, The University of Melbourne",
-    "link": "https://theconversation.com/we-analysed-the-tiktok-history-of-142-men-heres-what-it-taught-us-about-the-manosphere-282156"
+    "autore": "Sarah Perkins-Kirkpatrick, Deputy Director, Engagement and Impact, The ARC Centre of Excellence for the Weather of the 21st Century, Australian National University",
+    "link": "https://theconversation.com/csiro-is-cutting-climate-science-jobs-this-is-whats-at-stake-for-australia-283370"
   },
   {
     "titolo": "Vitiligo affects around 1 in 100 people worldwide – yet the skin condition remains misunderstood",
@@ -1680,74 +1764,74 @@
     "link": "https://theconversation.com/customers-like-diversity-from-brands-but-can-smell-hypocrisy-a-mile-away-218683"
   },
   {
-    "titolo": "Tiny fossils found in 1.7 billion-year-old mud yield clues to the evolution of complex life",
-    "data": "2026-05-20T23:08:13Z",
+    "titolo": "Why diphtheria, whooping cough and measles have come back in Australia",
+    "data": "2026-05-21T04:22:09Z",
     "fonte": "English – The Conversation",
-    "autore": "Leigh Anne Riedman, Postdoctoral Researcher, Department of Earth Science, University of California, Santa Barbara",
-    "link": "https://theconversation.com/tiny-fossils-found-in-1-7-billion-year-old-mud-yield-clues-to-the-evolution-of-complex-life-282371"
+    "autore": "Adrian Esterman, Professor of Biostatistics and Epidemiology, Adelaide University",
+    "link": "https://theconversation.com/why-diphtheria-whooping-cough-and-measles-have-come-back-in-australia-283364"
   },
   {
-    "titolo": "When AI giants go public, will ordinary investors know if they are along for the ride?",
-    "data": "2026-05-20T22:54:58Z",
+    "titolo": "Yáng Shuāng-zǐ, winner of the International Booker Prize, reveals a Taiwan many Australians have never seen",
+    "data": "2026-05-21T04:02:17Z",
     "fonte": "English – The Conversation",
-    "autore": "Sara Ali, Research Fellow and Academic Database Advisor, Auckland University of Technology",
-    "link": "https://theconversation.com/when-ai-giants-go-public-will-ordinary-investors-know-if-they-are-along-for-the-ride-282963"
+    "autore": "Mei-fen Kuo, Lecturer in Contemporary Chinese Culture and History, Macquarie University",
+    "link": "https://theconversation.com/yang-shuang-z-winner-of-the-international-booker-prize-reveals-a-taiwan-many-australians-have-never-seen-283373"
   },
   {
-    "titolo": "The Michelin Guide is coming to South Australia. The rest of the country will be watching",
-    "data": "2026-05-20T20:06:44Z",
+    "titolo": "Australia is battling its worst diphtheria outbreak in decades. But vaccines could curb it",
+    "data": "2026-05-21T03:48:24Z",
     "fonte": "English – The Conversation",
-    "autore": "Roshis Krishna Shrestha, Research Assistant Professor, School of Hotel and Tourism Management, Hong Kong Polytechnic University",
-    "link": "https://theconversation.com/the-michelin-guide-is-coming-to-south-australia-the-rest-of-the-country-will-be-watching-283072"
+    "autore": "Bianca Middleton, Senior Research Fellow, Global and Tropical Health Division, Menzies School of Health Research",
+    "link": "https://theconversation.com/australia-is-battling-its-worst-diphtheria-outbreak-in-decades-but-vaccines-could-curb-it-283362"
   },
   {
-    "titolo": "Poet, playwright, spy: Stephen Greenblatt conjures the brilliant life of Christopher Marlowe",
-    "data": "2026-05-20T20:06:34Z",
+    "titolo": "This little-known scheme can help first home buyers save thousands more for a deposit, with less tax",
+    "data": "2026-05-21T03:43:18Z",
     "fonte": "English – The Conversation",
-    "autore": "Kate Flaherty, Senior Lecturer (English and Drama), Australian National University",
-    "link": "https://theconversation.com/poet-playwright-spy-stephen-greenblatt-conjures-the-brilliant-life-of-christopher-marlowe-280465"
+    "autore": "Natalie Peng, Lecturer in Accounting, The University of Queensland",
+    "link": "https://theconversation.com/this-little-known-scheme-can-help-first-home-buyers-save-thousands-more-for-a-deposit-with-less-tax-283278"
   },
   {
-    "titolo": "Women experience extreme heat differently to men. And they’re adapting to it in creative ways",
-    "data": "2026-05-20T20:06:23Z",
+    "titolo": "Playing host to Putin and Trump, China sends a message – it’s now in the driver’s seat",
+    "data": "2026-05-21T02:53:21Z",
     "fonte": "English – The Conversation",
-    "autore": "Sergio Jarillo, Research Fellow in Climate Change Adaptation, The University of Melbourne",
-    "link": "https://theconversation.com/women-experience-extreme-heat-differently-to-men-and-theyre-adapting-to-it-in-creative-ways-282493"
+    "autore": "Alexander Korolev, Senior Lecturer in Politics and International Relations, UNSW Sydney",
+    "link": "https://theconversation.com/playing-host-to-putin-and-trump-china-sends-a-message-its-now-in-the-drivers-seat-283375"
   },
   {
-    "titolo": "Rare 567-million-year-old fossils refine our understanding of early animal evolution",
-    "data": "2026-05-20T20:06:11Z",
+    "titolo": "New film Birthright is a biting, relatable satire on Australia’s housing affordability crisis",
+    "data": "2026-05-21T02:52:18Z",
     "fonte": "English – The Conversation",
-    "autore": "Anthony Clarke, Research Fellow, School of Earth and Planetary Sciences, Curtin University",
-    "link": "https://theconversation.com/rare-567-million-year-old-fossils-refine-our-understanding-of-early-animal-evolution-283260"
+    "autore": "Gemma Blackwood, Lecturer, Media, University of Tasmania",
+    "link": "https://theconversation.com/new-film-birthright-is-a-biting-relatable-satire-on-australias-housing-affordability-crisis-282257"
   },
   {
-    "titolo": "Blood biomarkers could detect earliest signs of Alzheimer’s disease – and slow its progression",
-    "data": "2026-05-20T20:06:00Z",
+    "titolo": "How do I know if my electric blanket or heated throw is safe?",
+    "data": "2026-05-21T02:09:36Z",
     "fonte": "English – The Conversation",
-    "autore": "Ashleigh Barrett-Young, Research Fellow in Brain Health, University of Otago",
-    "link": "https://theconversation.com/blood-biomarkers-could-detect-earliest-signs-of-alzheimers-disease-and-slow-its-progression-282582"
+    "autore": "Niusha Shafiabady, Professor in Computational Intelligence, Australian Catholic University",
+    "link": "https://theconversation.com/how-do-i-know-if-my-electric-blanket-or-heated-throw-is-safe-282858"
   },
   {
-    "titolo": "‘Forever renting’ is common in New York, California and Europe. What lessons can we learn?",
-    "data": "2026-05-20T20:05:48Z",
+    "titolo": "One company dominates NZ’s live music scene – how do we encourage competition?",
+    "data": "2026-05-21T02:00:04Z",
     "fonte": "English – The Conversation",
-    "autore": "Dorina Pojani, Associate Professor in Urban Planning, The University of Queensland",
-    "link": "https://theconversation.com/forever-renting-is-common-in-new-york-california-and-europe-what-lessons-can-we-learn-283141"
+    "autore": "Jesse Austin-Stewart, Lecturer, School of Music and Screen Arts, Te Kunenga ki Pūrehuroa – Massey University",
+    "link": "https://theconversation.com/one-company-dominates-nzs-live-music-scene-how-do-we-encourage-competition-282839"
   },
   {
-    "titolo": "Nearly everything we use online is owned by big tech. There’s a better way forward",
-    "data": "2026-05-20T20:05:35Z",
+    "titolo": "Foreign Minister Wong orders ambassador called in over Israeli minister’s ‘shocking’ video",
+    "data": "2026-05-21T01:57:29Z",
     "fonte": "English – The Conversation",
-    "autore": "Daniel Angus, Professor of Digital Communication, Director of QUT Digital Media Research Centre, Queensland University of Technology",
-    "link": "https://theconversation.com/nearly-everything-we-use-online-is-owned-by-big-tech-theres-a-better-way-forward-282969"
+    "autore": "Michelle Grattan, Professorial Fellow, University of Canberra",
+    "link": "https://theconversation.com/foreign-minister-wong-orders-ambassador-called-in-over-israeli-ministers-shocking-video-282995"
   },
   {
-    "titolo": "We analysed the TikTok history of 142 men. Here’s what it taught us about the manosphere",
-    "data": "2026-05-20T20:05:23Z",
+    "titolo": "CSIRO is cutting climate science jobs. This is what’s at stake for Australia",
+    "data": "2026-05-21T01:18:59Z",
     "fonte": "English – The Conversation",
-    "autore": "Zac Seidler, Associate Professor, Centre for Youth Mental Health, The University of Melbourne",
-    "link": "https://theconversation.com/we-analysed-the-tiktok-history-of-142-men-heres-what-it-taught-us-about-the-manosphere-282156"
+    "autore": "Sarah Perkins-Kirkpatrick, Deputy Director, Engagement and Impact, The ARC Centre of Excellence for the Weather of the 21st Century, Australian National University",
+    "link": "https://theconversation.com/csiro-is-cutting-climate-science-jobs-this-is-whats-at-stake-for-australia-283370"
   },
   {
     "titolo": "Quelles solutions pour stabiliser le réseau électrique aujourd’hui ?",
