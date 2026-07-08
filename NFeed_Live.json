@@ -140,25 +140,11 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003839"
   },
   {
-    "titolo": "Cribriform plate microenvironment assembles a suppressive myeloid network during EAE-induced neuroinflammation",
+    "titolo": "TGF-β drives the conversion of conventional NK cells into uterine tissue-resident NK cells to support murine pregnancy",
     "data": "Wed, 08 Jul 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "zfabry@wisc.edu (Zsuzsanna Fabry)",
-    "link": "https://elifesciences.org/articles/110460"
-  },
-  {
-    "titolo": "Celldetective, an AI-enhanced image analysis tool for unraveling dynamic cell interactions",
-    "data": "Wed, 08 Jul 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "remy.torro@gmail.com (Rémy Torro)",
-    "link": "https://elifesciences.org/articles/105302"
-  },
-  {
-    "titolo": "Lenacapavir-induced lattice hyperstabilization is central to HIV-1 capsid failure at the nuclear pore complex and in the cytoplasm",
-    "data": "Wed, 08 Jul 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "gavoth@uchicago.edu (Vinay K Pathak)",
-    "link": "https://elifesciences.org/articles/109282"
+    "autore": "yokoyama@wustl.edu (Wayne M Yokoyama)",
+    "link": "https://elifesciences.org/articles/109878"
   },
   {
     "titolo": "Depletion of extracellular asparagine impairs self-reactive T cells and ameliorates autoimmunity in a murine model of multiple sclerosis",
@@ -168,11 +154,11 @@
     "link": "https://elifesciences.org/articles/107745"
   },
   {
-    "titolo": "Disentangling cephalopod chromatophores motor units with computer vision",
+    "titolo": "Canonical and phosphoribosyl ubiquitination coordinate to stabilize a proteinaceous structure surrounding the <i>Legionella</i>-containing vacuole",
     "data": "Wed, 08 Jul 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "g.laurent@brain.mpg.de (Yifan Wu)",
-    "link": "https://elifesciences.org/articles/110074"
+    "autore": "Shaeri.Mukherjee@ucsf.edu (Shaeri Mukherjee)",
+    "link": "https://elifesciences.org/articles/108254"
   },
   {
     "titolo": "Proteomic composition and mutual assembly of the C2a projection in vertebrate motile cilia",
@@ -182,11 +168,11 @@
     "link": "https://elifesciences.org/articles/110601"
   },
   {
-    "titolo": "Canonical and phosphoribosyl ubiquitination coordinate to stabilize a proteinaceous structure surrounding the <i>Legionella</i>-containing vacuole",
+    "titolo": "Lenacapavir-induced lattice hyperstabilization is central to HIV-1 capsid failure at the nuclear pore complex and in the cytoplasm",
     "data": "Wed, 08 Jul 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "Shaeri.Mukherjee@ucsf.edu (Shaeri Mukherjee)",
-    "link": "https://elifesciences.org/articles/108254"
+    "autore": "gavoth@uchicago.edu (Vinay K Pathak)",
+    "link": "https://elifesciences.org/articles/109282"
   },
   {
     "titolo": "Autosomal allelic inactivation at loci with variable replication timing and dosage sensitivity",
@@ -196,13 +182,6 @@
     "link": "https://elifesciences.org/articles/109938"
   },
   {
-    "titolo": "TGF-β drives the conversion of conventional NK cells into uterine tissue-resident NK cells to support murine pregnancy",
-    "data": "Wed, 08 Jul 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "yokoyama@wustl.edu (Wayne M Yokoyama)",
-    "link": "https://elifesciences.org/articles/109878"
-  },
-  {
     "titolo": "Medial prefrontal cortex encodes but is not required to generate goal-directed actions under threat",
     "data": "Wed, 08 Jul 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -210,214 +189,235 @@
     "link": "https://elifesciences.org/articles/110964"
   },
   {
+    "titolo": "Disentangling cephalopod chromatophores motor units with computer vision",
+    "data": "Wed, 08 Jul 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "g.laurent@brain.mpg.de (Yifan Wu)",
+    "link": "https://elifesciences.org/articles/110074"
+  },
+  {
+    "titolo": "Dynamic assembly of malate dehydrogenase–citrate synthase multienzyme complex in the mitochondria",
+    "data": "Wed, 08 Jul 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "tobata2@unl.edu (Toshihiro Obata)",
+    "link": "https://elifesciences.org/articles/107953"
+  },
+  {
+    "titolo": "Visual working memory guides attention rhythmically in humans",
+    "data": "Wed, 08 Jul 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "ljcps@gzhu.edu.cn (Yaochun Cai)",
+    "link": "https://elifesciences.org/articles/108017"
+  },
+  {
     "titolo": "A viral ORFeome library for systems-level genetic dissection of host-pathogen interactions",
     "data": "Thu, 02 Jul 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Stephen J Elledge",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42392077/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260708154157&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42392077/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260708181148&v=2.20.0"
   },
   {
     "titolo": "Co-option of lysosomal machinery shapes the evolution of the intracellular photosymbiosis supporting coral reefs",
     "data": "Wed, 01 Jul 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Phillip A Cleves",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42385704/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260708154157&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42385704/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260708181148&v=2.20.0"
   },
   {
     "titolo": "LEF1 and niche factors determine T cell stemness across chronic diseases",
     "data": "Wed, 01 Jul 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Andrea Schietinger",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42385703/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260708154157&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42385703/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260708181148&v=2.20.0"
   },
   {
     "titolo": "Recurrent patterns of TOP1-mediated neuronal genomic damage shared by major neurodegenerative disorders",
     "data": "Wed, 01 Jul 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Christopher A Walsh",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42385702/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260708154157&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42385702/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260708181148&v=2.20.0"
   },
   {
     "titolo": "Four-dimensional molecular mapping from a spatial snapshot reveals the dynamics of hair follicle organogenesis",
     "data": "Wed, 01 Jul 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Reza Kalhor",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42385701/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260708154157&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42385701/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260708181148&v=2.20.0"
   },
   {
     "titolo": "Whole-cell particle-based digital twin simulations from 4D lattice light-sheet microscopy data",
     "data": "Tue, 30 Jun 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Johannes Schöneberg",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42379169/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260708154157&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42379169/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260708181148&v=2.20.0"
   },
   {
     "titolo": "Systematic discovery of pathogen effector functions across human pathogens and pathways",
     "data": "Tue, 30 Jun 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Mikko Taipale",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42379168/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260708154157&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42379168/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260708181148&v=2.20.0"
   },
   {
     "titolo": "Structural basis for host membrane binding and remodeling by invading malaria parasites",
     "data": "Tue, 30 Jun 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Chi-Min Ho",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42379167/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260708154157&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42379167/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260708181148&v=2.20.0"
   },
   {
     "titolo": "Multiscale integration of tissue and chromatin context converts cell heterogeneity into stable intestinal patterning",
     "data": "Tue, 30 Jun 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Prisca Liberali",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42379166/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260708154157&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42379166/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260708181148&v=2.20.0"
   },
   {
     "titolo": "Arc mediates intercellular tau transmission via extracellular vesicles",
     "data": "Mon, 29 Jun 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Jason D Shepherd",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42372723/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260708154157&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42372723/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260708181148&v=2.20.0"
   },
   {
     "titolo": "Transcription factor BHLHE40 expression in group 3 innate lymphoid cells and RORγt⁺ antigen-presenting cells coordinates intestinal immunity",
     "data": "Tue, 07 Jul 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Randy S Longman",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42413497/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260708154159&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42413497/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260708181150&v=2.20.0"
   },
   {
     "titolo": "Targeting cholesterol esterification sensitizes liver cancer to CD8<sup>+</sup> T cell attack by impairing metabolic and redox resilience",
     "data": "Fri, 03 Jul 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Guangchuan Wang",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42398505/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260708154159&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42398505/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260708181150&v=2.20.0"
   },
   {
     "titolo": "Brain endothelial cells orchestrate a neuroprotective antiviral state in the CNS in response to peripheral viral pattern sensing",
     "data": "Thu, 02 Jul 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Alexander Lercher",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42392076/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260708154159&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42392076/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260708181150&v=2.20.0"
   },
   {
     "titolo": "Extracellular ATP-P2RY2 signaling drives intratumoral prostaglandin E2 accumulation and adaptive resistance to immunotherapy in solid tumors",
     "data": "Thu, 02 Jul 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Chong Sun",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42392075/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260708154159&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42392075/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260708181150&v=2.20.0"
   },
   {
     "titolo": "B cell-derived type I interferon sustains T cell functionality upon strong TCR stimulation during chronic infection",
     "data": "Thu, 02 Jul 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Daniel T Utzschneider",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42392074/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260708154159&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42392074/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260708181150&v=2.20.0"
   },
   {
     "titolo": "Lactate binds and inhibits the innate immune sensor STING to promote tumor immune evasion",
     "data": "Tue, 30 Jun 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Zhimin Lu",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42379164/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260708154159&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42379164/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260708181150&v=2.20.0"
   },
   {
     "titolo": "Antibody binding geometry and affinity control inhibitory hFcγRIIB receptor signaling",
     "data": "Thu, 25 Jun 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Mark S Cragg",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42349409/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260708154159&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42349409/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260708181150&v=2.20.0"
   },
   {
     "titolo": "Targeting immune cells in the aged brain reveals that engineered cytokine IL-10 enhances neurogenesis and improves cognition",
     "data": "Thu, 25 Jun 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Anne Brunet",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42349408/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260708154159&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42349408/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260708181150&v=2.20.0"
   },
   {
     "titolo": "The transcription factor Eomes drives a stemness program in CD4<sup>+</sup> T cells that promotes anti-tumor immunity in response to immunotherapy",
     "data": "Wed, 24 Jun 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Anne S Dejean",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42341755/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260708154159&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42341755/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260708181150&v=2.20.0"
   },
   {
     "titolo": "Stem-like precursors of exhausted Th cells upheld by a Tox-Myb-Eomes transcriptional hierarchy propagate Th cell responses in chronic infection",
     "data": "Wed, 24 Jun 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Axel Kallies",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42341754/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260708154159&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42341754/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260708181150&v=2.20.0"
   },
   {
     "titolo": "Erratum for the Research Article \"Detecting supramolecular organic nanoparticles during heat wave\"",
     "data": "Thu, 02 Jul 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Anonimo",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42391392/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260708154200&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42391392/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260708181152&v=2.20.0"
   },
   {
     "titolo": "Local signals, systemic decline",
     "data": "Thu, 02 Jul 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Matthew G Vander Heiden",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42391391/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260708154200&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42391391/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260708181152&v=2.20.0"
   },
   {
     "titolo": "The mechanics of liver regeneration",
     "data": "Thu, 02 Jul 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Anna Mae Diehl",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42391390/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260708154200&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42391390/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260708181152&v=2.20.0"
   },
   {
     "titolo": "Computing in a memory with physics",
     "data": "Thu, 02 Jul 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Ilia Valov",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42391389/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260708154200&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42391389/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260708181152&v=2.20.0"
   },
   {
     "titolo": "Retraction",
     "data": "Thu, 02 Jul 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "H Holden Thorp",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42391388/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260708154200&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42391388/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260708181152&v=2.20.0"
   },
   {
     "titolo": "Making time",
     "data": "Thu, 02 Jul 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Joel D Levine",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42391387/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260708154200&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42391387/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260708181152&v=2.20.0"
   },
   {
     "titolo": "Membrane protein solubilization and structure determination using de novo-designed proteins",
     "data": "Thu, 02 Jul 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "David Baker",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42391386/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260708154200&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42391386/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260708181152&v=2.20.0"
   },
   {
     "titolo": "ILC2s regulate a fibroblast progenitor niche in the pancreas",
     "data": "Thu, 02 Jul 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Timotheus Y F Halim",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42391385/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260708154200&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42391385/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260708181152&v=2.20.0"
   },
   {
     "titolo": "Alternating atomic-dipole layers and switching dynamics in Al<sub>1-x</sub>Sc<sub>x</sub>N ferroelectrics",
     "data": "Thu, 02 Jul 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Ming Liu",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42391384/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260708154200&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42391384/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260708181152&v=2.20.0"
   },
   {
     "titolo": "Surface immune signaling unlocks NLR activation through mRNA alternative splicing",
     "data": "Thu, 02 Jul 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Suomeng Dong",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42391383/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260708154200&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42391383/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260708181152&v=2.20.0"
   },
   {
     "titolo": "Keywords for MRI as used to image the brain. Formatted for EMBASE",
@@ -784,6 +784,13 @@
     "link": "https://arxiv.org/abs/1803.06969v2"
   },
   {
+    "titolo": "UN Syria inquiry presses for answers on missing detainees after wide-ranging visit",
+    "data": "Wed, 08 Jul 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1167901"
+  },
+  {
     "titolo": "‘Help is coming’: UN relief chief briefs on Venezuela quake recovery",
     "data": "Wed, 08 Jul 2026 12:00:00 +0000",
     "fonte": "UN News - Global perspective Human stories",
@@ -845,13 +852,6 @@
     "fonte": "UN News - Global perspective Human stories",
     "autore": "Anonimo",
     "link": "https://news.un.org/feed/view/en/story/2026/07/1167888"
-  },
-  {
-    "titolo": "Peace hinges on people-centred policing, global summit hears",
-    "data": "Tue, 07 Jul 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1167887"
   },
   {
     "titolo": "How Argentina Can Protect Its Resource Wealth",
@@ -1064,6 +1064,13 @@
     "link": "https://cepr.org/research/programme-areas/international-macroeconomics"
   },
   {
+    "titolo": "From The Godfather to Middlemarch: 8 of the most faithful adaptations ever",
+    "data": "2026-07-08T19:33:32Z",
+    "fonte": "Arts + Culture – The Conversation",
+    "autore": "Benjamin D. Muir, Casual Academic, School of Humanities and Communication Arts, Western Sydney University",
+    "link": "https://theconversation.com/from-the-godfather-to-middlemarch-8-of-the-most-faithful-adaptations-ever-278531"
+  },
+  {
     "titolo": "‘Adaptive reuse’: how contemporary artists reuse and recycle objects to be born again",
     "data": "2026-07-08T01:48:02Z",
     "fonte": "Arts + Culture – The Conversation",
@@ -1127,11 +1134,11 @@
     "link": "https://theconversation.com/doctor-who-is-on-its-most-uneven-footing-in-20-years-whats-next-for-the-beloved-series-286156"
   },
   {
-    "titolo": "Washington reflecting pool saga is just the latest example of man trying to dominate nature – and losing",
-    "data": "2026-06-26T06:29:12Z",
-    "fonte": "Arts + Culture – The Conversation",
-    "autore": "Katrina Grant, Research Associate, Power Institute for Arts and Visual Culture, University of Sydney",
-    "link": "https://theconversation.com/washington-reflecting-pool-saga-is-just-the-latest-example-of-man-trying-to-dominate-nature-and-losing-286256"
+    "titolo": "Choosing your senior maths subjects? Here’s what to consider",
+    "data": "2026-07-08T19:34:24Z",
+    "fonte": "Education – The Conversation",
+    "autore": "Ben Zunica, Lecturer in Mathematics Education, University of Sydney",
+    "link": "https://theconversation.com/choosing-your-senior-maths-subjects-heres-what-to-consider-286945"
   },
   {
     "titolo": "Female graduates are earning less than their male peers. What might be causing the gap?",
@@ -1195,13 +1202,6 @@
     "fonte": "Education – The Conversation",
     "autore": "Meena Jha, Associate Professor, College of Information & Communication Technology, CQUniversity Australia",
     "link": "https://theconversation.com/unis-are-going-back-to-in-person-exams-but-some-students-are-finding-new-ways-to-cheat-285801"
-  },
-  {
-    "titolo": "More NSW students are going to private schools – where are they coming from?",
-    "data": "2026-06-22T20:13:37Z",
-    "fonte": "Education – The Conversation",
-    "autore": "Emma Rowe, Associate Professor in Education, Deakin University",
-    "link": "https://theconversation.com/more-nsw-students-are-going-to-private-schools-where-are-they-coming-from-285710"
   },
   {
     "titolo": "Living in a glorified tent: new research shows huge energy gaps between older and newer homes",
@@ -1274,6 +1274,20 @@
     "link": "https://theconversation.com/nz-wants-to-end-climate-lawsuits-how-does-that-sit-with-its-international-commitments-285348"
   },
   {
+    "titolo": "Many elite athletes live with health impacts long after they retire. Should they carry all the costs?",
+    "data": "2026-07-08T19:35:01Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Phil Borell, Senior Lecturer (Above the Bar), Aotahi School of Maori and Indigenous Studies, University of Canterbury",
+    "link": "https://theconversation.com/many-elite-athletes-live-with-health-impacts-long-after-they-retire-should-they-carry-all-the-costs-286336"
+  },
+  {
+    "titolo": "Can you put a price on love? For those wanting an Australian partner visa, it’s $11,700",
+    "data": "2026-07-08T19:33:16Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Louisa Jones, Lecturer and Discipline Lead (Migration), Thomas More Law School, Australian Catholic University",
+    "link": "https://theconversation.com/can-you-put-a-price-on-love-for-those-wanting-an-australian-partner-visa-its-11-700-286755"
+  },
+  {
     "titolo": "Politics with Michelle Grattan: Andrew Wilkie on the need to go harder to curb gambling advertising",
     "data": "2026-07-08T06:22:09Z",
     "fonte": "Politics + Society – The Conversation",
@@ -1330,18 +1344,53 @@
     "link": "https://theconversation.com/secrecy-in-victorias-courts-is-rife-here-are-6-reforms-that-would-make-the-system-better-286756"
   },
   {
-    "titolo": "Why reports Trump pressed FIFA to overturn a decision are so alarming",
-    "data": "2026-07-06T10:58:56Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "James Connor, Associate Professor in Sociology, UNSW Sydney",
-    "link": "https://theconversation.com/why-reports-trump-pressed-fifa-to-overturn-a-decision-are-so-alarming-286837"
+    "titolo": "Many elite athletes live with health impacts long after they retire. Should they carry all the costs?",
+    "data": "2026-07-08T19:35:01Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Phil Borell, Senior Lecturer (Above the Bar), Aotahi School of Maori and Indigenous Studies, University of Canterbury",
+    "link": "https://theconversation.com/many-elite-athletes-live-with-health-impacts-long-after-they-retire-should-they-carry-all-the-costs-286336"
   },
   {
-    "titolo": "View from The Hill: WA state byelection within Hastie’s seat another ‘real time’ test for One Nation",
-    "data": "2026-07-06T08:38:21Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "Michelle Grattan, Professorial Fellow, University of Canberra",
-    "link": "https://theconversation.com/view-from-the-hill-wa-state-byelection-within-hasties-seat-another-real-time-test-for-one-nation-286041"
+    "titolo": "Plutarch’s ancient advice for how to be happier online",
+    "data": "2026-07-08T19:34:42Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Matthew Sharpe, Associate Professor in Philosophy, Australian Catholic University",
+    "link": "https://theconversation.com/plutarchs-ancient-advice-for-how-to-be-happier-online-285152"
+  },
+  {
+    "titolo": "Choosing your senior maths subjects? Here’s what to consider",
+    "data": "2026-07-08T19:34:24Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Ben Zunica, Lecturer in Mathematics Education, University of Sydney",
+    "link": "https://theconversation.com/choosing-your-senior-maths-subjects-heres-what-to-consider-286945"
+  },
+  {
+    "titolo": "From The Godfather to Middlemarch: 8 of the most faithful adaptations ever",
+    "data": "2026-07-08T19:33:32Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Benjamin D. Muir, Casual Academic, School of Humanities and Communication Arts, Western Sydney University",
+    "link": "https://theconversation.com/from-the-godfather-to-middlemarch-8-of-the-most-faithful-adaptations-ever-278531"
+  },
+  {
+    "titolo": "Can you put a price on love? For those wanting an Australian partner visa, it’s $11,700",
+    "data": "2026-07-08T19:33:16Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Louisa Jones, Lecturer and Discipline Lead (Migration), Thomas More Law School, Australian Catholic University",
+    "link": "https://theconversation.com/can-you-put-a-price-on-love-for-those-wanting-an-australian-partner-visa-its-11-700-286755"
+  },
+  {
+    "titolo": "Australians live longer than previous decades but spend more years in poorer health",
+    "data": "2026-07-08T19:32:29Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Lauren Ball, Professor of Community Health and Wellbeing, The University of Queensland",
+    "link": "https://theconversation.com/australians-live-longer-than-previous-decades-but-spend-more-years-in-poorer-health-286649"
+  },
+  {
+    "titolo": "Mental illness is up in young people, dementia is now the biggest killer: Australia’s health in 2026",
+    "data": "2026-07-08T19:31:38Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Matt Garrow, Editorial Web Developer, The Conversation",
+    "link": "https://theconversation.com/mental-illness-is-up-in-young-people-dementia-is-now-the-biggest-killer-australias-health-in-2026-286946"
   },
   {
     "titolo": "Politics with Michelle Grattan: Andrew Wilkie on the need to go harder to curb gambling advertising",
@@ -1363,55 +1412,6 @@
     "fonte": "Home – The Conversation",
     "autore": "Nicole Townsend, Lecturer in War Studies, UNSW Sydney",
     "link": "https://theconversation.com/younger-australians-show-greater-interest-in-indigenous-histories-but-know-less-about-them-new-research-286958"
-  },
-  {
-    "titolo": "How does a Telstra outage bring down trains? A telco expert explains",
-    "data": "2026-07-08T03:48:54Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Faraz Hasan, Director of Research, University of Canberra",
-    "link": "https://theconversation.com/how-does-a-telstra-outage-bring-down-trains-a-telco-expert-explains-287062"
-  },
-  {
-    "titolo": "30 years since Dolly the sheep was born, where is cloning technology at now?",
-    "data": "2026-07-08T02:59:34Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Sathana Dushyanthen, Academic Specialist & Senior Lecturer in Cancer Sciences & Digital Health | Superstar of STEM | Science Communicator, The University of Melbourne",
-    "link": "https://theconversation.com/30-years-since-dolly-the-sheep-was-born-where-is-cloning-technology-at-now-285886"
-  },
-  {
-    "titolo": "‘Adaptive reuse’: how contemporary artists reuse and recycle objects to be born again",
-    "data": "2026-07-08T01:48:02Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Alex Burchmore, Senior Lecturer, Art History and Curatorial Studies, Australian National University",
-    "link": "https://theconversation.com/adaptive-reuse-how-contemporary-artists-reuse-and-recycle-objects-to-be-born-again-286158"
-  },
-  {
-    "titolo": "Want to use health insurance in an emergency? Here’s what it does (and doesn’t) cover",
-    "data": "2026-07-08T01:26:15Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Yuting Zhang, Professor of Health Economics, The University of Melbourne",
-    "link": "https://theconversation.com/want-to-use-health-insurance-in-an-emergency-heres-what-it-does-and-doesnt-cover-286438"
-  },
-  {
-    "titolo": "Can picking personal Lotto lines change the odds of winning? We ran the numbers",
-    "data": "2026-07-08T01:19:47Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Peter Alexander Whigham, Professor in Computing, University of Otago",
-    "link": "https://theconversation.com/can-picking-personal-lotto-lines-change-the-odds-of-winning-we-ran-the-numbers-283277"
-  },
-  {
-    "titolo": "‘We learn off one another and we follow through’: weaving fishing nets with the Aunties",
-    "data": "2026-07-07T19:52:04Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Jenelle Benson, Adjunct Lecturer, Faculty of Science and Engineering, Southern Cross University",
-    "link": "https://theconversation.com/we-learn-off-one-another-and-we-follow-through-weaving-fishing-nets-with-the-aunties-286152"
-  },
-  {
-    "titolo": "Food poverty, stress and housing insecurity: what happens when your parent is detained or deported",
-    "data": "2026-07-07T19:51:10Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Suzette Jackson, Lecturer Mental Health and Addictions, Auckland University of Technology",
-    "link": "https://theconversation.com/food-poverty-stress-and-housing-insecurity-what-happens-when-your-parent-is-detained-or-deported-286449"
   },
   {
     "titolo": "The Great Wherever: an intriguing ghost story about the history of African American land in the US South",
@@ -1624,6 +1624,13 @@
     "link": "https://theconversation.com/why-antarctica-froze-millions-of-years-before-the-arctic-new-research-286589"
   },
   {
+    "titolo": "Graham Platner’s campaign implosion highlights the hollowness of America’s political parties and how they can be hijacked by insurgents",
+    "data": "2026-07-08T21:12:11Z",
+    "fonte": "The Conversation – Articles (US)",
+    "autore": "Nicholas Jacobs, Goldfarb Family Distinguished Chair in American Government, Colby College; Institute for Humane Studies",
+    "link": "https://theconversation.com/graham-platners-campaign-implosion-highlights-the-hollowness-of-americas-political-parties-and-how-they-can-be-hijacked-by-insurgents-287111"
+  },
+  {
     "titolo": "Cacti spines, snake fangs, snail love darts – oh my! How function drives the evolution of nature’s puncture tools",
     "data": "2026-07-08T18:01:17Z",
     "fonte": "The Conversation – Articles (US)",
@@ -1685,13 +1692,6 @@
     "fonte": "The Conversation – Articles (US)",
     "autore": "Esther Ndumi Ngumbi, Assistant Professor, Department of Entomology; African-American Studies, University of Illinois Urbana-Champaign",
     "link": "https://theconversation.com/fertilizers-carry-a-hidden-cost-for-soils-crucial-microbes-using-less-as-prices-rise-might-pay-off-for-farms-in-unexpected-ways-283123"
-  },
-  {
-    "titolo": "When shareholder activists attack a company, its rivals may feel the heat too and change their ways",
-    "data": "2026-07-07T12:21:25Z",
-    "fonte": "The Conversation – Articles (US)",
-    "autore": "Kamyar Goudarzi, Assistant Professor of Management, College of Charleston",
-    "link": "https://theconversation.com/when-shareholder-activists-attack-a-company-its-rivals-may-feel-the-heat-too-and-change-their-ways-285042"
   },
   {
     "titolo": "World Cup 2026 quiz",
@@ -1764,6 +1764,20 @@
     "link": "https://theconversation.com/is-childproofing-the-internet-constitutional-a-tech-law-expert-draws-out-the-issues-240430"
   },
   {
+    "titolo": "Graham Platner’s campaign implosion highlights the hollowness of America’s political parties and how they can be hijacked by insurgents",
+    "data": "2026-07-08T21:12:11Z",
+    "fonte": "English – The Conversation",
+    "autore": "Nicholas Jacobs, Goldfarb Family Distinguished Chair in American Government, Colby College; Institute for Humane Studies",
+    "link": "https://theconversation.com/graham-platners-campaign-implosion-highlights-the-hollowness-of-americas-political-parties-and-how-they-can-be-hijacked-by-insurgents-287111"
+  },
+  {
+    "titolo": "Aboriginal title and land ownership is suddenly a hot topic in Canada — and won’t be settled anytime soon",
+    "data": "2026-07-08T20:06:15Z",
+    "fonte": "English – The Conversation",
+    "autore": "Daniel Sims, Associate Professor of First Nations Studies; Adjunct Professor of Education, University of Northern British Columbia",
+    "link": "https://theconversation.com/aboriginal-title-and-land-ownership-is-suddenly-a-hot-topic-in-canada-and-wont-be-settled-anytime-soon-286093"
+  },
+  {
     "titolo": "Many elite athletes live with health impacts long after they retire. Should they carry all the costs?",
     "data": "2026-07-08T19:35:01Z",
     "fonte": "English – The Conversation",
@@ -1818,20 +1832,6 @@
     "fonte": "English – The Conversation",
     "autore": "Philip Anderson, Associate Professor of Biology and Biomechanics, University of Illinois Urbana-Champaign",
     "link": "https://theconversation.com/cacti-spines-snake-fangs-snail-love-darts-oh-my-how-function-drives-the-evolution-of-natures-puncture-tools-284410"
-  },
-  {
-    "titolo": "Fibreglass: How this emerging contaminant is polluting our coasts",
-    "data": "2026-07-08T17:09:57Z",
-    "fonte": "English – The Conversation",
-    "autore": "Juan José Alava, Adjunct professor, Simon Fraser University",
-    "link": "https://theconversation.com/fibreglass-how-this-emerging-contaminant-is-polluting-our-coasts-276868"
-  },
-  {
-    "titolo": "The Great Wherever: an intriguing ghost story about the history of African American land in the US South",
-    "data": "2026-07-08T15:51:14Z",
-    "fonte": "English – The Conversation",
-    "autore": "Sharon Monteith, Distinguished Professor of American Literature and Cultural History, Nottingham Trent University",
-    "link": "https://theconversation.com/the-great-wherever-an-intriguing-ghost-story-about-the-history-of-african-american-land-in-the-us-south-286390"
   },
   {
     "titolo": "Une découverte inattendue : des traces de séismes anciens dans le Bassin parisien",
