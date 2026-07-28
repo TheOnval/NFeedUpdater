@@ -140,18 +140,11 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003869"
   },
   {
-    "titolo": "Excitatory cholecystokinin neurons in the CA3 area regulate the navigation learning and neuroplasticity",
+    "titolo": "Behavioral signatures of post-decisional attention in preferential choice",
     "data": "Tue, 28 Jul 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "fwhuang2@stanford.edu (Stephen Temitayo Bello)",
-    "link": "https://elifesciences.org/articles/109001"
-  },
-  {
-    "titolo": "Magnesium isoglycyrrhizinate alleviates alcohol-associated liver disease through targeting HSD11B1",
-    "data": "Tue, 28 Jul 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "liyan181@smu.edu.cn (Zhaoyi Che)",
-    "link": "https://elifesciences.org/articles/109174"
+    "autore": "ariel.zylberberg@gmail.com (Michael N Shadlen)",
+    "link": "https://elifesciences.org/articles/110729"
   },
   {
     "titolo": "CellCover defines marker gene panels capturing developmental progression in neocortical neural stem cell identity",
@@ -161,32 +154,25 @@
     "link": "https://elifesciences.org/articles/107531"
   },
   {
+    "titolo": "Magnesium isoglycyrrhizinate alleviates alcohol-associated liver disease through targeting HSD11B1",
+    "data": "Tue, 28 Jul 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "liyan181@smu.edu.cn (Zhaoyi Che)",
+    "link": "https://elifesciences.org/articles/109174"
+  },
+  {
+    "titolo": "Excitatory cholecystokinin neurons in the CA3 area regulate the navigation learning and neuroplasticity",
+    "data": "Tue, 28 Jul 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "fwhuang2@stanford.edu (Stephen Temitayo Bello)",
+    "link": "https://elifesciences.org/articles/109001"
+  },
+  {
     "titolo": "Stable excitatory-inhibitory synapse balance despite dynamic turnover",
     "data": "Mon, 27 Jul 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
     "autore": "richard.sando@vanderbilt.edu (Richard C Sando)",
     "link": "https://elifesciences.org/articles/107635"
-  },
-  {
-    "titolo": "Active dendrites enable robust spiking computations despite timing jitter",
-    "data": "Mon, 27 Jul 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "tsjb2@cam.ac.uk (Timothy O'Leary)",
-    "link": "https://elifesciences.org/articles/89629"
-  },
-  {
-    "titolo": "An abundant merozoite surface protein of <i>Plasmodium falciparum</i> modulates susceptibility to inhibitory antibodies",
-    "data": "Mon, 27 Jul 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "danny.wilson@adelaide.edu.au (Robin F Anders)",
-    "link": "https://elifesciences.org/articles/107603"
-  },
-  {
-    "titolo": "Sensory adaptation and pupil-linked arousal support flexible evidence accumulation during perceptual decision making",
-    "data": "Mon, 27 Jul 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "jigold@pennmedicine.upenn.edu (Kara D McGaughey)",
-    "link": "https://elifesciences.org/articles/110685"
   },
   {
     "titolo": "Correction: Differential regulation of hair cell actin cytoskeleton mediated by SRF and MRTFB",
@@ -196,11 +182,11 @@
     "link": "https://elifesciences.org/articles/112679"
   },
   {
-    "titolo": "In-cell cryo-electron tomography reveals differential effects of type I and type II kinase inhibitors on LRRK2 filament formation and microtubule association",
+    "titolo": "An abundant merozoite surface protein of <i>Plasmodium falciparum</i> modulates susceptibility to inhibitory antibodies",
     "data": "Mon, 27 Jul 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "aleschziner@ucsd.edu (William Alexander Flaherty)",
-    "link": "https://elifesciences.org/articles/111075"
+    "autore": "danny.wilson@adelaide.edu.au (Robin F Anders)",
+    "link": "https://elifesciences.org/articles/107603"
   },
   {
     "titolo": "Reprogramming of host energy metabolism mediated by the TNF-iNOS-HIF-1α axis plays a key role in host resistance to <i>Plasmodium</i> infection",
@@ -210,214 +196,228 @@
     "link": "https://elifesciences.org/articles/97759"
   },
   {
+    "titolo": "Active dendrites enable robust spiking computations despite timing jitter",
+    "data": "Mon, 27 Jul 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "tsjb2@cam.ac.uk (Timothy O'Leary)",
+    "link": "https://elifesciences.org/articles/89629"
+  },
+  {
+    "titolo": "Sensory adaptation and pupil-linked arousal support flexible evidence accumulation during perceptual decision making",
+    "data": "Mon, 27 Jul 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "jigold@pennmedicine.upenn.edu (Kara D McGaughey)",
+    "link": "https://elifesciences.org/articles/110685"
+  },
+  {
     "titolo": "Advancing cancer detection and treatment using longitudinal routine clinical data",
     "data": "Mon, 27 Jul 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "International Consortium of Digital Twins in Healthcare and Medicine",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42508404/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260728072249&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42508404/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260728102238&v=2.20.0"
   },
   {
     "titolo": "UniPert-G2CP bridges genetic and chemical screens from molecular representation to phenotype modeling",
     "data": "Fri, 24 Jul 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Jianhua Yao",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42497867/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260728072249&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42497867/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260728102238&v=2.20.0"
   },
   {
     "titolo": "Dynamic dimer-of-dimers architecture defines Mg<sup>2+</sup> transport in human CNNM4",
     "data": "Fri, 24 Jul 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Juan Du",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42497866/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260728072249&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42497866/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260728102238&v=2.20.0"
   },
   {
     "titolo": "An Oryza orphan gene confers trans-species drought tolerance",
     "data": "Thu, 23 Jul 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Lizhong Xiong",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42492508/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260728072249&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42492508/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260728102238&v=2.20.0"
   },
   {
     "titolo": "Trichoderma swollenin activates AtABCB5-dependent auxin efflux to promote plant development",
     "data": "Thu, 23 Jul 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Qirong Shen",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42492507/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260728072249&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42492507/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260728102238&v=2.20.0"
   },
   {
     "titolo": "Bacteriophage genome-wide transposon mutagenesis",
     "data": "Thu, 23 Jul 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Joseph Bondy-Denomy",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42492495/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260728072249&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42492495/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260728102238&v=2.20.0"
   },
   {
     "titolo": "Auxin signaling",
     "data": "Thu, 23 Jul 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Dolf Weijers",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42492494/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260728072249&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42492494/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260728102238&v=2.20.0"
   },
   {
     "titolo": "Do autoantibodies shape cancer immunosurveillance?",
     "data": "Thu, 23 Jul 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Xin Lu",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42492493/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260728072249&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42492493/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260728102238&v=2.20.0"
   },
   {
     "titolo": "The silicon citizen naturalist",
     "data": "Thu, 23 Jul 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Gopal Battu",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42492492/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260728072249&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42492492/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260728102238&v=2.20.0"
   },
   {
     "titolo": "UTR-ly unexpected: RNA chaperones tame intrinsically disordered proteins",
     "data": "Thu, 23 Jul 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "James Shorter",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42492491/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260728072249&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42492491/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260728102238&v=2.20.0"
   },
   {
     "titolo": "Disease-associated microglia adopt stage-specific phenotypes that regulate T cell fate and immunity in glioma",
     "data": "Fri, 24 Jul 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Florent Ginhoux",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42497861/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260728072251&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42497861/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260728102239&v=2.20.0"
   },
   {
     "titolo": "Purine and pyrimidine-based bacterial cyclic dinucleotides egress the phagosome and activate the innate immune sensor STING",
     "data": "Fri, 17 Jul 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Jonathan C Kagan",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42468529/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260728072251&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42468529/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260728102239&v=2.20.0"
   },
   {
     "titolo": "Autophagy maintains high endothelial venule identity and function during inflammation",
     "data": "Fri, 17 Jul 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Gabriele Bergers",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42468528/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260728072251&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42468528/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260728102239&v=2.20.0"
   },
   {
     "titolo": "The transcription factor BACH1 couples chromatin priming and repression to enable macrophage plasticity and adaptation",
     "data": "Fri, 17 Jul 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Laszlo Nagy",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42468527/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260728072251&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42468527/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260728102239&v=2.20.0"
   },
   {
     "titolo": "Activation of the auricular vagus nerve reflex suppresses airway inflammation",
     "data": "Wed, 15 Jul 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Brian S Kim",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42456661/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260728072251&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42456661/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260728102239&v=2.20.0"
   },
   {
     "titolo": "Antigen-restricted Candida albicans Th17 cells link oral-gut immunity and adopt pathogenic features during intestinal inflammation",
     "data": "Tue, 14 Jul 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Petra Bacher",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42447860/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260728072251&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42447860/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260728102239&v=2.20.0"
   },
   {
     "titolo": "The lasting legacy of motherhood in the gut",
     "data": "Tue, 14 Jul 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Stephanie C Ganal-Vonarburg",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42447849/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260728072251&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42447849/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260728102239&v=2.20.0"
   },
   {
     "titolo": "Lung lipids license neutrophils to grease the gate",
     "data": "Tue, 14 Jul 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Mikala Egeblad",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42447848/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260728072251&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42447848/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260728102239&v=2.20.0"
   },
   {
     "titolo": "Danger fuels immune escape",
     "data": "Tue, 14 Jul 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Santiago Zelenay",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42447847/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260728072251&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42447847/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260728102239&v=2.20.0"
   },
   {
     "titolo": "CD4<sup>+</sup> T cells persist with their Eomes",
     "data": "Tue, 14 Jul 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Alice O Kamphorst",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42447846/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260728072251&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42447846/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260728102239&v=2.20.0"
   },
   {
     "titolo": "A tiny cone of reactivity",
     "data": "Thu, 23 Jul 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Jonas Björk",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42490504/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260728072252&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42490504/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260728102240&v=2.20.0"
   },
   {
     "titolo": "Birdsong diversity across the world",
     "data": "Thu, 23 Jul 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Elodie F Briefer",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42490503/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260728072252&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42490503/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260728102240&v=2.20.0"
   },
   {
     "titolo": "Ballooning under water",
     "data": "Thu, 23 Jul 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "H Arthur Woods",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42490502/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260728072252&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42490502/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260728102240&v=2.20.0"
   },
   {
     "titolo": "No strain, no gain",
     "data": "Thu, 23 Jul 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Matthias Gehringer",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42490501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260728072252&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42490501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260728102240&v=2.20.0"
   },
   {
     "titolo": "A 3D genome atlas of human tonsil and the role of loop extrusion in B cell somatic hypermutation",
     "data": "Thu, 23 Jul 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Siyuan Wang",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42490500/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260728072252&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42490500/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260728102240&v=2.20.0"
   },
   {
     "titolo": "Crush-resistant air sacs allow insect larvae to exploit aquatic habitats at extreme depth",
     "data": "Thu, 23 Jul 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Philip G D Matthews",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42490499/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260728072252&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42490499/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260728102240&v=2.20.0"
   },
   {
     "titolo": "Invasive species' environmental impacts are more severe in the Global South",
     "data": "Thu, 23 Jul 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Hanno Seebens",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42490498/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260728072252&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42490498/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260728102240&v=2.20.0"
   },
   {
     "titolo": "The rise and fall of language diversity through the Holocene",
     "data": "Thu, 23 Jul 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "C L Bowern",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42490497/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260728072252&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42490497/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260728102240&v=2.20.0"
   },
   {
     "titolo": "Brazil's environmental governance at risk",
     "data": "Thu, 23 Jul 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Rafael Loyola",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42490496/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260728072252&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42490496/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260728102240&v=2.20.0"
   },
   {
     "titolo": "Genome in motion: Mapping the nucleus in health",
     "data": "Thu, 23 Jul 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Sarah Ross",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42490495/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260728072252&v=2.20.0"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42490495/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260728102240&v=2.20.0"
   },
   {
     "titolo": "Skin conditions and symptoms  -- EMBASE via embase.com",
@@ -784,6 +784,13 @@
     "link": "https://arxiv.org/abs/1803.06969v2"
   },
   {
+    "titolo": "75 years later, the promise to protect refugees faces its greatest test",
+    "data": "Mon, 27 Jul 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/07/1168036"
+  },
+  {
     "titolo": "Lebanon: Israeli strikes ‘could amount to international crimes,’ warns Türk",
     "data": "Mon, 27 Jul 2026 12:00:00 +0000",
     "fonte": "UN News - Global perspective Human stories",
@@ -847,11 +854,11 @@
     "link": "https://news.un.org/feed/view/en/story/2026/07/1168026"
   },
   {
-    "titolo": "‘I am somebody’: Street-smart youth take their declaration to the UN",
-    "data": "Sat, 25 Jul 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/07/1168015"
+    "titolo": "America Is Betting Against International Law",
+    "data": "Tue, 28 Jul 2026 11:53:29 GMT",
+    "fonte": "Project Syndicate",
+    "autore": "Eric Alter",
+    "link": "https://www.project-syndicate.org/commentary/us-sanctions-icc-officials-bet-against-international-law-by-eric-alter-2026-07"
   },
   {
     "titolo": "The Therapist in Your Pocket",
@@ -915,13 +922,6 @@
     "fonte": "Project Syndicate",
     "autore": "Ricardo Hausmann",
     "link": "https://www.project-syndicate.org/commentary/marco-rubio-is-failing-venezuelan-democracy-by-ricardo-hausmann-2026-07"
-  },
-  {
-    "titolo": "How AI Could Reinforce Dollar Dominance",
-    "data": "Fri, 24 Jul 2026 09:23:02 GMT",
-    "fonte": "Project Syndicate",
-    "autore": "Chenxu Fu",
-    "link": "https://www.project-syndicate.org/commentary/ai-poised-to-reinforce-dollar-dominance-by-chenxu-fu-and-xianguo-huang-2026-07"
   },
   {
     "titolo": "The costs of the Trump administration’s tariffs diverge for countries and industries so far in 2026",
@@ -1414,6 +1414,41 @@
     "link": "https://theconversation.com/gaming-helps-mums-recover-from-parenting-stress-but-guilt-can-still-get-in-the-way-271752"
   },
   {
+    "titolo": "Strictly Come Dancing: the hidden injury risks behind the sparkle and glamour",
+    "data": "2026-07-28T12:58:32Z",
+    "fonte": "The Conversation – Articles (UK)",
+    "autore": "Adam Taylor, Professor of Anatomy, Lancaster University",
+    "link": "https://theconversation.com/strictly-come-dancing-the-hidden-injury-risks-behind-the-sparkle-and-glamour-287404"
+  },
+  {
+    "titolo": "When England crashes out of a football tournament, the stock market takes a dive",
+    "data": "2026-07-28T12:54:21Z",
+    "fonte": "The Conversation – Articles (UK)",
+    "autore": "Alex Edmans, Professor of Finance, London Business School",
+    "link": "https://theconversation.com/when-england-crashes-out-of-a-football-tournament-the-stock-market-takes-a-dive-288004"
+  },
+  {
+    "titolo": "Why women should strength train at every stage of life",
+    "data": "2026-07-28T12:34:20Z",
+    "fonte": "The Conversation – Articles (UK)",
+    "autore": "Hannah Campbell, Lecturer in Applied Human Physiology | Researcher Female Health in Sports, Exercise & Physical Activity | Registered Clinical Exercise Physiologist, University of Leeds",
+    "link": "https://theconversation.com/why-women-should-strength-train-at-every-stage-of-life-285968"
+  },
+  {
+    "titolo": "As mayor, Andy Burnham’s climate record was strong – this city knowledge is key to decarbonising the UK",
+    "data": "2026-07-28T12:33:38Z",
+    "fonte": "The Conversation – Articles (UK)",
+    "autore": "Cormac Lynch, Impact Fellow, Social Scientist, Climate Policy Design, University of Exeter",
+    "link": "https://theconversation.com/as-mayor-andy-burnhams-climate-record-was-strong-this-city-knowledge-is-key-to-decarbonising-the-uk-288310"
+  },
+  {
+    "titolo": "Beatrix Potter was obsessed with fungi – and she was quite the naturalist",
+    "data": "2026-07-28T12:30:40Z",
+    "fonte": "The Conversation – Articles (UK)",
+    "autore": "Joni Wildman, PhD Candidate in Mycology, University of Bath",
+    "link": "https://theconversation.com/beatrix-potter-was-obsessed-with-fungi-and-she-was-quite-the-naturalist-284898"
+  },
+  {
     "titolo": "Updating Darwin: biologists are returning to an older theory to explain anomalies in evolution",
     "data": "2026-07-28T10:20:09Z",
     "fonte": "The Conversation – Articles (UK)",
@@ -1447,41 +1482,6 @@
     "fonte": "The Conversation – Articles (UK)",
     "autore": "Jack Shelbourn, Senior Lecturer and Director of Photography, University of Lincoln",
     "link": "https://theconversation.com/elon-musk-says-ai-will-make-a-historically-accurate-odyssey-heres-why-thats-impossible-288333"
-  },
-  {
-    "titolo": "The historic German housewives who laid the groundwork for today’s tradwives",
-    "data": "2026-07-27T14:25:03Z",
-    "fonte": "The Conversation – Articles (UK)",
-    "autore": "Katherine Calvert, Leverhulme Research Fellow, Imperial and Weimar Germany, University of Leeds",
-    "link": "https://theconversation.com/the-historic-german-housewives-who-laid-the-groundwork-for-todays-tradwives-284342"
-  },
-  {
-    "titolo": "What vegan and vegetarian diets can and can’t tell us about eating disorders",
-    "data": "2026-07-27T14:20:59Z",
-    "fonte": "The Conversation – Articles (UK)",
-    "autore": "María Valentina Díaz Goñi, Doctoral Researcher, Universidad de Castilla-La Mancha",
-    "link": "https://theconversation.com/what-vegan-and-vegetarian-diets-can-and-cant-tell-us-about-eating-disorders-287256"
-  },
-  {
-    "titolo": "Taylor Swift’s wedding was a clear display of the musician’s huge power and influence",
-    "data": "2026-07-27T13:55:09Z",
-    "fonte": "The Conversation – Articles (UK)",
-    "autore": "John Amis, Professor of Strategic Management and Organisation, University of Edinburgh",
-    "link": "https://theconversation.com/taylor-swifts-wedding-was-a-clear-display-of-the-musicians-huge-power-and-influence-287523"
-  },
-  {
-    "titolo": "Harmful bugs can thrive in your kitchen sponge for weeks – and you won’t be able to tell",
-    "data": "2026-07-27T13:52:40Z",
-    "fonte": "The Conversation – Articles (UK)",
-    "autore": "Primrose Freestone, Senior Lecturer in Clinical Microbiology, University of Leicester",
-    "link": "https://theconversation.com/harmful-bugs-can-thrive-in-your-kitchen-sponge-for-weeks-and-you-wont-be-able-to-tell-288298"
-  },
-  {
-    "titolo": "Some animals catch cancer from others in their species – here’s why humans aren’t one of them",
-    "data": "2026-07-27T13:42:18Z",
-    "fonte": "The Conversation – Articles (UK)",
-    "autore": "Lewis C. E. Mason, Lecturer in Microbiology, Kingston University",
-    "link": "https://theconversation.com/some-animals-catch-cancer-from-others-in-their-species-heres-why-humans-arent-one-of-them-288320"
   },
   {
     "titolo": "Updating Darwin: biologists are returning to an older theory to explain anomalies in evolution",
@@ -1554,6 +1554,20 @@
     "link": "https://theconversation.com/what-the-sudden-demise-of-the-uks-department-of-science-means-for-the-future-of-research-288121"
   },
   {
+    "titolo": "As mayor, Andy Burnham’s climate record was strong – this city knowledge is key to decarbonising the UK",
+    "data": "2026-07-28T12:33:38Z",
+    "fonte": "Environment – The Conversation",
+    "autore": "Cormac Lynch, Impact Fellow, Social Scientist, Climate Policy Design, University of Exeter",
+    "link": "https://theconversation.com/as-mayor-andy-burnhams-climate-record-was-strong-this-city-knowledge-is-key-to-decarbonising-the-uk-288310"
+  },
+  {
+    "titolo": "Beatrix Potter was obsessed with fungi – and she was quite the naturalist",
+    "data": "2026-07-28T12:30:40Z",
+    "fonte": "Environment – The Conversation",
+    "autore": "Joni Wildman, PhD Candidate in Mycology, University of Bath",
+    "link": "https://theconversation.com/beatrix-potter-was-obsessed-with-fungi-and-she-was-quite-the-naturalist-284898"
+  },
+  {
     "titolo": "How storytelling can help articulate emotions that evolve as the climate changes",
     "data": "2026-07-27T12:16:49Z",
     "fonte": "Environment – The Conversation",
@@ -1610,18 +1624,60 @@
     "link": "https://theconversation.com/soft-plastic-recycling-laws-have-been-delayed-an-expert-explains-why-287907"
   },
   {
-    "titolo": "How ‘super’ enzymes can transform recycling",
-    "data": "2026-07-22T09:50:40Z",
-    "fonte": "Environment – The Conversation",
-    "autore": "Nick Brindle, Professor of Cell Signalling, University of Leicester",
-    "link": "https://theconversation.com/how-super-enzymes-can-transform-recycling-285732"
+    "titolo": "Play is essential for young children, including when it comes to their learning",
+    "data": "2026-07-28T12:13:53Z",
+    "fonte": "The Conversation – Articles (US)",
+    "autore": "Kelley Mayer White, Professor, College of Charleston",
+    "link": "https://theconversation.com/play-is-essential-for-young-children-including-when-it-comes-to-their-learning-285572"
   },
   {
-    "titolo": "Soon, there will be so much electricity you might be paid to use it",
-    "data": "2026-07-21T14:48:03Z",
-    "fonte": "Environment – The Conversation",
-    "autore": "Amin Al-Habaibeh, Professor of Intelligent Engineering Systems, Nottingham Trent University",
-    "link": "https://theconversation.com/soon-there-will-be-so-much-electricity-you-might-be-paid-to-use-it-281422"
+    "titolo": "Cyclosporiasis sickens some people worse – why your diarrhea could be more explosive than others",
+    "data": "2026-07-28T12:13:20Z",
+    "fonte": "The Conversation – Articles (US)",
+    "autore": "Wesley Kufel, Clinical Assistant Professor of Pharmacy Practice, Binghamton University, State University of New York",
+    "link": "https://theconversation.com/cyclosporiasis-sickens-some-people-worse-why-your-diarrhea-could-be-more-explosive-than-others-287758"
+  },
+  {
+    "titolo": "How the Trump administration’s rhetoric promotes anti-transgender views",
+    "data": "2026-07-28T12:12:58Z",
+    "fonte": "The Conversation – Articles (US)",
+    "autore": "Julie D. Nelson, Associate Professor of English and Writing, University of Tampa",
+    "link": "https://theconversation.com/how-the-trump-administrations-rhetoric-promotes-anti-transgender-views-285444"
+  },
+  {
+    "titolo": "Trump administration changes to ‘public charge’ rule could keep millions of immigrants – and their US citizen kids – from getting healthcare they need",
+    "data": "2026-07-28T12:12:01Z",
+    "fonte": "The Conversation – Articles (US)",
+    "autore": "Nicole Kreisberg, Assistant Professor of Public Policy, Penn State",
+    "link": "https://theconversation.com/trump-administration-changes-to-public-charge-rule-could-keep-millions-of-immigrants-and-their-us-citizen-kids-from-getting-healthcare-they-need-288141"
+  },
+  {
+    "titolo": "Why ‘democratic neutrality’ is an overlooked threat to American democracy",
+    "data": "2026-07-28T12:10:36Z",
+    "fonte": "The Conversation – Articles (US)",
+    "autore": "Tyler Leigh, Research Fellow, Rooney Center for the Study of American Democracy, University of Notre Dame",
+    "link": "https://theconversation.com/why-democratic-neutrality-is-an-overlooked-threat-to-american-democracy-282358"
+  },
+  {
+    "titolo": "French climate lawsuit offers a window into the next round of the global legal fight",
+    "data": "2026-07-28T12:09:35Z",
+    "fonte": "The Conversation – Articles (US)",
+    "autore": "Aminta Ossom, Lecturer on Law, Senior Clinical Instructor, Harvard University; Harvard Kennedy School",
+    "link": "https://theconversation.com/french-climate-lawsuit-offers-a-window-into-the-next-round-of-the-global-legal-fight-287829"
+  },
+  {
+    "titolo": "Sargassum, the smelly nemesis of beach vacations, has become a self-sustaining disaster that will keep coming back",
+    "data": "2026-07-28T12:07:59Z",
+    "fonte": "The Conversation – Articles (US)",
+    "autore": "Joseph Montoya, Professor of Ocean Sciences, Georgia Institute of Technology",
+    "link": "https://theconversation.com/sargassum-the-smelly-nemesis-of-beach-vacations-has-become-a-self-sustaining-disaster-that-will-keep-coming-back-287444"
+  },
+  {
+    "titolo": "Affordable housing often costs more to build than market-rate housing – Colorado is closing the gap",
+    "data": "2026-07-28T12:06:46Z",
+    "fonte": "The Conversation – Articles (US)",
+    "autore": "Solomon Greene, Executive Director of the Center for Housing Research and Innovative Solutions, University of Denver",
+    "link": "https://theconversation.com/affordable-housing-often-costs-more-to-build-than-market-rate-housing-colorado-is-closing-the-gap-286630"
   },
   {
     "titolo": "US-Saudi nuclear deal invites proliferation risks … unless safeguards are written in",
@@ -1636,62 +1692,6 @@
     "fonte": "The Conversation – Articles (US)",
     "autore": "Katherine Shwetz, Lecturer in Medical Humanities, Rice University; University of Toronto",
     "link": "https://theconversation.com/how-vaccine-skeptics-use-storytelling-effectively-to-create-powerful-but-medically-inaccurate-messaging-265194"
-  },
-  {
-    "titolo": "It’s getting hotter in classrooms and on playgrounds – schools aren’t ready to handle extreme temperatures",
-    "data": "2026-07-27T12:40:21Z",
-    "fonte": "The Conversation – Articles (US)",
-    "autore": "Jennifer Vanos, Associate Professor of Sustainability, Arizona State University",
-    "link": "https://theconversation.com/its-getting-hotter-in-classrooms-and-on-playgrounds-schools-arent-ready-to-handle-extreme-temperatures-287455"
-  },
-  {
-    "titolo": "Al-Qaida and the Islamic State are both adopting AI – but differ in how they think about the technology",
-    "data": "2026-07-27T12:40:07Z",
-    "fonte": "The Conversation – Articles (US)",
-    "autore": "Sara Harmouch, Research Fellow in Counterterrorism, George Washington University",
-    "link": "https://theconversation.com/al-qaida-and-the-islamic-state-are-both-adopting-ai-but-differ-in-how-they-think-about-the-technology-287663"
-  },
-  {
-    "titolo": "What is Falun Gong and why does the Chinese Communist Party want to suppress it?",
-    "data": "2026-07-27T12:39:49Z",
-    "fonte": "The Conversation – Articles (US)",
-    "autore": "Gareth Fisher, Associate Professor of Religion, Syracuse University",
-    "link": "https://theconversation.com/what-is-falun-gong-and-why-does-the-chinese-communist-party-want-to-suppress-it-286215"
-  },
-  {
-    "titolo": "Bird droppings were a foundation of modern agriculture and American empire",
-    "data": "2026-07-27T12:39:35Z",
-    "fonte": "The Conversation – Articles (US)",
-    "autore": "Edward D. Melillo, William R. Kenan, Jr. Professor of History and Environmental Studies, Amherst College",
-    "link": "https://theconversation.com/bird-droppings-were-a-foundation-of-modern-agriculture-and-american-empire-287441"
-  },
-  {
-    "titolo": "Flocking together – how a birding hobby may boost your mental health and build community",
-    "data": "2026-07-27T12:39:25Z",
-    "fonte": "The Conversation – Articles (US)",
-    "autore": "Jennifer G. Andrews, Assistant Professor of Psychology, Morehouse College",
-    "link": "https://theconversation.com/flocking-together-how-a-birding-hobby-may-boost-your-mental-health-and-build-community-287176"
-  },
-  {
-    "titolo": "Severe storms battered Pittsburgh twice as often as usual this spring – a meteorologist explains why",
-    "data": "2026-07-27T12:39:10Z",
-    "fonte": "The Conversation – Articles (US)",
-    "autore": "Christopher Davis, Professor of Earth, Geographic, and Climate Sciences, UMass Amherst",
-    "link": "https://theconversation.com/severe-storms-battered-pittsburgh-twice-as-often-as-usual-this-spring-a-meteorologist-explains-why-286303"
-  },
-  {
-    "titolo": "What makes muscles contract? A physiologist explains how muscles move",
-    "data": "2026-07-27T12:38:44Z",
-    "fonte": "The Conversation – Articles (US)",
-    "autore": "Kiki Crawford, Lecturer of Biological Sciences, USC Dornsife College of Letters, Arts and Sciences",
-    "link": "https://theconversation.com/what-makes-muscles-contract-a-physiologist-explains-how-muscles-move-283652"
-  },
-  {
-    "titolo": "Air Force One is more than transportation – it has defined how presidents run the country and meet the world",
-    "data": "2026-07-27T12:38:26Z",
-    "fonte": "The Conversation – Articles (US)",
-    "autore": "Peter Kastor, Professor of History & American Culture Studies, Washington University in St. Louis",
-    "link": "https://theconversation.com/air-force-one-is-more-than-transportation-it-has-defined-how-presidents-run-the-country-and-meet-the-world-286625"
   },
   {
     "titolo": "World Cup 2026 quiz",
@@ -1764,74 +1764,74 @@
     "link": "https://theconversation.com/is-childproofing-the-internet-constitutional-a-tech-law-expert-draws-out-the-issues-240430"
   },
   {
-    "titolo": "Updating Darwin: biologists are returning to an older theory to explain anomalies in evolution",
-    "data": "2026-07-28T10:20:09Z",
+    "titolo": "Strictly Come Dancing: the hidden injury risks behind the sparkle and glamour",
+    "data": "2026-07-28T12:58:32Z",
     "fonte": "English – The Conversation",
-    "autore": "Pim Edelaar, Visiting Professor, Division of Biodiversity and Evolution, Lund University; Universidad Pablo de Olavide",
-    "link": "https://theconversation.com/updating-darwin-biologists-are-returning-to-an-older-theory-to-explain-anomalies-in-evolution-276549"
+    "autore": "Adam Taylor, Professor of Anatomy, Lancaster University",
+    "link": "https://theconversation.com/strictly-come-dancing-the-hidden-injury-risks-behind-the-sparkle-and-glamour-287404"
   },
   {
-    "titolo": "Andy Burnham’s No 10 North has a precedent – in medieval York",
-    "data": "2026-07-28T10:17:01Z",
+    "titolo": "When England crashes out of a football tournament, the stock market takes a dive",
+    "data": "2026-07-28T12:54:21Z",
     "fonte": "English – The Conversation",
-    "autore": "Stephanie Brown, Lecturer in Criminology, University of Hull",
-    "link": "https://theconversation.com/andy-burnhams-no-10-north-has-a-precedent-in-medieval-york-288467"
+    "autore": "Alex Edmans, Professor of Finance, London Business School",
+    "link": "https://theconversation.com/when-england-crashes-out-of-a-football-tournament-the-stock-market-takes-a-dive-288004"
   },
   {
-    "titolo": "Falling birth rates mean schools are closing – affecting whole communities",
-    "data": "2026-07-28T08:01:18Z",
+    "titolo": "Impact of climate change may be equivalent to 3.3 million years of transformations in tropical vegetation",
+    "data": "2026-07-28T12:38:33Z",
     "fonte": "English – The Conversation",
-    "autore": "Eleanor Fagan, PhD candidate and Postgraduate Teaching Assistant, UCL Institute of Education, UCL",
-    "link": "https://theconversation.com/falling-birth-rates-mean-schools-are-closing-affecting-whole-communities-287438"
+    "autore": "Ubirajara Oliveira, Pesquisador, Universidade Federal de Minas Gerais (UFMG)",
+    "link": "https://theconversation.com/impact-of-climate-change-may-be-equivalent-to-3-3-million-years-of-transformations-in-tropical-vegetation-288073"
   },
   {
-    "titolo": "After a decade leading the ACTU, what is the legacy of Sally McManus and Michele O'Neil?",
-    "data": "2026-07-28T07:23:42Z",
+    "titolo": "Why women should strength train at every stage of life",
+    "data": "2026-07-28T12:34:20Z",
     "fonte": "English – The Conversation",
-    "autore": "Mark Bray, Emeritus professor, University of Newcastle",
-    "link": "https://theconversation.com/after-a-decade-leading-the-actu-what-is-the-legacy-of-sally-mcmanus-and-michele-oneil-288492"
+    "autore": "Hannah Campbell, Lecturer in Applied Human Physiology | Researcher Female Health in Sports, Exercise & Physical Activity | Registered Clinical Exercise Physiologist, University of Leeds",
+    "link": "https://theconversation.com/why-women-should-strength-train-at-every-stage-of-life-285968"
   },
   {
-    "titolo": "How do we know what dinosaurs looked like?",
-    "data": "2026-07-28T06:26:57Z",
+    "titolo": "As mayor, Andy Burnham’s climate record was strong – this city knowledge is key to decarbonising the UK",
+    "data": "2026-07-28T12:33:38Z",
     "fonte": "English – The Conversation",
-    "autore": "Gemma Ware, Head of Audio, The Conversation UK, The Conversation",
-    "link": "https://theconversation.com/how-do-we-know-what-dinosaurs-looked-like-288231"
+    "autore": "Cormac Lynch, Impact Fellow, Social Scientist, Climate Policy Design, University of Exeter",
+    "link": "https://theconversation.com/as-mayor-andy-burnhams-climate-record-was-strong-this-city-knowledge-is-key-to-decarbonising-the-uk-288310"
   },
   {
-    "titolo": "Why does singing feel so good? And is it good for your health?",
-    "data": "2026-07-28T05:42:15Z",
+    "titolo": "Beatrix Potter was obsessed with fungi – and she was quite the naturalist",
+    "data": "2026-07-28T12:30:40Z",
     "fonte": "English – The Conversation",
-    "autore": "Kathleen Mikkelsen, Lecturer in Biomedicine, Victoria University",
-    "link": "https://theconversation.com/why-does-singing-feel-so-good-and-is-it-good-for-your-health-288203"
+    "autore": "Joni Wildman, PhD Candidate in Mycology, University of Bath",
+    "link": "https://theconversation.com/beatrix-potter-was-obsessed-with-fungi-and-she-was-quite-the-naturalist-284898"
   },
   {
-    "titolo": "Batteries are getting cheaper while gas gets pricier. Here’s why",
-    "data": "2026-07-28T05:32:42Z",
+    "titolo": "No, the Supreme Court didn’t declare unilingual Canadians ‘inferior’",
+    "data": "2026-07-28T12:17:51Z",
     "fonte": "English – The Conversation",
-    "autore": "Joel Gilmore, Associate Professor, Griffith University",
-    "link": "https://theconversation.com/batteries-are-getting-cheaper-while-gas-gets-pricier-heres-why-287956"
+    "autore": "Serge Rousselle, Full Professor / Professeur titulaire, Faculty of Law",
+    "link": "https://theconversation.com/no-the-supreme-court-didnt-declare-unilingual-canadians-inferior-286191"
   },
   {
-    "titolo": "The ban on telehealth in voluntary assisted dying doesn’t stack up. Here’s why it should be scrapped",
-    "data": "2026-07-28T04:31:17Z",
+    "titolo": "Play is essential for young children, including when it comes to their learning",
+    "data": "2026-07-28T12:13:53Z",
     "fonte": "English – The Conversation",
-    "autore": "Katrine Del Villar, Senior Lecturer in Law, Australian Centre for Health Law Research, Queensland University of Technology",
-    "link": "https://theconversation.com/the-ban-on-telehealth-in-voluntary-assisted-dying-doesnt-stack-up-heres-why-it-should-be-scrapped-288384"
+    "autore": "Kelley Mayer White, Professor, College of Charleston",
+    "link": "https://theconversation.com/play-is-essential-for-young-children-including-when-it-comes-to-their-learning-285572"
   },
   {
-    "titolo": "Over half of Australians surveyed don’t know how the RBA is fighting inflation – making it harder to beat",
-    "data": "2026-07-28T04:18:08Z",
+    "titolo": "Cyclosporiasis sickens some people worse – why your diarrhea could be more explosive than others",
+    "data": "2026-07-28T12:13:20Z",
     "fonte": "English – The Conversation",
-    "autore": "John Hawkins, Senior lecturer, Canberra School of Government, University of Canberra",
-    "link": "https://theconversation.com/over-half-of-australians-surveyed-dont-know-how-the-rba-is-fighting-inflation-making-it-harder-to-beat-288191"
+    "autore": "Wesley Kufel, Clinical Assistant Professor of Pharmacy Practice, Binghamton University, State University of New York",
+    "link": "https://theconversation.com/cyclosporiasis-sickens-some-people-worse-why-your-diarrhea-could-be-more-explosive-than-others-287758"
   },
   {
-    "titolo": "Ben Carroll is the new Victorian premier. He has a long and urgent to-do list – and 4 months until an election",
-    "data": "2026-07-28T04:17:00Z",
+    "titolo": "How the Trump administration’s rhetoric promotes anti-transgender views",
+    "data": "2026-07-28T12:12:58Z",
     "fonte": "English – The Conversation",
-    "autore": "Zareh Ghazarian, Associate Professor in Politics and International Relations, School of Social Sciences, Monash University",
-    "link": "https://theconversation.com/ben-carroll-is-the-new-victorian-premier-he-has-a-long-and-urgent-to-do-list-and-4-months-until-an-election-288487"
+    "autore": "Julie D. Nelson, Associate Professor of English and Writing, University of Tampa",
+    "link": "https://theconversation.com/how-the-trump-administrations-rhetoric-promotes-anti-transgender-views-285444"
   },
   {
     "titolo": "Incendies : développer un « drone-avion » pour détecter les gaz toxiques dans les panaches de fumée",
