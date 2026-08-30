@@ -140,32 +140,11 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003953"
   },
   {
-    "titolo": "Understanding pain in women with polyendocrine metabolic ovarian syndrome: health risks and treatment effectiveness",
-    "data": "Fri, 28 Aug 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "shefali.setiaverma@pennmedicine.upenn.edu (Tess Cherlin)",
-    "link": "https://elifesciences.org/articles/103875"
-  },
-  {
-    "titolo": "SETD6-mediated methylation of PPARγ establishes a transcriptional feedback circuit promoting lipid accumulation in liver-derived cells",
-    "data": "Fri, 28 Aug 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "ledan@post.bgu.ac.il (Yulia Haim)",
-    "link": "https://elifesciences.org/articles/111542"
-  },
-  {
     "titolo": "Noradrenergic infraslow rhythm during sleep is the critical link between heart-rate dynamics and memory consolidation",
     "data": "Fri, 28 Aug 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
     "autore": "mednicks@uci.edu (Yi Qian)",
     "link": "https://elifesciences.org/articles/110252"
-  },
-  {
-    "titolo": "Pre-Cambrian origin of <i>envelope</i>-carrying retrotransposons in metazoans",
-    "data": "Fri, 28 Aug 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "rippei.hayashi@anu.edu.au (Shashank Chary)",
-    "link": "https://elifesciences.org/articles/108449"
   },
   {
     "titolo": "Dynamic fMRI networks of human emotion",
@@ -175,11 +154,25 @@
     "link": "https://elifesciences.org/articles/106070"
   },
   {
-    "titolo": "Disruption of sphingolipid metabolism promotes tau seeding through endolysosomal membrane rigidification and rupture",
-    "data": "Thu, 27 Aug 2026 00:00:00 +0000",
+    "titolo": "Pre-Cambrian origin of <i>envelope</i>-carrying retrotransposons in metazoans",
+    "data": "Fri, 28 Aug 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "carmen.nussbaum@med.uni-muenchen.de (Soki-Bradel Ngonza-Nito)",
-    "link": "https://elifesciences.org/articles/106865"
+    "autore": "rippei.hayashi@anu.edu.au (Shashank Chary)",
+    "link": "https://elifesciences.org/articles/108449"
+  },
+  {
+    "titolo": "SETD6-mediated methylation of PPARγ establishes a transcriptional feedback circuit promoting lipid accumulation in liver-derived cells",
+    "data": "Fri, 28 Aug 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "ledan@post.bgu.ac.il (Yulia Haim)",
+    "link": "https://elifesciences.org/articles/111542"
+  },
+  {
+    "titolo": "Understanding pain in women with polyendocrine metabolic ovarian syndrome: health risks and treatment effectiveness",
+    "data": "Fri, 28 Aug 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "shefali.setiaverma@pennmedicine.upenn.edu (Tess Cherlin)",
+    "link": "https://elifesciences.org/articles/103875"
   },
   {
     "titolo": "A whole-animal phenotypic drug screen identifies suppressors of atherogenic lipoproteins",
@@ -187,13 +180,6 @@
     "fonte": "eLife: latest articles",
     "autore": "sfarber3@jhu.edu (Yuki Lin)",
     "link": "https://elifesciences.org/articles/105314"
-  },
-  {
-    "titolo": "Evolution of sideways locomotion in crabs",
-    "data": "Thu, 27 Aug 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "yuuki-k@nagasaki-u.ac.jp (Yuuki Kawabata)",
-    "link": "https://elifesciences.org/articles/110015"
   },
   {
     "titolo": "Systematic analysis of network-driven adaptive resistance to CDK4/6 and oestrogen receptor inhibition using meta-dynamic network modelling",
@@ -210,214 +196,228 @@
     "link": "https://elifesciences.org/articles/111101"
   },
   {
+    "titolo": "Disruption of sphingolipid metabolism promotes tau seeding through endolysosomal membrane rigidification and rupture",
+    "data": "Thu, 27 Aug 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "carmen.nussbaum@med.uni-muenchen.de (Soki-Bradel Ngonza-Nito)",
+    "link": "https://elifesciences.org/articles/106865"
+  },
+  {
+    "titolo": "Evolution of sideways locomotion in crabs",
+    "data": "Thu, 27 Aug 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "yuuki-k@nagasaki-u.ac.jp (Yuuki Kawabata)",
+    "link": "https://elifesciences.org/articles/110015"
+  },
+  {
     "titolo": "Genome-scale perturb-seq in primary human CD4<sup>+</sup> T cells maps context-specific regulators of T cell programs and human immune traits",
     "data": "Fri, 28 Aug 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Alexander Marson",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42664972/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260829190946&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42664972/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260830005152&v=2.20.1"
   },
   {
     "titolo": "Human nuclear ribomes reveal DNA-embedded ribonucleotides as epigenetic modulators of transcription-associated DNA supercoiling",
     "data": "Fri, 28 Aug 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Francesca Storici",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42664971/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260829190946&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42664971/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260830005152&v=2.20.1"
   },
   {
     "titolo": "Virtual Cell Challenge 2026: Benchmarking zero-shot generalization across cellular contexts",
     "data": "Wed, 26 Aug 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Hani Goodarzi",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42648290/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260829190946&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42648290/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260830005152&v=2.20.1"
   },
   {
     "titolo": "Integrative spatial profiling of 3D genome organization and gene expression in tissue",
     "data": "Tue, 25 Aug 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Yanxiang Deng",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42641604/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260829190946&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42641604/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260830005152&v=2.20.1"
   },
   {
     "titolo": "DDIAS shields single-stranded DNA in mitosis and promotes vertebrate brain development",
     "data": "Mon, 24 Aug 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Andrew N Blackford",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42636811/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260829190946&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42636811/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260830005152&v=2.20.1"
   },
   {
     "titolo": "Multimodal evidence for bone lymphatics in skeletal health and repair",
     "data": "Thu, 20 Aug 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Anjali P Kusumbe",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42624078/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260829190946&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42624078/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260830005152&v=2.20.1"
   },
   {
     "titolo": "Lymphatic vessels invade bone in disease but are absent in health and regeneration",
     "data": "Thu, 20 Aug 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Bin Zhou",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42624077/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260829190946&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42624077/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260830005152&v=2.20.1"
   },
   {
     "titolo": "Modern science outreach: A guide for scientists",
     "data": "Thu, 20 Aug 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Ben Rein",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42624076/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260829190946&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42624076/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260830005152&v=2.20.1"
   },
   {
     "titolo": "Neurodegeneration as a dysregulation of neuroimmune crosstalk",
     "data": "Thu, 20 Aug 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Ivan Marazzi",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42624075/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260829190946&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42624075/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260830005152&v=2.20.1"
   },
   {
     "titolo": "Cuproptosis enters the cancer-immunity circuit",
     "data": "Thu, 20 Aug 2026 06:00:00 -0400",
     "fonte": "Cell",
     "autore": "Nianzeng Xing",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42624074/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260829190946&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42624074/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0413066&fc=None&ff=20260830005152&v=2.20.1"
   },
   {
     "titolo": "A distinct effector B cell population drives autoantibody production in SARS-CoV-2 infection",
     "data": "Fri, 28 Aug 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "James R Heath",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42664960/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260829190948&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42664960/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260830005154&v=2.20.1"
   },
   {
     "titolo": "Temporal analyses of immune responses in sepsis reveal asynchrony between clinical stage of illness and immune states",
     "data": "Fri, 28 Aug 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Manu Shankar-Hari",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42664959/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260829190948&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42664959/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260830005154&v=2.20.1"
   },
   {
     "titolo": "Long-lasting extracellular matrix modifications reshape intestinal stem cell fate and promote chronic inflammation",
     "data": "Wed, 26 Aug 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Irit Sagi",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42648285/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260829190948&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42648285/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260830005154&v=2.20.1"
   },
   {
     "titolo": "T cell fate is dictated by different antigen-presenting cells in response to dietary versus gut epithelial self-antigen",
     "data": "Wed, 26 Aug 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Daria Esterházy",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42648284/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260829190948&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42648284/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260830005154&v=2.20.1"
   },
   {
     "titolo": "Single-allele chromatin tracing reveals cytokine-dependent super-enhancer repositioning in CD4<sup>+</sup> T cells",
     "data": "Mon, 24 Aug 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Golnaz Vahedi",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42636801/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260829190948&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42636801/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260830005154&v=2.20.1"
   },
   {
     "titolo": "An inflammatory bowel disease-linked lncRNA suppresses transcription factor T-BET expression in T cells to limit intestinal inflammation",
     "data": "Thu, 20 Aug 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Sankar Ghosh",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42624111/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260829190948&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42624111/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260830005154&v=2.20.1"
   },
   {
     "titolo": "Metabolic inflammation, obesity, and cancer",
     "data": "Thu, 20 Aug 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Florent Ginhoux",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42624110/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260829190948&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42624110/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260830005154&v=2.20.1"
   },
   {
     "titolo": "Canonical and noncanonical autophagy in immunity",
     "data": "Mon, 17 Aug 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Vojo Deretic",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42607678/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260829190948&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42607678/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260830005154&v=2.20.1"
   },
   {
     "titolo": "GPCR-Gα13 signaling regulates survival of intestinal intraepithelial CD8<sup>+</sup> lymphocytes through migration to cytokine-rich niches",
     "data": "Mon, 17 Aug 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Jason G Cyster",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42607677/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260829190948&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42607677/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260830005154&v=2.20.1"
   },
   {
     "titolo": "Granzyme B Is Critical for T Cell Receptor-Induced Cell Death of Type 2 Helper T Cells",
     "data": "Fri, 14 Aug 2026 06:00:00 -0400",
     "fonte": "Immunity",
     "autore": "Yufang Shi",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42600619/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260829190948&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42600619/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9432918&fc=None&ff=20260830005154&v=2.20.1"
   },
   {
     "titolo": "Recent strengthening of eastern Pacific ENSO in the last millennium paleorecord",
     "data": "Thu, 27 Aug 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "R L Edwards",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42658966/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260829190949&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42658966/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260830005156&v=2.20.1"
   },
   {
     "titolo": "Ordering atoms on weak interaction",
     "data": "Thu, 27 Aug 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Jeehwan Kim",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42658962/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260829190949&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42658962/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260830005156&v=2.20.1"
   },
   {
     "titolo": "The knotty problem of RNA structure prediction",
     "data": "Thu, 27 Aug 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Junzhe Guo",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42658961/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260829190949&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42658961/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260830005156&v=2.20.1"
   },
   {
     "titolo": "Erratum for the Research Article \"Roots navigate around decay regions by sensing local pH gradients\"",
     "data": "Thu, 27 Aug 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Anonimo",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42658960/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260829190949&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42658960/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260830005156&v=2.20.1"
   },
   {
     "titolo": "Rethink the cargo, rethink the carrier",
     "data": "Thu, 27 Aug 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Drew Weissman",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42658959/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260829190949&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42658959/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260830005156&v=2.20.1"
   },
   {
     "titolo": "Direct evaporation of single-crystal metal contacts for 2D semiconductors",
     "data": "Thu, 27 Aug 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Jianlu Wang",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42658958/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260829190949&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42658958/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260830005156&v=2.20.1"
   },
   {
     "titolo": "High-efficiency, long-lived lead-free perovskite light-emitting diodes",
     "data": "Thu, 27 Aug 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Rong-Jun Xie",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42658957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260829190949&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42658957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260830005156&v=2.20.1"
   },
   {
     "titolo": "New chief of child health institute has MAHA ties",
     "data": "Thu, 27 Aug 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Jocelyn Kaiser",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42658956/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260829190949&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42658956/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260830005156&v=2.20.1"
   },
   {
     "titolo": "Worldwide study of diseases gets historic funding influx",
     "data": "Thu, 27 Aug 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Gretchen Vogel",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42658955/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260829190949&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42658955/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260830005156&v=2.20.1"
   },
   {
     "titolo": "Genomic predisposition is associated with the direction of sex chromosome evolution",
     "data": "Thu, 27 Aug 2026 06:00:00 -0400",
     "fonte": "Science",
     "autore": "Guojie Zhang",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42658954/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260829190949&v=2.20.1"
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42658954/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=0404511&fc=None&ff=20260830005156&v=2.20.1"
   },
   {
     "titolo": "Skin conditions and symptoms  -- EMBASE via embase.com",
@@ -488,76 +488,6 @@
     "fonte": "PubMed Search Strategies",
     "autore": "Cindy Schmidt, M.D., M.L.S. (noreply@blogger.com)",
     "link": "http://pubmedsearches.blogspot.com/2025/01/united-kingdom-keywords-for-embase.html"
-  },
-  {
-    "titolo": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
-    "data": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Yu Fu, Yongqi Kang, Yong Zhao, Rongfang Bie",
-    "link": "https://arxiv.org/abs/2608.26107"
-  },
-  {
-    "titolo": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
-    "data": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Di Zhu, Chen Xie, Haoyun Zhang, Zihan Wei, Ziwei Wang, Jiazhao Shi, Ziyu Wang, Qiyang Xie",
-    "link": "https://arxiv.org/abs/2608.26109"
-  },
-  {
-    "titolo": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
-    "data": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Jiale Liu, Huan Wang, Weicheng Wang, Rong Zhu, Qiqi Wang, Min Xie",
-    "link": "https://arxiv.org/abs/2608.26111"
-  },
-  {
-    "titolo": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
-    "data": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Deepak Vungarala, Deniz Najafi, Abdulrahman Aljoudi, Zahra Ghanaatian, Navid Khoshavi, Gourav Datta, Arman Roohi, Mahdi Nikdast, Shaahin Angizi",
-    "link": "https://arxiv.org/abs/2608.26113"
-  },
-  {
-    "titolo": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
-    "data": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Kunjesh Parekh, Anil Kumar Tiwari, Divya Saxena",
-    "link": "https://arxiv.org/abs/2608.26114"
-  },
-  {
-    "titolo": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
-    "data": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Marko Cvjetko, Benedikt Hartl, Michael Levin, Cl\\'ement Moulin-Frier, Pierre-Yves Oudeyer",
-    "link": "https://arxiv.org/abs/2608.26116"
-  },
-  {
-    "titolo": "The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting",
-    "data": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Jaeik Jeong, Tai-Yeon Ku, Wan-Ki Park",
-    "link": "https://arxiv.org/abs/2608.26134"
-  },
-  {
-    "titolo": "LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
-    "data": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Muhammad Ali Chaudhry, Xinyuan Hao, Haifa Alwahaby",
-    "link": "https://arxiv.org/abs/2608.26145"
-  },
-  {
-    "titolo": "Methodological and Conceptual Framework for 5D Multi-Table Analysis: A Unified Approach for Complex Data Reuse",
-    "data": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Edouard Lansiaux, Hugo Kazzi, Aur\\'elien Loison, Slim Hammadi, Emmanuel Chazard",
-    "link": "https://arxiv.org/abs/2608.26149"
-  },
-  {
-    "titolo": "Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models",
-    "data": "Sat, 29 Aug 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Orhan Yagizer Cinar, Timur Emre Ozkose, Emma Von Hoene, Amira Roess, Taylor Anderson, Hamdi Kavak",
-    "link": "https://arxiv.org/abs/2608.26150"
   },
   {
     "titolo": "Cell-type-specific synaptic motifs generate coupled mean-variability dynamics in recurrent neural networks",
@@ -714,6 +644,13 @@
     "link": "https://arxiv.org/abs/1803.06969v2"
   },
   {
+    "titolo": "Rising seas, rising stakes: What increasing sea-levels mean to humanity",
+    "data": "Sat, 29 Aug 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/08/1168206"
+  },
+  {
     "titolo": "Four children killed as separate attacks in Gaza destroy aid supplies",
     "data": "Fri, 28 Aug 2026 12:00:00 +0000",
     "fonte": "UN News - Global perspective Human stories",
@@ -775,13 +712,6 @@
     "fonte": "UN News - Global perspective Human stories",
     "autore": "Anonimo",
     "link": "https://news.un.org/feed/view/en/story/2026/08/1168217"
-  },
-  {
-    "titolo": "Lebanon: Civilian risks grow as military activity continues, UN says",
-    "data": "Thu, 27 Aug 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/08/1168215"
   },
   {
     "titolo": "How Britain Can Help Build a Fairer Global Economy",
