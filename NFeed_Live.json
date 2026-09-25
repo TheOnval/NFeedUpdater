@@ -140,11 +140,11 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004002"
   },
   {
-    "titolo": "Cellular basis of accelerated whole-tooth regeneration",
+    "titolo": "Developmental synchrony of retinal waves, apoptosis, and angiogenesis in postnatal retina",
     "data": "Thu, 24 Sep 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "todd.streelman@biology.gatech.edu (Talha Mubeen)",
-    "link": "https://elifesciences.org/articles/110584"
+    "autore": "michael.savage2@newcastle.ac.uk (Rachel Queen)",
+    "link": "https://elifesciences.org/articles/111419"
   },
   {
     "titolo": "Real-time closed-loop feedback system for mouse mesoscale cortical signal and movement control",
@@ -161,18 +161,11 @@
     "link": "https://elifesciences.org/articles/108681"
   },
   {
-    "titolo": "Developmental synchrony of retinal waves, apoptosis, and angiogenesis in postnatal retina",
+    "titolo": "Cellular basis of accelerated whole-tooth regeneration",
     "data": "Thu, 24 Sep 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "michael.savage2@newcastle.ac.uk (Rachel Queen)",
-    "link": "https://elifesciences.org/articles/111419"
-  },
-  {
-    "titolo": "Machine learning of honey bee olfactory behavior identifies repellent odorants in free-flying bees in the field",
-    "data": "Wed, 23 Sep 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "anand.ray@ucr.edu (Tom Guda)",
-    "link": "https://elifesciences.org/articles/104831"
+    "autore": "todd.streelman@biology.gatech.edu (Talha Mubeen)",
+    "link": "https://elifesciences.org/articles/110584"
   },
   {
     "titolo": "A novel rapid host cell entry pathway determines the intracellular fate of <i>Staphylococcus aureus</i>",
@@ -180,13 +173,6 @@
     "fonte": "eLife: latest articles",
     "autore": "martin.fraunholz@uni-wuerzburg.de (Nadine Knoch)",
     "link": "https://elifesciences.org/articles/102810"
-  },
-  {
-    "titolo": "Region-specific mechanosensation modulates <i>Drosophila</i> postural control behaviour",
-    "data": "Wed, 23 Sep 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "c.alonso@sussex.ac.uk (William Roseby)",
-    "link": "https://elifesciences.org/articles/108505"
   },
   {
     "titolo": "Identifying a novel mechanism of L-leucine uptake in <i>Mycobacterium tuberculosis</i> using a chemical genomic approach",
@@ -201,6 +187,20 @@
     "fonte": "eLife: latest articles",
     "autore": "szmchlyt@hbmu.edu.cn (Zhonghua Lu)",
     "link": "https://elifesciences.org/articles/104862"
+  },
+  {
+    "titolo": "Region-specific mechanosensation modulates <i>Drosophila</i> postural control behaviour",
+    "data": "Wed, 23 Sep 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "c.alonso@sussex.ac.uk (William Roseby)",
+    "link": "https://elifesciences.org/articles/108505"
+  },
+  {
+    "titolo": "Machine learning of honey bee olfactory behavior identifies repellent odorants in free-flying bees in the field",
+    "data": "Wed, 23 Sep 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "anand.ray@ucr.edu (Tom Guda)",
+    "link": "https://elifesciences.org/articles/104831"
   },
   {
     "titolo": "PRMT1-SFPQ regulates intron retention to control matrix gene expression during craniofacial development",
@@ -280,144 +280,186 @@
     "link": "http://pubmedsearches.blogspot.com/2025/01/united-kingdom-keywords-for-embase.html"
   },
   {
-    "titolo": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
-    "data": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "titolo": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Shreya Gopalan, Devansh Singh, Sundaraparipurnan Narayanan",
-    "link": "https://arxiv.org/abs/2609.26836"
+    "autore": "Yufeng Wang",
+    "link": "https://arxiv.org/abs/2609.28475"
   },
   {
-    "titolo": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
-    "data": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "titolo": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
+    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Zhening Li, Joshua Liu, Mateja Vukelic, Nicole Shen, Supriya Lall, Amitayush Thakur, Alex Zhang, Omar Khattab, Jonathan Light, Armando Solar-Lezama",
-    "link": "https://arxiv.org/abs/2609.26891"
+    "autore": "Nathan Thierry, Andre-Louis Rochet",
+    "link": "https://arxiv.org/abs/2609.28506"
   },
   {
-    "titolo": "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents",
-    "data": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "titolo": "PAWS: Policy-driven Agentic World Simulation",
+    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Jiaxuan Dai, Tianyi Huang",
-    "link": "https://arxiv.org/abs/2609.26911"
+    "autore": "Tiviatis Sim, Jia Hui Woon, Xinming Gao, Chen Gao, Fengbin Zhu, Zheng Huanhuan, Chua Tat Seng, Kenji Kawaguchi",
+    "link": "https://arxiv.org/abs/2609.28547"
   },
   {
-    "titolo": "Building Socio-Affective Artificial Intelligence for Interactive Multi-Agent Simulations",
-    "data": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "titolo": "Pistis Technical Report",
+    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "David Berga",
-    "link": "https://arxiv.org/abs/2609.26927"
+    "autore": "Heyun Chen, Xiaohan Lan, Jiaxi Li, Zhilin Lu, Qi She, Weiwen Xu, Fei Yu, Yujie Zhong, Jinghuan Chen, Zijian Feng, Siyu Jiao, Yiheng Lin, Xinhao Wang, Sihan Yang, Jieyu You, Changbin Zhang, Hengyu Zhang, Xudong Zhang, Yunqing Zhao, Shuai Zheng",
+    "link": "https://arxiv.org/abs/2609.28554"
   },
   {
-    "titolo": "Which Objectives Need a Dial? Predicting Objective Conflict and Covering Trade-offs in Steerable Pluralistic Alignment",
-    "data": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "titolo": "BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
+    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "David Tsoi, Esra D\\\"onmez",
-    "link": "https://arxiv.org/abs/2609.26929"
+    "autore": "Eranga Bandara, Xueping Liang, Asanga Gunaratna, Tharaka Hewa, Abdul Rahman, Peter Foytik, Safdar H. Bouk, Sachini Rajapakse, Isurunima Kularathna, Pramoda Karunarathna, Chalani Rajapakse, Ng Wee Keong, Kasun De Zoysa, Amin Hass, Wathsala Herath, Ross Gore, Ravi Mukkamala, Nihal Siriwardanagea, Gihan Siriwardanagea, Aruna Withanage, Nilaan Loganathan, Sachin Shetty",
+    "link": "https://arxiv.org/abs/2609.28557"
   },
   {
-    "titolo": "Escaping Python Dependency Hell: A Hybrid Replay-and-Repair Pipeline for Python Dependency Resolution",
-    "data": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "titolo": "DEEPO: Dual-Entropy Enhanced Policy Optimization for Hallucination in MLLMs",
+    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Veronica Poweska, Ariana Oyanguren, Jessica Pourleyli, Sourena Khanzadeh, Manar Alalfi",
-    "link": "https://arxiv.org/abs/2609.26952"
+    "autore": "Yingxuan Zhuang, Miao Pan, Wangjie Gan, Jingxiao Yang, Fan Wang, Weiming Liu, Cheng Tan, Xuhong Zhang, Jintao Chen",
+    "link": "https://arxiv.org/abs/2609.28570"
   },
   {
-    "titolo": "Same evidence, different judgments: Evidence noncommutative in vision/speech-text conflicts",
-    "data": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "titolo": "TWIST: A Proposed Benchmark for Intervention Quality in Conversational Memory, with a Human-Validated Draft-Alignment",
+    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Zhuoyun Li, Boxuan Wang, Xiaowei Huang, Yi Dong",
-    "link": "https://arxiv.org/abs/2609.26986"
+    "autore": "Subrat Panda",
+    "link": "https://arxiv.org/abs/2609.28575"
   },
   {
-    "titolo": "Reinforcement Learning with Decomposed Subtasks",
-    "data": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "titolo": "Adversarial Closed-Loop Curriculum for Evolving Role-Playing Agents",
+    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Mattie Terzolo, Mikolaj Sacha, Ayan Sinha, Andrew Rabinovich",
-    "link": "https://arxiv.org/abs/2609.27035"
+    "autore": "Zheng Zhang, Liu Liu, Qi Chai, Deheng Ye, Peilin Zhao, Mao Zheng, Hao Wang",
+    "link": "https://arxiv.org/abs/2609.28609"
   },
   {
-    "titolo": "Training Intelligent Voice Assistant Wakeup with Controllable Synthetic Conversations",
-    "data": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "titolo": "Training Object Permanence in World Models",
+    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Marcin Sowa\\'nski, Kacper Leszczy\\'nski, Kacper Krzywicki, Krzysztof Wodnicki",
-    "link": "https://arxiv.org/abs/2609.27037"
+    "autore": "Haotian Zhang, Fengyuan Yu, Dezhi Luo, Haoran Sun, Zehong Zhao, Qingying Gao, Yihan Li, Siyuan An, Huayi Qin, Yilan Zhang, Zhengze Jiang, Pinyuan Feng, Renrui Zhang, Ziyu Guo, Letian Wang, Mengyue Yang, Kangfu Mei, Maijunxian Wang, Ran Ji, Vikash Kumar, Freda Shi, Chandra Sripada, Vincent C. Muller, Philip Torr, Alan Yuille, Nikolaus Kriegeskorte, Felix Juefei-Xu, Lvmin Zhang, Jieneng Chen, Yilun Du, Hokin Deng",
+    "link": "https://arxiv.org/abs/2609.28654"
   },
   {
-    "titolo": "Are Stated Reasoning Steps Causally Load-Bearing?",
-    "data": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "titolo": "Beyond Surface Style: Aligning Multi-Turn User Simulators with Behavioral Consistency",
+    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Abhiram Bhupatiraju, Rayan Nyaupane",
-    "link": "https://arxiv.org/abs/2609.27038"
+    "autore": "Geng Chen, Ruotong Pan, Zhirui Yang, Qiqi He, Jiawei Chen, Zhang Yunfei, Chongyuan Chen, Minxuan Lv, Zheng Yang, Win-Bin Huang, Xiangyu Wu, Wenwu Ou",
+    "link": "https://arxiv.org/abs/2609.28690"
   },
   {
-    "titolo": "Energy spectrums of slowed neutrons in heterogeneous uranium-carbon and thorium-carbon fission media",
-    "data": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "titolo": "Revisiting Aristarchus's method to estimate the ratio of the distances from Earth to the Sun and the Moon",
+    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Vyacheslav Lavrukhin, Serhiy Chernezhenko, Mykhailo Shcherbyna, Viktor Tarasov, Edgar Zhelezko",
-    "link": "https://arxiv.org/abs/2609.26798"
+    "autore": "Hugo Caerols, Mart\\'in Avenda\\~no, Felipe A. Asenjo, Rafael Brahm",
+    "link": "https://arxiv.org/abs/2609.28513"
   },
   {
-    "titolo": "Macroscopic Classical and Quantum Models of Inverse Compton Scattering",
-    "data": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "titolo": "A Dosage $\\times$ Precision Framework for Instructional Effectiveness: Propositions, Boundary Conditions, and an Illustrative Case from Solid-State Physics",
+    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Emerson Rogers",
-    "link": "https://arxiv.org/abs/2609.26799"
+    "autore": "Kun Tao, Chenglong Jia, Desheng Xue",
+    "link": "https://arxiv.org/abs/2609.28516"
   },
   {
-    "titolo": "A rotation-based Hall-probe magnetic compass",
-    "data": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "titolo": "The Price of Removing the Scaffolding: Maxwell wrote something about Amp`ere that years later would be done to him",
+    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "B. Wojtsekhowski, C. Cuevas, R. Dawson, W. Henry, N. Liyanage, G. Ron, J. Wilson",
-    "link": "https://arxiv.org/abs/2609.26804"
+    "autore": "Mar'ia Florentina Mendoza Ur'an",
+    "link": "https://arxiv.org/abs/2609.28525"
   },
   {
-    "titolo": "Learning Stiffness Dependent Fluid Structure Dynamics from Coarse Flow Representations",
-    "data": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "titolo": "HClimRep-Ocean: A Global Ocean Emulator on an Unstructured Mesh",
+    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Chun-Jun Pu, Li-Wei Chen, Hai-Bo Huang",
-    "link": "https://arxiv.org/abs/2609.26816"
+    "autore": "Kacper Nowak, Aleksei Koldunov, Nikolay Koldunov, Savvas Melidonis, Ankit Patnala, Simon Grasse, Julius Polz, Christian Lessig, Martin Schultz, Thomas Jung",
+    "link": "https://arxiv.org/abs/2609.28601"
   },
   {
-    "titolo": "Enhancement of Gravitationally Induced Entanglement via Quantum Squeezing",
-    "data": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "titolo": "General model for shear stress and surface pressure distributions for flow over spheres",
+    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Sijo K. Joseph",
-    "link": "https://arxiv.org/abs/2609.26818"
+    "autore": "Bryce Daniels, Thomas Schwartzentruber",
+    "link": "https://arxiv.org/abs/2609.28658"
   },
   {
-    "titolo": "Probing magnetic correlations in anisotropic turbulence",
-    "data": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "titolo": "Cross-geometry transfer and model collapse in point cloud calorimeter shower generation",
+    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Bijita Bose, Somdeep Dey, Soma Sanyal",
-    "link": "https://arxiv.org/abs/2609.26833"
+    "autore": "Thorsten Buss, Frank Gaede, Gregor Kasieczka, Lorenzo Valente, Duncan Weber",
+    "link": "https://arxiv.org/abs/2609.28661"
   },
   {
-    "titolo": "Twin Universes and Bimetric Gravity: From Sakharov's Cosmological Symmetry to Modern Speculations on Negative Mass",
-    "data": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "titolo": "Vectorpotential-based Beam Current Sensors: Applications for Mu2e, and Picosecond Bunch Substructure",
+    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Jean-Pierre Luminet",
-    "link": "https://arxiv.org/abs/2609.26834"
+    "autore": "P. W. Gorham (University of Hawaii at Manoa), M. T. Hedges (Fermi National Accelerator Laboratory), R. Kim (Fermi National Accelerator Laboratory), P. M. Lewis (University of Hawaii at Manoa), K. Lynch (Fermi National Accelerator Laboratory), C. Miki (University of Hawaii at Manoa), J. Morgan (Fermi National Accelerator Laboratory), N. Nyza (University of Hawaii at Manoa), D. Pang (University of Hawaii at Manoa), T. Polischuk (University of Hawaii at Manoa), D. Still (Fermi National Accelerator Laboratory)",
+    "link": "https://arxiv.org/abs/2609.28663"
   },
   {
-    "titolo": "A Cryogenic Penning Trap Based on Permanent Magnets",
-    "data": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "titolo": "Consistent lattice Boltzmann model with body force and heat source for compressible flows of generic fluids",
+    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "F. V\\\"olksen (Heinrich Heine Universit\\\"at D\\\"usseldorf, D\\\"usseldorf, Germany), K. K. Anjum (Heinrich Heine Universit\\\"at D\\\"usseldorf, D\\\"usseldorf, Germany), R. P. Czampiel (Heinrich Heine Universit\\\"at D\\\"usseldorf, D\\\"usseldorf, Germany), N. Daehnhardt (Heinrich Heine Universit\\\"at D\\\"usseldorf, D\\\"usseldorf, Germany), S. Gavranovic (Institut f\\\"ur Physik, Johannes Gutenberg-Universit\\\"at, Mainz, Germany), J. Hoentges (Heinrich Heine Universit\\\"at D\\\"usseldorf, D\\\"usseldorf, Germany), L. K\\\"urschner (Heinrich Heine Universit\\\"at D\\\"usseldorf, D\\\"usseldorf, Germany), J. D. Regier (Heinrich Heine Universit\\\"at D\\\"usseldorf, D\\\"usseldorf, Germany), D. Schweitzer (Heinrich Heine Universit\\\"at D\\\"usseldorf, D\\\"usseldorf, Germany),  1 (Heinrich Heine Universit\\\"at D\\\"usseldorf, D\\\"usseldorf, Germany),  2 (Heinrich Heine Universit\\\"at D\\\"usseldorf, D\\\"usseldorf, Germany), P. Sch\\\"ops (Heinrich Heine Universit\\\"at D\\\"usseldorf, D\\\"usseldorf, Germany), A. M. Thomas (Heinrich Heine Universit\\\"at D\\\"usseldorf, D\\\"usseldorf, Germany), S. Wienhues (Heinrich Heine Universit\\\"at D\\\"usseldorf, D\\\"usseldorf, Germany), B. Arndt (Max-Planck-Institut f\\\"ur Kernphysik, Heidelberg, Germany), T. Imamura (Institut f\\\"ur Quantenoptik, Leibniz Universit\\\"at Hannover, Hannover, Germany), S. Endoh (RIKEN, Fundamental Symmetries Laboratory, Wako, Japan), B. M. Latacz (CERN, Geneva, Switzerland), M. Leonhardt (Heinrich Heine Universit\\\"at D\\\"usseldorf, D\\\"usseldorf, Germany), P. Micke (Max-Planck-Institut f\\\"ur Kernphysik, Heidelberg, Germany), J. Morgner (CERN, Geneva, Switzerland), D. Natakala (Imperial College, London, UK), S. Stahl (Max-Planck-Institut f\\\"ur Kernphysik, Heidelberg, Germany), H. Yildiz (Institut f\\\"ur Physik, Johannes Gutenberg-Universit\\\"at, Mainz, Germany), K. Blaum (Max-Planck-Institut f\\\"ur Kernphysik, Heidelberg, Germany), J. A. Devlin (Imperial College, London, UK), Y. Matsuda (Graduate School of Arts and Sciences, University of Tokyo, Tokyo, Japan), C. Ospelkaus (Institut f\\\"ur Quantenoptik, Leibniz Universit\\\"at Hannover, Hannover, Germany), W. Quint (GSI Helmholtzzentrum f\\\"ur Schwerionenforschung GmbH, Darmstadt, Germany), A. Soter (Eidgen\\\"ossisch Technische Hochschule Z\\\"urich, Z\\\"urich, Switzerland), J. Walz (Institut f\\\"ur Physik, Johannes Gutenberg-Universit\\\"at, Mainz, Germany), C. Smorra (Heinrich Heine Universit\\\"at D\\\"usseldorf, D\\\"usseldorf, Germany), S. Ulmer (Heinrich Heine Universit\\\"at D\\\"usseldorf, D\\\"usseldorf, Germany)",
-    "link": "https://arxiv.org/abs/2609.26858"
+    "autore": "S. Chatterjee, R. M. Str\\\"assle, S. A. Hosseini, I. V. Karlin",
+    "link": "https://arxiv.org/abs/2609.28679"
   },
   {
-    "titolo": "Quantum Chemistry in a Novel Hybrid Dipolar Atom-Ion Mixture",
-    "data": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "titolo": "A general no-go theorem for loss-free optical torque, and its enantiomer-differential escape route",
+    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "Claudia Galantini, Mateo Londo\\~no, Luc Verwaal, Edgar J. D. Vredenbregt, Jes\\'us P\\'erez-R\\'ios, Rianne S. Lous",
-    "link": "https://arxiv.org/abs/2609.26859"
+    "autore": "Juanjuan Ren, Reuven Gordon, Stephen Hughes",
+    "link": "https://arxiv.org/abs/2609.28696"
   },
   {
-    "titolo": "Network-based modeling of cocaine trafficking flows and displacement effects",
-    "data": "Thu, 24 Sep 2026 00:00:00 -0400",
+    "titolo": "Pauli exclusion as a necessary condition for the existence of the H$_2$ + H$^{\\bullet}$ atom transfer barrier",
+    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
     "fonte": "physics updates on arXiv.org",
-    "autore": "H. A. (Bart),  Peters, Frederike Oetker, Robby Roks, Roy Lindelauf, Robbert Fokkink, Huijuan Wang",
-    "link": "https://arxiv.org/abs/2609.26864"
+    "autore": "Shehan H. Fernando, Alistair J. Sterling",
+    "link": "https://arxiv.org/abs/2609.28711"
+  },
+  {
+    "titolo": "A Deep Neural Network for Predicting Continuous Human EEG Across the Auditory Pathway in Response to Sound",
+    "data": "2026-09-17T15:46:15Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Ross K Maddox",
+    "link": "https://arxiv.org/abs/2609.20595v2"
+  },
+  {
+    "titolo": "A Spiking Neural Network Model of Elementary Self-Consciousness via Endogenous Default Mode Network Dynamics",
+    "data": "2026-09-24T15:34:27Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "R. Lahoz-Beltra",
+    "link": "https://arxiv.org/abs/2609.29984v1"
+  },
+  {
+    "titolo": "Three Failures of Pain Location: Why Its Diagnostic Utility Is Three Quantities, Not One",
+    "data": "2026-07-28T21:41:05Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Adam Y Shavit",
+    "link": "https://arxiv.org/abs/2607.26297v2"
+  },
+  {
+    "titolo": "ELiSe: Efficient Learning of Sequences in Structured Recurrent Networks",
+    "data": "2024-02-26T17:30:34Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Mihai A. Petrovici",
+    "link": "https://arxiv.org/abs/2402.16763v3"
+  },
+  {
+    "titolo": "Persistent Memory Through Triple-Loop Consolidation Under Stochastic Unit Turnover",
+    "data": "2026-03-28T08:29:48Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Jianwei Lou",
+    "link": "https://arxiv.org/abs/2603.27188v3"
+  },
+  {
+    "titolo": "Two base rates, two weights: base-rate neglect has a second axis",
+    "data": "2026-08-06T06:56:00Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Adam Y. Shavit",
+    "link": "https://arxiv.org/abs/2608.05658v2"
   },
   {
     "titolo": "AI-Driven Neural Surrogates for In Silico Design of Cognitive-Affective Neuromodulation Targets",
@@ -446,48 +488,6 @@
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
     "autore": "Aarthy Nagarajan",
     "link": "https://arxiv.org/abs/2605.00746v2"
-  },
-  {
-    "titolo": "The Computational Value of Sensory-Aligned Receptive Fields Depends on Neuronal Expressivity",
-    "data": "2026-09-22T18:27:58Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Anna Levina",
-    "link": "https://arxiv.org/abs/2609.26940v1"
-  },
-  {
-    "titolo": "Calibration and transfer in indicator-based assessments of artificial consciousness",
-    "data": "2026-03-29T09:39:27Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Florentin Koch",
-    "link": "https://arxiv.org/abs/2603.27597v2"
-  },
-  {
-    "titolo": "Only what exists can cause: An intrinsic powers view of free will",
-    "data": "2022-06-04T23:30:23Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Christof Koch",
-    "link": "https://arxiv.org/abs/2206.02069v5"
-  },
-  {
-    "titolo": "Deep Learning in Infant Functional Neuroimaging: Challenges, Advances, and Future Directions",
-    "data": "2026-09-22T16:44:59Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Gang Li",
-    "link": "https://arxiv.org/abs/2609.26688v1"
-  },
-  {
-    "titolo": "Seeing the imagined: latent functional alignment in visual imagery decoding from fMRI data",
-    "data": "2026-04-15T16:31:57Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Matteo Ferrante",
-    "link": "https://arxiv.org/abs/2604.15374v2"
-  },
-  {
-    "titolo": "The Cross-Substrate Access Assay: What an Indicator Test Must Declare to Travel from Brain to Language Model",
-    "data": "2026-09-14T16:43:09Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Pieter van Rooyen",
-    "link": "https://arxiv.org/abs/2609.22300v2"
   },
   {
     "titolo": "Reducing Catastrophic Risk from AI with Systematic Monitoring and Evaluation of Rogue AI Progression",
@@ -581,6 +581,48 @@
     "link": "https://arxiv.org/abs/1803.06969v2"
   },
   {
+    "titolo": "‘Turn what we know into what we do,’ Barbados PM Mottley urges world leaders at UN",
+    "data": "Thu, 24 Sep 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168433"
+  },
+  {
+    "titolo": "Yemen’s path to stability depends on restoring the state, Leadership Council vice-president tells UN",
+    "data": "Thu, 24 Sep 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168432"
+  },
+  {
+    "titolo": "Israeli leader at UN: ‘We’re going to win. We have no other choice’",
+    "data": "Thu, 24 Sep 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168431"
+  },
+  {
+    "titolo": "‘Rising seas are sinking futures’",
+    "data": "Thu, 24 Sep 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168430"
+  },
+  {
+    "titolo": "Haitians can’t wait to return home and vote in elections says Prime Minister",
+    "data": "Thu, 24 Sep 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168429"
+  },
+  {
+    "titolo": "UNRWA work and mandate in ‘jeopardy’, Guterres warns",
+    "data": "Thu, 24 Sep 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168428"
+  },
+  {
     "titolo": "World News in Brief: ‘New intensity’ to Russian attacks on Ukraine, Yemen, Gaza and Colombia updates",
     "data": "Thu, 24 Sep 2026 12:00:00 +0000",
     "fonte": "UN News - Global perspective Human stories",
@@ -607,48 +649,6 @@
     "fonte": "UN News - Global perspective Human stories",
     "autore": "Anonimo",
     "link": "https://news.un.org/feed/view/en/story/2026/09/1168422"
-  },
-  {
-    "titolo": "The Takeaway: UN General Assembly debate Day 2",
-    "data": "Thu, 24 Sep 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168421"
-  },
-  {
-    "titolo": "Venezuela seeking rebirth after political crisis and devastating earthquakes, President tells UN",
-    "data": "Wed, 23 Sep 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168420"
-  },
-  {
-    "titolo": "Equality ‘ends at the doors of the Security Council’, Kenya’s Ruto tells General Assembly",
-    "data": "Wed, 23 Sep 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168419"
-  },
-  {
-    "titolo": "Guterres calls on countries to set clear timelines for transition away from fossil fuels",
-    "data": "Wed, 23 Sep 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168418"
-  },
-  {
-    "titolo": "Rohingya refugees deserve a future beyond survival, not endless displacement",
-    "data": "Wed, 23 Sep 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168417"
-  },
-  {
-    "titolo": "Zelenskyy urges stronger pressure on Russia, warns war’s impact is spreading beyond Ukraine",
-    "data": "Wed, 23 Sep 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168416"
   },
   {
     "titolo": "The Return of the German Question",
@@ -1001,6 +1001,13 @@
     "link": "https://theconversation.com/should-schools-ban-students-from-doing-cartwheels-291874"
   },
   {
+    "titolo": "September’s ozone hole was the biggest in 20 years. The warning signs appeared months ago",
+    "data": "2026-09-25T00:13:47Z",
+    "fonte": "Environment + Energy – The Conversation",
+    "autore": "Dan Smale, Principal Technician Atmosphere, Earth Sciences New Zealand",
+    "link": "https://theconversation.com/septembers-ozone-hole-was-the-biggest-in-20-years-the-warning-signs-appeared-months-ago-292457"
+  },
+  {
     "titolo": "Trump wants a diesel export ban. Australia would be uniquely exposed",
     "data": "2026-09-24T20:11:02Z",
     "fonte": "Environment + Energy – The Conversation",
@@ -1064,11 +1071,11 @@
     "link": "https://theconversation.com/as-renewed-chaos-grips-the-oil-market-one-country-is-keeping-global-prices-down-by-reducing-demand-292218"
   },
   {
-    "titolo": "It’s getting easier to live off-grid – but it comes with certain costs",
-    "data": "2026-09-18T04:34:36Z",
-    "fonte": "Environment + Energy – The Conversation",
-    "autore": "Peyman Akhgar, Lecturer, Architecture, Griffith University",
-    "link": "https://theconversation.com/its-getting-easier-to-live-off-grid-but-it-comes-with-certain-costs-288494"
+    "titolo": "Trump’s US ratings drop to new record low as Democrats become clear favourites in both chambers of Congress",
+    "data": "2026-09-25T03:08:14Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Adrian Beaumont, Election Analyst (Psephologist) at The Conversation; and Honorary Associate, School of Mathematics and Statistics, The University of Melbourne",
+    "link": "https://theconversation.com/trumps-us-ratings-drop-to-new-record-low-as-democrats-become-clear-favourites-in-both-chambers-of-congress-292769"
   },
   {
     "titolo": "Are AFL grand finals really the hardest game of the year? We checked the data",
@@ -1134,11 +1141,39 @@
     "link": "https://theconversation.com/trump-has-banned-more-media-and-started-his-own-tv-channel-in-the-process-he-risks-further-eroding-american-democracy-292461"
   },
   {
-    "titolo": "View from The Hill: behind the cheesy smiles, Albanese and Trump couldn’t be further apart on AI and social media controls",
-    "data": "2026-09-23T05:55:07Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "Michelle Grattan, Professorial Fellow, University of Canberra",
-    "link": "https://theconversation.com/view-from-the-hill-behind-the-cheesy-smiles-albanese-and-trump-couldnt-be-further-apart-on-ai-and-social-media-controls-292584"
+    "titolo": "Trump’s US ratings drop to new record low as Democrats become clear favourites in both chambers of Congress",
+    "data": "2026-09-25T03:08:14Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Adrian Beaumont, Election Analyst (Psephologist) at The Conversation; and Honorary Associate, School of Mathematics and Statistics, The University of Melbourne",
+    "link": "https://theconversation.com/trumps-us-ratings-drop-to-new-record-low-as-democrats-become-clear-favourites-in-both-chambers-of-congress-292769"
+  },
+  {
+    "titolo": "Could an ‘Australian AI’ protect us from being hacked? Cybersecurity isn’t that simple",
+    "data": "2026-09-25T03:04:18Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Niusha Shafiabady, Professor in Computational Intelligence, Australian Catholic University",
+    "link": "https://theconversation.com/could-an-australian-ai-protect-us-from-being-hacked-cybersecurity-isnt-that-simple-292888"
+  },
+  {
+    "titolo": "Curious Kids: does music affect how plants grow?",
+    "data": "2026-09-25T00:35:09Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Lily Whelehan, Postdoctoral Research Fellow, Queensland Alliance for Agriculture and Food Innovation, The University of Queensland",
+    "link": "https://theconversation.com/curious-kids-does-music-affect-how-plants-grow-288107"
+  },
+  {
+    "titolo": "September’s ozone hole was the biggest in 20 years. The warning signs appeared months ago",
+    "data": "2026-09-25T00:13:47Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Dan Smale, Principal Technician Atmosphere, Earth Sciences New Zealand",
+    "link": "https://theconversation.com/septembers-ozone-hole-was-the-biggest-in-20-years-the-warning-signs-appeared-months-ago-292457"
+  },
+  {
+    "titolo": "Australian poetry classics: Les Murray’s The Broad Bean Sermon is inexhaustible food for contemplation",
+    "data": "2026-09-24T23:10:13Z",
+    "fonte": "Home – The Conversation",
+    "autore": "David McCooey, Professor of Writing and Literature, Deakin University",
+    "link": "https://theconversation.com/australian-poetry-classics-les-murrays-the-broad-bean-sermon-is-inexhaustible-food-for-contemplation-288071"
   },
   {
     "titolo": "The English paid off the Vikings for almost a century. But was the Danegeld such a bad idea?",
@@ -1174,41 +1209,6 @@
     "fonte": "Home – The Conversation",
     "autore": "Gwilym Croucher, Associate Professor, Melbourne Centre for the Study of Higher Education, The University of Melbourne",
     "link": "https://theconversation.com/are-australians-really-overeducated-it-depends-what-education-is-for-292768"
-  },
-  {
-    "titolo": "Trump wants a diesel export ban. Australia would be uniquely exposed",
-    "data": "2026-09-24T20:11:02Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Robert Monterosso, Research Fellow, United States Studies Centre, University of Sydney",
-    "link": "https://theconversation.com/trump-wants-a-diesel-export-ban-australia-would-be-uniquely-exposed-292693"
-  },
-  {
-    "titolo": "NZ’s supply chains are highly exposed. Could new AI agents make them more resilient?",
-    "data": "2026-09-24T18:10:27Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Ilan Oshri, Professor of Information Systems, Auckland Business School, University of Auckland, Waipapa Taumata Rau",
-    "link": "https://theconversation.com/nzs-supply-chains-are-highly-exposed-could-new-ai-agents-make-them-more-resilient-292773"
-  },
-  {
-    "titolo": "Grattan on Friday: when rogue AI agent ‘scaled a fence’, it reinforced Albanese’s case for tough guardrails",
-    "data": "2026-09-24T08:03:23Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Michelle Grattan, Professorial Fellow, University of Canberra",
-    "link": "https://theconversation.com/grattan-on-friday-when-rogue-ai-agent-scaled-a-fence-it-reinforced-albaneses-case-for-tough-guardrails-292588"
-  },
-  {
-    "titolo": "An AI model has found a new ‘CRISPR-like’ biological system. Here’s what it means for science",
-    "data": "2026-09-24T06:19:31Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Dimitri Perrin, Head of School (Computer Science) and Co-Director (Centre for Data Science), Queensland University of Technology",
-    "link": "https://theconversation.com/an-ai-model-has-found-a-new-crispr-like-biological-system-heres-what-it-means-for-science-292777"
-  },
-  {
-    "titolo": "Swan Song: Diana’s brother flips the royal family the bird in his scathing new book",
-    "data": "2026-09-24T06:07:24Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Kate Cantrell, Senior Lecturer in Humanities, University of Southern Queensland",
-    "link": "https://theconversation.com/swan-song-dianas-brother-flips-the-royal-family-the-bird-in-his-scathing-new-book-292678"
   },
   {
     "titolo": "G20 needs a new approach to tackle the changing world order",
@@ -1561,6 +1561,41 @@
     "link": "https://theconversation.com/is-childproofing-the-internet-constitutional-a-tech-law-expert-draws-out-the-issues-240430"
   },
   {
+    "titolo": "Trump’s US ratings drop to new record low as Democrats become clear favourites in both chambers of Congress",
+    "data": "2026-09-25T03:08:14Z",
+    "fonte": "English – The Conversation",
+    "autore": "Adrian Beaumont, Election Analyst (Psephologist) at The Conversation; and Honorary Associate, School of Mathematics and Statistics, The University of Melbourne",
+    "link": "https://theconversation.com/trumps-us-ratings-drop-to-new-record-low-as-democrats-become-clear-favourites-in-both-chambers-of-congress-292769"
+  },
+  {
+    "titolo": "Could an ‘Australian AI’ protect us from being hacked? Cybersecurity isn’t that simple",
+    "data": "2026-09-25T03:04:18Z",
+    "fonte": "English – The Conversation",
+    "autore": "Niusha Shafiabady, Professor in Computational Intelligence, Australian Catholic University",
+    "link": "https://theconversation.com/could-an-australian-ai-protect-us-from-being-hacked-cybersecurity-isnt-that-simple-292888"
+  },
+  {
+    "titolo": "Curious Kids: does music affect how plants grow?",
+    "data": "2026-09-25T00:35:09Z",
+    "fonte": "English – The Conversation",
+    "autore": "Lily Whelehan, Postdoctoral Research Fellow, Queensland Alliance for Agriculture and Food Innovation, The University of Queensland",
+    "link": "https://theconversation.com/curious-kids-does-music-affect-how-plants-grow-288107"
+  },
+  {
+    "titolo": "September’s ozone hole was the biggest in 20 years. The warning signs appeared months ago",
+    "data": "2026-09-25T00:13:47Z",
+    "fonte": "English – The Conversation",
+    "autore": "Dan Smale, Principal Technician Atmosphere, Earth Sciences New Zealand",
+    "link": "https://theconversation.com/septembers-ozone-hole-was-the-biggest-in-20-years-the-warning-signs-appeared-months-ago-292457"
+  },
+  {
+    "titolo": "Australian poetry classics: Les Murray’s The Broad Bean Sermon is inexhaustible food for contemplation",
+    "data": "2026-09-24T23:10:13Z",
+    "fonte": "English – The Conversation",
+    "autore": "David McCooey, Professor of Writing and Literature, Deakin University",
+    "link": "https://theconversation.com/australian-poetry-classics-les-murrays-the-broad-bean-sermon-is-inexhaustible-food-for-contemplation-288071"
+  },
+  {
     "titolo": "The English paid off the Vikings for almost a century. But was the Danegeld such a bad idea?",
     "data": "2026-09-24T20:13:20Z",
     "fonte": "English – The Conversation",
@@ -1594,41 +1629,6 @@
     "fonte": "English – The Conversation",
     "autore": "Gwilym Croucher, Associate Professor, Melbourne Centre for the Study of Higher Education, The University of Melbourne",
     "link": "https://theconversation.com/are-australians-really-overeducated-it-depends-what-education-is-for-292768"
-  },
-  {
-    "titolo": "Trump wants a diesel export ban. Australia would be uniquely exposed",
-    "data": "2026-09-24T20:11:02Z",
-    "fonte": "English – The Conversation",
-    "autore": "Robert Monterosso, Research Fellow, United States Studies Centre, University of Sydney",
-    "link": "https://theconversation.com/trump-wants-a-diesel-export-ban-australia-would-be-uniquely-exposed-292693"
-  },
-  {
-    "titolo": "Canada must consider even unlikely threats — including an American invasion",
-    "data": "2026-09-24T19:48:19Z",
-    "fonte": "English – The Conversation",
-    "autore": "Andrea Charron, Professor and Director of the Centre for Defence and Security Studies, University of Manitoba",
-    "link": "https://theconversation.com/canada-must-consider-even-unlikely-threats-including-an-american-invasion-292866"
-  },
-  {
-    "titolo": "Canada’s $1-trillion investment push promises growth — but raises questions about who benefits",
-    "data": "2026-09-24T19:34:39Z",
-    "fonte": "English – The Conversation",
-    "autore": "Evan Jo, Assistant Professor of Finance, Queen's University, Ontario",
-    "link": "https://theconversation.com/canadas-1-trillion-investment-push-promises-growth-but-raises-questions-about-who-benefits-292205"
-  },
-  {
-    "titolo": "Climate crisis is affecting children’s nutrition",
-    "data": "2026-09-24T19:01:08Z",
-    "fonte": "English – The Conversation",
-    "autore": "Mariana Ceci, Universidade Estadual de Campinas (Unicamp)",
-    "link": "https://theconversation.com/climate-crisis-is-affecting-childrens-nutrition-292745"
-  },
-  {
-    "titolo": "NZ’s supply chains are highly exposed. Could new AI agents make them more resilient?",
-    "data": "2026-09-24T18:10:27Z",
-    "fonte": "English – The Conversation",
-    "autore": "Ilan Oshri, Professor of Information Systems, Auckland Business School, University of Auckland, Waipapa Taumata Rau",
-    "link": "https://theconversation.com/nzs-supply-chains-are-highly-exposed-could-new-ai-agents-make-them-more-resilient-292773"
   },
   {
     "titolo": "Comment notre espèce a-t-elle conquis toute la planète ?",
