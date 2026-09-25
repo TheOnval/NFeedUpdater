@@ -168,18 +168,18 @@
     "link": "https://elifesciences.org/articles/110584"
   },
   {
-    "titolo": "A novel rapid host cell entry pathway determines the intracellular fate of <i>Staphylococcus aureus</i>",
-    "data": "Wed, 23 Sep 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "martin.fraunholz@uni-wuerzburg.de (Nadine Knoch)",
-    "link": "https://elifesciences.org/articles/102810"
-  },
-  {
     "titolo": "Identifying a novel mechanism of L-leucine uptake in <i>Mycobacterium tuberculosis</i> using a chemical genomic approach",
     "data": "Wed, 23 Sep 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
     "autore": "nisheeth@thsti.res.in (Yashwant Kumar)",
     "link": "https://elifesciences.org/articles/107025"
+  },
+  {
+    "titolo": "Machine learning of honey bee olfactory behavior identifies repellent odorants in free-flying bees in the field",
+    "data": "Wed, 23 Sep 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "anand.ray@ucr.edu (Tom Guda)",
+    "link": "https://elifesciences.org/articles/104831"
   },
   {
     "titolo": "Brief disruption of activity in a subset of dopaminergic neurons during consolidation impairs long-term memory by fragmenting sleep",
@@ -196,11 +196,11 @@
     "link": "https://elifesciences.org/articles/108505"
   },
   {
-    "titolo": "Machine learning of honey bee olfactory behavior identifies repellent odorants in free-flying bees in the field",
+    "titolo": "A novel rapid host cell entry pathway determines the intracellular fate of <i>Staphylococcus aureus</i>",
     "data": "Wed, 23 Sep 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "anand.ray@ucr.edu (Tom Guda)",
-    "link": "https://elifesciences.org/articles/104831"
+    "autore": "martin.fraunholz@uni-wuerzburg.de (Nadine Knoch)",
+    "link": "https://elifesciences.org/articles/102810"
   },
   {
     "titolo": "PRMT1-SFPQ regulates intron retention to control matrix gene expression during craniofacial development",
@@ -581,6 +581,13 @@
     "link": "https://arxiv.org/abs/1803.06969v2"
   },
   {
+    "titolo": "The Takeaway: UN General Assembly debate Day 3",
+    "data": "Fri, 25 Sep 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168434"
+  },
+  {
     "titolo": "‘Turn what we know into what we do,’ Barbados PM Mottley urges world leaders at UN",
     "data": "Thu, 24 Sep 2026 12:00:00 +0000",
     "fonte": "UN News - Global perspective Human stories",
@@ -644,11 +651,18 @@
     "link": "https://news.un.org/feed/view/en/story/2026/09/1168423"
   },
   {
-    "titolo": "‘Peace remains only a promise’ for millions in eastern DR Congo, General Assembly hears",
-    "data": "Thu, 24 Sep 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168422"
+    "titolo": "How to Stop the AI-pocalypse",
+    "data": "Fri, 25 Sep 2026 09:24:00 GMT",
+    "fonte": "Project Syndicate",
+    "autore": "Kaushik Basu",
+    "link": "https://www.project-syndicate.org/commentary/real-ai-apocalypse-might-not-be-human-extinction-but-orwellian-authoritarianism-by-kaushik-basu-2026-09?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
+  },
+  {
+    "titolo": "What Killed Liberalism?",
+    "data": "Fri, 25 Sep 2026 08:42:19 GMT",
+    "fonte": "Project Syndicate",
+    "autore": "Gene Frieda",
+    "link": "https://www.project-syndicate.org/onpoint/acemoglu-and-brown-offer-different-prescriptions-for-reversing-liberal-decline-by-gene-frieda-2026-09?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
   },
   {
     "titolo": "The Return of the German Question",
@@ -705,20 +719,6 @@
     "fonte": "Project Syndicate",
     "autore": "Bård Harstad",
     "link": "https://www.project-syndicate.org/commentary/trade-agreements-should-include-tariffs-triggered-by-deforestation-by-bard-harstad-2026-09?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
-  },
-  {
-    "titolo": "Europe’s Third Way on China",
-    "data": "Wed, 23 Sep 2026 14:51:06 GMT",
-    "fonte": "Project Syndicate",
-    "autore": "Pinelopi Koujianou Goldberg",
-    "link": "https://www.project-syndicate.org/commentary/europe-china-trade-third-way-by-pinelopi-koujianou-goldberg-2026-09?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
-  },
-  {
-    "titolo": "Alarm Bells in the Balkans",
-    "data": "Wed, 23 Sep 2026 13:19:12 GMT",
-    "fonte": "Project Syndicate",
-    "autore": "Carl Bildt",
-    "link": "https://www.project-syndicate.org/commentary/balkans-2026-elections-amid-rising-nationalist-tensions-are-worrisome-by-carl-bildt-2026-09?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
   },
   {
     "titolo": "Applying a debt-to-wealth lens internationally reveals subtle differences between countries’ fiscal capacities",
@@ -1211,6 +1211,55 @@
     "link": "https://theconversation.com/are-australians-really-overeducated-it-depends-what-education-is-for-292768"
   },
   {
+    "titolo": "Nigella Lawson and the fantasy of Bake Off – what to watch and read this week",
+    "data": "2026-09-25T11:09:36Z",
+    "fonte": "The Conversation – Articles (UK)",
+    "autore": "Naomi Joseph, Arts + Culture Editor, The Conversation",
+    "link": "https://theconversation.com/nigella-lawson-and-the-fantasy-of-bake-off-what-to-watch-and-read-this-week-292815"
+  },
+  {
+    "titolo": "There’s something you can do now to cool your home next summer – and it’s far cheaper than air conditioning",
+    "data": "2026-09-25T11:04:12Z",
+    "fonte": "The Conversation – Articles (UK)",
+    "autore": "Ross Cameron, Professor of Environmental Horticulture, University of Sheffield",
+    "link": "https://theconversation.com/theres-something-you-can-do-now-to-cool-your-home-next-summer-and-its-far-cheaper-than-air-conditioning-291828"
+  },
+  {
+    "titolo": "Why Indiana Jones is the best and worst thing to happen to archaeology",
+    "data": "2026-09-25T11:03:39Z",
+    "fonte": "The Conversation – Articles (UK)",
+    "autore": "Stephan Blum, Research Associate, Institute for Prehistory and Early History and Medieval Archaeology, University of Tübingen",
+    "link": "https://theconversation.com/why-indiana-jones-is-the-best-and-worst-thing-to-happen-to-archaeology-287232"
+  },
+  {
+    "titolo": "Feeling the burn? It’s not lactic acid",
+    "data": "2026-09-25T11:02:56Z",
+    "fonte": "The Conversation – Articles (UK)",
+    "autore": "Shaun Phillips, Senior Lecturer in Sport and Exercise Physiology, University of Edinburgh",
+    "link": "https://theconversation.com/feeling-the-burn-its-not-lactic-acid-291432"
+  },
+  {
+    "titolo": "Ancient virus hunters: how we discovered sheeppox DNA hidden in medieval gospels",
+    "data": "2026-09-25T11:02:21Z",
+    "fonte": "The Conversation – Articles (UK)",
+    "autore": "Louis L'Hôte, PhD Candidate in ancient pathogen genetics, School of Agriculture and Food Science, University College Dublin",
+    "link": "https://theconversation.com/ancient-virus-hunters-how-we-discovered-sheeppox-dna-hidden-in-medieval-gospels-292726"
+  },
+  {
+    "titolo": "What the differences between Danish and British humour can teach us about laughter",
+    "data": "2026-09-25T10:38:36Z",
+    "fonte": "The Conversation – Articles (UK)",
+    "autore": "Marc Hye-Knudsen, PhD Candidate in the Department of Management, Aarhus University",
+    "link": "https://theconversation.com/what-the-differences-between-danish-and-british-humour-can-teach-us-about-laughter-282074"
+  },
+  {
+    "titolo": "Trump-XI summit aims to head off an AI arms race",
+    "data": "2026-09-25T07:32:18Z",
+    "fonte": "The Conversation – Articles (UK)",
+    "autore": "Jonathan Este, Senior International Affairs Editor, Associate Editor, The Conversation",
+    "link": "https://theconversation.com/trump-xi-summit-aims-to-head-off-an-ai-arms-race-292823"
+  },
+  {
     "titolo": "G20 needs a new approach to tackle the changing world order",
     "data": "2026-09-24T15:29:33Z",
     "fonte": "The Conversation – Articles (UK)",
@@ -1230,55 +1279,6 @@
     "fonte": "The Conversation – Articles (UK)",
     "autore": "Weronika Osmolska, PhD Candidate, School of Earth, Environment and Sustainability, University of Leeds",
     "link": "https://theconversation.com/why-winter-cold-spells-are-getting-milder-288038"
-  },
-  {
-    "titolo": "Women have been priests in Sweden since 1960 – but the battle for gender equality in the Church continues",
-    "data": "2026-09-24T15:11:42Z",
-    "fonte": "The Conversation – Articles (UK)",
-    "autore": "Alexander Maurits, Associate Professor of Church History, Centre for Theology and Religious Studies, Lund University",
-    "link": "https://theconversation.com/women-have-been-priests-in-sweden-since-1960-but-the-battle-for-gender-equality-in-the-church-continues-287431"
-  },
-  {
-    "titolo": "Can HRT prevent dementia? What the latest research tells us",
-    "data": "2026-09-24T15:11:09Z",
-    "fonte": "The Conversation – Articles (UK)",
-    "autore": "Eef Hogervorst, Professor of Biological Psychology, Loughborough University",
-    "link": "https://theconversation.com/can-hrt-prevent-dementia-what-the-latest-research-tells-us-292168"
-  },
-  {
-    "titolo": "UN chief says world’s biggest problem is the changing way power is used – Donald Trump’s speech confirms his diagnosis",
-    "data": "2026-09-24T15:09:51Z",
-    "fonte": "The Conversation – Articles (UK)",
-    "autore": "Stefan Wolff, Professor of International Security, University of Birmingham",
-    "link": "https://theconversation.com/un-chief-says-worlds-biggest-problem-is-the-changing-way-power-is-used-donald-trumps-speech-confirms-his-diagnosis-292755"
-  },
-  {
-    "titolo": "This 18th-century Gospel has reignited a fierce battle over Ethiopia’s looted heritage",
-    "data": "2026-09-24T15:09:28Z",
-    "fonte": "The Conversation – Articles (UK)",
-    "autore": "Jacopo Gnisci, Lecturer in Art and Visual Cultures of the Global South, UCL",
-    "link": "https://theconversation.com/this-18th-century-gospel-has-reignited-a-fierce-battle-over-ethiopias-looted-heritage-292625"
-  },
-  {
-    "titolo": "Government hacks, rogue agents and no transparency: can we ever fully trust AI?",
-    "data": "2026-09-24T15:03:26Z",
-    "fonte": "The Conversation – Articles (UK)",
-    "autore": "Gemma Ware, Head of Audio, The Conversation UK, The Conversation",
-    "link": "https://theconversation.com/government-hacks-rogue-agents-and-no-transparency-can-we-ever-fully-trust-ai-292536"
-  },
-  {
-    "titolo": "Overprescribing can take a toll on older peoples’ health and independence – here’s what can be done",
-    "data": "2026-09-24T14:43:50Z",
-    "fonte": "The Conversation – Articles (UK)",
-    "autore": "Kinda Ibrahim, Associate Professor, Primary Care, University of Southampton",
-    "link": "https://theconversation.com/overprescribing-can-take-a-toll-on-older-peoples-health-and-independence-heres-what-can-be-done-292542"
-  },
-  {
-    "titolo": "Trump and Xi face an AI security dilemma – but face-to-face diplomacy could be a start in mitigating it",
-    "data": "2026-09-24T13:27:51Z",
-    "fonte": "The Conversation – Articles (UK)",
-    "autore": "Marcus Holmes, Professor of Government; Faculty Affiliate, Global Research Institute, William & Mary",
-    "link": "https://theconversation.com/trump-and-xi-face-an-ai-security-dilemma-but-face-to-face-diplomacy-could-be-a-start-in-mitigating-it-292644"
   },
   {
     "titolo": "Government hacks, rogue agents and no transparency: can we ever fully trust AI?",
@@ -1351,6 +1351,13 @@
     "link": "https://theconversation.com/the-long-fascinating-history-of-food-additives-and-why-were-stuck-with-them-283094"
   },
   {
+    "titolo": "There’s something you can do now to cool your home next summer – and it’s far cheaper than air conditioning",
+    "data": "2026-09-25T11:04:12Z",
+    "fonte": "Environment – The Conversation",
+    "autore": "Ross Cameron, Professor of Environmental Horticulture, University of Sheffield",
+    "link": "https://theconversation.com/theres-something-you-can-do-now-to-cool-your-home-next-summer-and-its-far-cheaper-than-air-conditioning-291828"
+  },
+  {
     "titolo": "Why winter cold spells are getting milder",
     "data": "2026-09-24T15:12:12Z",
     "fonte": "Environment – The Conversation",
@@ -1412,13 +1419,6 @@
     "fonte": "Environment – The Conversation",
     "autore": "Jon Gluyas, Professor of Geoenergy, Carbon Capture and Storage, Durham University",
     "link": "https://theconversation.com/granting-a-new-gasfield-licence-does-not-guarantee-energy-security-291324"
-  },
-  {
-    "titolo": "Imagine newsletter: penguins, satellites and pink poo",
-    "data": "2026-09-17T16:28:51Z",
-    "fonte": "Environment – The Conversation",
-    "autore": "Will de Freitas, Environment + Energy Editor, The Conversation",
-    "link": "https://theconversation.com/imagine-newsletter-penguins-satellites-and-pink-poo-292158"
   },
   {
     "titolo": "How due process, not the First Amendment, got the White House ban on reporters blocked in court",
@@ -1561,74 +1561,74 @@
     "link": "https://theconversation.com/is-childproofing-the-internet-constitutional-a-tech-law-expert-draws-out-the-issues-240430"
   },
   {
+    "titolo": "Nigella Lawson and the fantasy of Bake Off – what to watch and read this week",
+    "data": "2026-09-25T11:09:36Z",
+    "fonte": "English – The Conversation",
+    "autore": "Naomi Joseph, Arts + Culture Editor, The Conversation",
+    "link": "https://theconversation.com/nigella-lawson-and-the-fantasy-of-bake-off-what-to-watch-and-read-this-week-292815"
+  },
+  {
+    "titolo": "There’s something you can do now to cool your home next summer – and it’s far cheaper than air conditioning",
+    "data": "2026-09-25T11:04:12Z",
+    "fonte": "English – The Conversation",
+    "autore": "Ross Cameron, Professor of Environmental Horticulture, University of Sheffield",
+    "link": "https://theconversation.com/theres-something-you-can-do-now-to-cool-your-home-next-summer-and-its-far-cheaper-than-air-conditioning-291828"
+  },
+  {
+    "titolo": "Why Indiana Jones is the best and worst thing to happen to archaeology",
+    "data": "2026-09-25T11:03:39Z",
+    "fonte": "English – The Conversation",
+    "autore": "Stephan Blum, Research Associate, Institute for Prehistory and Early History and Medieval Archaeology, University of Tübingen",
+    "link": "https://theconversation.com/why-indiana-jones-is-the-best-and-worst-thing-to-happen-to-archaeology-287232"
+  },
+  {
+    "titolo": "Feeling the burn? It’s not lactic acid",
+    "data": "2026-09-25T11:02:56Z",
+    "fonte": "English – The Conversation",
+    "autore": "Shaun Phillips, Senior Lecturer in Sport and Exercise Physiology, University of Edinburgh",
+    "link": "https://theconversation.com/feeling-the-burn-its-not-lactic-acid-291432"
+  },
+  {
+    "titolo": "Ancient virus hunters: how we discovered sheeppox DNA hidden in medieval gospels",
+    "data": "2026-09-25T11:02:21Z",
+    "fonte": "English – The Conversation",
+    "autore": "Louis L'Hôte, PhD Candidate in ancient pathogen genetics, School of Agriculture and Food Science, University College Dublin",
+    "link": "https://theconversation.com/ancient-virus-hunters-how-we-discovered-sheeppox-dna-hidden-in-medieval-gospels-292726"
+  },
+  {
+    "titolo": "What the differences between Danish and British humour can teach us about laughter",
+    "data": "2026-09-25T10:38:36Z",
+    "fonte": "English – The Conversation",
+    "autore": "Marc Hye-Knudsen, PhD Candidate in the Department of Management, Aarhus University",
+    "link": "https://theconversation.com/what-the-differences-between-danish-and-british-humour-can-teach-us-about-laughter-282074"
+  },
+  {
+    "titolo": "Nigeria faces the world’s highest projected death toll from super El Niño heat: what could save lives",
+    "data": "2026-09-25T09:50:36Z",
+    "fonte": "English – The Conversation",
+    "autore": "Michael Greenstone, Professor in Economics; Director, Energy Policy Institute, University of Chicago",
+    "link": "https://theconversation.com/nigeria-faces-the-worlds-highest-projected-death-toll-from-super-el-nino-heat-what-could-save-lives-292786"
+  },
+  {
+    "titolo": "Ian Berry’s Sharpeville images exposed apartheid violence to the world",
+    "data": "2026-09-25T08:37:45Z",
+    "fonte": "English – The Conversation",
+    "autore": "Kylie Thomas, Senior Lecturer (Radical Humanities Laboratory, University College Cork), University College Cork",
+    "link": "https://theconversation.com/ian-berrys-sharpeville-images-exposed-apartheid-violence-to-the-world-292479"
+  },
+  {
+    "titolo": "Trump-XI summit aims to head off an AI arms race",
+    "data": "2026-09-25T07:32:18Z",
+    "fonte": "English – The Conversation",
+    "autore": "Jonathan Este, Senior International Affairs Editor, Associate Editor, The Conversation",
+    "link": "https://theconversation.com/trump-xi-summit-aims-to-head-off-an-ai-arms-race-292823"
+  },
+  {
     "titolo": "Trump’s US ratings drop to new record low as Democrats become clear favourites in both chambers of Congress",
     "data": "2026-09-25T03:08:14Z",
     "fonte": "English – The Conversation",
     "autore": "Adrian Beaumont, Election Analyst (Psephologist) at The Conversation; and Honorary Associate, School of Mathematics and Statistics, The University of Melbourne",
     "link": "https://theconversation.com/trumps-us-ratings-drop-to-new-record-low-as-democrats-become-clear-favourites-in-both-chambers-of-congress-292769"
-  },
-  {
-    "titolo": "Could an ‘Australian AI’ protect us from being hacked? Cybersecurity isn’t that simple",
-    "data": "2026-09-25T03:04:18Z",
-    "fonte": "English – The Conversation",
-    "autore": "Niusha Shafiabady, Professor in Computational Intelligence, Australian Catholic University",
-    "link": "https://theconversation.com/could-an-australian-ai-protect-us-from-being-hacked-cybersecurity-isnt-that-simple-292888"
-  },
-  {
-    "titolo": "Curious Kids: does music affect how plants grow?",
-    "data": "2026-09-25T00:35:09Z",
-    "fonte": "English – The Conversation",
-    "autore": "Lily Whelehan, Postdoctoral Research Fellow, Queensland Alliance for Agriculture and Food Innovation, The University of Queensland",
-    "link": "https://theconversation.com/curious-kids-does-music-affect-how-plants-grow-288107"
-  },
-  {
-    "titolo": "September’s ozone hole was the biggest in 20 years. The warning signs appeared months ago",
-    "data": "2026-09-25T00:13:47Z",
-    "fonte": "English – The Conversation",
-    "autore": "Dan Smale, Principal Technician Atmosphere, Earth Sciences New Zealand",
-    "link": "https://theconversation.com/septembers-ozone-hole-was-the-biggest-in-20-years-the-warning-signs-appeared-months-ago-292457"
-  },
-  {
-    "titolo": "Australian poetry classics: Les Murray’s The Broad Bean Sermon is inexhaustible food for contemplation",
-    "data": "2026-09-24T23:10:13Z",
-    "fonte": "English – The Conversation",
-    "autore": "David McCooey, Professor of Writing and Literature, Deakin University",
-    "link": "https://theconversation.com/australian-poetry-classics-les-murrays-the-broad-bean-sermon-is-inexhaustible-food-for-contemplation-288071"
-  },
-  {
-    "titolo": "The English paid off the Vikings for almost a century. But was the Danegeld such a bad idea?",
-    "data": "2026-09-24T20:13:20Z",
-    "fonte": "English – The Conversation",
-    "autore": "Matthew Firth, Research Fellow in Medieval History, Flinders University",
-    "link": "https://theconversation.com/the-english-paid-off-the-vikings-for-almost-a-century-but-was-the-danegeld-such-a-bad-idea-288280"
-  },
-  {
-    "titolo": "Are AFL grand finals really the hardest game of the year? We checked the data",
-    "data": "2026-09-24T20:13:09Z",
-    "fonte": "English – The Conversation",
-    "autore": "Hunter Bennett, Lecturer in Exercise Science, Adelaide University",
-    "link": "https://theconversation.com/are-afl-grand-finals-really-the-hardest-game-of-the-year-we-checked-the-data-291452"
-  },
-  {
-    "titolo": "Heroin used more often, cocaine use up. What new data says about drug use today",
-    "data": "2026-09-24T20:12:56Z",
-    "fonte": "English – The Conversation",
-    "autore": "Jodie Grigg, Research Fellow, National Drug Research Institute, Curtin University",
-    "link": "https://theconversation.com/heroin-used-more-often-cocaine-use-up-what-new-data-says-about-drug-use-today-292125"
-  },
-  {
-    "titolo": "Card surcharges are banned from October 1. What’s changing at the checkout?",
-    "data": "2026-09-24T20:12:40Z",
-    "fonte": "English – The Conversation",
-    "autore": "Vibhu Arya, PhD Researcher, UTS Business School, University of Technology Sydney",
-    "link": "https://theconversation.com/card-surcharges-are-banned-from-october-1-whats-changing-at-the-checkout-290347"
-  },
-  {
-    "titolo": "Are Australians really overeducated? It depends what education is for",
-    "data": "2026-09-24T20:12:23Z",
-    "fonte": "English – The Conversation",
-    "autore": "Gwilym Croucher, Associate Professor, Melbourne Centre for the Study of Higher Education, The University of Melbourne",
-    "link": "https://theconversation.com/are-australians-really-overeducated-it-depends-what-education-is-for-292768"
   },
   {
     "titolo": "Comment notre espèce a-t-elle conquis toute la planète ?",
