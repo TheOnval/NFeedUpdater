@@ -140,13 +140,6 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004002"
   },
   {
-    "titolo": "Retinal curl as a functional signal for heading estimation beyond the focus of expansion",
-    "data": "Fri, 25 Sep 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "j.lopezmoliner@ub.edu (Kontessa I Zorpala)",
-    "link": "https://elifesciences.org/articles/110770"
-  },
-  {
     "titolo": "Opening the black box toward a modular approach to spike sorting",
     "data": "Fri, 25 Sep 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -154,18 +147,18 @@
     "link": "https://elifesciences.org/articles/110588"
   },
   {
+    "titolo": "Retinal curl as a functional signal for heading estimation beyond the focus of expansion",
+    "data": "Fri, 25 Sep 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "j.lopezmoliner@ub.edu (Kontessa I Zorpala)",
+    "link": "https://elifesciences.org/articles/110770"
+  },
+  {
     "titolo": "Two Glu/Asp residues cooperatively mediate an early step of ATP hydrolysis in GHKL ATPases MutL and GyrB",
     "data": "Fri, 25 Sep 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
     "autore": "kenji.fukui@cc.nara-wu.ac.jp (Takeshi Murakawa)",
     "link": "https://elifesciences.org/articles/111443"
-  },
-  {
-    "titolo": "Cellular basis of accelerated whole-tooth regeneration",
-    "data": "Thu, 24 Sep 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "todd.streelman@biology.gatech.edu (Talha Mubeen)",
-    "link": "https://elifesciences.org/articles/110584"
   },
   {
     "titolo": "Real-time closed-loop feedback system for mouse mesoscale cortical signal and movement control",
@@ -189,6 +182,20 @@
     "link": "https://elifesciences.org/articles/111419"
   },
   {
+    "titolo": "Cellular basis of accelerated whole-tooth regeneration",
+    "data": "Thu, 24 Sep 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "todd.streelman@biology.gatech.edu (Talha Mubeen)",
+    "link": "https://elifesciences.org/articles/110584"
+  },
+  {
+    "titolo": "Identifying a novel mechanism of L-leucine uptake in <i>Mycobacterium tuberculosis</i> using a chemical genomic approach",
+    "data": "Wed, 23 Sep 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "nisheeth@thsti.res.in (Yashwant Kumar)",
+    "link": "https://elifesciences.org/articles/107025"
+  },
+  {
     "titolo": "Brief disruption of activity in a subset of dopaminergic neurons during consolidation impairs long-term memory by fragmenting sleep",
     "data": "Wed, 23 Sep 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -196,18 +203,11 @@
     "link": "https://elifesciences.org/articles/104862"
   },
   {
-    "titolo": "Region-specific mechanosensation modulates <i>Drosophila</i> postural control behaviour",
+    "titolo": "A novel rapid host cell entry pathway determines the intracellular fate of <i>Staphylococcus aureus</i>",
     "data": "Wed, 23 Sep 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "c.alonso@sussex.ac.uk (William Roseby)",
-    "link": "https://elifesciences.org/articles/108505"
-  },
-  {
-    "titolo": "Machine learning of honey bee olfactory behavior identifies repellent odorants in free-flying bees in the field",
-    "data": "Wed, 23 Sep 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "anand.ray@ucr.edu (Tom Guda)",
-    "link": "https://elifesciences.org/articles/104831"
+    "autore": "martin.fraunholz@uni-wuerzburg.de (Nadine Knoch)",
+    "link": "https://elifesciences.org/articles/102810"
   },
   {
     "titolo": "Skin conditions and symptoms  -- EMBASE via embase.com",
@@ -278,146 +278,6 @@
     "fonte": "PubMed Search Strategies",
     "autore": "Cindy Schmidt, M.D., M.L.S. (noreply@blogger.com)",
     "link": "http://pubmedsearches.blogspot.com/2025/01/united-kingdom-keywords-for-embase.html"
-  },
-  {
-    "titolo": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
-    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Yufeng Wang",
-    "link": "https://arxiv.org/abs/2609.28475"
-  },
-  {
-    "titolo": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
-    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Nathan Thierry, Andre-Louis Rochet",
-    "link": "https://arxiv.org/abs/2609.28506"
-  },
-  {
-    "titolo": "PAWS: Policy-driven Agentic World Simulation",
-    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Tiviatis Sim, Jia Hui Woon, Xinming Gao, Chen Gao, Fengbin Zhu, Zheng Huanhuan, Chua Tat Seng, Kenji Kawaguchi",
-    "link": "https://arxiv.org/abs/2609.28547"
-  },
-  {
-    "titolo": "Pistis Technical Report",
-    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Heyun Chen, Xiaohan Lan, Jiaxi Li, Zhilin Lu, Qi She, Weiwen Xu, Fei Yu, Yujie Zhong, Jinghuan Chen, Zijian Feng, Siyu Jiao, Yiheng Lin, Xinhao Wang, Sihan Yang, Jieyu You, Changbin Zhang, Hengyu Zhang, Xudong Zhang, Yunqing Zhao, Shuai Zheng",
-    "link": "https://arxiv.org/abs/2609.28554"
-  },
-  {
-    "titolo": "BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines",
-    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Eranga Bandara, Xueping Liang, Asanga Gunaratna, Tharaka Hewa, Abdul Rahman, Peter Foytik, Safdar H. Bouk, Sachini Rajapakse, Isurunima Kularathna, Pramoda Karunarathna, Chalani Rajapakse, Ng Wee Keong, Kasun De Zoysa, Amin Hass, Wathsala Herath, Ross Gore, Ravi Mukkamala, Nihal Siriwardanagea, Gihan Siriwardanagea, Aruna Withanage, Nilaan Loganathan, Sachin Shetty",
-    "link": "https://arxiv.org/abs/2609.28557"
-  },
-  {
-    "titolo": "DEEPO: Dual-Entropy Enhanced Policy Optimization for Hallucination in MLLMs",
-    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Yingxuan Zhuang, Miao Pan, Wangjie Gan, Jingxiao Yang, Fan Wang, Weiming Liu, Cheng Tan, Xuhong Zhang, Jintao Chen",
-    "link": "https://arxiv.org/abs/2609.28570"
-  },
-  {
-    "titolo": "TWIST: A Proposed Benchmark for Intervention Quality in Conversational Memory, with a Human-Validated Draft-Alignment",
-    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Subrat Panda",
-    "link": "https://arxiv.org/abs/2609.28575"
-  },
-  {
-    "titolo": "Adversarial Closed-Loop Curriculum for Evolving Role-Playing Agents",
-    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Zheng Zhang, Liu Liu, Qi Chai, Deheng Ye, Peilin Zhao, Mao Zheng, Hao Wang",
-    "link": "https://arxiv.org/abs/2609.28609"
-  },
-  {
-    "titolo": "Training Object Permanence in World Models",
-    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Haotian Zhang, Fengyuan Yu, Dezhi Luo, Haoran Sun, Zehong Zhao, Qingying Gao, Yihan Li, Siyuan An, Huayi Qin, Yilan Zhang, Zhengze Jiang, Pinyuan Feng, Renrui Zhang, Ziyu Guo, Letian Wang, Mengyue Yang, Kangfu Mei, Maijunxian Wang, Ran Ji, Vikash Kumar, Freda Shi, Chandra Sripada, Vincent C. Muller, Philip Torr, Alan Yuille, Nikolaus Kriegeskorte, Felix Juefei-Xu, Lvmin Zhang, Jieneng Chen, Yilun Du, Hokin Deng",
-    "link": "https://arxiv.org/abs/2609.28654"
-  },
-  {
-    "titolo": "Beyond Surface Style: Aligning Multi-Turn User Simulators with Behavioral Consistency",
-    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Geng Chen, Ruotong Pan, Zhirui Yang, Qiqi He, Jiawei Chen, Zhang Yunfei, Chongyuan Chen, Minxuan Lv, Zheng Yang, Win-Bin Huang, Xiangyu Wu, Wenwu Ou",
-    "link": "https://arxiv.org/abs/2609.28690"
-  },
-  {
-    "titolo": "Revisiting Aristarchus's method to estimate the ratio of the distances from Earth to the Sun and the Moon",
-    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Hugo Caerols, Mart\\'in Avenda\\~no, Felipe A. Asenjo, Rafael Brahm",
-    "link": "https://arxiv.org/abs/2609.28513"
-  },
-  {
-    "titolo": "A Dosage $\\times$ Precision Framework for Instructional Effectiveness: Propositions, Boundary Conditions, and an Illustrative Case from Solid-State Physics",
-    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Kun Tao, Chenglong Jia, Desheng Xue",
-    "link": "https://arxiv.org/abs/2609.28516"
-  },
-  {
-    "titolo": "The Price of Removing the Scaffolding: Maxwell wrote something about Amp`ere that years later would be done to him",
-    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Mar'ia Florentina Mendoza Ur'an",
-    "link": "https://arxiv.org/abs/2609.28525"
-  },
-  {
-    "titolo": "HClimRep-Ocean: A Global Ocean Emulator on an Unstructured Mesh",
-    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Kacper Nowak, Aleksei Koldunov, Nikolay Koldunov, Savvas Melidonis, Ankit Patnala, Simon Grasse, Julius Polz, Christian Lessig, Martin Schultz, Thomas Jung",
-    "link": "https://arxiv.org/abs/2609.28601"
-  },
-  {
-    "titolo": "General model for shear stress and surface pressure distributions for flow over spheres",
-    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Bryce Daniels, Thomas Schwartzentruber",
-    "link": "https://arxiv.org/abs/2609.28658"
-  },
-  {
-    "titolo": "Cross-geometry transfer and model collapse in point cloud calorimeter shower generation",
-    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Thorsten Buss, Frank Gaede, Gregor Kasieczka, Lorenzo Valente, Duncan Weber",
-    "link": "https://arxiv.org/abs/2609.28661"
-  },
-  {
-    "titolo": "Vectorpotential-based Beam Current Sensors: Applications for Mu2e, and Picosecond Bunch Substructure",
-    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "P. W. Gorham (University of Hawaii at Manoa), M. T. Hedges (Fermi National Accelerator Laboratory), R. Kim (Fermi National Accelerator Laboratory), P. M. Lewis (University of Hawaii at Manoa), K. Lynch (Fermi National Accelerator Laboratory), C. Miki (University of Hawaii at Manoa), J. Morgan (Fermi National Accelerator Laboratory), N. Nyza (University of Hawaii at Manoa), D. Pang (University of Hawaii at Manoa), T. Polischuk (University of Hawaii at Manoa), D. Still (Fermi National Accelerator Laboratory)",
-    "link": "https://arxiv.org/abs/2609.28663"
-  },
-  {
-    "titolo": "Consistent lattice Boltzmann model with body force and heat source for compressible flows of generic fluids",
-    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "S. Chatterjee, R. M. Str\\\"assle, S. A. Hosseini, I. V. Karlin",
-    "link": "https://arxiv.org/abs/2609.28679"
-  },
-  {
-    "titolo": "A general no-go theorem for loss-free optical torque, and its enantiomer-differential escape route",
-    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Juanjuan Ren, Reuven Gordon, Stephen Hughes",
-    "link": "https://arxiv.org/abs/2609.28696"
-  },
-  {
-    "titolo": "Pauli exclusion as a necessary condition for the existence of the H$_2$ + H$^{\\bullet}$ atom transfer barrier",
-    "data": "Fri, 25 Sep 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Shehan H. Fernando, Alistair J. Sterling",
-    "link": "https://arxiv.org/abs/2609.28711"
   },
   {
     "titolo": "A Deep Neural Network for Predicting Continuous Human EEG Across the Auditory Pathway in Response to Sound",
@@ -581,6 +441,13 @@
     "link": "https://arxiv.org/abs/1803.06969v2"
   },
   {
+    "titolo": "Haiti at ‘watershed moment’, Prime Minister tells UN, urging full backing for security force",
+    "data": "Fri, 25 Sep 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168453"
+  },
+  {
     "titolo": "Pakistan’s Sharif warns any diversion of Indus waters will be ‘treated as an act of war’",
     "data": "Fri, 25 Sep 2026 12:00:00 +0000",
     "fonte": "UN News - Global perspective Human stories",
@@ -642,13 +509,6 @@
     "fonte": "UN News - Global perspective Human stories",
     "autore": "Anonimo",
     "link": "https://news.un.org/feed/view/en/story/2026/09/1168439"
-  },
-  {
-    "titolo": "Security Council LIVE: Rising tide of forced displacement",
-    "data": "Fri, 25 Sep 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168438"
   },
   {
     "titolo": "Oligarchy Is a Symptom, Not a Cause",
@@ -1421,6 +1281,13 @@
     "link": "https://theconversation.com/who-do-you-trust-in-an-emergency-we-asked-people-in-places-hit-by-extreme-weather-286574"
   },
   {
+    "titolo": "In ‘NAZA,’ Israeli whistleblowers’ revelations about civilian deaths in Gaza reflect a longer history of Palestinian isolation",
+    "data": "2026-09-25T21:22:58Z",
+    "fonte": "The Conversation – Articles (US)",
+    "autore": "Drew Paul, Professor of Arabic, University of Tennessee",
+    "link": "https://theconversation.com/in-naza-israeli-whistleblowers-revelations-about-civilian-deaths-in-gaza-reflect-a-longer-history-of-palestinian-isolation-292348"
+  },
+  {
     "titolo": "Trump has gotten rid of many of the checks and balances that could stop him from demolishing the Kennedy Center",
     "data": "2026-09-25T19:15:26Z",
     "fonte": "The Conversation – Articles (US)",
@@ -1482,13 +1349,6 @@
     "fonte": "The Conversation – Articles (US)",
     "autore": "Cara Giovanetti, Postdoctoral Researcher in Physics, University of California, Berkeley",
     "link": "https://theconversation.com/an-overlooked-era-of-cosmology-is-stealing-the-show-in-the-quest-to-understand-the-cosmos-275540"
-  },
-  {
-    "titolo": "Push for Creole courses in schools stokes historic anti-Haitian feeling in Dominican Republic",
-    "data": "2026-09-25T12:40:56Z",
-    "fonte": "The Conversation – Articles (US)",
-    "autore": "Kendall Medford, Postdoctoral Scholar at the Africana Research Center, Penn State",
-    "link": "https://theconversation.com/push-for-creole-courses-in-schools-stokes-historic-anti-haitian-feeling-in-dominican-republic-291746"
   },
   {
     "titolo": "World Cup 2026 quiz",
@@ -1561,6 +1421,13 @@
     "link": "https://theconversation.com/is-childproofing-the-internet-constitutional-a-tech-law-expert-draws-out-the-issues-240430"
   },
   {
+    "titolo": "In ‘NAZA,’ Israeli whistleblowers’ revelations about civilian deaths in Gaza reflect a longer history of Palestinian isolation",
+    "data": "2026-09-25T21:22:58Z",
+    "fonte": "English – The Conversation",
+    "autore": "Drew Paul, Professor of Arabic, University of Tennessee",
+    "link": "https://theconversation.com/in-naza-israeli-whistleblowers-revelations-about-civilian-deaths-in-gaza-reflect-a-longer-history-of-palestinian-isolation-292348"
+  },
+  {
     "titolo": "Trump has gotten rid of many of the checks and balances that could stop him from demolishing the Kennedy Center",
     "data": "2026-09-25T19:15:26Z",
     "fonte": "English – The Conversation",
@@ -1622,13 +1489,6 @@
     "fonte": "English – The Conversation",
     "autore": "Akhil Bhardwaj, Associate Professor (Strategy and Organisation), School of Management, University of Bath",
     "link": "https://theconversation.com/ai-is-creating-jobs-as-well-as-erasing-them-but-how-rewarding-are-they-292848"
-  },
-  {
-    "titolo": "The Uprising: the real medieval revolt that inspired Andrew Garfield’s new film",
-    "data": "2026-09-25T13:52:35Z",
-    "fonte": "English – The Conversation",
-    "autore": "Alex Brown, Associate Professor of Medieval History, Durham University",
-    "link": "https://theconversation.com/the-uprising-the-real-medieval-revolt-that-inspired-andrew-garfields-new-film-289109"
   },
   {
     "titolo": "Comment notre espèce a-t-elle conquis toute la planète ?",
