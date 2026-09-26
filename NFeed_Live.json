@@ -147,13 +147,6 @@
     "link": "https://elifesciences.org/articles/110588"
   },
   {
-    "titolo": "Retinal curl as a functional signal for heading estimation beyond the focus of expansion",
-    "data": "Fri, 25 Sep 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "j.lopezmoliner@ub.edu (Kontessa I Zorpala)",
-    "link": "https://elifesciences.org/articles/110770"
-  },
-  {
     "titolo": "Two Glu/Asp residues cooperatively mediate an early step of ATP hydrolysis in GHKL ATPases MutL and GyrB",
     "data": "Fri, 25 Sep 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -161,25 +154,11 @@
     "link": "https://elifesciences.org/articles/111443"
   },
   {
-    "titolo": "Real-time closed-loop feedback system for mouse mesoscale cortical signal and movement control",
-    "data": "Thu, 24 Sep 2026 00:00:00 +0000",
+    "titolo": "Retinal curl as a functional signal for heading estimation beyond the focus of expansion",
+    "data": "Fri, 25 Sep 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "thmurphy@mail.ubc.ca (Timothy H Murphy)",
-    "link": "https://elifesciences.org/articles/105070"
-  },
-  {
-    "titolo": "Integrated respirometry and metabolomics unveil circadian metabolic dynamics in <i>Drosophila</i>",
-    "data": "Thu, 24 Sep 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "aalim@upenn.edu (Paula Haynes)",
-    "link": "https://elifesciences.org/articles/108681"
-  },
-  {
-    "titolo": "Developmental synchrony of retinal waves, apoptosis, and angiogenesis in postnatal retina",
-    "data": "Thu, 24 Sep 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "michael.savage2@newcastle.ac.uk (Rachel Queen)",
-    "link": "https://elifesciences.org/articles/111419"
+    "autore": "j.lopezmoliner@ub.edu (Kontessa I Zorpala)",
+    "link": "https://elifesciences.org/articles/110770"
   },
   {
     "titolo": "Cellular basis of accelerated whole-tooth regeneration",
@@ -189,11 +168,25 @@
     "link": "https://elifesciences.org/articles/110584"
   },
   {
-    "titolo": "Identifying a novel mechanism of L-leucine uptake in <i>Mycobacterium tuberculosis</i> using a chemical genomic approach",
-    "data": "Wed, 23 Sep 2026 00:00:00 +0000",
+    "titolo": "Developmental synchrony of retinal waves, apoptosis, and angiogenesis in postnatal retina",
+    "data": "Thu, 24 Sep 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "nisheeth@thsti.res.in (Yashwant Kumar)",
-    "link": "https://elifesciences.org/articles/107025"
+    "autore": "michael.savage2@newcastle.ac.uk (Rachel Queen)",
+    "link": "https://elifesciences.org/articles/111419"
+  },
+  {
+    "titolo": "Integrated respirometry and metabolomics unveil circadian metabolic dynamics in <i>Drosophila</i>",
+    "data": "Thu, 24 Sep 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "aalim@upenn.edu (Paula Haynes)",
+    "link": "https://elifesciences.org/articles/108681"
+  },
+  {
+    "titolo": "Real-time closed-loop feedback system for mouse mesoscale cortical signal and movement control",
+    "data": "Thu, 24 Sep 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "thmurphy@mail.ubc.ca (Timothy H Murphy)",
+    "link": "https://elifesciences.org/articles/105070"
   },
   {
     "titolo": "Brief disruption of activity in a subset of dopaminergic neurons during consolidation impairs long-term memory by fragmenting sleep",
@@ -203,11 +196,18 @@
     "link": "https://elifesciences.org/articles/104862"
   },
   {
-    "titolo": "A novel rapid host cell entry pathway determines the intracellular fate of <i>Staphylococcus aureus</i>",
+    "titolo": "Region-specific mechanosensation modulates <i>Drosophila</i> postural control behaviour",
     "data": "Wed, 23 Sep 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "martin.fraunholz@uni-wuerzburg.de (Nadine Knoch)",
-    "link": "https://elifesciences.org/articles/102810"
+    "autore": "c.alonso@sussex.ac.uk (William Roseby)",
+    "link": "https://elifesciences.org/articles/108505"
+  },
+  {
+    "titolo": "Identifying a novel mechanism of L-leucine uptake in <i>Mycobacterium tuberculosis</i> using a chemical genomic approach",
+    "data": "Wed, 23 Sep 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "nisheeth@thsti.res.in (Yashwant Kumar)",
+    "link": "https://elifesciences.org/articles/107025"
   },
   {
     "titolo": "Skin conditions and symptoms  -- EMBASE via embase.com",
@@ -350,95 +350,11 @@
     "link": "https://arxiv.org/abs/2605.00746v2"
   },
   {
-    "titolo": "Reducing Catastrophic Risk from AI with Systematic Monitoring and Evaluation of Rogue AI Progression",
-    "data": "2026-09-02T22:13:24Z",
-    "fonte": "arXiv Query: search_query=au:\"Bengio Y\"&id_list=&start=0&max_results=100",
-    "autore": "Y. Bengio",
-    "link": "https://arxiv.org/abs/2609.03189v2"
-  },
-  {
-    "titolo": "Diffusion of Context and Credit Information in Markovian Models",
-    "data": "1995-10-01T00:00:00Z",
-    "fonte": "arXiv Query: search_query=au:\"Bengio Y\"&id_list=&start=0&max_results=100",
-    "autore": "P. Frasconi",
-    "link": "https://arxiv.org/abs/cs/9510101v1"
-  },
-  {
-    "titolo": "The First Large Absorption Survey in HI (FLASH): II. Pilot Survey data release and first results",
-    "data": "2024-08-13T04:29:15Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "Tobias Westmeier",
-    "link": "https://arxiv.org/abs/2408.06626v2"
-  },
-  {
-    "titolo": "The CRAFT Coherent (CRACO) upgrade I: System Description and Results of the 110-ms Radio Transient Pilot Survey",
-    "data": "2024-09-16T14:26:50Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "T. Westmeier",
-    "link": "https://arxiv.org/abs/2409.10316v2"
-  },
-  {
-    "titolo": "Stark effect tunable terahertz transitions in finite carbon chains",
-    "data": "2023-09-01T06:50:32Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "R. R. Hartmann",
-    "link": "https://arxiv.org/abs/2309.00288v1"
-  },
-  {
-    "titolo": "WALLABY Pilot Survey: Public release of HI data for almost 600 galaxies from phase 1 of ASKAP pilot observations",
-    "data": "2022-11-14T03:41:57Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "K. Said",
-    "link": "https://arxiv.org/abs/2211.07094v1"
-  },
-  {
-    "titolo": "Tuning terahertz transitions in cyclo[n]carbon rings",
-    "data": "2022-02-03T13:00:40Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "R. R. Hartmann",
-    "link": "https://arxiv.org/abs/2202.01568v2"
-  },
-  {
-    "titolo": "GASKAP-HI Pilot Survey Science I: ASKAP Zoom Observations of HI Emission in the Small Magellanic Cloud",
-    "data": "2021-11-09T19:00:00Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "M. T. Whiting",
-    "link": "https://arxiv.org/abs/2111.05339v2"
-  },
-  {
-    "titolo": "Mapping borophene onto graphene: Quasi-exact solutions for guiding potentials in tilted Dirac cones",
-    "data": "2021-11-21T08:19:19Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "R. R. Hartmann",
-    "link": "https://arxiv.org/abs/2111.10760v1"
-  },
-  {
-    "titolo": "The ASKAP Variables and Slow Transients (VAST) Pilot Survey",
-    "data": "2021-08-13T03:25:13Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "M. A. Voronkov",
-    "link": "https://arxiv.org/abs/2108.06039v1"
-  },
-  {
-    "titolo": "Australian Square Kilometre Array Pathfinder: I. System Description",
-    "data": "2021-02-03T04:16:57Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "T. Westmeier",
-    "link": "https://arxiv.org/abs/2102.01870v1"
-  },
-  {
-    "titolo": "The Australian Square Kilometre Array Pathfinder: Performance of the Boolardy Engineering Test Array",
-    "data": "2016-08-02T09:42:25Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "T. Wilson",
-    "link": "https://arxiv.org/abs/1608.00750v1"
-  },
-  {
-    "titolo": "Comparing Dynamics: Deep Neural Networks versus Glassy Systems",
-    "data": "2018-03-19T14:59:01Z",
-    "fonte": "arXiv Query: search_query=au:\"LeCun Y\"&id_list=&start=0&max_results=100",
-    "autore": "G. Biroli",
-    "link": "https://arxiv.org/abs/1803.06969v2"
+    "titolo": "The Takeaway: UN General Assembly debate Day 4",
+    "data": "Sat, 26 Sep 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/09/1168454"
   },
   {
     "titolo": "Haiti at ‘watershed moment’, Prime Minister tells UN, urging full backing for security force",
@@ -502,13 +418,6 @@
     "fonte": "UN News - Global perspective Human stories",
     "autore": "Anonimo",
     "link": "https://news.un.org/feed/view/en/story/2026/09/1168440"
-  },
-  {
-    "titolo": "Sudan’s farmers are ready to return – private investment could get them there",
-    "data": "Fri, 25 Sep 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/09/1168439"
   },
   {
     "titolo": "Oligarchy Is a Symptom, Not a Cause",
