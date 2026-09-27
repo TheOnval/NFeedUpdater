@@ -140,13 +140,6 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004002"
   },
   {
-    "titolo": "Opening the black box toward a modular approach to spike sorting",
-    "data": "Fri, 25 Sep 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "samuel.garcia@cnrs.fr (Zachary M McKenzie)",
-    "link": "https://elifesciences.org/articles/110588"
-  },
-  {
     "titolo": "Retinal curl as a functional signal for heading estimation beyond the focus of expansion",
     "data": "Fri, 25 Sep 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -159,6 +152,13 @@
     "fonte": "eLife: latest articles",
     "autore": "kenji.fukui@cc.nara-wu.ac.jp (Takeshi Murakawa)",
     "link": "https://elifesciences.org/articles/111443"
+  },
+  {
+    "titolo": "Opening the black box toward a modular approach to spike sorting",
+    "data": "Fri, 25 Sep 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "samuel.garcia@cnrs.fr (Zachary M McKenzie)",
+    "link": "https://elifesciences.org/articles/110588"
   },
   {
     "titolo": "Real-time closed-loop feedback system for mouse mesoscale cortical signal and movement control",
@@ -189,11 +189,11 @@
     "link": "https://elifesciences.org/articles/110584"
   },
   {
-    "titolo": "Identifying a novel mechanism of L-leucine uptake in <i>Mycobacterium tuberculosis</i> using a chemical genomic approach",
+    "titolo": "A novel rapid host cell entry pathway determines the intracellular fate of <i>Staphylococcus aureus</i>",
     "data": "Wed, 23 Sep 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "nisheeth@thsti.res.in (Yashwant Kumar)",
-    "link": "https://elifesciences.org/articles/107025"
+    "autore": "martin.fraunholz@uni-wuerzburg.de (Nadine Knoch)",
+    "link": "https://elifesciences.org/articles/102810"
   },
   {
     "titolo": "Brief disruption of activity in a subset of dopaminergic neurons during consolidation impairs long-term memory by fragmenting sleep",
@@ -203,11 +203,11 @@
     "link": "https://elifesciences.org/articles/104862"
   },
   {
-    "titolo": "A novel rapid host cell entry pathway determines the intracellular fate of <i>Staphylococcus aureus</i>",
+    "titolo": "Machine learning of honey bee olfactory behavior identifies repellent odorants in free-flying bees in the field",
     "data": "Wed, 23 Sep 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "martin.fraunholz@uni-wuerzburg.de (Nadine Knoch)",
-    "link": "https://elifesciences.org/articles/102810"
+    "autore": "anand.ray@ucr.edu (Tom Guda)",
+    "link": "https://elifesciences.org/articles/104831"
   },
   {
     "titolo": "Skin conditions and symptoms  -- EMBASE via embase.com",
@@ -362,6 +362,76 @@
     "fonte": "arXiv Query: search_query=au:\"Bengio Y\"&id_list=&start=0&max_results=100",
     "autore": "P. Frasconi",
     "link": "https://arxiv.org/abs/cs/9510101v1"
+  },
+  {
+    "titolo": "The First Large Absorption Survey in HI (FLASH): II. Pilot Survey data release and first results",
+    "data": "2024-08-13T04:29:15Z",
+    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
+    "autore": "Tobias Westmeier",
+    "link": "https://arxiv.org/abs/2408.06626v2"
+  },
+  {
+    "titolo": "The CRAFT Coherent (CRACO) upgrade I: System Description and Results of the 110-ms Radio Transient Pilot Survey",
+    "data": "2024-09-16T14:26:50Z",
+    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
+    "autore": "T. Westmeier",
+    "link": "https://arxiv.org/abs/2409.10316v2"
+  },
+  {
+    "titolo": "Stark effect tunable terahertz transitions in finite carbon chains",
+    "data": "2023-09-01T06:50:32Z",
+    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
+    "autore": "R. R. Hartmann",
+    "link": "https://arxiv.org/abs/2309.00288v1"
+  },
+  {
+    "titolo": "WALLABY Pilot Survey: Public release of HI data for almost 600 galaxies from phase 1 of ASKAP pilot observations",
+    "data": "2022-11-14T03:41:57Z",
+    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
+    "autore": "K. Said",
+    "link": "https://arxiv.org/abs/2211.07094v1"
+  },
+  {
+    "titolo": "Tuning terahertz transitions in cyclo[n]carbon rings",
+    "data": "2022-02-03T13:00:40Z",
+    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
+    "autore": "R. R. Hartmann",
+    "link": "https://arxiv.org/abs/2202.01568v2"
+  },
+  {
+    "titolo": "GASKAP-HI Pilot Survey Science I: ASKAP Zoom Observations of HI Emission in the Small Magellanic Cloud",
+    "data": "2021-11-09T19:00:00Z",
+    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
+    "autore": "M. T. Whiting",
+    "link": "https://arxiv.org/abs/2111.05339v2"
+  },
+  {
+    "titolo": "Mapping borophene onto graphene: Quasi-exact solutions for guiding potentials in tilted Dirac cones",
+    "data": "2021-11-21T08:19:19Z",
+    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
+    "autore": "R. R. Hartmann",
+    "link": "https://arxiv.org/abs/2111.10760v1"
+  },
+  {
+    "titolo": "The ASKAP Variables and Slow Transients (VAST) Pilot Survey",
+    "data": "2021-08-13T03:25:13Z",
+    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
+    "autore": "M. A. Voronkov",
+    "link": "https://arxiv.org/abs/2108.06039v1"
+  },
+  {
+    "titolo": "Australian Square Kilometre Array Pathfinder: I. System Description",
+    "data": "2021-02-03T04:16:57Z",
+    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
+    "autore": "T. Westmeier",
+    "link": "https://arxiv.org/abs/2102.01870v1"
+  },
+  {
+    "titolo": "The Australian Square Kilometre Array Pathfinder: Performance of the Boolardy Engineering Test Array",
+    "data": "2016-08-02T09:42:25Z",
+    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
+    "autore": "T. Wilson",
+    "link": "https://arxiv.org/abs/1608.00750v1"
   },
   {
     "titolo": "Comparing Dynamics: Deep Neural Networks versus Glassy Systems",
@@ -861,6 +931,13 @@
     "link": "https://theconversation.com/as-renewed-chaos-grips-the-oil-market-one-country-is-keeping-global-prices-down-by-reducing-demand-292218"
   },
   {
+    "titolo": "Stripped titles? Compensating rivals? How the Manchester City cheating scandal could play out",
+    "data": "2026-09-26T23:49:46Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Danny F Hill, Assistant Professor Finance, Providence College",
+    "link": "https://theconversation.com/stripped-titles-compensating-rivals-how-the-manchester-city-cheating-scandal-could-play-out-292970"
+  },
+  {
     "titolo": "Trump’s US ratings drop to new record low as Democrats become clear favourites in both chambers of Congress",
     "data": "2026-09-25T03:08:14Z",
     "fonte": "Politics + Society – The Conversation",
@@ -924,11 +1001,11 @@
     "link": "https://theconversation.com/what-we-learnt-on-the-first-day-of-victorias-big-build-royal-commission-292673"
   },
   {
-    "titolo": "Trump has banned more media and started his own TV channel. In the process, he risks further eroding American democracy",
-    "data": "2026-09-23T06:00:53Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "Matthew Ricketson, Professor of Communication, Deakin University",
-    "link": "https://theconversation.com/trump-has-banned-more-media-and-started-his-own-tv-channel-in-the-process-he-risks-further-eroding-american-democracy-292461"
+    "titolo": "Stripped titles? Compensating rivals? How the Manchester City cheating scandal could play out",
+    "data": "2026-09-26T23:49:46Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Danny F Hill, Assistant Professor Finance, Providence College",
+    "link": "https://theconversation.com/stripped-titles-compensating-rivals-how-the-manchester-city-cheating-scandal-could-play-out-292970"
   },
   {
     "titolo": "Trump’s US ratings drop to new record low as Democrats become clear favourites in both chambers of Congress",
@@ -992,13 +1069,6 @@
     "fonte": "Home – The Conversation",
     "autore": "Vibhu Arya, PhD Researcher, UTS Business School, University of Technology Sydney",
     "link": "https://theconversation.com/card-surcharges-are-banned-from-october-1-whats-changing-at-the-checkout-290347"
-  },
-  {
-    "titolo": "Are Australians really overeducated? It depends what education is for",
-    "data": "2026-09-24T20:12:23Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Gwilym Croucher, Associate Professor, Melbourne Centre for the Study of Higher Education, The University of Melbourne",
-    "link": "https://theconversation.com/are-australians-really-overeducated-it-depends-what-education-is-for-292768"
   },
   {
     "titolo": "Arsenal’s Mikel Arteta uses ‘desirable difficulties’ to prepare his players – is this a good coaching strategy?",
@@ -1351,6 +1421,13 @@
     "link": "https://theconversation.com/is-childproofing-the-internet-constitutional-a-tech-law-expert-draws-out-the-issues-240430"
   },
   {
+    "titolo": "Stripped titles? Compensating rivals? How the Manchester City cheating scandal could play out",
+    "data": "2026-09-26T23:49:46Z",
+    "fonte": "English – The Conversation",
+    "autore": "Danny F Hill, Assistant Professor Finance, Providence College",
+    "link": "https://theconversation.com/stripped-titles-compensating-rivals-how-the-manchester-city-cheating-scandal-could-play-out-292970"
+  },
+  {
     "titolo": "In ‘NAZA,’ Israeli whistleblowers’ revelations about civilian deaths in Gaza reflect a longer history of Palestinian isolation",
     "data": "2026-09-25T21:22:58Z",
     "fonte": "English – The Conversation",
@@ -1412,13 +1489,6 @@
     "fonte": "English – The Conversation",
     "autore": "Carolyn Hardaker, Head of School of Design Innovation, De Montfort University",
     "link": "https://theconversation.com/once-rejected-as-too-outlandish-zandra-rhodes-archive-is-helping-to-shape-fashions-future-291208"
-  },
-  {
-    "titolo": "AI is creating jobs as well as erasing them – but how rewarding are they?",
-    "data": "2026-09-25T13:52:38Z",
-    "fonte": "English – The Conversation",
-    "autore": "Akhil Bhardwaj, Associate Professor (Strategy and Organisation), School of Management, University of Bath",
-    "link": "https://theconversation.com/ai-is-creating-jobs-as-well-as-erasing-them-but-how-rewarding-are-they-292848"
   },
   {
     "titolo": "Comment notre espèce a-t-elle conquis toute la planète ?",
