@@ -1,5 +1,12 @@
 [
   {
+    "titolo": "A new approach of a path-tracking system of a differential drive robot for an arbitrary set of waypoints using sliding mode control",
+    "data": "Fri, 02 Oct 2026 14:00:00 GMT",
+    "fonte": "PLOS One",
+    "autore": "Amin Danial Asham",
+    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0357979"
+  },
+  {
     "titolo": "Predictors of mortality available at emergency department arrival in massively transfused trauma patients without severe TBI: A single-center retrospective cohort study",
     "data": "Thu, 01 Oct 2026 14:00:00 GMT",
     "fonte": "PLOS One",
@@ -61,13 +68,6 @@
     "fonte": "PLOS One",
     "autore": "Joshua Vo, Tina Mai, Nhi Yen Bui, Dang Ngoc Khoi, Minh Phan Ngoc Nguyen, Quang Thanh Nguyen",
     "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359776"
-  },
-  {
-    "titolo": "Efficacy of nebulized salbutamol in transient tachypnea of the newborn: A systematic review and meta-analysis",
-    "data": "Thu, 01 Oct 2026 14:00:00 GMT",
-    "fonte": "PLOS One",
-    "autore": "Nanthida Phattraprayoon, Nut Koonrungsesomboon, Mingkwan Na Takuathung",
-    "link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359663"
   },
   {
     "titolo": "Breadth of ACE2 receptor usage predicts host range and antigenic relatedness across bat sarbecoviruses",
@@ -140,18 +140,18 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004015"
   },
   {
-    "titolo": "The type VI secretion system governs strain maintenance in a wild mammalian gut microbiome",
-    "data": "Fri, 02 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "joseph.mougous@yale.edu (Stephen J Salipante)",
-    "link": "https://elifesciences.org/articles/110200"
-  },
-  {
     "titolo": "Distinct allosteric remodeling of HIV-1 Env dynamics on virions by gp41-directed antibodies reveals two modes of neutralization",
     "data": "Fri, 02 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
     "autore": "maolin.lu@uthct.edu (Yufan He)",
     "link": "https://elifesciences.org/articles/110887"
+  },
+  {
+    "titolo": "The type VI secretion system governs strain maintenance in a wild mammalian gut microbiome",
+    "data": "Fri, 02 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "joseph.mougous@yale.edu (Stephen J Salipante)",
+    "link": "https://elifesciences.org/articles/110200"
   },
   {
     "titolo": "Mapping human visual contrast sensitivity and vision loss across the visual field with model-based fMRI",
@@ -161,25 +161,11 @@
     "link": "https://elifesciences.org/articles/105930"
   },
   {
-    "titolo": "Negative affect influences the computations underlying food choice in bulimia nervosa",
+    "titolo": "Bidirectional redistribution of actomyosin drives epithelial invagination in ascidian siphon tube morphogenesis",
     "data": "Thu, 01 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "laura.berner@mssm.edu (Loren Gianini)",
-    "link": "https://elifesciences.org/articles/105146"
-  },
-  {
-    "titolo": "Genome-wide discovery of <i>cis-</i>regulatory elements in a large genome",
-    "data": "Thu, 01 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "michalis.averof@ens-lyon.fr (Savannah Moinet)",
-    "link": "https://elifesciences.org/articles/111378"
-  },
-  {
-    "titolo": "A cortical–hippocampal communication undergoes rebalancing after new learning",
-    "data": "Thu, 01 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "dw657@drexel.edu (Dong V Wang)",
-    "link": "https://elifesciences.org/articles/107370"
+    "autore": "libome@tsinghua.edu.cn (Wenjie Shi)",
+    "link": "https://elifesciences.org/articles/108588"
   },
   {
     "titolo": "Sex-biased expression of enteroendocrine cell-derived hormones contributes to higher fat storage in <i>Drosophila</i> females",
@@ -189,18 +175,32 @@
     "link": "https://elifesciences.org/articles/109426"
   },
   {
-    "titolo": "Bidirectional redistribution of actomyosin drives epithelial invagination in ascidian siphon tube morphogenesis",
+    "titolo": "Negative affect influences the computations underlying food choice in bulimia nervosa",
     "data": "Thu, 01 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "libome@tsinghua.edu.cn (Wenjie Shi)",
-    "link": "https://elifesciences.org/articles/108588"
+    "autore": "laura.berner@mssm.edu (Loren Gianini)",
+    "link": "https://elifesciences.org/articles/105146"
   },
   {
-    "titolo": "Gβγ engages PLCβ3 at multiple sites to reorient and facilitate its activation",
+    "titolo": "A cortical–hippocampal communication undergoes rebalancing after new learning",
+    "data": "Thu, 01 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "dw657@drexel.edu (Dong V Wang)",
+    "link": "https://elifesciences.org/articles/107370"
+  },
+  {
+    "titolo": "Genome-wide discovery of <i>cis-</i>regulatory elements in a large genome",
+    "data": "Thu, 01 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "michalis.averof@ens-lyon.fr (Savannah Moinet)",
+    "link": "https://elifesciences.org/articles/111378"
+  },
+  {
+    "titolo": "Zinc is a key regulator of the sperm-specific K<sup>+</sup> channel (Slo3) function",
     "data": "Wed, 30 Sep 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "lyonam@purdue.edu (Thomas Komay)",
-    "link": "https://elifesciences.org/articles/110382"
+    "autore": "kawai.takafumi.ra@ehime-u.ac.jp (Yasushi Okamura)",
+    "link": "https://elifesciences.org/articles/105450"
   },
   {
     "titolo": "Biophysically inspired mean-field model of neuronal populations driven by ion-exchange mechanisms",
@@ -581,6 +581,34 @@
     "link": "https://arxiv.org/abs/1803.06969v2"
   },
   {
+    "titolo": "‘Money alone won’t get us there’: UN steps up aid for 12 forgotten crises",
+    "data": "Fri, 02 Oct 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168516"
+  },
+  {
+    "titolo": "Global life expectancy bounces back to near pre-pandemic levels, WHO says",
+    "data": "Fri, 02 Oct 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168515"
+  },
+  {
+    "titolo": "Ukraine war ‘a human rights catastrophe’ that must end, says Türk",
+    "data": "Fri, 02 Oct 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168513"
+  },
+  {
+    "titolo": "Collective action needed to tackle global information crisis, UN-led dialogue hears",
+    "data": "Fri, 02 Oct 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168512"
+  },
+  {
     "titolo": "World News in Brief: Cycle of violence continues in Haiti, seafarer deaths off Somalia, food insecurity in the Middle East",
     "data": "Fri, 02 Oct 2026 12:00:00 +0000",
     "fonte": "UN News - Global perspective Human stories",
@@ -623,32 +651,11 @@
     "link": "https://news.un.org/feed/view/en/story/2026/10/1168504"
   },
   {
-    "titolo": "World News in Brief: Marshall Islands nuclear legacy, FlyDubai attack condemned, Ukraine update, breast cancer treatment expanded in West Bank",
-    "data": "Thu, 01 Oct 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168503"
-  },
-  {
-    "titolo": "‘Women are not victims’: Türk calls for women to be at the heart of peace and security",
-    "data": "Thu, 01 Oct 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168502"
-  },
-  {
-    "titolo": "Nepal floods threaten jobs and livelihoods beyond disaster zone: ILO",
-    "data": "Thu, 01 Oct 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168500"
-  },
-  {
-    "titolo": "Ebola response faces setback as transit centre burns down in DR Congo camp",
-    "data": "Thu, 01 Oct 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168499"
+    "titolo": "Trump’s Great Oil Heist",
+    "data": "Fri, 02 Oct 2026 16:33:21 GMT",
+    "fonte": "Project Syndicate",
+    "autore": "Cristina Ramirez",
+    "link": "https://www.project-syndicate.org/commentary/trump-oil-deals-threaten-to-undermine-venezuela-democratic-transition-by-cristina-ramirez-2026-10?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
   },
   {
     "titolo": "Global AI Oversight Now",
@@ -712,13 +719,6 @@
     "fonte": "Project Syndicate",
     "autore": "Sophie Eisentraut",
     "link": "https://www.project-syndicate.org/commentary/carney-vision-of-middle-power-led-international-order-faces-real-obstacles-by-sophie-eisentraut-2026-09?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
-  },
-  {
-    "titolo": "The Sovereign Wealth Fund America Needs",
-    "data": "Thu, 01 Oct 2026 10:25:14 GMT",
-    "fonte": "Project Syndicate",
-    "autore": "Steven Hill",
-    "link": "https://www.project-syndicate.org/commentary/how-the-us-should-design-an-ai-sovereign-wealth-fund-by-steven-hill-and-john-menke-2026-09?utm_source=rss&utm_medium=feed&utm_campaign=main&utm_content=en"
   },
   {
     "titolo": "Unpacking the implications of new SNAP rules as increased costs shift to states",
@@ -1421,6 +1421,13 @@
     "link": "https://theconversation.com/water-is-precious-this-swedish-city-separates-different-waste-sources-to-reuse-more-of-it-291204"
   },
   {
+    "titolo": "Cornell 7 case puts a spotlight on fraternity misconduct – and the limits of universities’ power to stop it",
+    "data": "2026-10-02T18:10:47Z",
+    "fonte": "The Conversation – Articles (US)",
+    "autore": "Pietro A. Sasso, Associate Professor of Education, Old Dominion University",
+    "link": "https://theconversation.com/cornell-7-case-puts-a-spotlight-on-fraternity-misconduct-and-the-limits-of-universities-power-to-stop-it-293305"
+  },
+  {
     "titolo": "US regulators want to make corporate earnings reports less frequent, but investors have doubts",
     "data": "2026-10-02T12:50:15Z",
     "fonte": "The Conversation – Articles (US)",
@@ -1482,13 +1489,6 @@
     "fonte": "The Conversation – Articles (US)",
     "autore": "Catherine A. Sanderson, Poler Family Professor of Psychology, Amherst College",
     "link": "https://theconversation.com/dozens-of-men-failed-to-stop-an-alleged-gang-rape-at-cornell-heres-the-misperception-that-keeps-bystanders-from-intervening-and-how-to-short-circuit-it-293321"
-  },
-  {
-    "titolo": "Dan Rather has followed the news wherever he goes, in a career that highlights 75 years of evolving journalism",
-    "data": "2026-10-01T14:30:17Z",
-    "fonte": "The Conversation – Articles (US)",
-    "autore": "Walter Podrazik, Adjunct Lecturer in Communication, University of Illinois Chicago",
-    "link": "https://theconversation.com/dan-rather-has-followed-the-news-wherever-he-goes-in-a-career-that-highlights-75-years-of-evolving-journalism-265967"
   },
   {
     "titolo": "World Cup 2026 quiz",
@@ -1561,6 +1561,34 @@
     "link": "https://theconversation.com/is-childproofing-the-internet-constitutional-a-tech-law-expert-draws-out-the-issues-240430"
   },
   {
+    "titolo": "Brazil’s future depends on science",
+    "data": "2026-10-02T20:09:58Z",
+    "fonte": "English – The Conversation",
+    "autore": "Helena B. Nader, Presidente, Academia Brasileira de Ciências (ABC); Universidade Federal de São Paulo (UNIFESP)",
+    "link": "https://theconversation.com/brazils-future-depends-on-science-293511"
+  },
+  {
+    "titolo": "Faith, rhetoric and the ballot box: How religion has shaped Brazil’s current presidential election",
+    "data": "2026-10-02T20:09:41Z",
+    "fonte": "English – The Conversation",
+    "autore": "Manuela Lowenthal, Pesquisadora de Doutorado, Universidade Federal de São Paulo (UNIFESP)",
+    "link": "https://theconversation.com/faith-rhetoric-and-the-ballot-box-how-religion-has-shaped-brazils-current-presidential-election-293495"
+  },
+  {
+    "titolo": "Beyond hacking: How foreign governments can exploit vulnerabilities to manipulate elections",
+    "data": "2026-10-02T19:15:46Z",
+    "fonte": "English – The Conversation",
+    "autore": "Arthur Ituassu, Professor Associado de Comunicação Política, PUC-Rio; University of Arizona",
+    "link": "https://theconversation.com/beyond-hacking-how-foreign-governments-can-exploit-vulnerabilities-to-manipulate-elections-293493"
+  },
+  {
+    "titolo": "Cornell 7 case puts a spotlight on fraternity misconduct – and the limits of universities’ power to stop it",
+    "data": "2026-10-02T18:10:47Z",
+    "fonte": "English – The Conversation",
+    "autore": "Pietro A. Sasso, Associate Professor of Education, Old Dominion University",
+    "link": "https://theconversation.com/cornell-7-case-puts-a-spotlight-on-fraternity-misconduct-and-the-limits-of-universities-power-to-stop-it-293305"
+  },
+  {
     "titolo": "Secret chambers in Tutankhamun’s tomb could hold the burial of a lost Egyptian queen – we may get answers soon",
     "data": "2026-10-02T14:47:10Z",
     "fonte": "English – The Conversation",
@@ -1601,34 +1629,6 @@
     "fonte": "English – The Conversation",
     "autore": "Patrick Ngassa Piotie, Chairperson, Diabetes Alliance; Co-founder, Diabetes Research Centre, University of Pretoria",
     "link": "https://theconversation.com/79-deaths-a-day-south-africas-diabetes-crisis-needs-a-new-strategy-293063"
-  },
-  {
-    "titolo": "US regulators want to make corporate earnings reports less frequent, but investors have doubts",
-    "data": "2026-10-02T12:50:15Z",
-    "fonte": "English – The Conversation",
-    "autore": "Tzachi Zach, Professor of Accounting, The Ohio State University",
-    "link": "https://theconversation.com/us-regulators-want-to-make-corporate-earnings-reports-less-frequent-but-investors-have-doubts-289338"
-  },
-  {
-    "titolo": "White nationalism’s appeal runs deeper than partisan politics",
-    "data": "2026-10-02T12:49:44Z",
-    "fonte": "English – The Conversation",
-    "autore": "Joshua A. Tucker, Professor of Politics, New York University",
-    "link": "https://theconversation.com/white-nationalisms-appeal-runs-deeper-than-partisan-politics-292676"
-  },
-  {
-    "titolo": "Mangrove restoration is becoming big business, but benefits don’t always reach local people",
-    "data": "2026-10-02T12:49:42Z",
-    "fonte": "English – The Conversation",
-    "autore": "Behara Satyanarayana, Associate Professor, Institute of Oceanography and Environment, Universiti Malaysia Terengganu",
-    "link": "https://theconversation.com/mangrove-restoration-is-becoming-big-business-but-benefits-dont-always-reach-local-people-292874"
-  },
-  {
-    "titolo": "More than 50 years after a North Dakota school district burned copies of Kurt Vonnegut’s ‘Slaughterhouse-Five,’ the anti-war novel is still being censored",
-    "data": "2026-10-02T12:49:28Z",
-    "fonte": "English – The Conversation",
-    "autore": "Susan Farrell, Professor of English, College of Charleston",
-    "link": "https://theconversation.com/more-than-50-years-after-a-north-dakota-school-district-burned-copies-of-kurt-vonneguts-slaughterhouse-five-the-anti-war-novel-is-still-being-censored-292561"
   },
   {
     "titolo": "Dans la coquille d’un bénitier géant, un journal du climat vieux de 200 ans",
