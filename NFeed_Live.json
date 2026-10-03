@@ -140,18 +140,18 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004015"
   },
   {
-    "titolo": "Distinct allosteric remodeling of HIV-1 Env dynamics on virions by gp41-directed antibodies reveals two modes of neutralization",
-    "data": "Fri, 02 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "maolin.lu@uthct.edu (Yufan He)",
-    "link": "https://elifesciences.org/articles/110887"
-  },
-  {
     "titolo": "The type VI secretion system governs strain maintenance in a wild mammalian gut microbiome",
     "data": "Fri, 02 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
     "autore": "joseph.mougous@yale.edu (Stephen J Salipante)",
     "link": "https://elifesciences.org/articles/110200"
+  },
+  {
+    "titolo": "Distinct allosteric remodeling of HIV-1 Env dynamics on virions by gp41-directed antibodies reveals two modes of neutralization",
+    "data": "Fri, 02 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "maolin.lu@uthct.edu (Yufan He)",
+    "link": "https://elifesciences.org/articles/110887"
   },
   {
     "titolo": "Mapping human visual contrast sensitivity and vision loss across the visual field with model-based fMRI",
@@ -278,146 +278,6 @@
     "fonte": "PubMed Search Strategies",
     "autore": "Cindy Schmidt, M.D., M.L.S. (noreply@blogger.com)",
     "link": "http://pubmedsearches.blogspot.com/2025/01/united-kingdom-keywords-for-embase.html"
-  },
-  {
-    "titolo": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
-    "data": "Fri, 02 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Xinyuan Song, Zekun Cai",
-    "link": "https://arxiv.org/abs/2610.00010"
-  },
-  {
-    "titolo": "When Do Causal World Models Help Modular LLM Agents",
-    "data": "Fri, 02 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Xinyuan Song, Zekun Cai",
-    "link": "https://arxiv.org/abs/2610.00012"
-  },
-  {
-    "titolo": "From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution",
-    "data": "Fri, 02 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Stefan G. Creadore",
-    "link": "https://arxiv.org/abs/2610.00015"
-  },
-  {
-    "titolo": "What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA",
-    "data": "Fri, 02 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Jiameng Zhang, Hongqiu Wu",
-    "link": "https://arxiv.org/abs/2610.00018"
-  },
-  {
-    "titolo": "Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?",
-    "data": "Fri, 02 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Jundong Hu, Shekar Ramachandran",
-    "link": "https://arxiv.org/abs/2610.00025"
-  },
-  {
-    "titolo": "Characterizing a Configuration Where Inference-Time PRM-Pruned Fragment Grafting Is Inert: Evidence from Three Reasoning LMs",
-    "data": "Fri, 02 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Khawaja Murad ul Hassan, Mehran Ebrahimi",
-    "link": "https://arxiv.org/abs/2610.00047"
-  },
-  {
-    "titolo": "Gradient-Aligned Pair Selection for Personalized Preference Optimization",
-    "data": "Fri, 02 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Ruoming Jin, Xinyu Li, Hao Zhou, Jianfeng Zhu, Ruixin Guo, Feodor Dragan, Lei Xu, Haixun Wang, Yang Zhou",
-    "link": "https://arxiv.org/abs/2610.00061"
-  },
-  {
-    "titolo": "K-Dense BYOK: An Open-Source AI Research Assistant That Runs Locally and Keeps a Hash-Chained Lab Notebook",
-    "data": "Fri, 02 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Aubrey M. Brueckner, Darshil Patel, Yuhuan He, Timothy Kassis",
-    "link": "https://arxiv.org/abs/2610.00074"
-  },
-  {
-    "titolo": "Scientific Agents: Evaluating Profession-Specific System Prompts on Scientific Tasks",
-    "data": "Fri, 02 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Timothy Kassis",
-    "link": "https://arxiv.org/abs/2610.00084"
-  },
-  {
-    "titolo": "Comedic Fool's Gold: Reward Exploits and Countermeasures in Conversational Humor",
-    "data": "Fri, 02 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Sam Larson",
-    "link": "https://arxiv.org/abs/2610.00197"
-  },
-  {
-    "titolo": "A Systematic Literature Review of Survey Research on Engineering Identity",
-    "data": "Fri, 02 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Amdad Ahmed Awsaf, Heidi Cian, Remy Dou",
-    "link": "https://arxiv.org/abs/2610.00013"
-  },
-  {
-    "titolo": "Exact Material Circulation Surface in an Unsteady Viscous Vortex",
-    "data": "Fri, 02 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Khalid M. Saqr",
-    "link": "https://arxiv.org/abs/2610.00082"
-  },
-  {
-    "titolo": "Strictly Localized Molecular Orbitals: Non-Orthogonal Local Orbitals Built with Chemical Intuition",
-    "data": "Fri, 02 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Jeffrey Keyes, Carlos Jimenez-Hoyos",
-    "link": "https://arxiv.org/abs/2610.00123"
-  },
-  {
-    "titolo": "Utilizing a Perturbative Inverse of the Hamiltonian to Improve Lanczos Diagonalization",
-    "data": "Fri, 02 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Jeffrey Keyes, Carlos Jimenez-Hoyos",
-    "link": "https://arxiv.org/abs/2610.00128"
-  },
-  {
-    "titolo": "Sustained Habitation Beyond Earth: Health, Recovery, and Renewal",
-    "data": "Fri, 02 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Slava G. Turyshev",
-    "link": "https://arxiv.org/abs/2610.00167"
-  },
-  {
-    "titolo": "Transitioning from A-level to higher education physics courses: where are the knowledge gaps?",
-    "data": "Fri, 02 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Paul Mackay, Oto-obong Inyang",
-    "link": "https://arxiv.org/abs/2610.00175"
-  },
-  {
-    "titolo": "3D-printed experimental devices for teaching dynamical systems in physics",
-    "data": "Fri, 02 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Mario Silva, Victoria L\\'opez, Daniel Freire, Arturo C. Marti",
-    "link": "https://arxiv.org/abs/2610.00186"
-  },
-  {
-    "titolo": "Model-independent reconstruction of Kaniadakis holographic dark energy with neural networks: constraints from Pantheon+SH0ES",
-    "data": "Fri, 02 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Shaima Abdullah Al Shanfari, Suresh Kumar Pathamuthu",
-    "link": "https://arxiv.org/abs/2610.00194"
-  },
-  {
-    "titolo": "Indeterminism and classical mechanics",
-    "data": "Fri, 02 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Alexander Givental",
-    "link": "https://arxiv.org/abs/2610.00206"
-  },
-  {
-    "titolo": "Fusing Global Diagnostic Signals and Spectral Data for Electron and Ion Temperature Profile Prediction on EAST via Attention-based Neural Networks",
-    "data": "Fri, 02 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Xiao Wang, Jiangtao Yu, Zichao Lin, Weidong Chen, Dengdi Sun, Wanli Lyu, Hongming Zhang, Jin Tang, Bo Lyu",
-    "link": "https://arxiv.org/abs/2610.00243"
   },
   {
     "titolo": "A foundation for systematic analysis of transformers and RNNs for tractography",
@@ -1561,6 +1421,13 @@
     "link": "https://theconversation.com/is-childproofing-the-internet-constitutional-a-tech-law-expert-draws-out-the-issues-240430"
   },
   {
+    "titolo": "Attention can’t be bought, so brands turn to memes",
+    "data": "2026-10-03T01:00:13Z",
+    "fonte": "English – The Conversation",
+    "autore": "Almukantar Fikriansyah, MSc Marketing (cand.) at The University of Edinburgh",
+    "link": "https://theconversation.com/attention-cant-be-bought-so-brands-turn-to-memes-290205"
+  },
+  {
     "titolo": "Brazil’s future depends on science",
     "data": "2026-10-02T20:09:58Z",
     "fonte": "English – The Conversation",
@@ -1622,13 +1489,6 @@
     "fonte": "English – The Conversation",
     "autore": "Benedict Carpenter van Barthold, Lecturer, School of Art & Design, Nottingham Trent University",
     "link": "https://theconversation.com/renoir-and-love-is-a-wonderful-celebration-of-the-fleeting-joys-of-life-293359"
-  },
-  {
-    "titolo": "79 deaths a day: South Africa’s diabetes crisis needs a new strategy",
-    "data": "2026-10-02T12:56:44Z",
-    "fonte": "English – The Conversation",
-    "autore": "Patrick Ngassa Piotie, Chairperson, Diabetes Alliance; Co-founder, Diabetes Research Centre, University of Pretoria",
-    "link": "https://theconversation.com/79-deaths-a-day-south-africas-diabetes-crisis-needs-a-new-strategy-293063"
   },
   {
     "titolo": "Dans la coquille d’un bénitier géant, un journal du climat vieux de 200 ans",
