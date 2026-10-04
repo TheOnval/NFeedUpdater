@@ -161,11 +161,11 @@
     "link": "https://elifesciences.org/articles/105930"
   },
   {
-    "titolo": "Bidirectional redistribution of actomyosin drives epithelial invagination in ascidian siphon tube morphogenesis",
+    "titolo": "Genome-wide discovery of <i>cis-</i>regulatory elements in a large genome",
     "data": "Thu, 01 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "libome@tsinghua.edu.cn (Wenjie Shi)",
-    "link": "https://elifesciences.org/articles/108588"
+    "autore": "michalis.averof@ens-lyon.fr (Savannah Moinet)",
+    "link": "https://elifesciences.org/articles/111378"
   },
   {
     "titolo": "Sex-biased expression of enteroendocrine cell-derived hormones contributes to higher fat storage in <i>Drosophila</i> females",
@@ -173,6 +173,13 @@
     "fonte": "eLife: latest articles",
     "autore": "elizabeth.rideout@ubc.ca (Puja Biswas)",
     "link": "https://elifesciences.org/articles/109426"
+  },
+  {
+    "titolo": "Bidirectional redistribution of actomyosin drives epithelial invagination in ascidian siphon tube morphogenesis",
+    "data": "Thu, 01 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "libome@tsinghua.edu.cn (Wenjie Shi)",
+    "link": "https://elifesciences.org/articles/108588"
   },
   {
     "titolo": "Negative affect influences the computations underlying food choice in bulimia nervosa",
@@ -189,25 +196,18 @@
     "link": "https://elifesciences.org/articles/107370"
   },
   {
-    "titolo": "Genome-wide discovery of <i>cis-</i>regulatory elements in a large genome",
-    "data": "Thu, 01 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "michalis.averof@ens-lyon.fr (Savannah Moinet)",
-    "link": "https://elifesciences.org/articles/111378"
-  },
-  {
-    "titolo": "Zinc is a key regulator of the sperm-specific K<sup>+</sup> channel (Slo3) function",
+    "titolo": "Learning is a fundamental source of individuality",
     "data": "Wed, 30 Sep 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "kawai.takafumi.ra@ehime-u.ac.jp (Yasushi Okamura)",
-    "link": "https://elifesciences.org/articles/105450"
+    "autore": "amjaksic@gmail.com (Riddha Manna)",
+    "link": "https://elifesciences.org/articles/111235"
   },
   {
-    "titolo": "Biophysically inspired mean-field model of neuronal populations driven by ion-exchange mechanisms",
+    "titolo": "Gβγ engages PLCβ3 at multiple sites to reorient and facilitate its activation",
     "data": "Wed, 30 Sep 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "giovanni.rabuffo@upf.edu (Viktor Jirsa)",
-    "link": "https://elifesciences.org/articles/104249"
+    "autore": "lyonam@purdue.edu (Thomas Komay)",
+    "link": "https://elifesciences.org/articles/110382"
   },
   {
     "titolo": "Skin conditions and symptoms  -- EMBASE via embase.com",
@@ -278,6 +278,76 @@
     "fonte": "PubMed Search Strategies",
     "autore": "Cindy Schmidt, M.D., M.L.S. (noreply@blogger.com)",
     "link": "http://pubmedsearches.blogspot.com/2025/01/united-kingdom-keywords-for-embase.html"
+  },
+  {
+    "titolo": "A foundation for systematic analysis of transformers and RNNs for tractography",
+    "data": "2026-10-01T15:43:32Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Maxime Descoteaux",
+    "link": "https://arxiv.org/abs/2610.01894v1"
+  },
+  {
+    "titolo": "Inferring Multi-Timescale Neural Dynamics with Switching Linear Dynamical Systems",
+    "data": "2026-10-01T14:33:13Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Shreya Saxena",
+    "link": "https://arxiv.org/abs/2610.01786v1"
+  },
+  {
+    "titolo": "Poincaré Meets Bellman: Revisable Memory, Operational Quotients, and Evidence-Supported Learning in Changing Environments",
+    "data": "2025-11-28T16:28:24Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Xin Li",
+    "link": "https://arxiv.org/abs/2512.05990v2"
+  },
+  {
+    "titolo": "A High-Density EEG Dataset for Stimulus-Driven Auditory Attention",
+    "data": "2026-10-01T08:37:39Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Jibin Wu",
+    "link": "https://arxiv.org/abs/2610.01303v1"
+  },
+  {
+    "titolo": "Selection rules for the harmonic spectroscopy of animal decisions",
+    "data": "2026-10-01T03:25:03Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Mohammad Salahshour",
+    "link": "https://arxiv.org/abs/2610.00990v1"
+  },
+  {
+    "titolo": "Stochastic Optimal Control for Continuous-Time fMRI Representation Learning",
+    "data": "2025-02-07T12:57:26Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Juho Lee",
+    "link": "https://arxiv.org/abs/2502.04892v2"
+  },
+  {
+    "titolo": "One Inference, Four Failure Modes: Formal Models of Why Pain Location Fails",
+    "data": "2026-10-01T00:34:31Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Adam Y. Shavit",
+    "link": "https://arxiv.org/abs/2610.00866v1"
+  },
+  {
+    "titolo": "REALM: Retrospective Encoder Alignment for LFP Modeling",
+    "data": "2026-05-14T14:16:22Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Lin Du",
+    "link": "https://arxiv.org/abs/2605.14867v2"
+  },
+  {
+    "titolo": "Perceived vertical and eye level as one orientation order parameter: a closed-form account of the Li-Matin rules for egocentric space",
+    "data": "2026-07-22T02:29:35Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "A. Y. Shavit",
+    "link": "https://arxiv.org/abs/2607.19681v3"
+  },
+  {
+    "titolo": "Two base rates, two weights: base-rate neglect has a second axis",
+    "data": "2026-08-06T06:56:00Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Adam Y. Shavit",
+    "link": "https://arxiv.org/abs/2608.05658v3"
   },
   {
     "titolo": "Reducing Catastrophic Risk from AI with Systematic Monitoring and Evaluation of Rogue AI Progression",
@@ -371,6 +441,20 @@
     "link": "https://arxiv.org/abs/1803.06969v2"
   },
   {
+    "titolo": "Beyond the Moon: Space Week around the world",
+    "data": "Sun, 04 Oct 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168517"
+  },
+  {
+    "titolo": "‘He felt heard’: How a film brought a UN report to life in Xochimilco",
+    "data": "Sun, 04 Oct 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168492"
+  },
+  {
     "titolo": "Rotting food waste emits 5 times more greenhouse gases than planes",
     "data": "Sat, 03 Oct 2026 12:00:00 +0000",
     "fonte": "UN News - Global perspective Human stories",
@@ -425,20 +509,6 @@
     "fonte": "UN News - Global perspective Human stories",
     "autore": "Anonimo",
     "link": "https://news.un.org/feed/view/en/story/2026/10/1168509"
-  },
-  {
-    "titolo": "Gaza: WHO appeals for massive aid influx ahead of winter",
-    "data": "Fri, 02 Oct 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168508"
-  },
-  {
-    "titolo": "‘I have not lost my dreams’: Refugee education funding cuts threaten millions",
-    "data": "Fri, 02 Oct 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168506"
   },
   {
     "titolo": "Trump’s Great Oil Heist",
@@ -651,6 +721,13 @@
     "link": "https://cepr.org/research/programme-areas/international-macroeconomics"
   },
   {
+    "titolo": "Friendships are important. Could (or should) they be legally recognised?",
+    "data": "2026-10-04T19:07:52Z",
+    "fonte": "Arts + Culture – The Conversation",
+    "autore": "Maddison Sideris, Associate Teaching Fellow, Sociology, Deakin University",
+    "link": "https://theconversation.com/friendships-are-important-could-or-should-they-be-legally-recognised-292224"
+  },
+  {
     "titolo": "Money for something: why public funding for NZ’s live music scene needs retuning",
     "data": "2026-10-01T22:25:07Z",
     "fonte": "Arts + Culture – The Conversation",
@@ -714,11 +791,11 @@
     "link": "https://theconversation.com/as-australias-rock-n-roll-outlaw-angry-anderson-embodied-the-appeal-and-limitations-of-oz-rock-290938"
   },
   {
-    "titolo": "The Elevator is a smart commentary on corporate culture and a thrilling piece of theatre",
-    "data": "2026-09-23T05:56:54Z",
-    "fonte": "Arts + Culture – The Conversation",
-    "autore": "Charlotte Farrell, Lecturer, Theatre and Performance Studies, UNSW",
-    "link": "https://theconversation.com/the-elevator-is-a-smart-commentary-on-corporate-culture-and-a-thrilling-piece-of-theatre-292604"
+    "titolo": "New research looks at how screens are actually being used in Australian classrooms – the results may surprise you",
+    "data": "2026-10-04T19:07:11Z",
+    "fonte": "Education – The Conversation",
+    "autore": "Karen Woo, Senior Project & Research Manager, School of Education, Macquarie University",
+    "link": "https://theconversation.com/new-research-looks-at-how-screens-are-actually-being-used-in-australian-classrooms-the-results-may-surprise-you-290255"
   },
   {
     "titolo": "What should parents consider when tracking their child’s location?",
@@ -784,11 +861,18 @@
     "link": "https://theconversation.com/why-do-politicians-often-want-to-change-the-school-curriculum-what-happens-when-you-do-292609"
   },
   {
-    "titolo": "Year 12 students can feel lonely after graduating. Here’s how to stay connected",
-    "data": "2026-09-22T20:17:10Z",
-    "fonte": "Education – The Conversation",
-    "autore": "Robbie Eres, Lecturer in Psychology, Deakin University",
-    "link": "https://theconversation.com/year-12-students-can-feel-lonely-after-graduating-heres-how-to-stay-connected-291051"
+    "titolo": "Kauri dieback threatens more than trees: it could change how much carbon forests store",
+    "data": "2026-10-04T23:10:29Z",
+    "fonte": "Environment + Energy – The Conversation",
+    "autore": "Luitgard Schwendenmann, Professor of Carbon and Ecosystem Science, University of Auckland, Waipapa Taumata Rau",
+    "link": "https://theconversation.com/kauri-dieback-threatens-more-than-trees-it-could-change-how-much-carbon-forests-store-293102"
+  },
+  {
+    "titolo": "Breaking up NZ’s power gentailers sounds appealing. The consequences may not be",
+    "data": "2026-10-04T20:01:54Z",
+    "fonte": "Environment + Energy – The Conversation",
+    "autore": "Richard Meade, Adjunct Associate Professor, Centre for Applied Energy Economics and Policy Research, Griffith University",
+    "link": "https://theconversation.com/breaking-up-nzs-power-gentailers-sounds-appealing-the-consequences-may-not-be-292898"
   },
   {
     "titolo": "Are Australia’s native bees thriving or declining? We don’t know but can find out",
@@ -847,18 +931,18 @@
     "link": "https://theconversation.com/as-el-nino-strengthens-across-the-pacific-australian-farmers-could-face-fierce-frosts-292367"
   },
   {
-    "titolo": "We can finally measure the damage each new coal, gas or oil project will do to people and nature",
-    "data": "2026-09-28T19:40:29Z",
-    "fonte": "Environment + Energy – The Conversation",
-    "autore": "Wesley Morgan, Research Associate, Institute for Climate Risk and Response, UNSW",
-    "link": "https://theconversation.com/we-can-finally-measure-the-damage-each-new-coal-gas-or-oil-project-will-do-to-people-and-nature-292128"
+    "titolo": "Albanese’s ratings slump in Redbridge poll after interest rate hike",
+    "data": "2026-10-04T22:38:33Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Adrian Beaumont, Election Analyst (Psephologist) at The Conversation; and Honorary Associate, School of Mathematics and Statistics, The University of Melbourne",
+    "link": "https://theconversation.com/albaneses-ratings-slump-in-redbridge-poll-after-interest-rate-hike-293202"
   },
   {
-    "titolo": "The joy of song: where songbirds came from and why we should listen to them",
-    "data": "2026-09-28T04:46:10Z",
-    "fonte": "Environment + Energy – The Conversation",
-    "autore": "Hollis Taylor, Research Affiliate, Sydney Conservatorium of Music, University of Sydney",
-    "link": "https://theconversation.com/the-joy-of-song-where-songbirds-came-from-and-why-we-should-listen-to-them-290708"
+    "titolo": "A new study finds that to counter misinformation online, we need to copy its style",
+    "data": "2026-10-04T19:07:30Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Marian-Andrei Rizoiu, Professor of AI and Behavioral Data Science, University of Technology Sydney",
+    "link": "https://theconversation.com/a-new-study-finds-that-to-counter-misinformation-online-we-need-to-copy-its-style-293220"
   },
   {
     "titolo": "As Brazil prepares to vote for a new leader, can Latin American democracies withstand US pressure?",
@@ -917,88 +1001,74 @@
     "link": "https://theconversation.com/with-a-tragedy-averted-the-flydubai-incident-has-put-cockpit-security-under-new-scrutiny-293331"
   },
   {
-    "titolo": "With a former Wallaby’s ‘cruel’ diagnosis, is there a link between contact sports and MND?",
-    "data": "2026-10-01T05:06:06Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "Alan Pearce, Professor, Adjunct Research Fellow, School of Health Science, Swinburne University of Technology",
-    "link": "https://theconversation.com/with-a-former-wallabys-cruel-diagnosis-is-there-a-link-between-contact-sports-and-mnd-293330"
-  },
-  {
-    "titolo": "Politics with Michelle Grattan: Tim Wilson says government is borrowing from the future to spend today",
-    "data": "2026-09-30T09:15:38Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "Michelle Grattan, Professorial Fellow, University of Canberra",
-    "link": "https://theconversation.com/politics-with-michelle-grattan-tim-wilson-says-government-is-borrowing-from-the-future-to-spend-today-293196"
-  },
-  {
-    "titolo": "Christa Pike’s botched execution exposes the deep contradictions of a ‘painless’ state-imposed death",
-    "data": "2026-10-02T06:27:13Z",
+    "titolo": "An Australian novelist’s ‘masterful’ memoir taught me more about my crippling hormonal mood disorder",
+    "data": "2026-10-04T23:48:59Z",
     "fonte": "Home – The Conversation",
-    "autore": "Julian Koplin, Lecturer in Bioethics, Monash University; The University of Melbourne",
-    "link": "https://theconversation.com/christa-pikes-botched-execution-exposes-the-deep-contradictions-of-a-painless-state-imposed-death-293432"
+    "autore": "Adele Pavlidis, Associate Professor, and Director of the Griffith Centre for Social and Cultural Research, Griffith University",
+    "link": "https://theconversation.com/an-australian-novelists-masterful-memoir-taught-me-more-about-my-crippling-hormonal-mood-disorder-289219"
   },
   {
-    "titolo": "Why a decade of AI safety promises keep failing to bite",
-    "data": "2026-10-02T04:42:33Z",
+    "titolo": "Kauri dieback threatens more than trees: it could change how much carbon forests store",
+    "data": "2026-10-04T23:10:29Z",
     "fonte": "Home – The Conversation",
-    "autore": "Jon Whittle, Professorial Fellow (Artificial Intelligence), Melbourne Business School, The University of Melbourne",
-    "link": "https://theconversation.com/why-a-decade-of-ai-safety-promises-keep-failing-to-bite-293342"
+    "autore": "Luitgard Schwendenmann, Professor of Carbon and Ecosystem Science, University of Auckland, Waipapa Taumata Rau",
+    "link": "https://theconversation.com/kauri-dieback-threatens-more-than-trees-it-could-change-how-much-carbon-forests-store-293102"
   },
   {
-    "titolo": "As Brazil prepares to vote for a new leader, can Latin American democracies withstand US pressure?",
-    "data": "2026-10-02T03:51:12Z",
+    "titolo": "Albanese’s ratings slump in Redbridge poll after interest rate hike",
+    "data": "2026-10-04T22:38:33Z",
     "fonte": "Home – The Conversation",
-    "autore": "Juan Zahir Naranjo Cáceres, Sessional Academic in International Relations, Political Science and Legal Studies, University of the Sunshine Coast",
-    "link": "https://theconversation.com/as-brazil-prepares-to-vote-for-a-new-leader-can-latin-american-democracies-withstand-us-pressure-293094"
+    "autore": "Adrian Beaumont, Election Analyst (Psephologist) at The Conversation; and Honorary Associate, School of Mathematics and Statistics, The University of Melbourne",
+    "link": "https://theconversation.com/albaneses-ratings-slump-in-redbridge-poll-after-interest-rate-hike-293202"
   },
   {
-    "titolo": "What should parents consider when tracking their child’s location?",
-    "data": "2026-10-02T03:30:20Z",
+    "titolo": "Your say: week beginning October 5",
+    "data": "2026-10-04T20:06:08Z",
     "fonte": "Home – The Conversation",
-    "autore": "Lauren Bliss, Postdoctoral Research Fellow, School of Computing and Information Systems, The University of Melbourne",
-    "link": "https://theconversation.com/what-should-parents-consider-when-tracking-their-childs-location-293090"
+    "autore": "Judy Ingham, Newsletter Producer, The Conversation",
+    "link": "https://theconversation.com/your-say-week-beginning-october-5-293530"
   },
   {
-    "titolo": "Are Australia’s native bees thriving or declining? We don’t know but can find out",
-    "data": "2026-10-02T02:00:12Z",
+    "titolo": "Breaking up NZ’s power gentailers sounds appealing. The consequences may not be",
+    "data": "2026-10-04T20:01:54Z",
     "fonte": "Home – The Conversation",
-    "autore": "Kit Prendergast, Adjunct Research Fellow, Curtin University",
-    "link": "https://theconversation.com/are-australias-native-bees-thriving-or-declining-we-dont-know-but-can-find-out-292219"
+    "autore": "Richard Meade, Adjunct Associate Professor, Centre for Applied Energy Economics and Policy Research, Griffith University",
+    "link": "https://theconversation.com/breaking-up-nzs-power-gentailers-sounds-appealing-the-consequences-may-not-be-292898"
   },
   {
-    "titolo": "In a year of record-breaking heat, Australia and Pacific leaders meet to sharpen climate goals",
-    "data": "2026-10-02T01:22:58Z",
+    "titolo": "The same satellite can have military and civilian functions. This creates a dilemma for NZ",
+    "data": "2026-10-04T19:08:25Z",
     "fonte": "Home – The Conversation",
-    "autore": "Jacqueline Peel, Professor of Law, The University of Melbourne",
-    "link": "https://theconversation.com/in-a-year-of-record-breaking-heat-australia-and-pacific-leaders-meet-to-sharpen-climate-goals-292990"
+    "autore": "Sarah Hendrica Bickerton, Lecturer in Public Policy, University of Auckland, Waipapa Taumata Rau",
+    "link": "https://theconversation.com/the-same-satellite-can-have-military-and-civilian-functions-this-creates-a-dilemma-for-nz-293087"
   },
   {
-    "titolo": "The ‘Cornell 7’ reported rape shows why we need to rethink sexual violence prevention",
-    "data": "2026-10-02T01:19:12Z",
+    "titolo": "Aboriginal historian Barry Corr vividly investigates colonisation – but is less convincing on politics",
+    "data": "2026-10-04T19:08:11Z",
     "fonte": "Home – The Conversation",
-    "autore": "Jessica Ison, Senior Lecturer and Deputy Director, Reducing Gender-Based Violence Research Group, La Trobe University, La Trobe University",
-    "link": "https://theconversation.com/the-cornell-7-reported-rape-shows-why-we-need-to-rethink-sexual-violence-prevention-293338"
+    "autore": "Tim Rowse, Emeritus Professor, Institute for Culture and Society, Western Sydney University",
+    "link": "https://theconversation.com/aboriginal-historian-barry-corr-vividly-investigates-colonisation-but-is-less-convincing-on-politics-289904"
   },
   {
-    "titolo": "Australia’s Medicare breach reveals a new kind of cyber threat. How must NZ respond?",
-    "data": "2026-10-02T00:36:47Z",
+    "titolo": "Friendships are important. Could (or should) they be legally recognised?",
+    "data": "2026-10-04T19:07:52Z",
     "fonte": "Home – The Conversation",
-    "autore": "Dulani Jayasuriya, Lecturer in Accounting and Finance, University of Auckland, Waipapa Taumata Rau",
-    "link": "https://theconversation.com/australias-medicare-breach-reveals-a-new-kind-of-cyber-threat-how-must-nz-respond-293332"
+    "autore": "Maddison Sideris, Associate Teaching Fellow, Sociology, Deakin University",
+    "link": "https://theconversation.com/friendships-are-important-could-or-should-they-be-legally-recognised-292224"
   },
   {
-    "titolo": "Literary pioneer Hilary McPhee launched Helen Garner, published Cloudstreet – and inspired me",
-    "data": "2026-10-01T23:54:48Z",
+    "titolo": "A new study finds that to counter misinformation online, we need to copy its style",
+    "data": "2026-10-04T19:07:30Z",
     "fonte": "Home – The Conversation",
-    "autore": "Alice Grundy, Visiting Fellow, School of Literature, Language and Linguistics, Australian National University",
-    "link": "https://theconversation.com/literary-pioneer-hilary-mcphee-launched-helen-garner-published-cloudstreet-and-inspired-me-293361"
+    "autore": "Marian-Andrei Rizoiu, Professor of AI and Behavioral Data Science, University of Technology Sydney",
+    "link": "https://theconversation.com/a-new-study-finds-that-to-counter-misinformation-online-we-need-to-copy-its-style-293220"
   },
   {
-    "titolo": "From rock bottom to a grand final: what’s behind the Newcastle Knights’ incredible rise?",
-    "data": "2026-10-01T23:48:16Z",
+    "titolo": "New research looks at how screens are actually being used in Australian classrooms – the results may surprise you",
+    "data": "2026-10-04T19:07:11Z",
     "fonte": "Home – The Conversation",
-    "autore": "Ashlee Morgan, Associate Professor,  Sports Management, Flinders University",
-    "link": "https://theconversation.com/from-rock-bottom-to-a-grand-final-whats-behind-the-newcastle-knights-incredible-rise-293106"
+    "autore": "Karen Woo, Senior Project & Research Manager, School of Education, Macquarie University",
+    "link": "https://theconversation.com/new-research-looks-at-how-screens-are-actually-being-used-in-australian-classrooms-the-results-may-surprise-you-290255"
   },
   {
     "titolo": "Secret chambers in Tutankhamun’s tomb could hold the burial of a lost Egyptian queen – we may get answers soon",
@@ -1351,74 +1421,74 @@
     "link": "https://theconversation.com/is-childproofing-the-internet-constitutional-a-tech-law-expert-draws-out-the-issues-240430"
   },
   {
-    "titolo": "Making the most of city life for older people: 3 debunked mobility myths",
-    "data": "2026-10-04T14:20:06Z",
+    "titolo": "Kauri dieback threatens more than trees: it could change how much carbon forests store",
+    "data": "2026-10-04T23:10:29Z",
     "fonte": "English – The Conversation",
-    "autore": "Sébastien Lord, Professeur titulaire, Université de Montréal",
-    "link": "https://theconversation.com/making-the-most-of-city-life-for-older-people-3-debunked-mobility-myths-276837"
+    "autore": "Luitgard Schwendenmann, Professor of Carbon and Ecosystem Science, University of Auckland, Waipapa Taumata Rau",
+    "link": "https://theconversation.com/kauri-dieback-threatens-more-than-trees-it-could-change-how-much-carbon-forests-store-293102"
   },
   {
-    "titolo": "Protecting endangered species must include supporting habitats and nearby human settlements",
-    "data": "2026-10-04T13:50:07Z",
+    "titolo": "Albanese’s ratings slump in Redbridge poll after interest rate hike",
+    "data": "2026-10-04T22:38:33Z",
     "fonte": "English – The Conversation",
-    "autore": "Rassim Khelifa, Assistant Professor, Department of Biology; Canada Research Chair Tier 2 in Global Change Biology, Concordia University",
-    "link": "https://theconversation.com/protecting-endangered-species-must-include-supporting-habitats-and-nearby-human-settlements-292665"
+    "autore": "Adrian Beaumont, Election Analyst (Psephologist) at The Conversation; and Honorary Associate, School of Mathematics and Statistics, The University of Melbourne",
+    "link": "https://theconversation.com/albaneses-ratings-slump-in-redbridge-poll-after-interest-rate-hike-293202"
   },
   {
-    "titolo": "The ‘dream job’ myth: Why a fulfilling career does not have to define your life",
-    "data": "2026-10-04T13:40:56Z",
+    "titolo": "Your say: week beginning October 5",
+    "data": "2026-10-04T20:06:08Z",
     "fonte": "English – The Conversation",
-    "autore": "Valerie Onyia Babatope, Assistant Professor of Human Resource Management, MacEwan University",
-    "link": "https://theconversation.com/the-dream-job-myth-why-a-fulfilling-career-does-not-have-to-define-your-life-292072"
+    "autore": "Judy Ingham, Newsletter Producer, The Conversation",
+    "link": "https://theconversation.com/your-say-week-beginning-october-5-293530"
   },
   {
-    "titolo": "Here’s how scientists aim to speed up drug development for treating new viruses",
-    "data": "2026-10-04T13:36:24Z",
+    "titolo": "Breaking up NZ’s power gentailers sounds appealing. The consequences may not be",
+    "data": "2026-10-04T20:01:54Z",
     "fonte": "English – The Conversation",
-    "autore": "Matthew Anketell, Post-doctoral Fellow,  Department of Chemistry, Simon Fraser University",
-    "link": "https://theconversation.com/heres-how-scientists-aim-to-speed-up-drug-development-for-treating-new-viruses-288355"
+    "autore": "Richard Meade, Adjunct Associate Professor, Centre for Applied Energy Economics and Policy Research, Griffith University",
+    "link": "https://theconversation.com/breaking-up-nzs-power-gentailers-sounds-appealing-the-consequences-may-not-be-292898"
   },
   {
-    "titolo": "Africa’s new credit agency: why it’s about a lot more than just ratings",
-    "data": "2026-10-04T08:19:57Z",
+    "titolo": "The same satellite can have military and civilian functions. This creates a dilemma for NZ",
+    "data": "2026-10-04T19:08:25Z",
     "fonte": "English – The Conversation",
-    "autore": "Misheck Mutize, Post Doctoral Researcher, Graduate School of Business (GSB), University of Cape Town",
-    "link": "https://theconversation.com/africas-new-credit-agency-why-its-about-a-lot-more-than-just-ratings-293227"
+    "autore": "Sarah Hendrica Bickerton, Lecturer in Public Policy, University of Auckland, Waipapa Taumata Rau",
+    "link": "https://theconversation.com/the-same-satellite-can-have-military-and-civilian-functions-this-creates-a-dilemma-for-nz-293087"
   },
   {
-    "titolo": "Africa’s new credit agency: why it’s needed",
-    "data": "2026-10-04T08:19:44Z",
+    "titolo": "Aboriginal historian Barry Corr vividly investigates colonisation – but is less convincing on politics",
+    "data": "2026-10-04T19:08:11Z",
     "fonte": "English – The Conversation",
-    "autore": "Daniel Cash, Senior Fellow, Centre for Policy Research (UNU-CPR), United Nations University; Aston University",
-    "link": "https://theconversation.com/africas-new-credit-agency-why-its-needed-291947"
+    "autore": "Tim Rowse, Emeritus Professor, Institute for Culture and Society, Western Sydney University",
+    "link": "https://theconversation.com/aboriginal-historian-barry-corr-vividly-investigates-colonisation-but-is-less-convincing-on-politics-289904"
   },
   {
-    "titolo": "Misophonia: when everyday sounds become unbearable",
-    "data": "2026-10-04T07:16:38Z",
+    "titolo": "Friendships are important. Could (or should) they be legally recognised?",
+    "data": "2026-10-04T19:07:52Z",
     "fonte": "English – The Conversation",
-    "autore": "Mercedeh Erfanian, Research assistant professor, ESSCA School of Management",
-    "link": "https://theconversation.com/misophonia-when-everyday-sounds-become-unbearable-291506"
+    "autore": "Maddison Sideris, Associate Teaching Fellow, Sociology, Deakin University",
+    "link": "https://theconversation.com/friendships-are-important-could-or-should-they-be-legally-recognised-292224"
   },
   {
-    "titolo": "Hunter-gatherer societies are often put on a pedestal as paragons of equality – but the reality is more complicated",
-    "data": "2026-10-03T14:38:26Z",
+    "titolo": "A new study finds that to counter misinformation online, we need to copy its style",
+    "data": "2026-10-04T19:07:30Z",
     "fonte": "English – The Conversation",
-    "autore": "Christopher von Rueden, Associate Professor of Leadership Studies, University of Richmond",
-    "link": "https://theconversation.com/hunter-gatherer-societies-are-often-put-on-a-pedestal-as-paragons-of-equality-but-the-reality-is-more-complicated-289009"
+    "autore": "Marian-Andrei Rizoiu, Professor of AI and Behavioral Data Science, University of Technology Sydney",
+    "link": "https://theconversation.com/a-new-study-finds-that-to-counter-misinformation-online-we-need-to-copy-its-style-293220"
   },
   {
-    "titolo": "Attention can’t be bought, so brands turn to memes",
-    "data": "2026-10-03T01:00:13Z",
+    "titolo": "New research looks at how screens are actually being used in Australian classrooms – the results may surprise you",
+    "data": "2026-10-04T19:07:11Z",
     "fonte": "English – The Conversation",
-    "autore": "Almukantar Fikriansyah, MSc Marketing (cand.) at The University of Edinburgh",
-    "link": "https://theconversation.com/attention-cant-be-bought-so-brands-turn-to-memes-290205"
+    "autore": "Karen Woo, Senior Project & Research Manager, School of Education, Macquarie University",
+    "link": "https://theconversation.com/new-research-looks-at-how-screens-are-actually-being-used-in-australian-classrooms-the-results-may-surprise-you-290255"
   },
   {
-    "titolo": "Brazil’s future depends on science",
-    "data": "2026-10-02T20:09:58Z",
+    "titolo": "BYD is reshaping Australia’s car market. How did it get here?",
+    "data": "2026-10-04T19:06:55Z",
     "fonte": "English – The Conversation",
-    "autore": "Helena B. Nader, Presidente, Academia Brasileira de Ciências (ABC); Universidade Federal de São Paulo (UNIFESP)",
-    "link": "https://theconversation.com/brazils-future-depends-on-science-293511"
+    "autore": "Milad Haghani, Associate Professor and Principal Fellow in Urban Risk and Resilience, The University of Melbourne",
+    "link": "https://theconversation.com/byd-is-reshaping-australias-car-market-how-did-it-get-here-292778"
   },
   {
     "titolo": "Paradoxe d’abondance : l’Amazonie française manque d’eau potable",
