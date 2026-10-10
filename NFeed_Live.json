@@ -280,146 +280,6 @@
     "link": "http://pubmedsearches.blogspot.com/2025/01/united-kingdom-keywords-for-embase.html"
   },
   {
-    "titolo": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
-    "data": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Marcelo Valentim Silva, Hannes Herrmann, Valerie Maxville",
-    "link": "https://arxiv.org/abs/2610.10541"
-  },
-  {
-    "titolo": "Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction",
-    "data": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Yipeng Li, Ashutosh Hathidara, Jane Lo, Harshavardhan Abichandani, Gunraj Singh, Atin Ghosh",
-    "link": "https://arxiv.org/abs/2610.10549"
-  },
-  {
-    "titolo": "Agent-Controlled Forgetting for Tool-Using Agents: Reversible Context Curation in Practice",
-    "data": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Jan-Peter Franke",
-    "link": "https://arxiv.org/abs/2610.10590"
-  },
-  {
-    "titolo": "Verification and Self-Improvement in Agentic AI: Foundations and Limits",
-    "data": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Chien-Ping Lu",
-    "link": "https://arxiv.org/abs/2610.10611"
-  },
-  {
-    "titolo": "The Harness as the Only Mutable Surface: Compliance-Bounded Self-Evolution of LLM Agents in Credit Pipelines, with a Measured Admission Gate",
-    "data": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Ravil Akhtyamov",
-    "link": "https://arxiv.org/abs/2610.10629"
-  },
-  {
-    "titolo": "Speaking the Navigator's Language: Trajectory-Grounded Instruction Translation for Frozen Aerial VLN Agents",
-    "data": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Xi Chen, Zhe Liu, Xiaogang Xu, Jiafei Xu, Chunyi Zhou, Yuan Su, Rui Zeng, Tianyu Du, Kelu Yao, Chao Li, Shouling Ji",
-    "link": "https://arxiv.org/abs/2610.10635"
-  },
-  {
-    "titolo": "Plan-and-Patch: Diffusion Language Models for Agentic Planning",
-    "data": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Syamantak Kumar, Jiang Guo, Hassan Hamad, Hideo Kobayashi, Yi Xiang, Yezhou Yang, Yanjun Qi, Daniele Bonadiman, Jiarong Jiang",
-    "link": "https://arxiv.org/abs/2610.10786"
-  },
-  {
-    "titolo": "Whose Ground Truth? Embracing Ambiguity in Human-Centered AI",
-    "data": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Jingyao Wu, Mohammad Tariqul Islam, Per R{\\aa}dberg Nagb{\\o}l, Julie Gerlings, Giovanni Leoni, Georgiana Fryza, Lars Pilegaard Thomsen, Jakob Mainz",
-    "link": "https://arxiv.org/abs/2610.10805"
-  },
-  {
-    "titolo": "On the Clock: Towards Punctual and Productive Time-Budgeted AI Agents",
-    "data": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Aaron Wang, Neelabh Madan, Vlad Sobal, Matthew Trager, Michael Kleinman, Elman Mansimov, Wei Xia, Stefano Soatto",
-    "link": "https://arxiv.org/abs/2610.10833"
-  },
-  {
-    "titolo": "Self-Supervised Keyframe Discovery for Horizon-Invariant Behavior Cloning",
-    "data": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Prabin Kumar Rath, Omkar Patil, Nakul Gopalan",
-    "link": "https://arxiv.org/abs/2610.10857"
-  },
-  {
-    "titolo": "Omnisolver: An extensible interface to Ising spin-glass and QUBO solvers: adding a distributed GPU brute-force plugin",
-    "data": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Konrad Ja{\\l}owiecki, Jakub Paw{\\l}owski, Bart{\\l}omiej Gardas, {\\L}ukasz Pawela",
-    "link": "https://arxiv.org/abs/2610.10542"
-  },
-  {
-    "titolo": "Strategic Governance of AI Models in Earth Science",
-    "data": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Makoto Kelp, Amirhossein Arzani, Patricia Castellanos, Paul Griffiths, Ivan Higuera-Mendieta, Manuel Perez-Carrasco, Viral Shah, Patrick Obin Sturm, James Weber",
-    "link": "https://arxiv.org/abs/2610.10560"
-  },
-  {
-    "titolo": "A Braak-Inspired Spectral Determinant Approach to a Dirac Bound-State Problem",
-    "data": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Saber Zarrinkamar",
-    "link": "https://arxiv.org/abs/2610.10562"
-  },
-  {
-    "titolo": "Inflationary Dynamics and CMB Constraints in $f(T,L_m)$ gravity",
-    "data": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Suchita Patel, Sai Swagat Mishra, P. K. Sahoo",
-    "link": "https://arxiv.org/abs/2610.10565"
-  },
-  {
-    "titolo": "Neutrino Spin--Flavor Dynamics and Quantum Rabi Model: Spectral Correspondence and QRM Benchmarks",
-    "data": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Saber Zarrinkamar",
-    "link": "https://arxiv.org/abs/2610.10568"
-  },
-  {
-    "titolo": "Collapse and causality in generalised trace dynamics: record selection in Connes time and the causal consistency of emergent records",
-    "data": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Tejinder P. Singh",
-    "link": "https://arxiv.org/abs/2610.10569"
-  },
-  {
-    "titolo": "Partially Thermalized eV-Scale Sterile Neutrinos in Dynamical Dark Energy and Non-Flat Cosmologies",
-    "data": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Gopal Kashyap, Kanhaiya Lal Pandey",
-    "link": "https://arxiv.org/abs/2610.10585"
-  },
-  {
-    "titolo": "A Sign in Space part 2, a new simulated First Contact scenario engaging the global scientific SETI network, and integrating deep space technologies into SETI search",
-    "data": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Daniela de Paulis, Andrea Melis, Daniel Estevez",
-    "link": "https://arxiv.org/abs/2610.10587"
-  },
-  {
-    "titolo": "When quantum field theory kicks in: the relation between matter, gravity and energy",
-    "data": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Antonio Ferreiro, Andrea Cavallaro",
-    "link": "https://arxiv.org/abs/2610.10588"
-  },
-  {
-    "titolo": "Kinetic Reduction and Hydrodynamics under Time-Dependent Helical Symmetry",
-    "data": "Fri, 09 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Qingyun Zeng, Fan Feng",
-    "link": "https://arxiv.org/abs/2610.10605"
-  },
-  {
     "titolo": "Lyapunov spectrum of random neural networks",
     "data": "2026-10-08T17:55:14Z",
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
@@ -1435,11 +1295,11 @@
     "link": "https://theconversation.com/why-fall-yard-care-could-start-with-doing-less-but-not-nothing-293924"
   },
   {
-    "titolo": "How Hurricane Isaias broke through to become the first Atlantic hurricane in an eerily quiet 2026 season",
+    "titolo": "How Hurricane Isaias broke through to become the first Atlantic hurricane in an extremely quiet 2026 season",
     "data": "2026-10-09T12:38:09Z",
     "fonte": "The Conversation – Articles (US)",
     "autore": "Christopher Davis, Professor of Earth, Geographic, and Climate Sciences, UMass Amherst",
-    "link": "https://theconversation.com/how-hurricane-isaias-broke-through-to-become-the-first-atlantic-hurricane-in-an-eerily-quiet-2026-season-294028"
+    "link": "https://theconversation.com/how-hurricane-isaias-broke-through-to-become-the-first-atlantic-hurricane-in-an-extremely-quiet-2026-season-294028"
   },
   {
     "titolo": "What we talk about when we talk about US strategic ‘credibility’ – from Vietnam to Iran",
