@@ -140,27 +140,6 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004001"
   },
   {
-    "titolo": "Genome-wide mapping of Cas9-induced sister chromatid exchange across single and over 200 genomic sites in human cells",
-    "data": "Mon, 12 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "yeastyin@g.ucla.edu (Yi Yin)",
-    "link": "https://elifesciences.org/articles/112073"
-  },
-  {
-    "titolo": "Synaptic connectome of a neurosecretory network in the <i>Drosophila</i> brain",
-    "data": "Mon, 12 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "mzandawala@unr.edu (Theresa H McKim)",
-    "link": "https://elifesciences.org/articles/102684"
-  },
-  {
-    "titolo": "Product-stabilized filamentation by human glutamine synthetase allosterically tunes metabolic activity",
-    "data": "Mon, 12 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "jfraser@fraserlab.com (Samuel E Hoff)",
-    "link": "https://elifesciences.org/articles/108336"
-  },
-  {
     "titolo": "Synaptic vesicle undocking induces low-frequency depression",
     "data": "Mon, 12 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -168,11 +147,25 @@
     "link": "https://elifesciences.org/articles/110329"
   },
   {
+    "titolo": "Genome-wide mapping of Cas9-induced sister chromatid exchange across single and over 200 genomic sites in human cells",
+    "data": "Mon, 12 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "yeastyin@g.ucla.edu (Yi Yin)",
+    "link": "https://elifesciences.org/articles/112073"
+  },
+  {
     "titolo": "Large-scale prospective evaluation of co-folding across hundreds of Mac1–ligand complexes and three virtual screens",
     "data": "Mon, 12 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
     "autore": "bshoichet@gmail.com (Yagmur U Doruk)",
     "link": "https://elifesciences.org/articles/110475"
+  },
+  {
+    "titolo": "Product-stabilized filamentation by human glutamine synthetase allosterically tunes metabolic activity",
+    "data": "Mon, 12 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "jfraser@fraserlab.com (Samuel E Hoff)",
+    "link": "https://elifesciences.org/articles/108336"
   },
   {
     "titolo": "Svep1 orchestrates distal airway patterning and alveolar differentiation in murine lung development",
@@ -189,18 +182,18 @@
     "link": "https://elifesciences.org/articles/108829"
   },
   {
-    "titolo": "Punctuated mutagenesis promotes multi-step evolutionary adaptation in human cancers",
-    "data": "Fri, 09 Oct 2026 00:00:00 +0000",
+    "titolo": "Synaptic connectome of a neurosecretory network in the <i>Drosophila</i> brain",
+    "data": "Mon, 12 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "michor@jimmy.harvard.edu (Wenbo Wu)",
-    "link": "https://elifesciences.org/articles/108058"
+    "autore": "mzandawala@unr.edu (Theresa H McKim)",
+    "link": "https://elifesciences.org/articles/102684"
   },
   {
-    "titolo": "Starvation transforms signal encoding in <i>C. elegans</i> thermoresponsive neurons and suppresses heat avoidance via bidirectional glutamatergic and peptidergic signaling",
+    "titolo": "Role of desolvation on biomolecular liquid–liquid phase separation",
     "data": "Fri, 09 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "dominique.glauser@unifr.ch (Saurabh Thapliyal)",
-    "link": "https://elifesciences.org/articles/108246"
+    "autore": "wfli@nju.edu.cn (Zhiyu Peng)",
+    "link": "https://elifesciences.org/articles/111124"
   },
   {
     "titolo": "Obtaining maximum information from colony counts with REPOP",
@@ -208,6 +201,13 @@
     "fonte": "eLife: latest articles",
     "autore": "spresse@asu.edu (Steve Presse)",
     "link": "https://elifesciences.org/articles/107122"
+  },
+  {
+    "titolo": "Starvation transforms signal encoding in <i>C. elegans</i> thermoresponsive neurons and suppresses heat avoidance via bidirectional glutamatergic and peptidergic signaling",
+    "data": "Fri, 09 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "dominique.glauser@unifr.ch (Saurabh Thapliyal)",
+    "link": "https://elifesciences.org/articles/108246"
   },
   {
     "titolo": "Skin conditions and symptoms  -- EMBASE via embase.com",
@@ -281,143 +281,73 @@
   },
   {
     "titolo": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
-    "data": "Mon, 12 Oct 2026 00:00:00 -0400",
+    "data": "Tue, 13 Oct 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
     "autore": "Marco Zullich, Emily Schiller, Ivan Gentile, David Dembinsky, Adriano Lucieri, Kilian G\\\"oller, Steffen Seitz",
     "link": "https://arxiv.org/abs/2610.12493"
   },
   {
     "titolo": "EliteTable: Self-Improving Program Search for Executable Control Policies",
-    "data": "Mon, 12 Oct 2026 00:00:00 -0400",
+    "data": "Tue, 13 Oct 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
     "autore": "Stuart Farmer",
     "link": "https://arxiv.org/abs/2610.12536"
   },
   {
     "titolo": "Equal-Budget Monte Carlo Tree Search versus Randomized-Restart List Scheduling for DAG Workflows: A Controlled Equal-Budget Computational Study",
-    "data": "Mon, 12 Oct 2026 00:00:00 -0400",
+    "data": "Tue, 13 Oct 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
     "autore": "Yuyu Zhang",
     "link": "https://arxiv.org/abs/2610.12542"
   },
   {
     "titolo": "Know What You Don't Know: Agentic Data Synthesis by Evolving Generation Space for Closed-Loop Learning",
-    "data": "Mon, 12 Oct 2026 00:00:00 -0400",
+    "data": "Tue, 13 Oct 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
     "autore": "Wei Yang, Qing Ping, Youzhi Luo, Yawei Wang, Abhishek Kumar, Panpan Xu, Jun Huan",
     "link": "https://arxiv.org/abs/2610.12593"
   },
   {
     "titolo": "SpireBench: Evaluating Long-Horizon Strategic Play of Agentic Models with Slay the Spire",
-    "data": "Mon, 12 Oct 2026 00:00:00 -0400",
+    "data": "Tue, 13 Oct 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
     "autore": "Scott C. Lowe, Sander W. Keemink",
     "link": "https://arxiv.org/abs/2610.12596"
   },
   {
     "titolo": "Beyond Binary Verifiable Rewards: Behavioral Self-Rewarding for SWE Agents",
-    "data": "Mon, 12 Oct 2026 00:00:00 -0400",
+    "data": "Tue, 13 Oct 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
     "autore": "Yiran Wu, Andrew Zhao, Yurui Chang, Qingyun Wu, Xuan Feng",
     "link": "https://arxiv.org/abs/2610.12598"
   },
   {
     "titolo": "CLEAT: Learning Value-Guided Clarification for Interactive Agents",
-    "data": "Mon, 12 Oct 2026 00:00:00 -0400",
+    "data": "Tue, 13 Oct 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
     "autore": "Jiatan Huang, Zheyuan Zhang, Ziming Li, Tianyi Ma, Mingchen Li, Yanfang Ye, Chuxu Zhang",
     "link": "https://arxiv.org/abs/2610.12655"
   },
   {
     "titolo": "MagicBeanStalk: Escaping the RLVR Zero Advantage Trap with Recursive Data Synthesis",
-    "data": "Mon, 12 Oct 2026 00:00:00 -0400",
+    "data": "Tue, 13 Oct 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
     "autore": "Ximing Lu, Aviral Kumar, Jan Kautz, Yejin Choi, David Acuna",
     "link": "https://arxiv.org/abs/2610.12659"
   },
   {
     "titolo": "Faithful and Complete LLM-Assisted Automated Construction of Hierarchical Hardware Knowledge Graphs",
-    "data": "Mon, 12 Oct 2026 00:00:00 -0400",
+    "data": "Tue, 13 Oct 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
     "autore": "Haotian Qiao, Robert P. Dick",
     "link": "https://arxiv.org/abs/2610.12762"
   },
   {
     "titolo": "Representation Alignment from a Few Paired Data via Distilled Optimal Transport",
-    "data": "Mon, 12 Oct 2026 00:00:00 -0400",
+    "data": "Tue, 13 Oct 2026 00:00:00 -0400",
     "fonte": "cs.AI updates on arXiv.org",
     "autore": "Julien Kordes, Reuben Dorent",
     "link": "https://arxiv.org/abs/2610.12781"
-  },
-  {
-    "titolo": "Quantum-like Architecture of the Social Atom: Mental Marker Coherence and the Triple-Resonance Mechanism of Cognitive Activation",
-    "data": "Mon, 12 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Andrei Khrennikov, Christian Aspalter, Likan Zhan",
-    "link": "https://arxiv.org/abs/2610.12472"
-  },
-  {
-    "titolo": "Insurance perspectives on climate-related risks",
-    "data": "Mon, 12 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Michelle Dong, Aaron Bruhn, Francis K. C. Hui, Han Lin Shang",
-    "link": "https://arxiv.org/abs/2610.12473"
-  },
-  {
-    "titolo": "Why has PET glycolysis remained difficult to industrialize despite decades of optimization?",
-    "data": "Mon, 12 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Xiaohui Liu",
-    "link": "https://arxiv.org/abs/2610.12475"
-  },
-  {
-    "titolo": "The Meaning and Facets of `Symmetry' in Physics",
-    "data": "Mon, 12 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Domenico Giulini",
-    "link": "https://arxiv.org/abs/2610.12488"
-  },
-  {
-    "titolo": "Exciton Energy Transfer in Conjugated Polymers via a Three-Level Donor-Acceptor Model",
-    "data": "Mon, 12 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Hyeonseok Yang",
-    "link": "https://arxiv.org/abs/2610.12506"
-  },
-  {
-    "titolo": "On the notion of kinetic energy in a spacetime of maximal proper acceleration",
-    "data": "Mon, 12 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Ricardo Gallego Torrom\\'e",
-    "link": "https://arxiv.org/abs/2610.12510"
-  },
-  {
-    "titolo": "Looking Under the Streetlight: Evaluation in Generative Molecular Dynamics",
-    "data": "Mon, 12 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Simon Olsson, Frank No\\'e, Grant M. Rotskoff, Kresten Lindorff-Larsen",
-    "link": "https://arxiv.org/abs/2610.12518"
-  },
-  {
-    "titolo": "Voluntary nonpharmaceutical intervention as a feedback-evolving game",
-    "data": "Mon, 12 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Ryuichi Kumata, Hiromu Ito, Masato Yamamichi",
-    "link": "https://arxiv.org/abs/2610.12519"
-  },
-  {
-    "titolo": "MolP2SBench: Do LLMs Really Reason from Molecular Properties to Structure?",
-    "data": "Mon, 12 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Yuhang Xie, Zhiyi Shi, Zeyi Zhang, Zhisheng Qi, Yushun Dong, Yu Wang, Xiongye Xiao",
-    "link": "https://arxiv.org/abs/2610.12522"
-  },
-  {
-    "titolo": "The Reference Set Is Not the Answer Set: GEOM-DRUGS Is Missing Low-Energy Conformers on Its Own Energy Surface",
-    "data": "Mon, 12 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Alvand Vahediahmar, Aaron Zweig, Mingxuan Zhang, Elham Azizi",
-    "link": "https://arxiv.org/abs/2610.12523"
   },
   {
     "titolo": "DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness",
@@ -581,6 +511,34 @@
     "link": "https://arxiv.org/abs/1803.06969v2"
   },
   {
+    "titolo": "General Assembly adopts pandemic declaration, but not by consensus",
+    "data": "Mon, 12 Oct 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168581"
+  },
+  {
+    "titolo": "Colombia peace deal must endure as insecurity grows, Security Council hears",
+    "data": "Mon, 12 Oct 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168580"
+  },
+  {
+    "titolo": "Security Council LIVE: Syria’s fragile transition – economic strain, Israeli incursions and progress towards elections",
+    "data": "Mon, 12 Oct 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168578"
+  },
+  {
+    "titolo": "Sudan: Drought and war push Darfur and Kordofan towards famine",
+    "data": "Mon, 12 Oct 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168577"
+  },
+  {
     "titolo": "UN aid operation underway in Nepal following fresh floods",
     "data": "Mon, 12 Oct 2026 12:00:00 +0000",
     "fonte": "UN News - Global perspective Human stories",
@@ -621,34 +579,6 @@
     "fonte": "UN News - Global perspective Human stories",
     "autore": "Anonimo",
     "link": "https://news.un.org/feed/view/en/story/2026/10/1168572"
-  },
-  {
-    "titolo": "Giving a dam: Cultivating peace in Côte d’Ivoire",
-    "data": "Sat, 10 Oct 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168568"
-  },
-  {
-    "titolo": "India: UN rights office urges release of ‘arbitrarily detained’ protesters",
-    "data": "Sat, 10 Oct 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168571"
-  },
-  {
-    "titolo": "In the Mekong Delta, a push to grow food with saltwater",
-    "data": "Sat, 10 Oct 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168545"
-  },
-  {
-    "titolo": "UN chief ‘gravely concerned’ by renewed fighting in northern Ethiopia, warns against escalation",
-    "data": "Sat, 10 Oct 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168570"
   },
   {
     "titolo": "Will the Bardella Scandal Sink Le Pen?",
@@ -861,6 +791,20 @@
     "link": "https://cepr.org/research/programme-areas/international-macroeconomics"
   },
   {
+    "titolo": "The Pacific Islands are changing. What happens to cultural heritage when the people have to leave?",
+    "data": "2026-10-13T01:36:00Z",
+    "fonte": "Arts + Culture – The Conversation",
+    "autore": "Nicholas Foulcher, Senior Lecturer in Architecture, University of Newcastle",
+    "link": "https://theconversation.com/the-pacific-islands-are-changing-what-happens-to-cultural-heritage-when-the-people-have-to-leave-293946"
+  },
+  {
+    "titolo": "Possessed nuns and sexual deviance: the history behind Ken Russell’s highly-censored film The Devils",
+    "data": "2026-10-12T22:32:44Z",
+    "fonte": "Arts + Culture – The Conversation",
+    "autore": "Brendan C. Walsh, Honorary Research Fellow, The University of Queensland",
+    "link": "https://theconversation.com/possessed-nuns-and-sexual-deviance-the-history-behind-ken-russells-highly-censored-film-the-devils-294049"
+  },
+  {
     "titolo": "La Bola Negra is about the Spanish Civil War – but is unmistakably about our present moment",
     "data": "2026-10-12T04:15:52Z",
     "fonte": "Arts + Culture – The Conversation",
@@ -915,20 +859,6 @@
     "fonte": "Arts + Culture – The Conversation",
     "autore": "Johnny Chan, Senior Lecturer, Faculty of Business and Economics, University of Auckland, Waipapa Taumata Rau",
     "link": "https://theconversation.com/microdramas-are-booming-ai-could-make-it-even-harder-to-stop-binge-watching-291962"
-  },
-  {
-    "titolo": "What the Australian government’s apology to LGBTQ+ Defence personnel and veterans means",
-    "data": "2026-10-07T04:28:18Z",
-    "fonte": "Arts + Culture – The Conversation",
-    "autore": "Noah Riseman, Adjunct Professor, Department of Archaeology and History, La Trobe University",
-    "link": "https://theconversation.com/what-the-australian-governments-apology-to-lgbtq-defence-personnel-and-veterans-means-293686"
-  },
-  {
-    "titolo": "Avant-garde abundance: the deeply infectious art of Australian artist Justene Williams",
-    "data": "2026-10-06T23:57:51Z",
-    "fonte": "Arts + Culture – The Conversation",
-    "autore": "Chari Larsson, Senior Lecturer of Art History, Griffith University",
-    "link": "https://theconversation.com/avant-garde-abundance-the-deeply-infectious-art-of-australian-artist-justene-williams-290328"
   },
   {
     "titolo": "A global report gives NZ tertiary education a pass – but hides another side of the story",
@@ -1071,6 +1001,27 @@
     "link": "https://theconversation.com/australias-top-court-puts-fossil-fuel-developers-on-notice-293680"
   },
   {
+    "titolo": "Just politics or the ‘opposite of clever’? The risks and rewards of strategic voting",
+    "data": "2026-10-13T01:10:59Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Richard Shaw, Professor of Politics, Te Kunenga ki Pūrehuroa – Massey University",
+    "link": "https://theconversation.com/just-politics-or-the-opposite-of-clever-the-risks-and-rewards-of-strategic-voting-293703"
+  },
+  {
+    "titolo": "From Melbourne to Madrid, housing is shaping modern politics. But who benefits?",
+    "data": "2026-10-13T00:51:21Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Ameeta Jain, Associate Professor in Property and Real Estate, Deakin Business School, Deakin University",
+    "link": "https://theconversation.com/from-melbourne-to-madrid-housing-is-shaping-modern-politics-but-who-benefits-293817"
+  },
+  {
+    "titolo": "Politics with Michelle Grattan: Josh Frydenberg plans to keep speaking out",
+    "data": "2026-10-12T22:53:31Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Michelle Grattan, Professorial Fellow, University of Canberra",
+    "link": "https://theconversation.com/politics-with-michelle-grattan-josh-frydenberg-plans-to-keep-speaking-out-293219"
+  },
+  {
     "titolo": "3 things we need to get right ahead of extreme bushfire risk this summer",
     "data": "2026-10-12T18:59:42Z",
     "fonte": "Politics + Society – The Conversation",
@@ -1120,25 +1071,67 @@
     "link": "https://theconversation.com/trump-misses-out-on-nobel-prize-again-and-imposes-new-sanctions-on-the-international-criminal-court-what-does-it-mean-294115"
   },
   {
-    "titolo": "The war on terror failed Afghanistan. But the people’s hopes for democracy live on",
-    "data": "2026-10-09T05:35:48Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "Niamatullah Ibrahimi, Senior Research Fellow, Initiative for Peacebuilding, The University of Melbourne",
-    "link": "https://theconversation.com/the-war-on-terror-failed-afghanistan-but-the-peoples-hopes-for-democracy-live-on-291143"
+    "titolo": "The Pacific Islands are changing. What happens to cultural heritage when the people have to leave?",
+    "data": "2026-10-13T01:36:00Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Nicholas Foulcher, Senior Lecturer in Architecture, University of Newcastle",
+    "link": "https://theconversation.com/the-pacific-islands-are-changing-what-happens-to-cultural-heritage-when-the-people-have-to-leave-293946"
   },
   {
-    "titolo": "Albanese government partially retreats on credit card issue after small business revolt",
-    "data": "2026-10-09T04:17:58Z",
-    "fonte": "Politics + Society – The Conversation",
+    "titolo": "Just politics or the ‘opposite of clever’? The risks and rewards of strategic voting",
+    "data": "2026-10-13T01:10:59Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Richard Shaw, Professor of Politics, Te Kunenga ki Pūrehuroa – Massey University",
+    "link": "https://theconversation.com/just-politics-or-the-opposite-of-clever-the-risks-and-rewards-of-strategic-voting-293703"
+  },
+  {
+    "titolo": "From Melbourne to Madrid, housing is shaping modern politics. But who benefits?",
+    "data": "2026-10-13T00:51:21Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Ameeta Jain, Associate Professor in Property and Real Estate, Deakin Business School, Deakin University",
+    "link": "https://theconversation.com/from-melbourne-to-madrid-housing-is-shaping-modern-politics-but-who-benefits-293817"
+  },
+  {
+    "titolo": "Doing end-of-year exams? 5 foods that are good for brain health – and what to avoid",
+    "data": "2026-10-13T00:43:08Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Olivia Wills, Associate Lecturer, Nutrition and Dietetics, University of Wollongong",
+    "link": "https://theconversation.com/doing-end-of-year-exams-5-foods-that-are-good-for-brain-health-and-what-to-avoid-293221"
+  },
+  {
+    "titolo": "Should you watch a tiger mauling a man – or a live-streamed execution? We asked an ethicist",
+    "data": "2026-10-13T00:26:03Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Jacqueline Boaks, Philosopher, Curtin Centre for Applied Ethics, Curtin University",
+    "link": "https://theconversation.com/should-you-watch-a-tiger-mauling-a-man-or-a-live-streamed-execution-we-asked-an-ethicist-294150"
+  },
+  {
+    "titolo": "We can’t block a livestream, but Australia could ban execution footage from the US – to an extent",
+    "data": "2026-10-13T00:17:28Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Victoria Fielding, Senior Lecturer, School of Communication, Media and Journalism, Adelaide University",
+    "link": "https://theconversation.com/we-cant-block-a-livestream-but-australia-could-ban-execution-footage-from-the-us-to-an-extent-294141"
+  },
+  {
+    "titolo": "Politics with Michelle Grattan: Josh Frydenberg plans to keep speaking out",
+    "data": "2026-10-12T22:53:31Z",
+    "fonte": "Home – The Conversation",
     "autore": "Michelle Grattan, Professorial Fellow, University of Canberra",
-    "link": "https://theconversation.com/albanese-government-partially-retreats-on-credit-card-issue-after-small-business-revolt-293215"
+    "link": "https://theconversation.com/politics-with-michelle-grattan-josh-frydenberg-plans-to-keep-speaking-out-293219"
   },
   {
-    "titolo": "Once the envy of the world, where has Australia’s batting talent gone?",
-    "data": "2026-10-09T00:20:16Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "Vaughan Cruickshank, Senior Lecturer in Health and Physical Education, University of Tasmania",
-    "link": "https://theconversation.com/once-the-envy-of-the-world-where-has-australias-batting-talent-gone-291873"
+    "titolo": "Only structural change will fix NZ’s glaring health equity gap – what voters should know",
+    "data": "2026-10-12T22:43:50Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Phil Borell, Senior Lecturer (Above the Bar), Aotahi School of Maori and Indigenous Studies, University of Canterbury",
+    "link": "https://theconversation.com/only-structural-change-will-fix-nzs-glaring-health-equity-gap-what-voters-should-know-292213"
+  },
+  {
+    "titolo": "Possessed nuns and sexual deviance: the history behind Ken Russell’s highly-censored film The Devils",
+    "data": "2026-10-12T22:32:44Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Brendan C. Walsh, Honorary Research Fellow, The University of Queensland",
+    "link": "https://theconversation.com/possessed-nuns-and-sexual-deviance-the-history-behind-ken-russells-highly-censored-film-the-devils-294049"
   },
   {
     "titolo": "Your say: week beginning October 12",
@@ -1146,69 +1139,6 @@
     "fonte": "Home – The Conversation",
     "autore": "Judy Ingham, Newsletter Producer, The Conversation",
     "link": "https://theconversation.com/your-say-week-beginning-october-12-294135"
-  },
-  {
-    "titolo": "Reading alone, together is all the rage at book doofs and reading parties. What makes it social?",
-    "data": "2026-10-12T19:02:44Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Shakiba Barghi, PhD Candidate in Publishing and Communications, The University of Melbourne",
-    "link": "https://theconversation.com/reading-alone-together-is-all-the-rage-at-book-doofs-and-reading-parties-what-makes-it-social-292683"
-  },
-  {
-    "titolo": "How does a honeybee stinger actually pump venom? First-ever video shows it in action",
-    "data": "2026-10-12T19:00:21Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Fiorella Ramirez Esquivel, Postdoctoral Fellow, School of Natural Sciences, Macquarie University",
-    "link": "https://theconversation.com/how-does-a-honeybee-stinger-actually-pump-venom-first-ever-video-shows-it-in-action-292789"
-  },
-  {
-    "titolo": "Deadly fungi are harming Australia’s wild reptiles. This is how to stop the spread",
-    "data": "2026-10-12T19:00:06Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Shelly Butcher, PhD candidate in Wildlife Disease, The University of Queensland",
-    "link": "https://theconversation.com/deadly-fungi-are-harming-australias-wild-reptiles-this-is-how-to-stop-the-spread-293832"
-  },
-  {
-    "titolo": "Over 40 years ago, a mystery vigilante released a fungus to control blackberry in Australia. But why?",
-    "data": "2026-10-12T18:59:54Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Simon Farley, Assistant Lecturer, History, The University of Melbourne",
-    "link": "https://theconversation.com/over-40-years-ago-a-mystery-vigilante-released-a-fungus-to-control-blackberry-in-australia-but-why-287304"
-  },
-  {
-    "titolo": "3 things we need to get right ahead of extreme bushfire risk this summer",
-    "data": "2026-10-12T18:59:42Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Timothy Heffernan, Lecturer in Anthropology, Australian National University",
-    "link": "https://theconversation.com/3-things-we-need-to-get-right-ahead-of-extreme-bushfire-risk-this-summer-293445"
-  },
-  {
-    "titolo": "Cannabis hospitalisations up 49% in a decade, new study shows",
-    "data": "2026-10-12T18:59:28Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Suzanne Nielsen, Professor and Deputy Director, Monash Addiction Research Centre, Monash University",
-    "link": "https://theconversation.com/cannabis-hospitalisations-up-49-in-a-decade-new-study-shows-292365"
-  },
-  {
-    "titolo": "Just 6 in 100 Australian truckies are women. Here’s what would get more behind the wheel",
-    "data": "2026-10-12T18:59:17Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Sharron O'Neill, Associate Professor, School of Business, UNSW",
-    "link": "https://theconversation.com/just-6-in-100-australian-truckies-are-women-heres-what-would-get-more-behind-the-wheel-294042"
-  },
-  {
-    "titolo": "A global report gives NZ tertiary education a pass – but hides another side of the story",
-    "data": "2026-10-12T17:51:44Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Cristóbal Castro Barrientos, PhD Candidate, NZ Policy Research Institute, Auckland University of Technology",
-    "link": "https://theconversation.com/a-global-report-gives-nz-tertiary-education-a-pass-but-hides-another-side-of-the-story-293551"
-  },
-  {
-    "titolo": "How a botched execution and proposed livestream of a firing squad fit in to the US’ death penalty history",
-    "data": "2026-10-12T05:14:06Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Carolyn Strange, Professor of History, School of History, ANU, Australian National University",
-    "link": "https://theconversation.com/how-a-botched-execution-and-proposed-livestream-of-a-firing-squad-fit-in-to-the-us-death-penalty-history-294052"
   },
   {
     "titolo": "Economics Nobel: how this year’s winners helped to smooth the cycle of economic peaks and troughs",
@@ -1561,74 +1491,74 @@
     "link": "https://theconversation.com/is-childproofing-the-internet-constitutional-a-tech-law-expert-draws-out-the-issues-240430"
   },
   {
+    "titolo": "The Pacific Islands are changing. What happens to cultural heritage when the people have to leave?",
+    "data": "2026-10-13T01:36:00Z",
+    "fonte": "English – The Conversation",
+    "autore": "Nicholas Foulcher, Senior Lecturer in Architecture, University of Newcastle",
+    "link": "https://theconversation.com/the-pacific-islands-are-changing-what-happens-to-cultural-heritage-when-the-people-have-to-leave-293946"
+  },
+  {
+    "titolo": "Just politics or the ‘opposite of clever’? The risks and rewards of strategic voting",
+    "data": "2026-10-13T01:10:59Z",
+    "fonte": "English – The Conversation",
+    "autore": "Richard Shaw, Professor of Politics, Te Kunenga ki Pūrehuroa – Massey University",
+    "link": "https://theconversation.com/just-politics-or-the-opposite-of-clever-the-risks-and-rewards-of-strategic-voting-293703"
+  },
+  {
+    "titolo": "From Melbourne to Madrid, housing is shaping modern politics. But who benefits?",
+    "data": "2026-10-13T00:51:21Z",
+    "fonte": "English – The Conversation",
+    "autore": "Ameeta Jain, Associate Professor in Property and Real Estate, Deakin Business School, Deakin University",
+    "link": "https://theconversation.com/from-melbourne-to-madrid-housing-is-shaping-modern-politics-but-who-benefits-293817"
+  },
+  {
+    "titolo": "Doing end-of-year exams? 5 foods that are good for brain health – and what to avoid",
+    "data": "2026-10-13T00:43:08Z",
+    "fonte": "English – The Conversation",
+    "autore": "Olivia Wills, Associate Lecturer, Nutrition and Dietetics, University of Wollongong",
+    "link": "https://theconversation.com/doing-end-of-year-exams-5-foods-that-are-good-for-brain-health-and-what-to-avoid-293221"
+  },
+  {
+    "titolo": "Should you watch a tiger mauling a man – or a live-streamed execution? We asked an ethicist",
+    "data": "2026-10-13T00:26:03Z",
+    "fonte": "English – The Conversation",
+    "autore": "Jacqueline Boaks, Philosopher, Curtin Centre for Applied Ethics, Curtin University",
+    "link": "https://theconversation.com/should-you-watch-a-tiger-mauling-a-man-or-a-live-streamed-execution-we-asked-an-ethicist-294150"
+  },
+  {
+    "titolo": "We can’t block a livestream, but Australia could ban execution footage from the US – to an extent",
+    "data": "2026-10-13T00:17:28Z",
+    "fonte": "English – The Conversation",
+    "autore": "Victoria Fielding, Senior Lecturer, School of Communication, Media and Journalism, Adelaide University",
+    "link": "https://theconversation.com/we-cant-block-a-livestream-but-australia-could-ban-execution-footage-from-the-us-to-an-extent-294141"
+  },
+  {
+    "titolo": "Politics with Michelle Grattan: Josh Frydenberg plans to keep speaking out",
+    "data": "2026-10-12T22:53:31Z",
+    "fonte": "English – The Conversation",
+    "autore": "Michelle Grattan, Professorial Fellow, University of Canberra",
+    "link": "https://theconversation.com/politics-with-michelle-grattan-josh-frydenberg-plans-to-keep-speaking-out-293219"
+  },
+  {
+    "titolo": "Only structural change will fix NZ’s glaring health equity gap – what voters should know",
+    "data": "2026-10-12T22:43:50Z",
+    "fonte": "English – The Conversation",
+    "autore": "Phil Borell, Senior Lecturer (Above the Bar), Aotahi School of Maori and Indigenous Studies, University of Canterbury",
+    "link": "https://theconversation.com/only-structural-change-will-fix-nzs-glaring-health-equity-gap-what-voters-should-know-292213"
+  },
+  {
+    "titolo": "Possessed nuns and sexual deviance: the history behind Ken Russell’s highly-censored film The Devils",
+    "data": "2026-10-12T22:32:44Z",
+    "fonte": "English – The Conversation",
+    "autore": "Brendan C. Walsh, Honorary Research Fellow, The University of Queensland",
+    "link": "https://theconversation.com/possessed-nuns-and-sexual-deviance-the-history-behind-ken-russells-highly-censored-film-the-devils-294049"
+  },
+  {
     "titolo": "Your say: week beginning October 12",
     "data": "2026-10-12T20:28:27Z",
     "fonte": "English – The Conversation",
     "autore": "Judy Ingham, Newsletter Producer, The Conversation",
     "link": "https://theconversation.com/your-say-week-beginning-october-12-294135"
-  },
-  {
-    "titolo": "California is taking a beating from an unusually destructive 2026 Pacific hurricane season",
-    "data": "2026-10-12T19:13:40Z",
-    "fonte": "English – The Conversation",
-    "autore": "Nicholas Grondin, Assistant Professor of Environmental Studies, University of Tampa",
-    "link": "https://theconversation.com/california-is-taking-a-beating-from-an-unusually-destructive-2026-pacific-hurricane-season-294207"
-  },
-  {
-    "titolo": "Reading alone, together is all the rage at book doofs and reading parties. What makes it social?",
-    "data": "2026-10-12T19:02:44Z",
-    "fonte": "English – The Conversation",
-    "autore": "Shakiba Barghi, PhD Candidate in Publishing and Communications, The University of Melbourne",
-    "link": "https://theconversation.com/reading-alone-together-is-all-the-rage-at-book-doofs-and-reading-parties-what-makes-it-social-292683"
-  },
-  {
-    "titolo": "Hooked on tuna: People have been harvesting these ocean predators for 44,000 years",
-    "data": "2026-10-12T19:00:44Z",
-    "fonte": "English – The Conversation",
-    "autore": "Torben Rick, Curator of North American Archaeology, Smithsonian Institution",
-    "link": "https://theconversation.com/hooked-on-tuna-people-have-been-harvesting-these-ocean-predators-for-44-000-years-292428"
-  },
-  {
-    "titolo": "How does a honeybee stinger actually pump venom? First-ever video shows it in action",
-    "data": "2026-10-12T19:00:21Z",
-    "fonte": "English – The Conversation",
-    "autore": "Fiorella Ramirez Esquivel, Postdoctoral Fellow, School of Natural Sciences, Macquarie University",
-    "link": "https://theconversation.com/how-does-a-honeybee-stinger-actually-pump-venom-first-ever-video-shows-it-in-action-292789"
-  },
-  {
-    "titolo": "300 glaciers have disappeared from the American West since the mid-20th century – the survivors have a few things in common",
-    "data": "2026-10-12T19:00:06Z",
-    "fonte": "English – The Conversation",
-    "autore": "Andrew Fountain, Professor of Geography, Portland State University",
-    "link": "https://theconversation.com/300-glaciers-have-disappeared-from-the-american-west-since-the-mid-20th-century-the-survivors-have-a-few-things-in-common-294084"
-  },
-  {
-    "titolo": "Deadly fungi are harming Australia’s wild reptiles. This is how to stop the spread",
-    "data": "2026-10-12T19:00:06Z",
-    "fonte": "English – The Conversation",
-    "autore": "Shelly Butcher, PhD candidate in Wildlife Disease, The University of Queensland",
-    "link": "https://theconversation.com/deadly-fungi-are-harming-australias-wild-reptiles-this-is-how-to-stop-the-spread-293832"
-  },
-  {
-    "titolo": "Over 40 years ago, a mystery vigilante released a fungus to control blackberry in Australia. But why?",
-    "data": "2026-10-12T18:59:54Z",
-    "fonte": "English – The Conversation",
-    "autore": "Simon Farley, Assistant Lecturer, History, The University of Melbourne",
-    "link": "https://theconversation.com/over-40-years-ago-a-mystery-vigilante-released-a-fungus-to-control-blackberry-in-australia-but-why-287304"
-  },
-  {
-    "titolo": "3 things we need to get right ahead of extreme bushfire risk this summer",
-    "data": "2026-10-12T18:59:42Z",
-    "fonte": "English – The Conversation",
-    "autore": "Timothy Heffernan, Lecturer in Anthropology, Australian National University",
-    "link": "https://theconversation.com/3-things-we-need-to-get-right-ahead-of-extreme-bushfire-risk-this-summer-293445"
-  },
-  {
-    "titolo": "Cannabis hospitalisations up 49% in a decade, new study shows",
-    "data": "2026-10-12T18:59:28Z",
-    "fonte": "English – The Conversation",
-    "autore": "Suzanne Nielsen, Professor and Deputy Director, Monash Addiction Research Centre, Monash University",
-    "link": "https://theconversation.com/cannabis-hospitalisations-up-49-in-a-decade-new-study-shows-292365"
   },
   {
     "titolo": "La violence d’être cloné : et si le deepfake n’était pas qu’un mensonge, mais aussi une atteinte à notre corps numérique ?",
