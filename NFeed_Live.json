@@ -140,11 +140,11 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003995"
   },
   {
-    "titolo": "In vivo virus-free lineage tracing and live imaging reveal that NeuroD1 does not reprogram microglia into neurons",
+    "titolo": "Correction: Engineered migrasomes provide a robust and thermally stable vaccination platform",
     "data": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "peng@fudan.edu.cn (Yuxin Li)",
-    "link": "https://elifesciences.org/articles/112083"
+    "autore": "Anonimo",
+    "link": "https://elifesciences.org/articles/113497"
   },
   {
     "titolo": "RiboTRAP-seq identifies spatially distinct functions for the anterior and posterior intestine in immune and metabolic regulation in <i>Caenorhabditis elegans</i>",
@@ -161,13 +161,6 @@
     "link": "https://elifesciences.org/articles/113290"
   },
   {
-    "titolo": "Separable downmodulation of meiotic axis protein deposition and DNA break induction at chromosome ends",
-    "data": "Fri, 16 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "andi@nyu.edu (Vijayalakshmi V Subramanian)",
-    "link": "https://elifesciences.org/articles/110189"
-  },
-  {
     "titolo": "Individual dopaminergic neurons induce unique, yet overlapping combinations of behavioural modulations, including safety learning, memory retrieval, and acute locomotion",
     "data": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -175,11 +168,18 @@
     "link": "https://elifesciences.org/articles/106148"
   },
   {
-    "titolo": "Correction: Engineered migrasomes provide a robust and thermally stable vaccination platform",
+    "titolo": "Separable downmodulation of meiotic axis protein deposition and DNA break induction at chromosome ends",
     "data": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "Anonimo",
-    "link": "https://elifesciences.org/articles/113497"
+    "autore": "andi@nyu.edu (Vijayalakshmi V Subramanian)",
+    "link": "https://elifesciences.org/articles/110189"
+  },
+  {
+    "titolo": "In vivo virus-free lineage tracing and live imaging reveal that NeuroD1 does not reprogram microglia into neurons",
+    "data": "Fri, 16 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "peng@fudan.edu.cn (Yuxin Li)",
+    "link": "https://elifesciences.org/articles/112083"
   },
   {
     "titolo": "The petal identity gene <i>PhDEF</i> has a major binding and regulatory action in the epidermis",
@@ -203,11 +203,11 @@
     "link": "https://elifesciences.org/articles/113101"
   },
   {
-    "titolo": "The 42 problem in AI-assisted research",
+    "titolo": "Correction: A <i>Ctnnb1</i> enhancer transcriptionally regulates Wnt signaling dosage to balance homeostasis and tumorigenesis of intestinal epithelia",
     "data": "Wed, 14 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "giovanni.spitale@ibme.uzh.ch (Giovanni Spitale)",
-    "link": "https://elifesciences.org/articles/113137"
+    "autore": "Anonimo",
+    "link": "https://elifesciences.org/articles/113472"
   },
   {
     "titolo": "Skin conditions and symptoms  -- EMBASE via embase.com",
@@ -418,160 +418,6 @@
     "fonte": "physics updates on arXiv.org",
     "autore": "Daniele Peri",
     "link": "https://arxiv.org/abs/2610.20629"
-  },
-  {
-    "titolo": "Mutual Information in High-Dimensional Neural Coding",
-    "data": "2026-10-15T16:55:19Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Christopher W. Lynn",
-    "link": "https://arxiv.org/abs/2610.22206v1"
-  },
-  {
-    "titolo": "FlatClip: Reusing Image Foundation Models for fMRI Representation Learning via Cortical Flatmaps",
-    "data": "2026-09-25T12:42:40Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Quanying Liu",
-    "link": "https://arxiv.org/abs/2609.31204v2"
-  },
-  {
-    "titolo": "Transferable conditional brain charts link cortico-subcortical structure to Alzheimer's disease progression",
-    "data": "2026-10-15T10:40:37Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Thomas Wolfers",
-    "link": "https://arxiv.org/abs/2610.21660v1"
-  },
-  {
-    "titolo": "Neural Computation Runs on Dissipative Structures Under Cyclic Calibration: A Systems Perspective on Sleep",
-    "data": "2026-10-15T08:24:43Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Javier Diaz",
-    "link": "https://arxiv.org/abs/2610.21486v1"
-  },
-  {
-    "titolo": "Language Models Share a Readout Bottleneck in Working Memory",
-    "data": "2026-10-15T03:32:37Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Dongyu Gong",
-    "link": "https://arxiv.org/abs/2610.21176v1"
-  },
-  {
-    "titolo": "Statistical Mechanics of Spike Trains: Self-Consistent Activity Ensembles and Phase Transitions",
-    "data": "2026-10-14T21:45:41Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Marcin Markiewicz",
-    "link": "https://arxiv.org/abs/2610.20971v1"
-  },
-  {
-    "titolo": "Cross-subject decoding of imagined speech from scalp EEG: a leakage-controlled evaluation on three public corpora",
-    "data": "2026-10-14T21:25:50Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Onyema Osuagwu",
-    "link": "https://arxiv.org/abs/2610.20954v1"
-  },
-  {
-    "titolo": "How large an effect would we have seen? Positive controls, detection floors and dataset pitfalls in scalp-EEG speech decoding",
-    "data": "2026-10-14T21:08:37Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Onyema Osuagwu",
-    "link": "https://arxiv.org/abs/2610.20942v1"
-  },
-  {
-    "titolo": "Awakening as a Trait-Level Transformation of Consciousness",
-    "data": "2026-10-14T19:46:41Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Prejaas K. B. Tewarie",
-    "link": "https://arxiv.org/abs/2610.20856v1"
-  },
-  {
-    "titolo": "Two dissociable axes of brain hierarchical dynamics track universal and population-specific effects of mindfulness",
-    "data": "2026-10-14T19:42:30Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Prejaas K. B. Tewarie",
-    "link": "https://arxiv.org/abs/2610.20854v1"
-  },
-  {
-    "titolo": "Reducing Catastrophic Risk from AI with Systematic Monitoring and Evaluation of Rogue AI Progression",
-    "data": "2026-09-02T22:13:24Z",
-    "fonte": "arXiv Query: search_query=au:\"Bengio Y\"&id_list=&start=0&max_results=100",
-    "autore": "Y. Bengio",
-    "link": "https://arxiv.org/abs/2609.03189v2"
-  },
-  {
-    "titolo": "Diffusion of Context and Credit Information in Markovian Models",
-    "data": "1995-10-01T00:00:00Z",
-    "fonte": "arXiv Query: search_query=au:\"Bengio Y\"&id_list=&start=0&max_results=100",
-    "autore": "P. Frasconi",
-    "link": "https://arxiv.org/abs/cs/9510101v1"
-  },
-  {
-    "titolo": "The First Large Absorption Survey in HI (FLASH): II. Pilot Survey data release and first results",
-    "data": "2024-08-13T04:29:15Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "Tobias Westmeier",
-    "link": "https://arxiv.org/abs/2408.06626v2"
-  },
-  {
-    "titolo": "The CRAFT Coherent (CRACO) upgrade I: System Description and Results of the 110-ms Radio Transient Pilot Survey",
-    "data": "2024-09-16T14:26:50Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "T. Westmeier",
-    "link": "https://arxiv.org/abs/2409.10316v2"
-  },
-  {
-    "titolo": "Stark effect tunable terahertz transitions in finite carbon chains",
-    "data": "2023-09-01T06:50:32Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "R. R. Hartmann",
-    "link": "https://arxiv.org/abs/2309.00288v1"
-  },
-  {
-    "titolo": "WALLABY Pilot Survey: Public release of HI data for almost 600 galaxies from phase 1 of ASKAP pilot observations",
-    "data": "2022-11-14T03:41:57Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "K. Said",
-    "link": "https://arxiv.org/abs/2211.07094v1"
-  },
-  {
-    "titolo": "Tuning terahertz transitions in cyclo[n]carbon rings",
-    "data": "2022-02-03T13:00:40Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "R. R. Hartmann",
-    "link": "https://arxiv.org/abs/2202.01568v2"
-  },
-  {
-    "titolo": "GASKAP-HI Pilot Survey Science I: ASKAP Zoom Observations of HI Emission in the Small Magellanic Cloud",
-    "data": "2021-11-09T19:00:00Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "M. T. Whiting",
-    "link": "https://arxiv.org/abs/2111.05339v2"
-  },
-  {
-    "titolo": "Mapping borophene onto graphene: Quasi-exact solutions for guiding potentials in tilted Dirac cones",
-    "data": "2021-11-21T08:19:19Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "R. R. Hartmann",
-    "link": "https://arxiv.org/abs/2111.10760v1"
-  },
-  {
-    "titolo": "The ASKAP Variables and Slow Transients (VAST) Pilot Survey",
-    "data": "2021-08-13T03:25:13Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "M. A. Voronkov",
-    "link": "https://arxiv.org/abs/2108.06039v1"
-  },
-  {
-    "titolo": "Australian Square Kilometre Array Pathfinder: I. System Description",
-    "data": "2021-02-03T04:16:57Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "T. Westmeier",
-    "link": "https://arxiv.org/abs/2102.01870v1"
-  },
-  {
-    "titolo": "The Australian Square Kilometre Array Pathfinder: Performance of the Boolardy Engineering Test Array",
-    "data": "2016-08-02T09:42:25Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "T. Wilson",
-    "link": "https://arxiv.org/abs/1608.00750v1"
   },
   {
     "titolo": "Comparing Dynamics: Deep Neural Networks versus Glassy Systems",
