@@ -140,6 +140,13 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004003"
   },
   {
+    "titolo": "Correction: Cold-inducible RNA-binding protein (CIRBP) adjusts clock-gene expression and REM-sleep recovery following sleep deprivation",
+    "data": "Mon, 19 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "Anonimo",
+    "link": "https://elifesciences.org/articles/113484"
+  },
+  {
     "titolo": "Syntaxin11 deficiency inhibits CRAC channel priming to suppress cytotoxicity and gene expression in T lymphocytes independent of membrane trafficking",
     "data": "Mon, 19 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -154,18 +161,11 @@
     "link": "https://elifesciences.org/articles/109876"
   },
   {
-    "titolo": "Correction: Cold-inducible RNA-binding protein (CIRBP) adjusts clock-gene expression and REM-sleep recovery following sleep deprivation",
-    "data": "Mon, 19 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "Anonimo",
-    "link": "https://elifesciences.org/articles/113484"
-  },
-  {
-    "titolo": "Individual dopaminergic neurons induce unique, yet overlapping combinations of behavioural modulations, including safety learning, memory retrieval, and acute locomotion",
+    "titolo": "Separable downmodulation of meiotic axis protein deposition and DNA break induction at chromosome ends",
     "data": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "m.schleyer@oia.hokudai.ac.jp (Oliver Kobler)",
-    "link": "https://elifesciences.org/articles/106148"
+    "autore": "andi@nyu.edu (Vijayalakshmi V Subramanian)",
+    "link": "https://elifesciences.org/articles/110189"
   },
   {
     "titolo": "Correction: Engineered migrasomes provide a robust and thermally stable vaccination platform",
@@ -175,11 +175,18 @@
     "link": "https://elifesciences.org/articles/113497"
   },
   {
-    "titolo": "RiboTRAP-seq identifies spatially distinct functions for the anterior and posterior intestine in immune and metabolic regulation in <i>Caenorhabditis elegans</i>",
+    "titolo": "Correction: Mask family proteins ANKHD1 and ANKRD17 regulate YAP nuclear import and stability",
     "data": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "supriya@scripps.edu (Supriya Srinivasan)",
-    "link": "https://elifesciences.org/articles/109237"
+    "autore": "Anonimo",
+    "link": "https://elifesciences.org/articles/113290"
+  },
+  {
+    "titolo": "Individual dopaminergic neurons induce unique, yet overlapping combinations of behavioural modulations, including safety learning, memory retrieval, and acute locomotion",
+    "data": "Fri, 16 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "m.schleyer@oia.hokudai.ac.jp (Oliver Kobler)",
+    "link": "https://elifesciences.org/articles/106148"
   },
   {
     "titolo": "In vivo virus-free lineage tracing and live imaging reveal that NeuroD1 does not reprogram microglia into neurons",
@@ -189,25 +196,18 @@
     "link": "https://elifesciences.org/articles/112083"
   },
   {
-    "titolo": "Separable downmodulation of meiotic axis protein deposition and DNA break induction at chromosome ends",
+    "titolo": "RiboTRAP-seq identifies spatially distinct functions for the anterior and posterior intestine in immune and metabolic regulation in <i>Caenorhabditis elegans</i>",
     "data": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "andi@nyu.edu (Vijayalakshmi V Subramanian)",
-    "link": "https://elifesciences.org/articles/110189"
+    "autore": "supriya@scripps.edu (Supriya Srinivasan)",
+    "link": "https://elifesciences.org/articles/109237"
   },
   {
-    "titolo": "Correction: Mask family proteins ANKHD1 and ANKRD17 regulate YAP nuclear import and stability",
-    "data": "Fri, 16 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "Anonimo",
-    "link": "https://elifesciences.org/articles/113290"
-  },
-  {
-    "titolo": "Foveated metamers of the early visual system",
+    "titolo": "The petal identity gene <i>PhDEF</i> has a major binding and regulatory action in the epidermis",
     "data": "Thu, 15 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "billbrod@gmail.com (William Broderick)",
-    "link": "https://elifesciences.org/articles/90554"
+    "autore": "daniel.bouyer@ens-lyon.fr (Suzanne Rodrigues Bento)",
+    "link": "https://elifesciences.org/articles/113154"
   },
   {
     "titolo": "Skin conditions and symptoms  -- EMBASE via embase.com",
@@ -280,214 +280,74 @@
     "link": "http://pubmedsearches.blogspot.com/2025/01/united-kingdom-keywords-for-embase.html"
   },
   {
-    "titolo": "Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides",
-    "data": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Ryan Tran, YueMing Zhang, Lingfeng Tao, Nan Yang, Shengjie Xu, Yu Yin, Shuai Xu, Wenlu Zhang, Hailu Xu",
-    "link": "https://arxiv.org/abs/2610.22373"
-  },
-  {
-    "titolo": "Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation",
-    "data": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Junru Zhang, Jinyong Wen, Bin Dou, Wuliang Huang, Baokun Wang, Yu Cheng, Weiqiang Wang, Cheng Peng",
-    "link": "https://arxiv.org/abs/2610.22400"
-  },
-  {
-    "titolo": "From Events to Reasoning: Hierarchical Rule Composition over Explicit States",
-    "data": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Cheng Lyu, Xueqi Wang",
-    "link": "https://arxiv.org/abs/2610.22403"
-  },
-  {
-    "titolo": "ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation",
-    "data": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Tengda Guo (Tsinghua University), Jiawang Hu (StepFun), Yifei Tao (Nanyang Technological University), Yin Wang (StepFun), Haotian Hu (Zhejiang Leapmotor Technology Co., Ltd), Fanyi Wang (Honor), Liujuan Tang (StepFun)",
-    "link": "https://arxiv.org/abs/2610.22408"
-  },
-  {
-    "titolo": "Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model",
-    "data": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Benjamin Pianet, Baptiste Lesquoy, Paul Saves, Benoit Gaudou, Jean Villerd, Nicolas Verstaevel, Olivier Therond",
-    "link": "https://arxiv.org/abs/2610.22420"
-  },
-  {
-    "titolo": "PRIME: Towards Verifiable Evidence-Grounded Reasoning in LLM Agents",
-    "data": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Hamed Khosravi, Xiaoming Huo",
-    "link": "https://arxiv.org/abs/2610.22426"
-  },
-  {
-    "titolo": "From Natural Language Intent to Executable Control: Hierarchical Feedback-Guided LLM Planning for Multi-component Cyber-Physical Systems",
-    "data": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Jinglin Dai, Jiawan Wang, Ruiqi Hong, Lei Bu",
-    "link": "https://arxiv.org/abs/2610.22441"
-  },
-  {
-    "titolo": "Null Controls Are Necessary but Not Sufficient: Evaluating Acceptance Guards for Scientific Discovery and Interpretability",
-    "data": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Tianyu Wu (Project Aether)",
-    "link": "https://arxiv.org/abs/2610.22445"
-  },
-  {
-    "titolo": "Learnable Splines for Unstructured Neural Operators",
-    "data": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Vignesh Gopakumar, Zhuoyuan Wang, Ander Gray, Valentin Duruisseaux, Josh Williams, William Michael Edward Ellis, Nuno Nobre, Matthew Field, James Panayis, Alexander I. Blair, Andrew Davis, Stanislas Pamela, Robert Akers, Marc Peter Deisenroth, Anima Anandkumar",
-    "link": "https://arxiv.org/abs/2610.22446"
-  },
-  {
-    "titolo": "Functional Welfare for AI Safety",
-    "data": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Rikhil Jhaveri, Jamie Johnson, Punya Syon Pandey, David Demitri Africa",
-    "link": "https://arxiv.org/abs/2610.22460"
-  },
-  {
-    "titolo": "A Physics-based and Geometry-aware Reduced-order Framework for Accelerated Part-Scale Thermomechanical Simulation of Additive Friction Stir Deposition Process",
-    "data": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Apurba Sarker, Sourav Saha",
-    "link": "https://arxiv.org/abs/2610.22375"
-  },
-  {
-    "titolo": "Physics-Transfer Learning: A Physics-Constrained Theory for Zero-Shot Generalization Along the Ladder of Complexity",
-    "data": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Yingjie Zhao, Zhiping Xu",
-    "link": "https://arxiv.org/abs/2610.22376"
-  },
-  {
-    "titolo": "Regime-Aware Coupled Orchestration of Neural Operator Specialists for Multiphysics Dynamics",
-    "data": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Paolo Guida, Vijayamanikandan Vijayarangan, Hong G. Im, William L. Roberts",
-    "link": "https://arxiv.org/abs/2610.22378"
-  },
-  {
-    "titolo": "Sorted Mutability as an Entropic Functional: Theory and Two Applications",
-    "data": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Michel Aguilera, Eugenio E. Vogel, Francisco J. Pe\\~na, Gonzalo Saravia, Patricio Vargas",
-    "link": "https://arxiv.org/abs/2610.22383"
-  },
-  {
-    "titolo": "Automated end-station at the soft X-ray beamline featuring robotic air-to-ultrahigh-vacuum sample transfer, scanning probe spectroscopy, and machine learning analysis",
-    "data": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Keita Hiromori, Masashige Miyamoto, Masafumi Horio, Takeru Nakashima, Yasunobu Ando, Masato Kotsugi, Iwao Matsuda",
-    "link": "https://arxiv.org/abs/2610.22384"
-  },
-  {
-    "titolo": "Development of a Particle Bhatnagar-Gross-Krook Method for Rarefied Monatomic Gas Mixtures",
-    "data": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Inchan Kim, Joonbeom Kim, Woonghwi Park, Eunji Jun",
-    "link": "https://arxiv.org/abs/2610.22389"
-  },
-  {
-    "titolo": "Physics-informed Neural Networks Based on the Fokker-Planck Model for Rarefied Gas Flows",
-    "data": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Joonbeom Kim, Eunji Jun",
-    "link": "https://arxiv.org/abs/2610.22390"
-  },
-  {
-    "titolo": "Noise Correlation Spectroscopy: A Review",
-    "data": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Gombojav O. Ariunbold",
-    "link": "https://arxiv.org/abs/2610.22392"
-  },
-  {
-    "titolo": "Advanced computational methods for simulating the classical hydrogen atom in stochastic electrodynamics",
-    "data": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Daniel C. Cole",
-    "link": "https://arxiv.org/abs/2610.22393"
-  },
-  {
-    "titolo": "Long-Lived Charge Trap Characterization for Rare-Event Searches with Skipper-CCDs",
-    "data": "Mon, 19 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Ansh Desai, Ana M. Botti, Brenda A. Cervantes-Vergara, Rouven Essig, Stephen E. Holland, Ian Lawson, Steffon Luoma, Santiago Perez, Javier Tiffenberg, Sho Uemura, Yikai Wu, Tien-Tien Yu",
-    "link": "https://arxiv.org/abs/2610.22418"
-  },
-  {
-    "titolo": "Deep LLM layers expose passage-level context in EEG during silent reading",
-    "data": "2026-10-16T15:41:19Z",
+    "titolo": "Affective Valence as the Interoceptive Rate of Change of Jacobian Scale",
+    "data": "2026-10-19T13:14:19Z",
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Priyanka Jain",
-    "link": "https://arxiv.org/abs/2610.23638v1"
+    "autore": "David Balduzzi",
+    "link": "https://arxiv.org/abs/2610.26350v1"
   },
   {
-    "titolo": "Distributional signatures of computation: inferring mechanisms from computation time distributions",
-    "data": "2026-10-16T15:22:34Z",
+    "titolo": "PyGPLA: A Python Package for Generalized Phase Locking Analysis",
+    "data": "2026-10-19T12:51:25Z",
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Philip Walther",
-    "link": "https://arxiv.org/abs/2610.23607v1"
+    "autore": "Shervin Safavi",
+    "link": "https://arxiv.org/abs/2610.26304v1"
   },
   {
-    "titolo": "EEG Lempel-Ziv Complexity vis-à-vis Autocorrelation Function",
-    "data": "2026-10-16T10:01:02Z",
+    "titolo": "Dynamic gain neuromodulation attenuates stability gaps during continual joint training",
+    "data": "2025-07-18T16:34:06Z",
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Dante R. Chialvo",
-    "link": "https://arxiv.org/abs/2610.23231v1"
+    "autore": "Srikanth Ramaswamy",
+    "link": "https://arxiv.org/abs/2507.14056v4"
   },
   {
-    "titolo": "What Shapes Brain Alignment of Large Language Models during Dialogue? Insights from Language Production and Comprehension",
-    "data": "2026-10-16T05:34:33Z",
+    "titolo": "HP-GSBS: Accelerating greedy state boundary search with reusable interval statistics",
+    "data": "2026-10-19T06:58:18Z",
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Yasue Kishino",
-    "link": "https://arxiv.org/abs/2610.22961v1"
+    "autore": "Yongzhang Ji",
+    "link": "https://arxiv.org/abs/2610.25898v1"
   },
   {
-    "titolo": "Learning reveals invisible structure in low-rank RNNs",
-    "data": "2026-05-05T07:41:15Z",
+    "titolo": "A theory of plasticity: capacity for change as inverse configurational constraint",
+    "data": "2026-09-21T19:02:10Z",
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Omri Barak",
-    "link": "https://arxiv.org/abs/2605.04115v2"
+    "autore": "Igor Branchi",
+    "link": "https://arxiv.org/abs/2609.25312v3"
   },
   {
-    "titolo": "Inter- and Intra-Subject Variability in EEG: A Systematic Survey",
-    "data": "2026-02-01T05:08:08Z",
+    "titolo": "Simulating Infant Senses with Age-Tuned Networks",
+    "data": "2026-10-18T16:28:27Z",
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Chin-Teng Lin",
-    "link": "https://arxiv.org/abs/2602.01019v2"
+    "autore": "Somesh Mohapatra",
+    "link": "https://arxiv.org/abs/2610.25377v1"
   },
   {
-    "titolo": "The Score Is Not the Structure: Brain Alignment and Cross-Lingual Transfer",
-    "data": "2026-10-02T09:21:49Z",
+    "titolo": "Brain-OF: An Omnifunctional Foundation Model for fMRI, EEG and MEG",
+    "data": "2026-02-26T15:47:13Z",
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Saman Rahbar",
-    "link": "https://arxiv.org/abs/2610.03827v3"
+    "autore": "Jürgen Dammers",
+    "link": "https://arxiv.org/abs/2602.23410v4"
   },
   {
-    "titolo": "Brain-Aligned Multimodal LLMs for Social and Emotional Understanding of Cartoon Movies",
-    "data": "2026-10-15T22:22:03Z",
+    "titolo": "Integrative neurocybernetic modeling in the era of large-scale neuroscience",
+    "data": "2026-04-26T22:26:28Z",
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Mengjia Xu",
-    "link": "https://arxiv.org/abs/2610.22706v1"
+    "autore": "Joseph J. Paton",
+    "link": "https://arxiv.org/abs/2604.23903v2"
   },
   {
-    "titolo": "Alignment of visual brain encoding models with individual perceptual similarity judgments",
-    "data": "2026-10-15T19:13:07Z",
+    "titolo": "Spontaneous brain-wide rotational dynamics constrain cue-evoked behavior",
+    "data": "2026-10-18T07:05:37Z",
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Amy Kuceyeski",
-    "link": "https://arxiv.org/abs/2610.22569v1"
+    "autore": "Vincenzo Vitelli",
+    "link": "https://arxiv.org/abs/2610.25061v1"
   },
   {
-    "titolo": "From anatomy to computation: axonal delay dispersion shifts neurons from event to sequence detection",
-    "data": "2026-09-03T17:59:08Z",
+    "titolo": "Longitudinal fMRI reveals multi-network reconfiguration and a recurrent frontoparietal shift across rest and task states during adult aging",
+    "data": "2026-10-17T03:50:23Z",
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Jipeng Sun",
-    "link": "https://arxiv.org/abs/2609.04195v3"
+    "autore": "Na Zhang",
+    "link": "https://arxiv.org/abs/2610.24433v1"
   },
   {
     "titolo": "Reducing Catastrophic Risk from AI with Systematic Monitoring and Evaluation of Rogue AI Progression",
@@ -502,76 +362,6 @@
     "fonte": "arXiv Query: search_query=au:\"Bengio Y\"&id_list=&start=0&max_results=100",
     "autore": "P. Frasconi",
     "link": "https://arxiv.org/abs/cs/9510101v1"
-  },
-  {
-    "titolo": "The First Large Absorption Survey in HI (FLASH): II. Pilot Survey data release and first results",
-    "data": "2024-08-13T04:29:15Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "Tobias Westmeier",
-    "link": "https://arxiv.org/abs/2408.06626v2"
-  },
-  {
-    "titolo": "The CRAFT Coherent (CRACO) upgrade I: System Description and Results of the 110-ms Radio Transient Pilot Survey",
-    "data": "2024-09-16T14:26:50Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "T. Westmeier",
-    "link": "https://arxiv.org/abs/2409.10316v2"
-  },
-  {
-    "titolo": "Stark effect tunable terahertz transitions in finite carbon chains",
-    "data": "2023-09-01T06:50:32Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "R. R. Hartmann",
-    "link": "https://arxiv.org/abs/2309.00288v1"
-  },
-  {
-    "titolo": "WALLABY Pilot Survey: Public release of HI data for almost 600 galaxies from phase 1 of ASKAP pilot observations",
-    "data": "2022-11-14T03:41:57Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "K. Said",
-    "link": "https://arxiv.org/abs/2211.07094v1"
-  },
-  {
-    "titolo": "Tuning terahertz transitions in cyclo[n]carbon rings",
-    "data": "2022-02-03T13:00:40Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "R. R. Hartmann",
-    "link": "https://arxiv.org/abs/2202.01568v2"
-  },
-  {
-    "titolo": "GASKAP-HI Pilot Survey Science I: ASKAP Zoom Observations of HI Emission in the Small Magellanic Cloud",
-    "data": "2021-11-09T19:00:00Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "M. T. Whiting",
-    "link": "https://arxiv.org/abs/2111.05339v2"
-  },
-  {
-    "titolo": "Mapping borophene onto graphene: Quasi-exact solutions for guiding potentials in tilted Dirac cones",
-    "data": "2021-11-21T08:19:19Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "R. R. Hartmann",
-    "link": "https://arxiv.org/abs/2111.10760v1"
-  },
-  {
-    "titolo": "The ASKAP Variables and Slow Transients (VAST) Pilot Survey",
-    "data": "2021-08-13T03:25:13Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "M. A. Voronkov",
-    "link": "https://arxiv.org/abs/2108.06039v1"
-  },
-  {
-    "titolo": "Australian Square Kilometre Array Pathfinder: I. System Description",
-    "data": "2021-02-03T04:16:57Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "T. Westmeier",
-    "link": "https://arxiv.org/abs/2102.01870v1"
-  },
-  {
-    "titolo": "The Australian Square Kilometre Array Pathfinder: Performance of the Boolardy Engineering Test Array",
-    "data": "2016-08-02T09:42:25Z",
-    "fonte": "arXiv Query: search_query=au:\"Ng A\"&id_list=&start=0&max_results=100",
-    "autore": "T. Wilson",
-    "link": "https://arxiv.org/abs/1608.00750v1"
   },
   {
     "titolo": "Comparing Dynamics: Deep Neural Networks versus Glassy Systems",
@@ -1001,6 +791,13 @@
     "link": "https://theconversation.com/im-harmed-and-i-dont-think-the-person-who-did-it-knows-we-looked-at-different-responses-to-uni-sexual-assault-293095"
   },
   {
+    "titolo": "AI reveals how a warming climate will intensify NZ’s most extreme downpours",
+    "data": "2026-10-20T01:09:17Z",
+    "fonte": "Environment + Energy – The Conversation",
+    "autore": "Steven Sherwood, Professor of Atmospheric Sciences, Climate Change Research Centre, UNSW",
+    "link": "https://theconversation.com/ai-reveals-how-a-warming-climate-will-intensify-nzs-most-extreme-downpours-294147"
+  },
+  {
     "titolo": "Feral – and threatened? Endangered camels, banteng and hog deer have found an unexpected refuge in Australia",
     "data": "2026-10-19T19:15:54Z",
     "fonte": "Environment + Energy – The Conversation",
@@ -1064,11 +861,32 @@
     "link": "https://theconversation.com/introduced-species-arent-good-or-bad-but-when-they-slip-from-our-control-we-are-quick-to-condemn-them-287306"
   },
   {
-    "titolo": "Extreme El Niños are coming. Reaching net zero sooner means facing fewer of them",
-    "data": "2026-10-13T09:00:35Z",
-    "fonte": "Environment + Energy – The Conversation",
-    "autore": "Nicola Maher, DECRA/Research Fellow, Climate Science, Australian National University",
-    "link": "https://theconversation.com/extreme-el-ninos-are-coming-reaching-net-zero-sooner-means-facing-fewer-of-them-292134"
+    "titolo": "Australian democracy is usually peaceful. But there’s a homegrown history with political violence that bears on the future",
+    "data": "2026-10-20T06:39:59Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Frank Bongiorno, Director, Vice-Chancellor's Centre of Public Ideas (CoPI) and Donald Horne Professor of History and Public Ideas, University of Canberra",
+    "link": "https://theconversation.com/australian-democracy-is-usually-peaceful-but-theres-a-homegrown-history-with-political-violence-that-bears-on-the-future-294779"
+  },
+  {
+    "titolo": "Haines loses leg; alleged attacker posted about environment and Gaza",
+    "data": "2026-10-20T03:29:12Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Michelle Grattan, Professorial Fellow, University of Canberra",
+    "link": "https://theconversation.com/haines-loses-leg-alleged-attacker-posted-about-environment-and-gaza-294364"
+  },
+  {
+    "titolo": "NZ’s next government will inherit a Treaty debate that is far from resolved",
+    "data": "2026-10-20T02:31:50Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Dominic O'Sullivan, Adjunct Professor, Stout Research Centre, Victoria University of Wellington and Auckland University of Technology, Professor of Political Science, Charles Sturt University",
+    "link": "https://theconversation.com/nzs-next-government-will-inherit-a-treaty-debate-that-is-far-from-resolved-292762"
+  },
+  {
+    "titolo": "Politics with Michelle Grattan: Ed Husic urges brakes on data centres ‘swamping’ Australia",
+    "data": "2026-10-20T01:02:23Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Michelle Grattan, Professorial Fellow, University of Canberra",
+    "link": "https://theconversation.com/politics-with-michelle-grattan-ed-husic-urges-brakes-on-data-centres-swamping-australia-294687"
   },
   {
     "titolo": "From comedy skits to podcast gaffes, what’s Anthony Albanese’s social media strategy?",
@@ -1113,32 +931,39 @@
     "link": "https://theconversation.com/winston-peters-says-diversity-is-disunity-what-does-the-evidence-tell-us-294456"
   },
   {
-    "titolo": "Does Australia have a problem with wrongful convictions? It’s time we got serious about finding out",
-    "data": "2026-10-15T22:51:06Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "Kerry Breen, Retired Physician & Adjunct Professor, Department of Forensic Medicine, Monash University",
-    "link": "https://theconversation.com/does-australia-have-a-problem-with-wrongful-convictions-its-time-we-got-serious-about-finding-out-288803"
+    "titolo": "Australian democracy is usually peaceful. But there’s a homegrown history with political violence that bears on the future",
+    "data": "2026-10-20T06:39:59Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Frank Bongiorno, Director, Vice-Chancellor's Centre of Public Ideas (CoPI) and Donald Horne Professor of History and Public Ideas, University of Canberra",
+    "link": "https://theconversation.com/australian-democracy-is-usually-peaceful-but-theres-a-homegrown-history-with-political-violence-that-bears-on-the-future-294779"
   },
   {
-    "titolo": "Israel soon heads to the polls, while Palestinian democracy remains on hold. Hamas looms over both",
-    "data": "2026-10-15T18:57:07Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "Benedict Moleta, PhD student, Department of International Relations, Australian National University",
-    "link": "https://theconversation.com/israel-soon-heads-to-the-polls-while-palestinian-democracy-remains-on-hold-hamas-looms-over-both-294233"
+    "titolo": "Haines loses leg; alleged attacker posted about environment and Gaza",
+    "data": "2026-10-20T03:29:12Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Michelle Grattan, Professorial Fellow, University of Canberra",
+    "link": "https://theconversation.com/haines-loses-leg-alleged-attacker-posted-about-environment-and-gaza-294364"
   },
   {
-    "titolo": "What might turning off the algorithm look like? Chinese social media provides some hints",
-    "data": "2026-10-15T03:20:57Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "Robbie Fordyce, Senior Lecturer, Communications and Media Studies, Monash University",
-    "link": "https://theconversation.com/what-might-turning-off-the-algorithm-look-like-chinese-social-media-provides-some-hints-293339"
+    "titolo": "NZ’s next government will inherit a Treaty debate that is far from resolved",
+    "data": "2026-10-20T02:31:50Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Dominic O'Sullivan, Adjunct Professor, Stout Research Centre, Victoria University of Wellington and Auckland University of Technology, Professor of Political Science, Charles Sturt University",
+    "link": "https://theconversation.com/nzs-next-government-will-inherit-a-treaty-debate-that-is-far-from-resolved-292762"
   },
   {
-    "titolo": "Prime ministers, billions in UAE investment: the Manchester City cheating scandal turns political",
-    "data": "2026-10-14T23:03:51Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "Danny F Hill, Assistant Professor Finance, Providence College",
-    "link": "https://theconversation.com/prime-ministers-billions-in-uae-investment-the-manchester-city-cheating-scandal-turns-political-294243"
+    "titolo": "AI reveals how a warming climate will intensify NZ’s most extreme downpours",
+    "data": "2026-10-20T01:09:17Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Steven Sherwood, Professor of Atmospheric Sciences, Climate Change Research Centre, UNSW",
+    "link": "https://theconversation.com/ai-reveals-how-a-warming-climate-will-intensify-nzs-most-extreme-downpours-294147"
+  },
+  {
+    "titolo": "Politics with Michelle Grattan: Ed Husic urges brakes on data centres ‘swamping’ Australia",
+    "data": "2026-10-20T01:02:23Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Michelle Grattan, Professorial Fellow, University of Canberra",
+    "link": "https://theconversation.com/politics-with-michelle-grattan-ed-husic-urges-brakes-on-data-centres-swamping-australia-294687"
   },
   {
     "titolo": "Honey bee hives have ‘living immune systems’ which defend against disease",
@@ -1176,39 +1001,11 @@
     "link": "https://theconversation.com/new-ai-shopping-agents-promise-better-bargains-but-who-pays-the-price-294461"
   },
   {
-    "titolo": "Could the ban on card surcharges lead to a rise in tax evasion?",
-    "data": "2026-10-19T19:15:08Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Md Akhtaruzzaman, Professor of Finance and Head of Discipline, Accounting and Finance, Australian Catholic University",
-    "link": "https://theconversation.com/could-the-ban-on-card-surcharges-lead-to-a-rise-in-tax-evasion-294139"
-  },
-  {
-    "titolo": "Would subsidising weight loss drugs make health care fairer?",
-    "data": "2026-10-19T19:14:50Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Emily Burch, Accredited Practising Dietitian and Lecturer, Southern Cross University",
-    "link": "https://theconversation.com/would-subsidising-weight-loss-drugs-make-health-care-fairer-292687"
-  },
-  {
-    "titolo": "From comedy skits to podcast gaffes, what’s Anthony Albanese’s social media strategy?",
-    "data": "2026-10-19T05:30:28Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Susan Grantham, Senior Lecturer in Communication, Griffith University",
-    "link": "https://theconversation.com/from-comedy-skits-to-podcast-gaffes-whats-anthony-albaneses-social-media-strategy-294241"
-  },
-  {
-    "titolo": "As French protests escalate into riots, they may prove a gift for Marine Le Pen’s right-wing party",
-    "data": "2026-10-19T03:02:39Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Peter McPhee, Emeritus professor, History, The University of Melbourne",
-    "link": "https://theconversation.com/as-french-protests-escalate-into-riots-they-may-prove-a-gift-for-marine-le-pens-right-wing-party-294673"
-  },
-  {
-    "titolo": "Democrats remain clear favourites to gain control of Congress at midterms",
-    "data": "2026-10-19T02:18:06Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Adrian Beaumont, Election Analyst (Psephologist) at The Conversation; and Honorary Associate, School of Mathematics and Statistics, The University of Melbourne",
-    "link": "https://theconversation.com/democrats-remain-clear-favourites-to-gain-control-of-congress-at-midterms-294465"
+    "titolo": "What does a Starshield slowdown really mean for Ukraine’s war with Russia?",
+    "data": "2026-10-20T08:14:08Z",
+    "fonte": "The Conversation – Articles (UK)",
+    "autore": "Steve Uhlig, Professor of Networks and Head of School EECS, Queen Mary University of London",
+    "link": "https://theconversation.com/what-does-a-starshield-slowdown-really-mean-for-ukraines-war-with-russia-294625"
   },
   {
     "titolo": "Phoebe Giannisi’s eco-poetry challenges the idea that humans are separate from nature",
@@ -1274,11 +1071,11 @@
     "link": "https://theconversation.com/cannabis-is-getting-stronger-but-doubling-thc-dose-doesnt-get-you-twice-as-high-new-study-294181"
   },
   {
-    "titolo": "What recent polling suggests will happen in the US midterm elections",
-    "data": "2026-10-19T15:03:53Z",
-    "fonte": "The Conversation – Articles (UK)",
-    "autore": "Paul Whiteley, Professor, Department of Government, University of Essex",
-    "link": "https://theconversation.com/what-recent-polling-suggests-will-happen-in-the-us-midterm-elections-294713"
+    "titolo": "What does a Starshield slowdown really mean for Ukraine’s war with Russia?",
+    "data": "2026-10-20T08:14:08Z",
+    "fonte": "Science + Tech – The Conversation",
+    "autore": "Steve Uhlig, Professor of Networks and Head of School EECS, Queen Mary University of London",
+    "link": "https://theconversation.com/what-does-a-starshield-slowdown-really-mean-for-ukraines-war-with-russia-294625"
   },
   {
     "titolo": "Digital natives are buying electric cars as if they were smartphones",
@@ -1342,13 +1139,6 @@
     "fonte": "Science + Tech – The Conversation",
     "autore": "Orin Lole Durbin, PhD Student, Geosciences, Virginia Tech",
     "link": "https://theconversation.com/animal-life-may-be-far-older-than-its-most-ancient-fossils-heres-how-we-uncovered-its-hidden-history-294017"
-  },
-  {
-    "titolo": "What happens in your brain when you can’t stop laughing?",
-    "data": "2026-10-13T14:51:06Z",
-    "fonte": "Science + Tech – The Conversation",
-    "autore": "Fausto Caruana, CNR Senior Researcher and Adjunct Professor at the University of Parma, University of Parma",
-    "link": "https://theconversation.com/what-happens-in-your-brain-when-you-cant-stop-laughing-293477"
   },
   {
     "titolo": "Phoebe Giannisi’s eco-poetry challenges the idea that humans are separate from nature",
@@ -1561,6 +1351,48 @@
     "link": "https://theconversation.com/is-childproofing-the-internet-constitutional-a-tech-law-expert-draws-out-the-issues-240430"
   },
   {
+    "titolo": "Australian democracy is usually peaceful. But there’s a homegrown history with political violence that bears on the future",
+    "data": "2026-10-20T06:39:59Z",
+    "fonte": "English – The Conversation",
+    "autore": "Frank Bongiorno, Director, Vice-Chancellor's Centre of Public Ideas (CoPI) and Donald Horne Professor of History and Public Ideas, University of Canberra",
+    "link": "https://theconversation.com/australian-democracy-is-usually-peaceful-but-theres-a-homegrown-history-with-political-violence-that-bears-on-the-future-294779"
+  },
+  {
+    "titolo": "Haines loses leg; alleged attacker posted about environment and Gaza",
+    "data": "2026-10-20T03:29:12Z",
+    "fonte": "English – The Conversation",
+    "autore": "Michelle Grattan, Professorial Fellow, University of Canberra",
+    "link": "https://theconversation.com/haines-loses-leg-alleged-attacker-posted-about-environment-and-gaza-294364"
+  },
+  {
+    "titolo": "NZ’s next government will inherit a Treaty debate that is far from resolved",
+    "data": "2026-10-20T02:31:50Z",
+    "fonte": "English – The Conversation",
+    "autore": "Dominic O'Sullivan, Adjunct Professor, Stout Research Centre, Victoria University of Wellington and Auckland University of Technology, Professor of Political Science, Charles Sturt University",
+    "link": "https://theconversation.com/nzs-next-government-will-inherit-a-treaty-debate-that-is-far-from-resolved-292762"
+  },
+  {
+    "titolo": "Anti-government violence is growing. The response needs to be more than just increased policing",
+    "data": "2026-10-20T01:36:10Z",
+    "fonte": "English – The Conversation",
+    "autore": "Kristina Murphy, Professor and former ARC Future Fellow, Griffith Criminology Institute, Griffith University",
+    "link": "https://theconversation.com/anti-government-violence-is-growing-the-response-needs-to-be-more-than-just-increased-policing-294782"
+  },
+  {
+    "titolo": "AI reveals how a warming climate will intensify NZ’s most extreme downpours",
+    "data": "2026-10-20T01:09:17Z",
+    "fonte": "English – The Conversation",
+    "autore": "Steven Sherwood, Professor of Atmospheric Sciences, Climate Change Research Centre, UNSW",
+    "link": "https://theconversation.com/ai-reveals-how-a-warming-climate-will-intensify-nzs-most-extreme-downpours-294147"
+  },
+  {
+    "titolo": "Politics with Michelle Grattan: Ed Husic urges brakes on data centres ‘swamping’ Australia",
+    "data": "2026-10-20T01:02:23Z",
+    "fonte": "English – The Conversation",
+    "autore": "Michelle Grattan, Professorial Fellow, University of Canberra",
+    "link": "https://theconversation.com/politics-with-michelle-grattan-ed-husic-urges-brakes-on-data-centres-swamping-australia-294687"
+  },
+  {
     "titolo": "Honey bee hives have ‘living immune systems’ which defend against disease",
     "data": "2026-10-19T22:00:23Z",
     "fonte": "English – The Conversation",
@@ -1587,48 +1419,6 @@
     "fonte": "English – The Conversation",
     "autore": "Tim Rowse, Emeritus Professor, Institute for Culture and Society, Western Sydney University",
     "link": "https://theconversation.com/a-new-history-of-blackbirding-favours-moral-condemnation-at-the-expense-of-complexity-291169"
-  },
-  {
-    "titolo": "Many Indigenous people now study and teach at Australian universities – but they are still excluded",
-    "data": "2026-10-19T19:16:13Z",
-    "fonte": "English – The Conversation",
-    "autore": "Tristan Kennedy, Deputy Vice-Chancellor (Indigenous) and Senior Vice-President, Monash University",
-    "link": "https://theconversation.com/many-indigenous-people-now-study-and-teach-at-australian-universities-but-they-are-still-excluded-294240"
-  },
-  {
-    "titolo": "Feral – and threatened? Endangered camels, banteng and hog deer have found an unexpected refuge in Australia",
-    "data": "2026-10-19T19:15:54Z",
-    "fonte": "English – The Conversation",
-    "autore": "Martin Schlaepfer, Senior Lecturer in Conservation Biology, Université de Genève",
-    "link": "https://theconversation.com/feral-and-threatened-endangered-camels-banteng-and-hog-deer-have-found-an-unexpected-refuge-in-australia-287307"
-  },
-  {
-    "titolo": "New AI shopping agents promise better bargains. But who pays the price?",
-    "data": "2026-10-19T19:15:36Z",
-    "fonte": "English – The Conversation",
-    "autore": "Lynnaire Sheridan, Associate Professor, Department of Management, University of Otago",
-    "link": "https://theconversation.com/new-ai-shopping-agents-promise-better-bargains-but-who-pays-the-price-294461"
-  },
-  {
-    "titolo": "Could the ban on card surcharges lead to a rise in tax evasion?",
-    "data": "2026-10-19T19:15:08Z",
-    "fonte": "English – The Conversation",
-    "autore": "Md Akhtaruzzaman, Professor of Finance and Head of Discipline, Accounting and Finance, Australian Catholic University",
-    "link": "https://theconversation.com/could-the-ban-on-card-surcharges-lead-to-a-rise-in-tax-evasion-294139"
-  },
-  {
-    "titolo": "Would subsidising weight loss drugs make health care fairer?",
-    "data": "2026-10-19T19:14:50Z",
-    "fonte": "English – The Conversation",
-    "autore": "Emily Burch, Accredited Practising Dietitian and Lecturer, Southern Cross University",
-    "link": "https://theconversation.com/would-subsidising-weight-loss-drugs-make-health-care-fairer-292687"
-  },
-  {
-    "titolo": "Where does all the hardware go? The hidden environmental footprint of AI data centres",
-    "data": "2026-10-19T18:59:17Z",
-    "fonte": "English – The Conversation",
-    "autore": "Rachida Bouhid, PhD StudentDepartment of Strategy, Social Responsibility, and Environment, Université du Québec à Montréal (UQAM)",
-    "link": "https://theconversation.com/where-does-all-the-hardware-go-the-hidden-environmental-footprint-of-ai-data-centres-292732"
   },
   {
     "titolo": "La 6G sera-t-elle plus sobre et intelligente que les générations précédentes ?",
