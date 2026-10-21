@@ -161,6 +161,13 @@
     "link": "https://elifesciences.org/articles/113484"
   },
   {
+    "titolo": "Syntaxin11 deficiency inhibits CRAC channel priming to suppress cytotoxicity and gene expression in T lymphocytes independent of membrane trafficking",
+    "data": "Mon, 19 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "monika.vig@gmail.com (Vishal Malik)",
+    "link": "https://elifesciences.org/articles/111335"
+  },
+  {
     "titolo": "Bruce suppresses autophagy-regulated caspase activity and wing tissue growth in <i>Drosophila</i>",
     "data": "Mon, 19 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -168,11 +175,18 @@
     "link": "https://elifesciences.org/articles/109876"
   },
   {
-    "titolo": "Syntaxin11 deficiency inhibits CRAC channel priming to suppress cytotoxicity and gene expression in T lymphocytes independent of membrane trafficking",
-    "data": "Mon, 19 Oct 2026 00:00:00 +0000",
+    "titolo": "Correction: Engineered migrasomes provide a robust and thermally stable vaccination platform",
+    "data": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "monika.vig@gmail.com (Vishal Malik)",
-    "link": "https://elifesciences.org/articles/111335"
+    "autore": "Anonimo",
+    "link": "https://elifesciences.org/articles/113497"
+  },
+  {
+    "titolo": "Separable downmodulation of meiotic axis protein deposition and DNA break induction at chromosome ends",
+    "data": "Fri, 16 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "andi@nyu.edu (Vijayalakshmi V Subramanian)",
+    "link": "https://elifesciences.org/articles/110189"
   },
   {
     "titolo": "RiboTRAP-seq identifies spatially distinct functions for the anterior and posterior intestine in immune and metabolic regulation in <i>Caenorhabditis elegans</i>",
@@ -182,25 +196,11 @@
     "link": "https://elifesciences.org/articles/109237"
   },
   {
-    "titolo": "In vivo virus-free lineage tracing and live imaging reveal that NeuroD1 does not reprogram microglia into neurons",
-    "data": "Fri, 16 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "peng@fudan.edu.cn (Yuxin Li)",
-    "link": "https://elifesciences.org/articles/112083"
-  },
-  {
     "titolo": "Individual dopaminergic neurons induce unique, yet overlapping combinations of behavioural modulations, including safety learning, memory retrieval, and acute locomotion",
     "data": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
     "autore": "m.schleyer@oia.hokudai.ac.jp (Oliver Kobler)",
     "link": "https://elifesciences.org/articles/106148"
-  },
-  {
-    "titolo": "Correction: Engineered migrasomes provide a robust and thermally stable vaccination platform",
-    "data": "Fri, 16 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "Anonimo",
-    "link": "https://elifesciences.org/articles/113497"
   },
   {
     "titolo": "Correction: Mask family proteins ANKHD1 and ANKRD17 regulate YAP nuclear import and stability",
@@ -280,74 +280,214 @@
     "link": "http://pubmedsearches.blogspot.com/2025/01/united-kingdom-keywords-for-embase.html"
   },
   {
-    "titolo": "Affective Valence as the Interoceptive Rate of Change of Jacobian Scale",
-    "data": "2026-10-19T13:14:19Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "David Balduzzi",
-    "link": "https://arxiv.org/abs/2610.26350v1"
+    "titolo": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+    "data": "Wed, 21 Oct 2026 00:00:00 -0400",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Hengqi Liu, Ziyuan Liu, Yang Qin, Wanting Zhou, Zichuan Wang, Jiachen Liang, Xu Chu, Shaowei Chen, Zhaokai Luo, Mu Chuan",
+    "link": "https://arxiv.org/abs/2610.26887"
   },
   {
-    "titolo": "PyGPLA: A Python Package for Generalized Phase Locking Analysis",
-    "data": "2026-10-19T12:51:25Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Shervin Safavi",
-    "link": "https://arxiv.org/abs/2610.26304v1"
+    "titolo": "Large language model and reinforcement learning based autonomous construction and progress updates",
+    "data": "Wed, 21 Oct 2026 00:00:00 -0400",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Yifei Xiao, Huasheng Lin, T. Y. Yang",
+    "link": "https://arxiv.org/abs/2610.26899"
   },
   {
-    "titolo": "Dynamic gain neuromodulation attenuates stability gaps during continual joint training",
-    "data": "2025-07-18T16:34:06Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Srikanth Ramaswamy",
-    "link": "https://arxiv.org/abs/2507.14056v4"
+    "titolo": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
+    "data": "Wed, 21 Oct 2026 00:00:00 -0400",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Koki Takeshita, Kenji Uebayashi, Hikaru Tomonari, Masaya Tsunokake, Koichiro Yawata, Tatsuya Sasaki, Yusuke Ohtsubo, Kota Dohi, Yasuhiro Sogawa",
+    "link": "https://arxiv.org/abs/2610.26904"
   },
   {
-    "titolo": "HP-GSBS: Accelerating greedy state boundary search with reusable interval statistics",
-    "data": "2026-10-19T06:58:18Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Yongzhang Ji",
-    "link": "https://arxiv.org/abs/2610.25898v1"
+    "titolo": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
+    "data": "Wed, 21 Oct 2026 00:00:00 -0400",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Shrish Shrinath Vaidya, Minmini Selvam, Ganapathy Krishnamurthi",
+    "link": "https://arxiv.org/abs/2610.26913"
   },
   {
-    "titolo": "A theory of plasticity: capacity for change as inverse configurational constraint",
-    "data": "2026-09-21T19:02:10Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Igor Branchi",
-    "link": "https://arxiv.org/abs/2609.25312v3"
+    "titolo": "DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution",
+    "data": "Wed, 21 Oct 2026 00:00:00 -0400",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Nan Jia, Wenxuan Shi, Jingqing Ruan, Zhizhao Zeng, Tianyi Zhai, Zhongda Su, Feng Hong, Zhengyu Chen, Wenhao Yan, Haojin Yang, Siqi Dai, Weipeng Zhang, Ke Zeng, Xunliang Cai",
+    "link": "https://arxiv.org/abs/2610.26924"
   },
   {
-    "titolo": "Simulating Infant Senses with Age-Tuned Networks",
-    "data": "2026-10-18T16:28:27Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Somesh Mohapatra",
-    "link": "https://arxiv.org/abs/2610.25377v1"
+    "titolo": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing",
+    "data": "Wed, 21 Oct 2026 00:00:00 -0400",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Lei Ren, Haiteng Wang, Shixiang Li, Jing Zhang, Yuqing Wang, Jingwei Guo, Yunfei Zhu, Yuanjun Laili, Yang Tang, Lihui Wang",
+    "link": "https://arxiv.org/abs/2610.26941"
   },
   {
-    "titolo": "Brain-OF: An Omnifunctional Foundation Model for fMRI, EEG and MEG",
-    "data": "2026-02-26T15:47:13Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Jürgen Dammers",
-    "link": "https://arxiv.org/abs/2602.23410v4"
+    "titolo": "Fix, Not Just Resample: Bounded Compiler-Guided Repair in Lean 4",
+    "data": "Wed, 21 Oct 2026 00:00:00 -0400",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Haotian Deng, Chris Farber, Sonal Narasimha, Samskrithi Sivakumar, Yexiang Xue",
+    "link": "https://arxiv.org/abs/2610.26942"
   },
   {
-    "titolo": "Integrative neurocybernetic modeling in the era of large-scale neuroscience",
-    "data": "2026-04-26T22:26:28Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Joseph J. Paton",
-    "link": "https://arxiv.org/abs/2604.23903v2"
+    "titolo": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
+    "data": "Wed, 21 Oct 2026 00:00:00 -0400",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Xinping Wang, Jie Ma, Rui Xing, Wensong Guo, Xiayi Zhang, Jianhao Deng, Zihao Zhou, Boqian Yang, Feijuan He",
+    "link": "https://arxiv.org/abs/2610.26943"
   },
   {
-    "titolo": "Spontaneous brain-wide rotational dynamics constrain cue-evoked behavior",
-    "data": "2026-10-18T07:05:37Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Vincenzo Vitelli",
-    "link": "https://arxiv.org/abs/2610.25061v1"
+    "titolo": "LightCRS: Lightweight Multi-Domain Conversational Recommendation System",
+    "data": "Wed, 21 Oct 2026 00:00:00 -0400",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "He Ma, Lan You, Qiyang Wu, Chen Liu",
+    "link": "https://arxiv.org/abs/2610.26948"
   },
   {
-    "titolo": "Longitudinal fMRI reveals multi-network reconfiguration and a recurrent frontoparietal shift across rest and task states during adult aging",
-    "data": "2026-10-17T03:50:23Z",
+    "titolo": "When Planning Problems Become Hard for LLMs: Separating Structural Complexity from Semantic Interpretability",
+    "data": "Wed, 21 Oct 2026 00:00:00 -0400",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Mayukh Debnath, Adeyinka Adedigba, Rammohan Mallipeddi",
+    "link": "https://arxiv.org/abs/2610.26964"
+  },
+  {
+    "titolo": "On the Limits of a Space-Time Description and the Physical Meaning of Phase Space in a Nonlocal Continuum",
+    "data": "Wed, 21 Oct 2026 00:00:00 -0400",
+    "fonte": "physics updates on arXiv.org",
+    "autore": "E. J. Thompson",
+    "link": "https://arxiv.org/abs/2610.26876"
+  },
+  {
+    "titolo": "Revisiting self-interacting dark matter with DESI DR2 baryon acoustic oscillation observations",
+    "data": "Wed, 21 Oct 2026 00:00:00 -0400",
+    "fonte": "physics updates on arXiv.org",
+    "autore": "Yixuan Zhu, Shuo Cao, Xuanni chen, Xuchen Tai, Xinyang Jin, Yuanming Feng",
+    "link": "https://arxiv.org/abs/2610.26877"
+  },
+  {
+    "titolo": "Towards a General Theory of GPS Inter-Satellite Communications Between Moving Satellites on Arbitrary Space Trajectories, Accounting for General Relativity Effects",
+    "data": "Wed, 21 Oct 2026 00:00:00 -0400",
+    "fonte": "physics updates on arXiv.org",
+    "autore": "Bogdan G. Dimitrov",
+    "link": "https://arxiv.org/abs/2610.26879"
+  },
+  {
+    "titolo": "A Machine Learning Approach to Finslerian Cosmological Dark Energy Model",
+    "data": "Wed, 21 Oct 2026 00:00:00 -0400",
+    "fonte": "physics updates on arXiv.org",
+    "autore": "Shruti Seth, R. Chaubey",
+    "link": "https://arxiv.org/abs/2610.26882"
+  },
+  {
+    "titolo": "Is the Kaniadakis deformation of holographic dark energy detectable? A non-flat analysis with DESI DR2, cosmic chronometers and Pantheon+SH0ES",
+    "data": "Wed, 21 Oct 2026 00:00:00 -0400",
+    "fonte": "physics updates on arXiv.org",
+    "autore": "P. Suresh Kumar, Said Salim AL Kathiri",
+    "link": "https://arxiv.org/abs/2610.26883"
+  },
+  {
+    "titolo": "Commutative Coarse-graining on the Sphere",
+    "data": "Wed, 21 Oct 2026 00:00:00 -0400",
+    "fonte": "physics updates on arXiv.org",
+    "autore": "Chayut Teeraratkul, Hussein Aluie",
+    "link": "https://arxiv.org/abs/2610.26896"
+  },
+  {
+    "titolo": "Symmetry and Quantum Interference in the Attosecond Domain",
+    "data": "Wed, 21 Oct 2026 00:00:00 -0400",
+    "fonte": "physics updates on arXiv.org",
+    "autore": "C. Figueira de Morisson Faria, S. Hashim, J. Rivera-Dean, T. Rook",
+    "link": "https://arxiv.org/abs/2610.26901"
+  },
+  {
+    "titolo": "Enhancing analytical photon transport in turbid media through physics-guided neural network corrections",
+    "data": "Wed, 21 Oct 2026 00:00:00 -0400",
+    "fonte": "physics updates on arXiv.org",
+    "autore": "Guojun Tang, Paul D. Teal, Alexander Doronin",
+    "link": "https://arxiv.org/abs/2610.26917"
+  },
+  {
+    "titolo": "Matrix-Free Resolvent Analysis for Large-Scale Aerodynamic Systems",
+    "data": "Wed, 21 Oct 2026 00:00:00 -0400",
+    "fonte": "physics updates on arXiv.org",
+    "autore": "Rohit Sunil Kanchi, Sicheng He",
+    "link": "https://arxiv.org/abs/2610.26931"
+  },
+  {
+    "titolo": "Phase-dependent THz yield in two-color laser plasmas: nonlinear propagation and Coulomb-modified recollision",
+    "data": "Wed, 21 Oct 2026 00:00:00 -0400",
+    "fonte": "physics updates on arXiv.org",
+    "autore": "Yange Chen, Ahai Chen, Jiahui Guo, Tianmin Yan, Yizhu Zhang, Yuhai Jiang",
+    "link": "https://arxiv.org/abs/2610.26939"
+  },
+  {
+    "titolo": "DRIADA: an open-source Python toolkit for linking single-neuron selectivity and population activity to behavior",
+    "data": "2026-07-01T12:16:37Z",
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Na Zhang",
-    "link": "https://arxiv.org/abs/2610.24433v1"
+    "autore": "Konstantin Anokhin",
+    "link": "https://arxiv.org/abs/2607.00851v2"
+  },
+  {
+    "titolo": "What I Disbelieve: Quantifying Belief With Negative Ranking Functions",
+    "data": "2026-10-20T15:21:34Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Britt Anderson",
+    "link": "https://arxiv.org/abs/2610.28357v1"
+  },
+  {
+    "titolo": "Alignment of visual brain encoding models with individual perceptual similarity judgments",
+    "data": "2026-10-15T19:13:07Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Amy Kuceyeski",
+    "link": "https://arxiv.org/abs/2610.22569v2"
+  },
+  {
+    "titolo": "One-shot learning of paired association navigation with biologically plausible schemas",
+    "data": "2021-06-07T13:03:51Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Andrew Yong-Yi Tan",
+    "link": "https://arxiv.org/abs/2106.03580v5"
+  },
+  {
+    "titolo": "On sources to variabilities of simple cells in the primary visual cortex: A principled theory for the interaction between geometric image transformations and receptive field responses",
+    "data": "2025-09-02T09:41:55Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Tony Lindeberg",
+    "link": "https://arxiv.org/abs/2509.02139v8"
+  },
+  {
+    "titolo": "Beauty is in the ELBO of the Beholder: A Variational Account of Processing Fluency in Face Perception",
+    "data": "2026-08-25T08:24:46Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Jochen Triesch",
+    "link": "https://arxiv.org/abs/2608.24219v2"
+  },
+  {
+    "titolo": "Two base rates, two weights: base-rate neglect has a second axis",
+    "data": "2026-08-06T06:56:00Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Adam Y. Shavit",
+    "link": "https://arxiv.org/abs/2608.05658v4"
+  },
+  {
+    "titolo": "Does a Flux-Defined Markov Blanket Screen Self-Replicating Gray--Scott Spots? A Computational Test of a Blanket Condition from the Free Energy Principle",
+    "data": "2026-10-19T20:02:33Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "John E Pearson",
+    "link": "https://arxiv.org/abs/2610.27235v1"
+  },
+  {
+    "titolo": "Cross-disorder Learning of Imaging-derived Joint Mophometric Markers in Alzheimer's and Parkinson's Diseases",
+    "data": "2026-10-19T18:44:09Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Boris Gutman",
+    "link": "https://arxiv.org/abs/2610.27150v1"
+  },
+  {
+    "titolo": "Representing short-term movement to reveal animal identity and learning progress",
+    "data": "2026-10-19T18:35:06Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Wei-Lun Chao",
+    "link": "https://arxiv.org/abs/2610.27140v1"
   },
   {
     "titolo": "Reducing Catastrophic Risk from AI with Systematic Monitoring and Evaluation of Rogue AI Progression",
@@ -931,6 +1071,13 @@
     "link": "https://theconversation.com/our-detection-dogs-are-helping-protect-one-of-australias-most-imperiled-lizards-293701"
   },
   {
+    "titolo": "How rage and frustration against authority figures  tips over into conspiracy and violence – and what we can do about it",
+    "data": "2026-10-21T00:38:50Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Josh Roose, Director of Research and Policy at The Dor Foundation and Associate Professor of Politics at Deakin University, Deakin University",
+    "link": "https://theconversation.com/how-rage-and-frustration-against-authority-figures-tips-over-into-conspiracy-and-violence-and-what-we-can-do-about-it-294778"
+  },
+  {
     "titolo": "NZ election poll watch: right majority possible even if Opportunity enters parliament",
     "data": "2026-10-20T20:54:41Z",
     "fonte": "Politics + Society – The Conversation",
@@ -994,11 +1141,11 @@
     "link": "https://theconversation.com/natural-hazards-dont-obey-electoral-cycles-the-next-government-faces-crucial-choices-293552"
   },
   {
-    "titolo": "What Australia could learn from its Southeast Asian neighbours about power and the changing global order",
-    "data": "2026-10-18T19:12:17Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "Michael Wesley, Deputy Vice-Chancellor (Global, Culture and Engagement), The University of Melbourne",
-    "link": "https://theconversation.com/what-australia-could-learn-from-its-southeast-asian-neighbours-about-power-and-the-changing-global-order-285694"
+    "titolo": "How rage and frustration against authority figures  tips over into conspiracy and violence – and what we can do about it",
+    "data": "2026-10-21T00:38:50Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Josh Roose, Director of Research and Policy at The Dor Foundation and Associate Professor of Politics at Deakin University, Deakin University",
+    "link": "https://theconversation.com/how-rage-and-frustration-against-authority-figures-tips-over-into-conspiracy-and-violence-and-what-we-can-do-about-it-294778"
   },
   {
     "titolo": "NZ election poll watch: right majority possible even if Opportunity enters parliament",
@@ -1062,13 +1209,6 @@
     "fonte": "Home – The Conversation",
     "autore": "Michelle Grattan, Professorial Fellow, University of Canberra",
     "link": "https://theconversation.com/haines-loses-leg-police-charge-alleged-attacker-294364"
-  },
-  {
-    "titolo": "NZ’s next government will inherit a Treaty debate that is far from resolved",
-    "data": "2026-10-20T02:31:50Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Dominic O'Sullivan, Adjunct Professor, Stout Research Centre, Victoria University of Wellington and Auckland University of Technology, Professor of Political Science, Charles Sturt University",
-    "link": "https://theconversation.com/nzs-next-government-will-inherit-a-treaty-debate-that-is-far-from-resolved-292762"
   },
   {
     "titolo": "Will Reform UK’s racism scandal cost votes? Here’s what previous polling tells us",
@@ -1421,6 +1561,13 @@
     "link": "https://theconversation.com/is-childproofing-the-internet-constitutional-a-tech-law-expert-draws-out-the-issues-240430"
   },
   {
+    "titolo": "How rage and frustration against authority figures  tips over into conspiracy and violence – and what we can do about it",
+    "data": "2026-10-21T00:38:50Z",
+    "fonte": "English – The Conversation",
+    "autore": "Josh Roose, Director of Research and Policy at The Dor Foundation and Associate Professor of Politics at Deakin University, Deakin University",
+    "link": "https://theconversation.com/how-rage-and-frustration-against-authority-figures-tips-over-into-conspiracy-and-violence-and-what-we-can-do-about-it-294778"
+  },
+  {
     "titolo": "NZ election poll watch: right majority possible even if Opportunity enters parliament",
     "data": "2026-10-20T20:54:41Z",
     "fonte": "English – The Conversation",
@@ -1482,13 +1629,6 @@
     "fonte": "English – The Conversation",
     "autore": "S. Mostafa Rasoolimanesh, Professor of Sustainable Tourism , Edith Cowan University",
     "link": "https://theconversation.com/using-ai-to-plan-your-next-holiday-sometimes-too-much-information-is-just-too-much-292686"
-  },
-  {
-    "titolo": "Started a GLP-1 drug like Ozempic or Mounjaro? Here’s what you need to know about nutrition",
-    "data": "2026-10-20T19:02:47Z",
-    "fonte": "English – The Conversation",
-    "autore": "Clare Collins, Laureate Professor in Nutrition and Dietetics, University of Newcastle",
-    "link": "https://theconversation.com/started-a-glp-1-drug-like-ozempic-or-mounjaro-heres-what-you-need-to-know-about-nutrition-275394"
   },
   {
     "titolo": "Cyberattaques : faut-il mettre en place un « contrôle technique cyber » pour les entreprises ?",
