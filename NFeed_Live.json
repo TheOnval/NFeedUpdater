@@ -140,39 +140,11 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004010"
   },
   {
-    "titolo": "Mapping the topographic organization of the human zona incerta using diffusion MRI",
+    "titolo": "The new paradox of women’s health research",
     "data": "Fri, 23 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "jonathan.c.lau@gmail.com (Violet Liu)",
-    "link": "https://elifesciences.org/articles/103530"
-  },
-  {
-    "titolo": "Large language models poorly capture how word order shapes representations of sentence meaning in the human brain",
-    "data": "Fri, 23 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "fods12@gmail.com (Shinsuke Suzuki)",
-    "link": "https://elifesciences.org/articles/108442"
-  },
-  {
-    "titolo": "An IL-21R STAT hypomorph circumvents functional redundancy in germinal centre responses",
-    "data": "Fri, 23 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "c.king@unsw.edu.au (Samantha Owens)",
-    "link": "https://elifesciences.org/articles/109834"
-  },
-  {
-    "titolo": "Modulation of human dorsal root ganglion neuron excitability by Nav1.7 inhibition",
-    "data": "Fri, 23 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "bruce_bean@hms.harvard.edu (Tomás Osorno)",
-    "link": "https://elifesciences.org/articles/111490"
-  },
-  {
-    "titolo": "Morphology and ultrastructure of pharyngeal sense organs of <i>Drosophila</i> larvae",
-    "data": "Fri, 23 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "vincent.richter@uni-leipzig.de (Vincent Richter)",
-    "link": "https://elifesciences.org/articles/108036"
+    "autore": "ursula.debarnot@univ-lyon1.fr (Ursula Debarnot)",
+    "link": "https://elifesciences.org/articles/113335"
   },
   {
     "titolo": "Correction: Targeted degradation of aberrant tau in frontotemporal dementia patient-derived neuronal cell models",
@@ -182,11 +154,25 @@
     "link": "https://elifesciences.org/articles/113533"
   },
   {
-    "titolo": "The new paradox of women’s health research",
+    "titolo": "Morphology and ultrastructure of pharyngeal sense organs of <i>Drosophila</i> larvae",
     "data": "Fri, 23 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "ursula.debarnot@univ-lyon1.fr (Ursula Debarnot)",
-    "link": "https://elifesciences.org/articles/113335"
+    "autore": "vincent.richter@uni-leipzig.de (Vincent Richter)",
+    "link": "https://elifesciences.org/articles/108036"
+  },
+  {
+    "titolo": "An IL-21R STAT hypomorph circumvents functional redundancy in germinal centre responses",
+    "data": "Fri, 23 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "c.king@unsw.edu.au (Samantha Owens)",
+    "link": "https://elifesciences.org/articles/109834"
+  },
+  {
+    "titolo": "Mapping the topographic organization of the human zona incerta using diffusion MRI",
+    "data": "Fri, 23 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "jonathan.c.lau@gmail.com (Violet Liu)",
+    "link": "https://elifesciences.org/articles/103530"
   },
   {
     "titolo": "<i>Mycobacterium tuberculosis</i> suppresses protective Th17 responses during infection",
@@ -194,6 +180,20 @@
     "fonte": "eLife: latest articles",
     "autore": "sastanley@berkeley.edu (Sarah A Stanley)",
     "link": "https://elifesciences.org/articles/110008"
+  },
+  {
+    "titolo": "Large language models poorly capture how word order shapes representations of sentence meaning in the human brain",
+    "data": "Fri, 23 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "fods12@gmail.com (Shinsuke Suzuki)",
+    "link": "https://elifesciences.org/articles/108442"
+  },
+  {
+    "titolo": "Modulation of human dorsal root ganglion neuron excitability by Nav1.7 inhibition",
+    "data": "Fri, 23 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "bruce_bean@hms.harvard.edu (Tomás Osorno)",
+    "link": "https://elifesciences.org/articles/111490"
   },
   {
     "titolo": "Motor unit mechanisms of speed control in mouse locomotion",
@@ -280,216 +280,6 @@
     "link": "http://pubmedsearches.blogspot.com/2025/01/united-kingdom-keywords-for-embase.html"
   },
   {
-    "titolo": "A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation",
-    "data": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Lihong He, Lucian Popa, Marina Danilevsky",
-    "link": "https://arxiv.org/abs/2610.28686"
-  },
-  {
-    "titolo": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
-    "data": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Kuan Zhang, Yukun Chen, Zhihao Yang, Yue Su, Xiangnan Wu, Zirong Chen, Run Luo, Jinkun Hou, Tao Tan, Yinhe Zheng, Yiming Li",
-    "link": "https://arxiv.org/abs/2610.28698"
-  },
-  {
-    "titolo": "SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery",
-    "data": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Ha Minh Hieu, Tongyao Zhu, Do Xuan Long, Min-Yen Kan",
-    "link": "https://arxiv.org/abs/2610.28706"
-  },
-  {
-    "titolo": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
-    "data": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Ming Zhong, Stacy Li, Nicholas Carlini, Matthew Jagielski",
-    "link": "https://arxiv.org/abs/2610.28763"
-  },
-  {
-    "titolo": "Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing",
-    "data": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Jingzhe Liu, Jiliang Tang, Tong Zhao, Neil Shah, Clark Mingxuan Ju",
-    "link": "https://arxiv.org/abs/2610.28815"
-  },
-  {
-    "titolo": "Decision language models as affordable and rapid alternatives to LLM judges of clinical generative AI",
-    "data": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Rotem Gershon, Seffi Cohen, Dean Ariel, Havatzelet Bilavsky-Yarden, Amiel Sberro, Shai Yitzhaki, Osnat Tausky, Naama Golan, Maayan Rabinovitch, Ariel Avraham Hasidim, Itay Arianu, Maya Dagan, Ran Balicer, Noa Dagan",
-    "link": "https://arxiv.org/abs/2610.28826"
-  },
-  {
-    "titolo": "Sketch2Sim: an end-to-end modular framework for hand-drawn circuit analysis",
-    "data": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Mohammad Kawsar, Al Amin Islam Ridoy, Md Rakib Hossain, Farzana Akter, AKM Bahalul Haque, Rejwan Bin Sulaiman, Mohammed Amin Almaiah",
-    "link": "https://arxiv.org/abs/2610.28836"
-  },
-  {
-    "titolo": "Speedrunning Relational Foundation Model Pretraining",
-    "data": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Gabriel Wedson Mendon\\c{c}a de Souza Veloso, Luan Borges Teodoro Reis Sena, Denis Oliveira Correa, Francisco Galuppo Azevedo",
-    "link": "https://arxiv.org/abs/2610.28855"
-  },
-  {
-    "titolo": "To Manipulate or Not: Opinion Dynamics in LLM Interactions",
-    "data": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Mohammad Siahkamari, Phuoc Dat Nguyen, Stephen MacNeil",
-    "link": "https://arxiv.org/abs/2610.28875"
-  },
-  {
-    "titolo": "Fig: Automated Multiagent Behavior Elicitor",
-    "data": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Anrui Gu, Zhichao Wang, Nicolai Ouporov",
-    "link": "https://arxiv.org/abs/2610.28891"
-  },
-  {
-    "titolo": "The Universal Law of Academic Capital: A Parameter-Unified Theory of Academic Integritology",
-    "data": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Yiguo Zhang, Ruiguang Wang, Xi Chen, Zhengwen Zhang",
-    "link": "https://arxiv.org/abs/2610.30153"
-  },
-  {
-    "titolo": "Dynamical-Model-Informed Stochastic Flow Matching for Global Probabilistic Subseasonal Forecasting of Means and Extremes",
-    "data": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Abdullah A. Fahad, Manmeet Singh",
-    "link": "https://arxiv.org/abs/2610.30159"
-  },
-  {
-    "titolo": "Evaporative Cooling and Secondary Combustion in a Liquid-Hydrocarbon Rotating Detonation Combustor with Dual-Purpose Head-End Injection",
-    "data": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Yongbin Zhu, Songbai Yao, Wenwu Zhang",
-    "link": "https://arxiv.org/abs/2610.30171"
-  },
-  {
-    "titolo": "GeoDiv KAN Solver for Time Fractional Navier Stokes Equations on Complex Domains to Realistic CFD Reconstruction",
-    "data": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Yatin Kumar, Shivani Saini, Ramesh Kumar Vats",
-    "link": "https://arxiv.org/abs/2610.30179"
-  },
-  {
-    "titolo": "Automated generation and execution of large-scale semidefinite programs for variational two-electron reduced density matrix theory",
-    "data": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "A. Eugene DePrince III, Nicholas C. Rubin",
-    "link": "https://arxiv.org/abs/2610.30278"
-  },
-  {
-    "titolo": "Plasma transport by carrier electrons: classical coefficients across ionization and magnetization",
-    "data": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "C. A. Walsh",
-    "link": "https://arxiv.org/abs/2610.30303"
-  },
-  {
-    "titolo": "Evolution of Jeans instability in nonthermal magnetized complex plasmas",
-    "data": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Dipankar Ray, Pralay Kumar Karmakar, Bharati Kakad, Amar Kakad",
-    "link": "https://arxiv.org/abs/2610.30332"
-  },
-  {
-    "titolo": "A novel mechanism for spontaneous ExB shear layer formation in scrape-off-layer plasmas",
-    "data": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Brendan Shanahan, Eduardo Rodriguez",
-    "link": "https://arxiv.org/abs/2610.30343"
-  },
-  {
-    "titolo": "Robust PCA Study of TEM Images of Gold Nanospheres: Stable and Dynamic Closed Knot-Like Phase-Space Loops",
-    "data": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Mehmet F. Yilmaz, Bekir Karlik",
-    "link": "https://arxiv.org/abs/2610.30367"
-  },
-  {
-    "titolo": "Foundry-Fabricated Silicon Nitride Grating Arrays with Uniform Power Distribution at Visible Wavelengths",
-    "data": "Fri, 23 Oct 2026 00:00:00 -0400",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Amged Alquliah, Xiaoxin Wang, Jifeng Liu, Anthony Rizzo",
-    "link": "https://arxiv.org/abs/2610.30387"
-  },
-  {
-    "titolo": "Dynamics of random recurrent neural networks: colored noise and sublinear activations",
-    "data": "2026-10-22T17:14:59Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Gonzalo Torroba",
-    "link": "https://arxiv.org/abs/2610.31575v1"
-  },
-  {
-    "titolo": "A Formalizable Proof of the No-Supervenience Theorem: A Diagonal Limitation on the Viability of Physicalist Theories of Consciousness",
-    "data": "2023-06-08T15:22:34Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Cathy M Reason",
-    "link": "https://arxiv.org/abs/2307.10178v3"
-  },
-  {
-    "titolo": "Music Between Two Minds: Individual Signatures, Shared States, and the Emergence of Creative Interaction",
-    "data": "2026-10-22T11:51:21Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Yasuo Kuniyoshi",
-    "link": "https://arxiv.org/abs/2610.31131v1"
-  },
-  {
-    "titolo": "Gate-Based Feature Importance in Simulation-Based Inference for EEG: A Cautionary Tale",
-    "data": "2026-10-21T19:28:20Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Nico Scherf",
-    "link": "https://arxiv.org/abs/2610.30364v1"
-  },
-  {
-    "titolo": "The medium is the message: How neurometabolic entanglement generates conscious experience",
-    "data": "2026-10-21T16:02:54Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Michael Jacob",
-    "link": "https://arxiv.org/abs/2610.30217v1"
-  },
-  {
-    "titolo": "Bio-Inspired Auditory Processing: Coupling Parallel Resonate-and-Fire Dynamics with Ternary Recurrent Networks for Speech Recognition",
-    "data": "2026-10-21T13:29:46Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Costas A. Anastassiou",
-    "link": "https://arxiv.org/abs/2610.29720v1"
-  },
-  {
-    "titolo": "Bootstrapping Life-Inspired Machine Intelligence: The Biological Route from Chemistry to Cognition and Creativity",
-    "data": "2026-02-08T18:48:55Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Michael Levin",
-    "link": "https://arxiv.org/abs/2602.08079v3"
-  },
-  {
-    "titolo": "Distinct weak antisymmetric interactions shape human brain functions as probability fluxes",
-    "data": "2025-08-28T16:19:58Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Shin Fujishiro",
-    "link": "https://arxiv.org/abs/2508.20961v3"
-  },
-  {
-    "titolo": "Adaptive Entangled Neurons in the Brain and Natural Intelligence Simulations for Artificial General Intelligence",
-    "data": "2026-09-07T09:44:12Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Leilei Shi",
-    "link": "https://arxiv.org/abs/2609.09226v2"
-  },
-  {
-    "titolo": "Word-Class and Construction-Like Structure Emerges in Neural Successor Representations Trained on Natural Language",
-    "data": "2026-05-23T13:55:09Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Patrick Krauss",
-    "link": "https://arxiv.org/abs/2605.24585v3"
-  },
-  {
     "titolo": "Reducing Catastrophic Risk from AI with Systematic Monitoring and Evaluation of Rogue AI Progression",
     "data": "2026-09-02T22:13:24Z",
     "fonte": "arXiv Query: search_query=au:\"Bengio Y\"&id_list=&start=0&max_results=100",
@@ -574,11 +364,18 @@
     "link": "https://arxiv.org/abs/1608.00750v1"
   },
   {
-    "titolo": "Comparing Dynamics: Deep Neural Networks versus Glassy Systems",
-    "data": "2018-03-19T14:59:01Z",
-    "fonte": "arXiv Query: search_query=au:\"LeCun Y\"&id_list=&start=0&max_results=100",
-    "autore": "G. Biroli",
-    "link": "https://arxiv.org/abs/1803.06969v2"
+    "titolo": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
+    "data": "Fri, 23 Oct 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168664"
+  },
+  {
+    "titolo": "Blood brothers: WHO chief joins ENHYPEN to celebrate drive success",
+    "data": "Fri, 23 Oct 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168662"
   },
   {
     "titolo": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
@@ -635,20 +432,6 @@
     "fonte": "UN News - Global perspective Human stories",
     "autore": "Anonimo",
     "link": "https://news.un.org/feed/view/en/story/2026/10/1168651"
-  },
-  {
-    "titolo": "Mothers get nearly eight times more paid leave than fathers – and women pay the price",
-    "data": "Thu, 22 Oct 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168650"
-  },
-  {
-    "titolo": "DR Congo: Ebola responders under pressure as outbreak expands",
-    "data": "Thu, 22 Oct 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168647"
   },
   {
     "titolo": "Is a Chinese Implosion Looming?",
@@ -1421,6 +1204,13 @@
     "link": "https://theconversation.com/wild-fish-are-a-precious-resource-heres-how-aquaculture-can-bolster-food-security-276701"
   },
   {
+    "titolo": "Boo! Feeling scared on Halloween can be fun for children but can sometimes push their limits",
+    "data": "2026-10-23T23:59:07Z",
+    "fonte": "The Conversation – Articles (US)",
+    "autore": "Liz Rosenberg, Professor of English, General Literature and Rhetoric, Binghamton University, State University of New York",
+    "link": "https://theconversation.com/boo-feeling-scared-on-halloween-can-be-fun-for-children-but-can-sometimes-push-their-limits-294433"
+  },
+  {
     "titolo": "Ancestors all around – millions of dead people linger in Americans’ memories",
     "data": "2026-10-23T19:42:58Z",
     "fonte": "The Conversation – Articles (US)",
@@ -1482,13 +1272,6 @@
     "fonte": "The Conversation – Articles (US)",
     "autore": "Anat Lior, Assistant Professor of Law, Drexel University",
     "link": "https://theconversation.com/an-ai-models-false-tip-to-philadelphia-police-reveals-how-digital-agents-can-do-as-theyre-told-and-still-cause-trouble-294228"
-  },
-  {
-    "titolo": "Offering cash for votes is quite common – but here’s why it doesn’t work",
-    "data": "2026-10-21T12:47:55Z",
-    "fonte": "The Conversation – Articles (US)",
-    "autore": "Kenneth Greene, Professor of Government, The University of Texas at Austin",
-    "link": "https://theconversation.com/offering-cash-for-votes-is-quite-common-but-heres-why-it-doesnt-work-293259"
   },
   {
     "titolo": "World Cup 2026 quiz",
@@ -1561,6 +1344,13 @@
     "link": "https://theconversation.com/is-childproofing-the-internet-constitutional-a-tech-law-expert-draws-out-the-issues-240430"
   },
   {
+    "titolo": "Boo! Feeling scared on Halloween can be fun for children but can sometimes push their limits",
+    "data": "2026-10-23T23:59:07Z",
+    "fonte": "English – The Conversation",
+    "autore": "Liz Rosenberg, Professor of English, General Literature and Rhetoric, Binghamton University, State University of New York",
+    "link": "https://theconversation.com/boo-feeling-scared-on-halloween-can-be-fun-for-children-but-can-sometimes-push-their-limits-294433"
+  },
+  {
     "titolo": "Ancestors all around – millions of dead people linger in Americans’ memories",
     "data": "2026-10-23T19:42:58Z",
     "fonte": "English – The Conversation",
@@ -1622,13 +1412,6 @@
     "fonte": "English – The Conversation",
     "autore": "James Sunderland, Research Fellow, The Woolf Institute, University of Cambridge",
     "link": "https://theconversation.com/two-small-arab-parties-may-decide-israels-election-294182"
-  },
-  {
-    "titolo": "How El Niño could push up your mortgage and grocery bills",
-    "data": "2026-10-23T13:54:10Z",
-    "fonte": "English – The Conversation",
-    "autore": "Narmin Nahidi, Assistant Professor in Finance, University of Exeter",
-    "link": "https://theconversation.com/how-el-nino-could-push-up-your-mortgage-and-grocery-bills-294378"
   },
   {
     "titolo": "Pourquoi un matériau est-il beaucoup plus « costaud » à petite qu’à grande échelle ?",
