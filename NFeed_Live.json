@@ -140,13 +140,6 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004010"
   },
   {
-    "titolo": "Correction: Targeted degradation of aberrant tau in frontotemporal dementia patient-derived neuronal cell models",
-    "data": "Fri, 23 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "Anonimo",
-    "link": "https://elifesciences.org/articles/113533"
-  },
-  {
     "titolo": "The new paradox of women’s health research",
     "data": "Fri, 23 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -154,18 +147,11 @@
     "link": "https://elifesciences.org/articles/113335"
   },
   {
-    "titolo": "Mapping the topographic organization of the human zona incerta using diffusion MRI",
+    "titolo": "Modulation of human dorsal root ganglion neuron excitability by Nav1.7 inhibition",
     "data": "Fri, 23 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "jonathan.c.lau@gmail.com (Violet Liu)",
-    "link": "https://elifesciences.org/articles/103530"
-  },
-  {
-    "titolo": "An IL-21R STAT hypomorph circumvents functional redundancy in germinal centre responses",
-    "data": "Fri, 23 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "c.king@unsw.edu.au (Samantha Owens)",
-    "link": "https://elifesciences.org/articles/109834"
+    "autore": "bruce_bean@hms.harvard.edu (Tomás Osorno)",
+    "link": "https://elifesciences.org/articles/111490"
   },
   {
     "titolo": "Morphology and ultrastructure of pharyngeal sense organs of <i>Drosophila</i> larvae",
@@ -182,6 +168,20 @@
     "link": "https://elifesciences.org/articles/110008"
   },
   {
+    "titolo": "An IL-21R STAT hypomorph circumvents functional redundancy in germinal centre responses",
+    "data": "Fri, 23 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "c.king@unsw.edu.au (Samantha Owens)",
+    "link": "https://elifesciences.org/articles/109834"
+  },
+  {
+    "titolo": "Correction: Targeted degradation of aberrant tau in frontotemporal dementia patient-derived neuronal cell models",
+    "data": "Fri, 23 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "Anonimo",
+    "link": "https://elifesciences.org/articles/113533"
+  },
+  {
     "titolo": "Large language models poorly capture how word order shapes representations of sentence meaning in the human brain",
     "data": "Fri, 23 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -189,18 +189,11 @@
     "link": "https://elifesciences.org/articles/108442"
   },
   {
-    "titolo": "Modulation of human dorsal root ganglion neuron excitability by Nav1.7 inhibition",
+    "titolo": "Mapping the topographic organization of the human zona incerta using diffusion MRI",
     "data": "Fri, 23 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "bruce_bean@hms.harvard.edu (Tomás Osorno)",
-    "link": "https://elifesciences.org/articles/111490"
-  },
-  {
-    "titolo": "Motor unit mechanisms of speed control in mouse locomotion",
-    "data": "Thu, 22 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "samuel.j.sober@emory.edu (Samuel J Sober)",
-    "link": "https://elifesciences.org/articles/105829"
+    "autore": "jonathan.c.lau@gmail.com (Violet Liu)",
+    "link": "https://elifesciences.org/articles/103530"
   },
   {
     "titolo": "Olfactory combinatorial coding supports risk–reward decision-making in <i>Caenorhabditis elegans</i>",
@@ -208,6 +201,13 @@
     "fonte": "eLife: latest articles",
     "autore": "bruce.bamber@utoledo.edu (William G Ryan)",
     "link": "https://elifesciences.org/articles/104828"
+  },
+  {
+    "titolo": "Motor unit mechanisms of speed control in mouse locomotion",
+    "data": "Thu, 22 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "samuel.j.sober@emory.edu (Samuel J Sober)",
+    "link": "https://elifesciences.org/articles/105829"
   },
   {
     "titolo": "Skin conditions and symptoms  -- EMBASE via embase.com",
@@ -1421,6 +1421,27 @@
     "link": "https://theconversation.com/is-childproofing-the-internet-constitutional-a-tech-law-expert-draws-out-the-issues-240430"
   },
   {
+    "titolo": "Zimbabwe wants digital payments to build trust in its newest currency. Why technology alone won’t be enough to save the ZiG",
+    "data": "2026-10-25T06:10:34Z",
+    "fonte": "English – The Conversation",
+    "autore": "Jonathan Munemo, Professor of Economics, Salisbury University",
+    "link": "https://theconversation.com/zimbabwe-wants-digital-payments-to-build-trust-in-its-newest-currency-why-technology-alone-wont-be-enough-to-save-the-zig-294769"
+  },
+  {
+    "titolo": "What gets fact-checked? How politics shapes the answer in four African countries",
+    "data": "2026-10-25T06:10:13Z",
+    "fonte": "English – The Conversation",
+    "autore": "Masaki Magack, Teaching Associate in Communication, Culture & Media Studies, Howard University",
+    "link": "https://theconversation.com/what-gets-fact-checked-how-politics-shapes-the-answer-in-four-african-countries-293964"
+  },
+  {
+    "titolo": "Whose vision of development counts? South Africa’s Amadiba communities made maps of what matters",
+    "data": "2026-10-25T06:09:49Z",
+    "fonte": "English – The Conversation",
+    "autore": "Hali Healy, Research Fellow in the School of Geography, Earth and Environmental Sciences, University of Birmingham",
+    "link": "https://theconversation.com/whose-vision-of-development-counts-south-africas-amadiba-communities-made-maps-of-what-matters-290034"
+  },
+  {
     "titolo": "Boo! Feeling scared on Halloween can be fun for children but can sometimes push their limits",
     "data": "2026-10-23T23:59:07Z",
     "fonte": "English – The Conversation",
@@ -1470,25 +1491,11 @@
     "link": "https://theconversation.com/clayface-tries-to-tap-into-the-success-of-body-horror-but-cant-reach-the-genres-gory-depths-295092"
   },
   {
-    "titolo": "Why ultra-Orthodox parties hold so much sway in Israeli politics",
-    "data": "2026-10-23T14:52:34Z",
-    "fonte": "English – The Conversation",
-    "autore": "Hannah Ridge, Assistant Professor of Political Science, Chapman University; Institute for Humane Studies",
-    "link": "https://theconversation.com/why-ultra-orthodox-parties-hold-so-much-sway-in-israeli-politics-294218"
-  },
-  {
-    "titolo": "London Film Festival round-up: a five-star weepie, a sweeping Spanish epic and a misspent youth in post-punk Manchester",
-    "data": "2026-10-23T14:23:13Z",
-    "fonte": "English – The Conversation",
-    "autore": "Louis Bayman, Associate Professor in Department of Film Studies, University of Southampton",
-    "link": "https://theconversation.com/london-film-festival-round-up-a-five-star-weepie-a-sweeping-spanish-epic-and-a-misspent-youth-in-post-punk-manchester-294926"
-  },
-  {
-    "titolo": "Two small Arab parties may decide Israel’s election",
-    "data": "2026-10-23T14:11:46Z",
-    "fonte": "English – The Conversation",
-    "autore": "James Sunderland, Research Fellow, The Woolf Institute, University of Cambridge",
-    "link": "https://theconversation.com/two-small-arab-parties-may-decide-israels-election-294182"
+    "titolo": "Pour mieux anticiper les séismes en France, garder la mémoire des précédents",
+    "data": "2026-10-25T07:06:48Z",
+    "fonte": "Science – The Conversation",
+    "autore": "Yoann Legendre, Géologue des environnements volcaniques au BRGM",
+    "link": "https://theconversation.com/pour-mieux-anticiper-les-seismes-en-france-garder-la-memoire-des-precedents-294528"
   },
   {
     "titolo": "Pourquoi un matériau est-il beaucoup plus « costaud » à petite qu’à grande échelle ?",
@@ -1552,12 +1559,5 @@
     "fonte": "Science – The Conversation",
     "autore": "Léna Rousseau, Postdoctoral fellow, UniLaSalle",
     "link": "https://theconversation.com/pourquoi-les-petits-chiens-vivent-ils-plus-longtemps-que-les-grands-290979"
-  },
-  {
-    "titolo": "« Si l’élection avait lieu dimanche prochain… » : une méthodologie contestable au cœur des sondages",
-    "data": "2026-10-13T16:07:46Z",
-    "fonte": "Science – The Conversation",
-    "autore": "Léo Gerville-Réache, Modélisation statistique, Université de Bordeaux",
-    "link": "https://theconversation.com/si-lelection-avait-lieu-dimanche-prochain-une-methodologie-contestable-au-coeur-des-sondages-291909"
   }
 ]
