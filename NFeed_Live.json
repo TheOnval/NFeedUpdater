@@ -140,39 +140,11 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004079"
   },
   {
-    "titolo": "Lateral opening site of human oligopeptide transporter 2 plays a key role in the interaction with polymyxins",
-    "data": "Thu, 29 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "fanfan.zhou@sydney.edu.au (Yining Luo)",
-    "link": "https://elifesciences.org/articles/111387"
-  },
-  {
-    "titolo": "Molecular and functional analysis of calcium binding by a cancer-linked calreticulin mutant",
-    "data": "Thu, 29 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "malinir@umich.edu (Osbourne Quaye)",
-    "link": "https://elifesciences.org/articles/109647"
-  },
-  {
     "titolo": "Synthetic auxotrophy reveals metabolic regulation of plasma cell generation, affinity maturation, and cytokine receptor signaling",
     "data": "Thu, 29 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
     "autore": "sung.hoon.cho@emory.edu (Yeeun Paik)",
     "link": "https://elifesciences.org/articles/107627"
-  },
-  {
-    "titolo": "Whole-brain mapping of spinal-projecting neurons in larval zebrafish",
-    "data": "Thu, 29 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "martincarbotano@proton.me (Tom Welch)",
-    "link": "https://elifesciences.org/articles/112062"
-  },
-  {
-    "titolo": "Lymphatic vessels under pressure",
-    "data": "Thu, 29 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "Osama.Harraz@uvm.edu (Osama F Harraz)",
-    "link": "https://elifesciences.org/articles/113304"
   },
   {
     "titolo": "Revealing the benefit of eye motion for acuity under emulated cone loss",
@@ -182,6 +154,34 @@
     "link": "https://elifesciences.org/articles/111289"
   },
   {
+    "titolo": "Lateral opening site of human oligopeptide transporter 2 plays a key role in the interaction with polymyxins",
+    "data": "Thu, 29 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "fanfan.zhou@sydney.edu.au (Yining Luo)",
+    "link": "https://elifesciences.org/articles/111387"
+  },
+  {
+    "titolo": "Lymphatic vessels under pressure",
+    "data": "Thu, 29 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "Osama.Harraz@uvm.edu (Osama F Harraz)",
+    "link": "https://elifesciences.org/articles/113304"
+  },
+  {
+    "titolo": "Whole-brain mapping of spinal-projecting neurons in larval zebrafish",
+    "data": "Thu, 29 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "martincarbotano@proton.me (Tom Welch)",
+    "link": "https://elifesciences.org/articles/112062"
+  },
+  {
+    "titolo": "Molecular and functional analysis of calcium binding by a cancer-linked calreticulin mutant",
+    "data": "Thu, 29 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "malinir@umich.edu (Osbourne Quaye)",
+    "link": "https://elifesciences.org/articles/109647"
+  },
+  {
     "titolo": "Out-of-balance growth enables cost-free synthesis of the flagellum and other proteins in a single bacterium",
     "data": "Wed, 28 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -189,11 +189,11 @@
     "link": "https://elifesciences.org/articles/110747"
   },
   {
-    "titolo": "Structural insights into peptidoglycan hydrolysis by the FtsEX system in <i>Escherichia coli</i> during cell division",
+    "titolo": "Loose coupling between Ca<sup>2+</sup> channels and release sensors as a synaptic correlate of higher-order brain function",
     "data": "Wed, 28 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "dbslmin@nus.edu.sg (Yutong He)",
-    "link": "https://elifesciences.org/articles/94336"
+    "autore": "Hartmut.Schmidt@medizin.uni-leipzig.de (Simone Brachtendorf)",
+    "link": "https://elifesciences.org/articles/110314"
   },
   {
     "titolo": "Plasticity associated with adoption of social roles in clown anemonefish",
@@ -203,11 +203,11 @@
     "link": "https://elifesciences.org/articles/109871"
   },
   {
-    "titolo": "Loose coupling between Ca<sup>2+</sup> channels and release sensors as a synaptic correlate of higher-order brain function",
+    "titolo": "Structural insights into peptidoglycan hydrolysis by the FtsEX system in <i>Escherichia coli</i> during cell division",
     "data": "Wed, 28 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "Hartmut.Schmidt@medizin.uni-leipzig.de (Simone Brachtendorf)",
-    "link": "https://elifesciences.org/articles/110314"
+    "autore": "dbslmin@nus.edu.sg (Yutong He)",
+    "link": "https://elifesciences.org/articles/94336"
   },
   {
     "titolo": "Skin conditions and symptoms  -- EMBASE via embase.com",
@@ -278,6 +278,76 @@
     "fonte": "PubMed Search Strategies",
     "autore": "Cindy Schmidt, M.D., M.L.S. (noreply@blogger.com)",
     "link": "http://pubmedsearches.blogspot.com/2025/01/united-kingdom-keywords-for-embase.html"
+  },
+  {
+    "titolo": "A Low-Rank Space Captures Linear Alignment Between LLM and Human Neural Activity During Naturalistic Language Listening",
+    "data": "2026-10-29T17:23:44Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Emily Finn",
+    "link": "https://arxiv.org/abs/2610.40511v1"
+  },
+  {
+    "titolo": "pyAvalanches: A Python Package for Analyzing Spatiotemporal Propagation in Neuronal Avalanches",
+    "data": "2026-09-10T13:30:14Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "M. -C. Corsi",
+    "link": "https://arxiv.org/abs/2609.11530v2"
+  },
+  {
+    "titolo": "Latent Prediction Yields Cross-Subject Alignable Representations in Sensory-Evoked fMRI",
+    "data": "2026-10-29T15:33:41Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Tim Kietzmann",
+    "link": "https://arxiv.org/abs/2610.40280v1"
+  },
+  {
+    "titolo": "Emergent topological structure in spontaneous brain-organoid activity",
+    "data": "2026-07-17T21:36:54Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Lincoln D. Carr",
+    "link": "https://arxiv.org/abs/2607.16517v2"
+  },
+  {
+    "titolo": "Prospective Coding and Path Integration Emerge as Equilibrium Solutions of Self-Organizing Neural Networks with Firing-Rate Adaptation",
+    "data": "2026-06-12T17:11:29Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Emilio Kropff",
+    "link": "https://arxiv.org/abs/2606.14649v3"
+  },
+  {
+    "titolo": "Recognition of auditory objects from continuous and ultra-sparse spike streams in neuromorphic devices",
+    "data": "2026-10-28T09:58:41Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Dezhe Z. Jin",
+    "link": "https://arxiv.org/abs/2610.38564v1"
+  },
+  {
+    "titolo": "REVBRAIN: Real-time Probabilistic EEG Forecasting Using Residual Vector Quantization",
+    "data": "2026-10-28T09:53:55Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Timo Roine",
+    "link": "https://arxiv.org/abs/2610.38558v1"
+  },
+  {
+    "titolo": "Data Amount Heterogeneity Improves Performance in Federated Learning for Neuroimaging",
+    "data": "2026-10-28T02:22:24Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Jose Luis Ambite",
+    "link": "https://arxiv.org/abs/2610.38172v1"
+  },
+  {
+    "titolo": "Solitary movement style predicts collective foraging while whom to follow emerges only in company",
+    "data": "2026-10-27T21:13:45Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Hiroshi Higashi",
+    "link": "https://arxiv.org/abs/2610.37978v1"
+  },
+  {
+    "titolo": "Working Memory with Polychronous Chains",
+    "data": "2026-04-15T17:12:55Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Laurent U Perrinet",
+    "link": "https://arxiv.org/abs/2604.14096v3"
   },
   {
     "titolo": "Reducing Catastrophic Risk from AI with Systematic Monitoring and Evaluation of Rogue AI Progression",
@@ -651,6 +721,13 @@
     "link": "https://cepr.org/research/programme-areas/international-macroeconomics"
   },
   {
+    "titolo": "‘What we leave behind is not as important as how we’ve lived’: remembering actor Patrick Stewart",
+    "data": "2026-10-30T01:15:11Z",
+    "fonte": "Arts + Culture – The Conversation",
+    "autore": "Chris Comerford, Senior Lecturer in Communication and Media, University of Wollongong",
+    "link": "https://theconversation.com/what-we-leave-behind-is-not-as-important-as-how-weve-lived-remembering-actor-patrick-stewart-295542"
+  },
+  {
     "titolo": "A wise woman who turned fish eggs into beasts: meet an ancient witch from Mesopotamia",
     "data": "2026-10-29T19:13:05Z",
     "fonte": "Arts + Culture – The Conversation",
@@ -714,11 +791,11 @@
     "link": "https://theconversation.com/could-thoughtful-ai-art-counter-the-rise-of-ai-slop-why-creatives-today-face-a-paradox-294117"
   },
   {
-    "titolo": "Verbatim theatre uses the real words of real people. But can an edited truth ever be real?",
-    "data": "2026-10-18T23:43:45Z",
-    "fonte": "Arts + Culture – The Conversation",
-    "autore": "David Simes, Teaching Assistant and Researcher, Te Whare Ngangahau – Theatre and Performance Studies, Te Herenga Waka — Victoria University of Wellington",
-    "link": "https://theconversation.com/verbatim-theatre-uses-the-real-words-of-real-people-but-can-an-edited-truth-ever-be-real-293943"
+    "titolo": "Knocking on strangers’ doors? How to help your kids have a safe Halloween",
+    "data": "2026-10-30T02:13:30Z",
+    "fonte": "Education – The Conversation",
+    "autore": "Bianca Albanese, Postdoctoral Fellow, Neuroscience Research Australia",
+    "link": "https://theconversation.com/knocking-on-strangers-doors-how-to-help-your-kids-have-a-safe-halloween-295356"
   },
   {
     "titolo": "Halloween is typically a massive lolly fest for kids – but it doesn’t have to be",
@@ -784,11 +861,11 @@
     "link": "https://theconversation.com/not-enjoying-being-a-parent-youre-not-alone-heres-how-to-handle-this-complicated-feeling-294455"
   },
   {
-    "titolo": "Many Indigenous people now study and teach at Australian universities – but they are still excluded",
-    "data": "2026-10-19T19:16:13Z",
-    "fonte": "Education – The Conversation",
-    "autore": "Tristan Kennedy, Deputy Vice-Chancellor (Indigenous) and Senior Vice-President, Monash University",
-    "link": "https://theconversation.com/many-indigenous-people-now-study-and-teach-at-australian-universities-but-they-are-still-excluded-294240"
+    "titolo": "Looking for bats after dark can help science – and change how we see them",
+    "data": "2026-10-30T05:00:16Z",
+    "fonte": "Environment + Energy – The Conversation",
+    "autore": "Trish Fleming, Professor, Wildlife Conservation, Murdoch University",
+    "link": "https://theconversation.com/looking-for-bats-after-dark-can-help-science-and-change-how-we-see-them-294468"
   },
   {
     "titolo": "Flying-foxes are starving. Why are we still responding one crisis at a time?",
@@ -854,11 +931,25 @@
     "link": "https://theconversation.com/while-some-eucalypts-are-hard-to-kill-climate-change-may-test-the-ability-of-others-to-survive-293533"
   },
   {
-    "titolo": "Snowy 2.0 was never going to be cheap. But it will be much cheaper than relying on batteries for storage",
-    "data": "2026-10-23T02:39:57Z",
-    "fonte": "Environment + Energy – The Conversation",
-    "autore": "Andrew Blakers, Professor of Engineering, Australian National University",
-    "link": "https://theconversation.com/snowy-2-0-was-never-going-to-be-cheap-but-it-will-be-much-cheaper-than-relying-on-batteries-for-storage-294949"
+    "titolo": "View from The Hill: Albanese puts cat among One Nation pigeons with staff offer",
+    "data": "2026-10-30T05:40:48Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Michelle Grattan, Professorial Fellow, University of Canberra",
+    "link": "https://theconversation.com/view-from-the-hill-albanese-puts-cat-among-one-nation-pigeons-with-staff-offer-294861"
+  },
+  {
+    "titolo": "‘Uncontrolled warrior culture’: Australia’s special forces under fire in new inquiry",
+    "data": "2026-10-30T01:24:46Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Paul Taucher, Lecturer in History, Fellow Indo-Pacific Research Centre, Murdoch University",
+    "link": "https://theconversation.com/uncontrolled-warrior-culture-australias-special-forces-under-fire-in-new-inquiry-295438"
+  },
+  {
+    "titolo": "Mushroom murderer Erin Patterson has lost her appeal and received a harsher sentence. Legal experts explain why",
+    "data": "2026-10-30T01:00:49Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Natalia Antolak-Saper, Associate professor, Monash University",
+    "link": "https://theconversation.com/mushroom-murderer-erin-patterson-has-lost-her-appeal-and-received-a-harsher-sentence-legal-experts-explain-why-291355"
   },
   {
     "titolo": "Buried cats, exorcisms and a sunken Colonel Sanders – the strange world of sporting curses",
@@ -910,25 +1001,53 @@
     "link": "https://theconversation.com/youre-supposed-to-turn-bluetooth-off-when-you-dont-need-it-how-risky-is-it-really-293806"
   },
   {
-    "titolo": "Parents have one of Australia’s most important jobs, so why don’t we have policy for them?",
-    "data": "2026-10-28T04:49:43Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "Daryl Higgins, Professor & Director, Institute of Child Protection Studies, Australian Catholic University",
-    "link": "https://theconversation.com/parents-have-one-of-australias-most-important-jobs-so-why-dont-we-have-policy-for-them-293334"
+    "titolo": "View from The Hill: Albanese puts cat among One Nation pigeons with staff offer",
+    "data": "2026-10-30T05:40:48Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Michelle Grattan, Professorial Fellow, University of Canberra",
+    "link": "https://theconversation.com/view-from-the-hill-albanese-puts-cat-among-one-nation-pigeons-with-staff-offer-294861"
   },
   {
-    "titolo": "Israel has voted – but the results will be messy. Here’s how its next government will be formed",
-    "data": "2026-10-28T03:21:53Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "Ran Porat, Affiliate Researcher, The Australian Centre for Jewish Civilisation, Monash University",
-    "link": "https://theconversation.com/israel-has-voted-but-the-results-will-be-messy-heres-how-its-next-government-will-be-formed-295164"
+    "titolo": "Looking for bats after dark can help science – and change how we see them",
+    "data": "2026-10-30T05:00:16Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Trish Fleming, Professor, Wildlife Conservation, Murdoch University",
+    "link": "https://theconversation.com/looking-for-bats-after-dark-can-help-science-and-change-how-we-see-them-294468"
   },
   {
-    "titolo": "Most New Zealanders worry about AI’s risks, even as many expect to use it – new survey",
-    "data": "2026-10-27T21:13:25Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "Karaitiana Taiuru, Māori AI and digital governance expert, Indigenous Knowledge",
-    "link": "https://theconversation.com/most-new-zealanders-worry-about-ais-risks-even-as-many-expect-to-use-it-new-survey-294573"
+    "titolo": "Knocking on strangers’ doors? How to help your kids have a safe Halloween",
+    "data": "2026-10-30T02:13:30Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Bianca Albanese, Postdoctoral Fellow, Neuroscience Research Australia",
+    "link": "https://theconversation.com/knocking-on-strangers-doors-how-to-help-your-kids-have-a-safe-halloween-295356"
+  },
+  {
+    "titolo": "‘Uncontrolled warrior culture’: Australia’s special forces under fire in new inquiry",
+    "data": "2026-10-30T01:24:46Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Paul Taucher, Lecturer in History, Fellow Indo-Pacific Research Centre, Murdoch University",
+    "link": "https://theconversation.com/uncontrolled-warrior-culture-australias-special-forces-under-fire-in-new-inquiry-295438"
+  },
+  {
+    "titolo": "‘What we leave behind is not as important as how we’ve lived’: remembering actor Patrick Stewart",
+    "data": "2026-10-30T01:15:11Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Chris Comerford, Senior Lecturer in Communication and Media, University of Wollongong",
+    "link": "https://theconversation.com/what-we-leave-behind-is-not-as-important-as-how-weve-lived-remembering-actor-patrick-stewart-295542"
+  },
+  {
+    "titolo": "Mushroom murderer Erin Patterson has lost her appeal and received a harsher sentence. Legal experts explain why",
+    "data": "2026-10-30T01:00:49Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Natalia Antolak-Saper, Associate professor, Monash University",
+    "link": "https://theconversation.com/mushroom-murderer-erin-patterson-has-lost-her-appeal-and-received-a-harsher-sentence-legal-experts-explain-why-291355"
+  },
+  {
+    "titolo": "Josh Frydenberg’s autobiography might be one of the longest job applications in history",
+    "data": "2026-10-30T00:59:04Z",
+    "fonte": "Home – The Conversation",
+    "autore": "John Hawkins, Senior lecturer, Canberra School of Government, University of Canberra",
+    "link": "https://theconversation.com/josh-frydenbergs-autobiography-might-be-one-of-the-longest-job-applications-in-history-294662"
   },
   {
     "titolo": "Buried cats, exorcisms and a sunken Colonel Sanders – the strange world of sporting curses",
@@ -952,53 +1071,18 @@
     "link": "https://theconversation.com/flying-foxes-are-starving-why-are-we-still-responding-one-crisis-at-a-time-295339"
   },
   {
-    "titolo": "Halloween is typically a massive lolly fest for kids – but it doesn’t have to be",
-    "data": "2026-10-29T19:12:14Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Margaret Murray, Senior Lecturer, Nutrition, Swinburne University of Technology",
-    "link": "https://theconversation.com/halloween-is-typically-a-massive-lolly-fest-for-kids-but-it-doesnt-have-to-be-295246"
+    "titolo": "Wicker and the rise of the ‘monster romance’: why audiences are falling for the non-human",
+    "data": "2026-10-30T09:26:43Z",
+    "fonte": "The Conversation – Articles (UK)",
+    "autore": "Natalie Wall, PhD Candidate in English Literature, University of Liverpool",
+    "link": "https://theconversation.com/wicker-and-the-rise-of-the-monster-romance-why-audiences-are-falling-for-the-non-human-292147"
   },
   {
-    "titolo": "Friday essay: forget Big Brother, propaganda is now a form of hybrid warfare",
-    "data": "2026-10-29T19:11:35Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Jane Goodall, Emeritus Professor, Writing and Society Research Centre, Western Sydney University",
-    "link": "https://theconversation.com/friday-essay-forget-big-brother-propaganda-is-now-a-form-of-hybrid-warfare-294454"
-  },
-  {
-    "titolo": "Labor came to power promising a big care agenda. Four years on, how has it fared?",
-    "data": "2026-10-29T19:10:28Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Joshua Black, Lecturer in Australian Political Studies, Vice-Chancellor's Centre of Public Ideas, University of Canberra",
-    "link": "https://theconversation.com/labor-came-to-power-promising-a-big-care-agenda-four-years-on-how-has-it-fared-294054"
-  },
-  {
-    "titolo": "Using ChatGPT before a medical appointment? How to get the best support for your health questions",
-    "data": "2026-10-29T19:10:06Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Liliana Laranjo, Senior Lecturer in Digital Health and Community and Primary Health Care Practice, University of Sydney",
-    "link": "https://theconversation.com/using-chatgpt-before-a-medical-appointment-how-to-get-the-best-support-for-your-health-questions-294051"
-  },
-  {
-    "titolo": "After three years of relentless reform, what lies beyond the election for education?",
-    "data": "2026-10-29T17:26:26Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Adrian Schoone, Associate Professor, School of Education, Auckland University of Technology",
-    "link": "https://theconversation.com/after-three-years-of-relentless-reform-what-lies-beyond-the-election-for-education-293794"
-  },
-  {
-    "titolo": "Grattan on Friday: an embattled government tells Australians the pain they feel won’t end any time soon",
-    "data": "2026-10-29T06:55:54Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Michelle Grattan, Professorial Fellow, University of Canberra",
-    "link": "https://theconversation.com/grattan-on-friday-an-embattled-government-tells-australians-the-pain-they-feel-wont-end-any-time-soon-294862"
-  },
-  {
-    "titolo": "Is high-speed rail generally safe? What can Australia learn from Spain’s accident?",
-    "data": "2026-10-29T05:03:10Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Colin Cole, Director - Centre for Railway Engineering, CQUniversity Australia",
-    "link": "https://theconversation.com/is-high-speed-rail-generally-safe-what-can-australia-learn-from-spains-accident-295442"
+    "titolo": "Election special: deadlock in Israel, regime change in Serbia, US midterms",
+    "data": "2026-10-30T08:01:32Z",
+    "fonte": "The Conversation – Articles (UK)",
+    "autore": "Jonathan Este, Senior International Affairs Editor, Associate Editor, The Conversation",
+    "link": "https://theconversation.com/election-special-deadlock-in-israel-regime-change-in-serbia-us-midterms-295485"
   },
   {
     "titolo": "The Black designers redefining British fashion by drawing on their own heritage, culture and history",
@@ -1055,20 +1139,6 @@
     "fonte": "The Conversation – Articles (UK)",
     "autore": "Eoin McLaughlin, Professor in Economics, University College Cork",
     "link": "https://theconversation.com/70-years-ago-the-suez-crisis-exposed-british-relative-decline-today-the-iran-conflict-could-be-doing-the-same-for-the-us-292833"
-  },
-  {
-    "titolo": "Why Donald Trump’s foreign policy could cost Republicans in the midterm elections",
-    "data": "2026-10-29T13:18:56Z",
-    "fonte": "The Conversation – Articles (UK)",
-    "autore": "Andrew Payne, Senior Lecturer in Foreign Policy and Security, City St George's, University of London",
-    "link": "https://theconversation.com/why-donald-trumps-foreign-policy-could-cost-republicans-in-the-midterm-elections-295382"
-  },
-  {
-    "titolo": "Deadlock ahead for Israel as election fails to deliver an alternative to Netanyahu coalition",
-    "data": "2026-10-29T13:12:09Z",
-    "fonte": "The Conversation – Articles (UK)",
-    "autore": "Eitan Tzelgov, Associate Professor, University of East Anglia",
-    "link": "https://theconversation.com/deadlock-ahead-for-israel-as-election-fails-to-deliver-an-alternative-to-netanyahu-coalition-295365"
   },
   {
     "titolo": "England needs 120% of normal rainfall to come out of drought this winter – storms won’t fix that yet",
@@ -1351,6 +1421,69 @@
     "link": "https://theconversation.com/is-childproofing-the-internet-constitutional-a-tech-law-expert-draws-out-the-issues-240430"
   },
   {
+    "titolo": "Wicker and the rise of the ‘monster romance’: why audiences are falling for the non-human",
+    "data": "2026-10-30T09:26:43Z",
+    "fonte": "English – The Conversation",
+    "autore": "Natalie Wall, PhD Candidate in English Literature, University of Liverpool",
+    "link": "https://theconversation.com/wicker-and-the-rise-of-the-monster-romance-why-audiences-are-falling-for-the-non-human-292147"
+  },
+  {
+    "titolo": "Election special: deadlock in Israel, regime change in Serbia, US midterms",
+    "data": "2026-10-30T08:01:32Z",
+    "fonte": "English – The Conversation",
+    "autore": "Jonathan Este, Senior International Affairs Editor, Associate Editor, The Conversation",
+    "link": "https://theconversation.com/election-special-deadlock-in-israel-regime-change-in-serbia-us-midterms-295485"
+  },
+  {
+    "titolo": "View from The Hill: Albanese puts cat among One Nation pigeons with staff offer",
+    "data": "2026-10-30T05:40:48Z",
+    "fonte": "English – The Conversation",
+    "autore": "Michelle Grattan, Professorial Fellow, University of Canberra",
+    "link": "https://theconversation.com/view-from-the-hill-albanese-puts-cat-among-one-nation-pigeons-with-staff-offer-294861"
+  },
+  {
+    "titolo": "Looking for bats after dark can help science – and change how we see them",
+    "data": "2026-10-30T05:00:16Z",
+    "fonte": "English – The Conversation",
+    "autore": "Trish Fleming, Professor, Wildlife Conservation, Murdoch University",
+    "link": "https://theconversation.com/looking-for-bats-after-dark-can-help-science-and-change-how-we-see-them-294468"
+  },
+  {
+    "titolo": "Knocking on strangers’ doors? How to help your kids have a safe Halloween",
+    "data": "2026-10-30T02:13:30Z",
+    "fonte": "English – The Conversation",
+    "autore": "Bianca Albanese, Postdoctoral Fellow, Neuroscience Research Australia",
+    "link": "https://theconversation.com/knocking-on-strangers-doors-how-to-help-your-kids-have-a-safe-halloween-295356"
+  },
+  {
+    "titolo": "‘Uncontrolled warrior culture’: Australia’s special forces under fire in new inquiry",
+    "data": "2026-10-30T01:24:46Z",
+    "fonte": "English – The Conversation",
+    "autore": "Paul Taucher, Lecturer in History, Fellow Indo-Pacific Research Centre, Murdoch University",
+    "link": "https://theconversation.com/uncontrolled-warrior-culture-australias-special-forces-under-fire-in-new-inquiry-295438"
+  },
+  {
+    "titolo": "‘What we leave behind is not as important as how we’ve lived’: remembering actor Patrick Stewart",
+    "data": "2026-10-30T01:15:11Z",
+    "fonte": "English – The Conversation",
+    "autore": "Chris Comerford, Senior Lecturer in Communication and Media, University of Wollongong",
+    "link": "https://theconversation.com/what-we-leave-behind-is-not-as-important-as-how-weve-lived-remembering-actor-patrick-stewart-295542"
+  },
+  {
+    "titolo": "Mushroom murderer Erin Patterson has lost her appeal and received a harsher sentence. Legal experts explain why",
+    "data": "2026-10-30T01:00:49Z",
+    "fonte": "English – The Conversation",
+    "autore": "Natalia Antolak-Saper, Associate professor, Monash University",
+    "link": "https://theconversation.com/mushroom-murderer-erin-patterson-has-lost-her-appeal-and-received-a-harsher-sentence-legal-experts-explain-why-291355"
+  },
+  {
+    "titolo": "Josh Frydenberg’s autobiography might be one of the longest job applications in history",
+    "data": "2026-10-30T00:59:04Z",
+    "fonte": "English – The Conversation",
+    "autore": "John Hawkins, Senior lecturer, Canberra School of Government, University of Canberra",
+    "link": "https://theconversation.com/josh-frydenbergs-autobiography-might-be-one-of-the-longest-job-applications-in-history-294662"
+  },
+  {
     "titolo": "Buried cats, exorcisms and a sunken Colonel Sanders – the strange world of sporting curses",
     "data": "2026-10-29T23:29:56Z",
     "fonte": "English – The Conversation",
@@ -1358,67 +1491,11 @@
     "link": "https://theconversation.com/buried-cats-exorcisms-and-a-sunken-colonel-sanders-the-strange-world-of-sporting-curses-288604"
   },
   {
-    "titolo": "A wise woman who turned fish eggs into beasts: meet an ancient witch from Mesopotamia",
-    "data": "2026-10-29T19:13:05Z",
-    "fonte": "English – The Conversation",
-    "autore": "Genevieve Le Ban, Casual Academic in the Discipline of History and Archaeology, Macquarie University",
-    "link": "https://theconversation.com/a-wise-woman-who-turned-fish-eggs-into-beasts-meet-an-ancient-witch-from-mesopotamia-294580"
-  },
-  {
-    "titolo": "Flying-foxes are starving. Why are we still responding one crisis at a time?",
-    "data": "2026-10-29T19:12:29Z",
-    "fonte": "English – The Conversation",
-    "autore": "Jessica Meade, Postdoctoral Research Fellow and Lecturer in Movement Ecology, Western Sydney University",
-    "link": "https://theconversation.com/flying-foxes-are-starving-why-are-we-still-responding-one-crisis-at-a-time-295339"
-  },
-  {
-    "titolo": "Halloween is typically a massive lolly fest for kids – but it doesn’t have to be",
-    "data": "2026-10-29T19:12:14Z",
-    "fonte": "English – The Conversation",
-    "autore": "Margaret Murray, Senior Lecturer, Nutrition, Swinburne University of Technology",
-    "link": "https://theconversation.com/halloween-is-typically-a-massive-lolly-fest-for-kids-but-it-doesnt-have-to-be-295246"
-  },
-  {
-    "titolo": "Friday essay: forget Big Brother, propaganda is now a form of hybrid warfare",
-    "data": "2026-10-29T19:11:35Z",
-    "fonte": "English – The Conversation",
-    "autore": "Jane Goodall, Emeritus Professor, Writing and Society Research Centre, Western Sydney University",
-    "link": "https://theconversation.com/friday-essay-forget-big-brother-propaganda-is-now-a-form-of-hybrid-warfare-294454"
-  },
-  {
-    "titolo": "Labor came to power promising a big care agenda. Four years on, how has it fared?",
-    "data": "2026-10-29T19:10:28Z",
-    "fonte": "English – The Conversation",
-    "autore": "Joshua Black, Lecturer in Australian Political Studies, Vice-Chancellor's Centre of Public Ideas, University of Canberra",
-    "link": "https://theconversation.com/labor-came-to-power-promising-a-big-care-agenda-four-years-on-how-has-it-fared-294054"
-  },
-  {
-    "titolo": "Using ChatGPT before a medical appointment? How to get the best support for your health questions",
-    "data": "2026-10-29T19:10:06Z",
-    "fonte": "English – The Conversation",
-    "autore": "Liliana Laranjo, Senior Lecturer in Digital Health and Community and Primary Health Care Practice, University of Sydney",
-    "link": "https://theconversation.com/using-chatgpt-before-a-medical-appointment-how-to-get-the-best-support-for-your-health-questions-294051"
-  },
-  {
-    "titolo": "After three years of relentless reform, what lies beyond the election for education?",
-    "data": "2026-10-29T17:26:26Z",
-    "fonte": "English – The Conversation",
-    "autore": "Adrian Schoone, Associate Professor, School of Education, Auckland University of Technology",
-    "link": "https://theconversation.com/after-three-years-of-relentless-reform-what-lies-beyond-the-election-for-education-293794"
-  },
-  {
-    "titolo": "The Black designers redefining British fashion by drawing on their own heritage, culture and history",
-    "data": "2026-10-29T17:01:04Z",
-    "fonte": "English – The Conversation",
-    "autore": "Andrew Ibi, Programme Leader BA Fashion: Design & Communication, School of Art and Creative Industries, Liverpool John Moores University",
-    "link": "https://theconversation.com/the-black-designers-redefining-british-fashion-by-drawing-on-their-own-heritage-culture-and-history-294922"
-  },
-  {
-    "titolo": "How porn became so extreme – and how it’s shaping the sex lives of young people",
-    "data": "2026-10-29T16:01:06Z",
-    "fonte": "English – The Conversation",
-    "autore": "Gemma Ware, Head of Audio, The Conversation UK, The Conversation",
-    "link": "https://theconversation.com/how-porn-became-so-extreme-and-how-its-shaping-the-sex-lives-of-young-people-293851"
+    "titolo": "Comment les abeilles transforment leur ruche en « système immunitaire » vivant contre les maladies",
+    "data": "2026-10-30T08:01:07Z",
+    "fonte": "Science – The Conversation",
+    "autore": "Kenya Fernandes, Research Fellow, Faculty of Science, University of Sydney",
+    "link": "https://theconversation.com/comment-les-abeilles-transforment-leur-ruche-en-systeme-immunitaire-vivant-contre-les-maladies-295521"
   },
   {
     "titolo": "Comment le libre accès aux publications scientifiques nourrit l’innovation industrielle : ce que révèle l’analyse de 500 000 brevets",
@@ -1482,12 +1559,5 @@
     "fonte": "Science – The Conversation",
     "autore": "Emilio Calvanese Strinati, Directeur programme 6G et co-Directeur du Orange-CEA laboratoire commun sur AI-Native et Semantic Communications; domaine d'expertise AI, telecom, 5G, 6G, Commissariat à l’énergie atomique et aux énergies alternatives (CEA)",
     "link": "https://theconversation.com/la-6g-sera-t-elle-plus-sobre-et-intelligente-que-les-generations-precedentes-291330"
-  },
-  {
-    "titolo": "Bienvenue dans une nouvelle astronomie : comment marchent les détecteurs géants de neutrinos, et ce qui vient après le Nobel",
-    "data": "2026-10-15T14:40:46Z",
-    "fonte": "Science – The Conversation",
-    "autore": "Pierre-Alexandre Duverne, Postdoctorant en astronomie, Université Paris Cité",
-    "link": "https://theconversation.com/bienvenue-dans-une-nouvelle-astronomie-comment-marchent-les-detecteurs-geants-de-neutrinos-et-ce-qui-vient-apres-le-nobel-294316"
   }
 ]
