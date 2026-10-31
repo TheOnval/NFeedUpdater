@@ -140,32 +140,18 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004039"
   },
   {
-    "titolo": "Oxytocin neurons signal state-dependent transitions from rest to thermogenesis and behavioral arousal",
-    "data": "Fri, 30 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "anelso74@uwyo.edu (Samantha Killmer)",
-    "link": "https://elifesciences.org/articles/108212"
-  },
-  {
-    "titolo": "Compensation of hyperexcitability with simulation-based inference",
-    "data": "Fri, 30 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "daniel.muller@oist.jp (Tomoki Fukai)",
-    "link": "https://elifesciences.org/articles/107045"
-  },
-  {
-    "titolo": "Glutamate receptor composition at <i>Drosophila</i> neuromuscular junctions depends on developmental stage and muscle identity",
-    "data": "Fri, 30 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "tuthill@uw.edu (Yu Xiong)",
-    "link": "https://elifesciences.org/articles/111371"
-  },
-  {
     "titolo": "SVEP1 enables efficient binding of angiopoietin-2 to the TIE1 receptor, allowing receptor phosphorylation and downstream signaling",
     "data": "Fri, 30 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
     "autore": "Jorg.Stetefeld@umanitoba.ca (Wolfgang MJ Obermann)",
     "link": "https://elifesciences.org/articles/106338"
+  },
+  {
+    "titolo": "Oxytocin neurons signal state-dependent transitions from rest to thermogenesis and behavioral arousal",
+    "data": "Fri, 30 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "anelso74@uwyo.edu (Samantha Killmer)",
+    "link": "https://elifesciences.org/articles/108212"
   },
   {
     "titolo": "Fitness level, but not sex, affects exercise-induced pain modulation",
@@ -175,6 +161,13 @@
     "link": "https://elifesciences.org/articles/109061"
   },
   {
+    "titolo": "Glutamate receptor composition at <i>Drosophila</i> neuromuscular junctions depends on developmental stage and muscle identity",
+    "data": "Fri, 30 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "tuthill@uw.edu (Yu Xiong)",
+    "link": "https://elifesciences.org/articles/111371"
+  },
+  {
     "titolo": "Distinct gradients of cortical architecture capture visual representations and behavior across the lifespan",
     "data": "Fri, 30 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -182,11 +175,11 @@
     "link": "https://elifesciences.org/articles/102095"
   },
   {
-    "titolo": "Whole-brain mapping of spinal-projecting neurons in larval zebrafish",
-    "data": "Thu, 29 Oct 2026 00:00:00 +0000",
+    "titolo": "Compensation of hyperexcitability with simulation-based inference",
+    "data": "Fri, 30 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "martincarbotano@proton.me (Tom Welch)",
-    "link": "https://elifesciences.org/articles/112062"
+    "autore": "daniel.muller@oist.jp (Tomoki Fukai)",
+    "link": "https://elifesciences.org/articles/107045"
   },
   {
     "titolo": "Lateral opening site of human oligopeptide transporter 2 plays a key role in the interaction with polymyxins",
@@ -196,11 +189,11 @@
     "link": "https://elifesciences.org/articles/111387"
   },
   {
-    "titolo": "Molecular and functional analysis of calcium binding by a cancer-linked calreticulin mutant",
+    "titolo": "Synthetic auxotrophy reveals metabolic regulation of plasma cell generation, affinity maturation, and cytokine receptor signaling",
     "data": "Thu, 29 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "malinir@umich.edu (Osbourne Quaye)",
-    "link": "https://elifesciences.org/articles/109647"
+    "autore": "sung.hoon.cho@emory.edu (Yeeun Paik)",
+    "link": "https://elifesciences.org/articles/107627"
   },
   {
     "titolo": "Lymphatic vessels under pressure",
@@ -208,6 +201,13 @@
     "fonte": "eLife: latest articles",
     "autore": "Osama.Harraz@uvm.edu (Osama F Harraz)",
     "link": "https://elifesciences.org/articles/113304"
+  },
+  {
+    "titolo": "Revealing the benefit of eye motion for acuity under emulated cone loss",
+    "data": "Thu, 29 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "aroorda@berkeley.edu (Ren Ng)",
+    "link": "https://elifesciences.org/articles/111289"
   },
   {
     "titolo": "Skin conditions and symptoms  -- EMBASE via embase.com",
@@ -278,6 +278,76 @@
     "fonte": "PubMed Search Strategies",
     "autore": "Cindy Schmidt, M.D., M.L.S. (noreply@blogger.com)",
     "link": "http://pubmedsearches.blogspot.com/2025/01/united-kingdom-keywords-for-embase.html"
+  },
+  {
+    "titolo": "LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes",
+    "data": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Jiaming Hu, Zhida Jiang, Zhaolong Xing, Yu Li, Zhen Chen, Ke Zhang",
+    "link": "https://arxiv.org/abs/2610.37720"
+  },
+  {
+    "titolo": "Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure",
+    "data": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Exauc\\'e Luweh Adjim Ngarti (AIRSEA), \\'Elise Arnaud (AIRSEA), L\\'eo Nicoletti (Mines Saint-\\'Etienne MSE, LIMOS, FAYOL-ENSMSE, FAYOL-ENSMSE), Victor Trappler (Mines Saint-\\'Etienne MSE, LIMOS, FAYOL-ENSMSE, FAYOL-ENSMSE), Arthur Vidard (AIRSEA)",
+    "link": "https://arxiv.org/abs/2610.37731"
+  },
+  {
+    "titolo": "ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions",
+    "data": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Xiaolu Ding, Kai Yang, Dongdong Liu",
+    "link": "https://arxiv.org/abs/2610.37732"
+  },
+  {
+    "titolo": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+    "data": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Jiarui Yao, Ruida Wang, Tong Zhang",
+    "link": "https://arxiv.org/abs/2610.37739"
+  },
+  {
+    "titolo": "WebAnything: From the Wild Web to Scalable Agent Environments",
+    "data": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Tianci Xie, Zikun Cai, Chaoyun Zhang, Pinxue Guo, Bingxuan Li, Rui Zheng, Hang Yan",
+    "link": "https://arxiv.org/abs/2610.37786"
+  },
+  {
+    "titolo": "What Does an Ontology Catch? Curated, LLM-Generated and Data-Derived Ontologies as Checkers of LLM Agents over Knowledge Graphs",
+    "data": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Michal Orzechowski, Rund Tawfiq, Tomasz Kosciolek",
+    "link": "https://arxiv.org/abs/2610.37809"
+  },
+  {
+    "titolo": "Measuring Where Intent Gets Lost in Agentic Smart Contract Synthesis",
+    "data": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Abhinav Goel, Agostino Capponi, Alfio Gliozzo, Chaitya Shah",
+    "link": "https://arxiv.org/abs/2610.37830"
+  },
+  {
+    "titolo": "Detecting Covert Collusion between AI Agents through Partner-Outsider Positive Listening",
+    "data": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Kevin Yandoka Denamgana\\\"i",
+    "link": "https://arxiv.org/abs/2610.37849"
+  },
+  {
+    "titolo": "Evaluating and improving AI agents for sequencing protocol understanding",
+    "data": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Chi-Lam Poon, Michael Goneos, Zezheng Song, Xi Chen",
+    "link": "https://arxiv.org/abs/2610.37851"
+  },
+  {
+    "titolo": "Seq@K: Evaluating Language Models Under Sequential Feedback",
+    "data": "Sat, 31 Oct 2026 00:00:00 -0400",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Thomson Yen, Gilbert Yang, Naimeng Ye, Minghui Chen, Dong Xia, Tianyi Shen, Yechan Jeon, Yaqin Chen, Daksh Mittal, Fangyu Wu, Hongseok Namkoong",
+    "link": "https://arxiv.org/abs/2610.37859"
   },
   {
     "titolo": "A Low-Rank Space Captures Linear Alignment Between LLM and Human Neural Activity During Naturalistic Language Listening",
