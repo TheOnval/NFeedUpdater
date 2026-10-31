@@ -147,32 +147,11 @@
     "link": "https://elifesciences.org/articles/106338"
   },
   {
-    "titolo": "Compensation of hyperexcitability with simulation-based inference",
-    "data": "Fri, 30 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "daniel.muller@oist.jp (Tomoki Fukai)",
-    "link": "https://elifesciences.org/articles/107045"
-  },
-  {
-    "titolo": "Distinct gradients of cortical architecture capture visual representations and behavior across the lifespan",
-    "data": "Fri, 30 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "zhenzonglei@bnu.edu.cn (Zonglei Zhen)",
-    "link": "https://elifesciences.org/articles/102095"
-  },
-  {
     "titolo": "Oxytocin neurons signal state-dependent transitions from rest to thermogenesis and behavioral arousal",
     "data": "Fri, 30 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
     "autore": "anelso74@uwyo.edu (Samantha Killmer)",
     "link": "https://elifesciences.org/articles/108212"
-  },
-  {
-    "titolo": "Glutamate receptor composition at <i>Drosophila</i> neuromuscular junctions depends on developmental stage and muscle identity",
-    "data": "Fri, 30 Oct 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "tuthill@uw.edu (Yu Xiong)",
-    "link": "https://elifesciences.org/articles/111371"
   },
   {
     "titolo": "Fitness level, but not sex, affects exercise-induced pain modulation",
@@ -182,11 +161,25 @@
     "link": "https://elifesciences.org/articles/109061"
   },
   {
-    "titolo": "Revealing the benefit of eye motion for acuity under emulated cone loss",
-    "data": "Thu, 29 Oct 2026 00:00:00 +0000",
+    "titolo": "Glutamate receptor composition at <i>Drosophila</i> neuromuscular junctions depends on developmental stage and muscle identity",
+    "data": "Fri, 30 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "aroorda@berkeley.edu (Ren Ng)",
-    "link": "https://elifesciences.org/articles/111289"
+    "autore": "tuthill@uw.edu (Yu Xiong)",
+    "link": "https://elifesciences.org/articles/111371"
+  },
+  {
+    "titolo": "Distinct gradients of cortical architecture capture visual representations and behavior across the lifespan",
+    "data": "Fri, 30 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "zhenzonglei@bnu.edu.cn (Zonglei Zhen)",
+    "link": "https://elifesciences.org/articles/102095"
+  },
+  {
+    "titolo": "Compensation of hyperexcitability with simulation-based inference",
+    "data": "Fri, 30 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "daniel.muller@oist.jp (Tomoki Fukai)",
+    "link": "https://elifesciences.org/articles/107045"
   },
   {
     "titolo": "Lateral opening site of human oligopeptide transporter 2 plays a key role in the interaction with polymyxins",
@@ -203,11 +196,18 @@
     "link": "https://elifesciences.org/articles/107627"
   },
   {
-    "titolo": "Molecular and functional analysis of calcium binding by a cancer-linked calreticulin mutant",
+    "titolo": "Lymphatic vessels under pressure",
     "data": "Thu, 29 Oct 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "malinir@umich.edu (Osbourne Quaye)",
-    "link": "https://elifesciences.org/articles/109647"
+    "autore": "Osama.Harraz@uvm.edu (Osama F Harraz)",
+    "link": "https://elifesciences.org/articles/113304"
+  },
+  {
+    "titolo": "Revealing the benefit of eye motion for acuity under emulated cone loss",
+    "data": "Thu, 29 Oct 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "aroorda@berkeley.edu (Ren Ng)",
+    "link": "https://elifesciences.org/articles/111289"
   },
   {
     "titolo": "Skin conditions and symptoms  -- EMBASE via embase.com",
@@ -511,6 +511,13 @@
     "link": "https://arxiv.org/abs/1803.06969v2"
   },
   {
+    "titolo": "Samarkand: A ‘living museum’ on the Silk Road grapples with a tourism boom",
+    "data": "Sat, 31 Oct 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/10/1168711"
+  },
+  {
     "titolo": "DPR Korea: Isolation deepens even as the country changes, says UN rights official",
     "data": "Sat, 31 Oct 2026 12:00:00 +0000",
     "fonte": "UN News - Global perspective Human stories",
@@ -572,13 +579,6 @@
     "fonte": "UN News - Global perspective Human stories",
     "autore": "Anonimo",
     "link": "https://news.un.org/feed/view/en/story/2026/10/1168704"
-  },
-  {
-    "titolo": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
-    "data": "Thu, 29 Oct 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/10/1168703"
   },
   {
     "titolo": "Mapping AI Resistance",
