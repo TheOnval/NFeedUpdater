@@ -140,13 +140,6 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004072"
   },
   {
-    "titolo": "Cholinergic blockade reveals a role for human hippocampal theta in memory encoding but not retrieval",
-    "data": "Wed, 11 Nov 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "bradley.lega@utsouthwestern.edu (Tamara Gedankien)",
-    "link": "https://elifesciences.org/articles/108972"
-  },
-  {
     "titolo": "Multimodal single-cell analyses reveal distinct fusion-regulated transcriptional programs in Ewing sarcoma",
     "data": "Wed, 11 Nov 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -159,6 +152,13 @@
     "fonte": "eLife: latest articles",
     "autore": "qcc6zm@virginia.edu (Vyacheslav M Labunskyy)",
     "link": "https://elifesciences.org/articles/109761"
+  },
+  {
+    "titolo": "Cholinergic blockade reveals a role for human hippocampal theta in memory encoding but not retrieval",
+    "data": "Wed, 11 Nov 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "bradley.lega@utsouthwestern.edu (Tamara Gedankien)",
+    "link": "https://elifesciences.org/articles/108972"
   },
   {
     "titolo": "Life-history trade-offs explain local adaptation in <i>Arabidopsis thaliana</i>",
@@ -182,13 +182,6 @@
     "link": "https://elifesciences.org/articles/110991"
   },
   {
-    "titolo": "Virus-specific impacts on honey bee flight performance are mediated by the octopamine pathway",
-    "data": "Mon, 09 Nov 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "michelle.flenniken@montana.edu (Naomi G Kaku)",
-    "link": "https://elifesciences.org/articles/111072"
-  },
-  {
     "titolo": "Dual-feature selectivity enables bidirectional coding in visual cortical neurons",
     "data": "Mon, 09 Nov 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -196,18 +189,25 @@
     "link": "https://elifesciences.org/articles/109861"
   },
   {
+    "titolo": "Virus-specific impacts on honey bee flight performance are mediated by the octopamine pathway",
+    "data": "Mon, 09 Nov 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "michelle.flenniken@montana.edu (Naomi G Kaku)",
+    "link": "https://elifesciences.org/articles/111072"
+  },
+  {
+    "titolo": "The hypoxic response extends lifespan through a bioaminergic and peptidergic neural circuit",
+    "data": "Fri, 06 Nov 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "leiser@med.umich.edu (Shijiao Huang)",
+    "link": "https://elifesciences.org/articles/107651"
+  },
+  {
     "titolo": "Large inversions in Lake Malawi cichlids are associated with habitat, lineage, and sex determination",
     "data": "Fri, 06 Nov 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
     "autore": "todd.streelman@biology.gatech.edu (Thomas D Kocher)",
     "link": "https://elifesciences.org/articles/104923"
-  },
-  {
-    "titolo": "The resource elasticity of control",
-    "data": "Fri, 06 Nov 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "levi.solomyak@mail.huji.ac.il (Levi Solomyak)",
-    "link": "https://elifesciences.org/articles/105507"
   },
   {
     "titolo": "Skin conditions and symptoms  -- EMBASE via embase.com",
@@ -278,146 +278,6 @@
     "fonte": "PubMed Search Strategies",
     "autore": "Cindy Schmidt, M.D., M.L.S. (noreply@blogger.com)",
     "link": "http://pubmedsearches.blogspot.com/2025/01/united-kingdom-keywords-for-embase.html"
-  },
-  {
-    "titolo": "Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
-    "data": "Wed, 11 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Gunik Luthra, Ronald J. Pandolfi, Benjamin T. Diroll, Ricky Ronquillo, Ruipeng Li, Christopher B. Murray, Marcus M. Noack, Kevin G. Yager, Esther H. R. Tsai",
-    "link": "https://arxiv.org/abs/2611.12933"
-  },
-  {
-    "titolo": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
-    "data": "Wed, 11 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Haoran Zhang, Huizhen Sun, Hanbin Wen, Jie Leng, Jiaxin Zhu, Zhaohua Sun",
-    "link": "https://arxiv.org/abs/2611.12934"
-  },
-  {
-    "titolo": "Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
-    "data": "Wed, 11 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Rishikesh Mallagundla, Pranav Patel",
-    "link": "https://arxiv.org/abs/2611.12935"
-  },
-  {
-    "titolo": "LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
-    "data": "Wed, 11 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Shanwen Wang, Sirui Wang, Xin Sun, Jungong Han",
-    "link": "https://arxiv.org/abs/2611.12936"
-  },
-  {
-    "titolo": "Tracing Psychometric Inference in Large Language Models",
-    "data": "Wed, 11 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Chih-Hao Hsu, Feng-Chun B. Chou, Pin-Hao A. Chen",
-    "link": "https://arxiv.org/abs/2611.12937"
-  },
-  {
-    "titolo": "Graph Visualizations in Prompts for Knowledge Graph Question Answering",
-    "data": "Wed, 11 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Luiz do Valle Miranda, Andreas L. Opdahl, Grzegorz J. Nalepa",
-    "link": "https://arxiv.org/abs/2611.12938"
-  },
-  {
-    "titolo": "Reinforcement Learning based control of Cancer Chemotherapy treatments",
-    "data": "Wed, 11 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Jayakody Kankanamalage Chamani Shiranthika",
-    "link": "https://arxiv.org/abs/2611.12940"
-  },
-  {
-    "titolo": "AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence",
-    "data": "Wed, 11 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Hendrik Luuk",
-    "link": "https://arxiv.org/abs/2611.12941"
-  },
-  {
-    "titolo": "Tabular Foundation Models vs Tuned Gradient Boosting for Telecom Churn: A Profit- and Calibration-Aware Evaluation",
-    "data": "Wed, 11 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Ismail Hossain Polas",
-    "link": "https://arxiv.org/abs/2611.12942"
-  },
-  {
-    "titolo": "SetPrint: Black-Box LLM Fingerprinting via Setwise Correspondence of Response Changes",
-    "data": "Wed, 11 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Jinmo Han, Ju Yeon Kang, Jimin Hong, Sunghwan Ahn, Yonghyeon Jun, Nam Soo Kim",
-    "link": "https://arxiv.org/abs/2611.12950"
-  },
-  {
-    "titolo": "Pooling ETAS triggering parameters across subduction margins: forecast transfer, estimator stability and sequence-limited skill in Mexico",
-    "data": "Wed, 11 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Ricardo Mansilla S\\'anchez, Ricardo Mansilla",
-    "link": "https://arxiv.org/abs/2611.12890"
-  },
-  {
-    "titolo": "Applicability of a Thermodynamic Model to Rich-Hydrogen Flammability Assessment in SMR Containments",
-    "data": "Wed, 11 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Sihyeong Yu, Dosu Park, Jeesuk Shin, Joongoo Jeon",
-    "link": "https://arxiv.org/abs/2611.12891"
-  },
-  {
-    "titolo": "First-passage tests of anomalous transport closures in heterogeneous aquifers",
-    "data": "Wed, 11 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Ke-Ming Shen, Yi-Xuan Liu",
-    "link": "https://arxiv.org/abs/2611.12893"
-  },
-  {
-    "titolo": "D-TINs for Track-Sampled Ice Sheet Surface Reconstruction from Satellite Altimetry Data",
-    "data": "Wed, 11 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Xiaoyu Xia, Noah Bergam, Abani Patra",
-    "link": "https://arxiv.org/abs/2611.12894"
-  },
-  {
-    "titolo": "An Idealized Model of Buoyant Gas Spreading and Silt Release beneath Rough Cave Ceilings",
-    "data": "Wed, 11 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Sandy Hardian Susanto Herho, Dasapta Erwin Irawan, Rusmawan Suwarman, Deny Juanda Puradimaja",
-    "link": "https://arxiv.org/abs/2611.12895"
-  },
-  {
-    "titolo": "EoSAlign: An Open-Source Software for Calculating, Comparing, and Aligning Pressure Under Extreme Conditions",
-    "data": "Wed, 11 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Allison Pease, Heidi N. Krauss, Kassandra Amezcua, Sang-Heon Shim",
-    "link": "https://arxiv.org/abs/2611.12897"
-  },
-  {
-    "titolo": "Bayesian Retrieval of L-Band Absorption by Ice using SMOS Brightness Temperatures over the Antarctic Plateau",
-    "data": "Wed, 11 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Hippolyte Signargout (UGA), Ghislain Picard (UGA), Olivier Zahm (UGA), Ange Haddjeri (UGA), Marion Leduc-Leballeur (IFAC), Pierre Zeiger (UGA), Marco Brogioni (IFAC), Giovanni Macelloni (IFAC)",
-    "link": "https://arxiv.org/abs/2611.12898"
-  },
-  {
-    "titolo": "Development of a Long-Term Stable Three-Axis Single-Beam Vector Optically Pumped Magnetometer Using a Buffer-Gas-Free Rubidium Vapor Cell and Direct Absorption Frequency Locking for Unshielded Geomagnetic Monitoring",
-    "data": "Wed, 11 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Minaru Kawamura",
-    "link": "https://arxiv.org/abs/2611.12905"
-  },
-  {
-    "titolo": "Generative Learning on Manifolds for Probabilistic Seismic Performance Assessment and Structural Identifiability",
-    "data": "Wed, 11 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Dimitris G Giovanis, Ioannis G Kevrekidis, Roger G Ghanem",
-    "link": "https://arxiv.org/abs/2611.12908"
-  },
-  {
-    "titolo": "Landfalling tropical cyclones perturb Earth's rotation",
-    "data": "Wed, 11 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Yaxuan Yang, Lei Liu, Zhouyu Zhang, Yongjie Liu, Qingyuan Wang, Lin Li",
-    "link": "https://arxiv.org/abs/2611.12909"
   },
   {
     "titolo": "When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology",
@@ -581,6 +441,13 @@
     "link": "https://arxiv.org/abs/1803.06969v2"
   },
   {
+    "titolo": "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support",
+    "data": "Wed, 11 Nov 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168788"
+  },
+  {
     "titolo": "‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31",
     "data": "Wed, 11 Nov 2026 12:00:00 +0000",
     "fonte": "UN News - Global perspective Human stories",
@@ -642,13 +509,6 @@
     "fonte": "UN News - Global perspective Human stories",
     "autore": "Anonimo",
     "link": "https://news.un.org/feed/view/en/story/2026/11/1168774"
-  },
-  {
-    "titolo": "When deaths go uncounted: WHO flags dangerous blind spots in Africa’s health data",
-    "data": "Tue, 10 Nov 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168772"
   },
   {
     "titolo": "Europe’s AI Dreams Exceed Its Grid",
@@ -861,6 +721,20 @@
     "link": "https://cepr.org/research/programme-areas/international-macroeconomics"
   },
   {
+    "titolo": "Johnny Depp returns to the screen as Scrooge – Dickens might have some notes",
+    "data": "2026-11-11T23:53:31Z",
+    "fonte": "Arts + Culture – The Conversation",
+    "autore": "Grace Moore, Associate Professor of English, University of Otago",
+    "link": "https://theconversation.com/johnny-depp-returns-to-the-screen-as-scrooge-dickens-might-have-some-notes-295865"
+  },
+  {
+    "titolo": "Flight of the Conchords return to NZ stages after 14 years away – but Wellington is still obviously home",
+    "data": "2026-11-11T23:22:40Z",
+    "fonte": "Arts + Culture – The Conversation",
+    "autore": "David Simes, Teaching Assistant and Researcher, Te Whare Ngangahau – Theatre and Performance Studies, Te Herenga Waka — Victoria University of Wellington",
+    "link": "https://theconversation.com/flight-of-the-conchords-return-to-nz-stages-after-14-years-away-but-wellington-is-still-obviously-home-296280"
+  },
+  {
     "titolo": "One of the Beaconsfield miners has died. Here’s how his story hooked the nation for 20 years",
     "data": "2026-11-11T06:02:26Z",
     "fonte": "Arts + Culture – The Conversation",
@@ -917,18 +791,11 @@
     "link": "https://theconversation.com/2-6-seconds-new-documentary-explores-the-history-grief-and-looming-questions-of-kumanjayi-walkers-death-293684"
   },
   {
-    "titolo": "Born in Aussie or NZ, playing for the Pacific: the startling demographics of the Rugby League World Cup",
-    "data": "2026-11-06T00:20:24Z",
-    "fonte": "Arts + Culture – The Conversation",
-    "autore": "Polly Atatoa Carr, Associate Professor of Population Health, University of Waikato",
-    "link": "https://theconversation.com/born-in-aussie-or-nz-playing-for-the-pacific-the-startling-demographics-of-the-rugby-league-world-cup-295966"
-  },
-  {
-    "titolo": "Godzilla Minus Zero is incredibly loud. Who decides on the cinema volume? And is it safe?",
-    "data": "2026-11-05T04:30:40Z",
-    "fonte": "Arts + Culture – The Conversation",
-    "autore": "Alison Cole, Composer and Lecturer in Screen Composition, Sydney Conservatorium of Music, University of Sydney",
-    "link": "https://theconversation.com/godzilla-minus-zero-is-incredibly-loud-who-decides-on-the-cinema-volume-and-is-it-safe-295864"
+    "titolo": "Victoria’s Year 12 exam website has been hacked – here are 3 ways students can handle academic stress",
+    "data": "2026-11-12T03:52:47Z",
+    "fonte": "Education – The Conversation",
+    "autore": "Jessica Belcher, Postdoctoral Fellow, School of Psychological Sciences, Macquarie University",
+    "link": "https://theconversation.com/victorias-year-12-exam-website-has-been-hacked-here-are-3-ways-students-can-handle-academic-stress-296484"
   },
   {
     "titolo": "AI marking means uni assessments could theoretically never be read by a human. What now?",
@@ -994,11 +861,18 @@
     "link": "https://theconversation.com/does-australia-need-more-national-exams-for-school-students-295562"
   },
   {
-    "titolo": "Australian classrooms are getting a ‘digital detox’ – what does this mean for schools and students?",
-    "data": "2026-11-05T05:19:05Z",
-    "fonte": "Education – The Conversation",
-    "autore": "Jason M. Lodge, Director of the Learning, Instruction & Technology Lab and Professor of Educational Psychology, School of Education, The University of Queensland",
-    "link": "https://theconversation.com/australian-classrooms-are-getting-a-digital-detox-what-does-this-mean-for-schools-and-students-295951"
+    "titolo": "‘Plenty of reasons for hope’: what 30 years of climate talks have achieved",
+    "data": "2026-11-12T03:43:58Z",
+    "fonte": "Environment + Energy – The Conversation",
+    "autore": "Miki Perkins, Environment & Energy Editor, The Conversation",
+    "link": "https://theconversation.com/plenty-of-reasons-for-hope-what-30-years-of-climate-talks-have-achieved-296398"
+  },
+  {
+    "titolo": "It’s possible to make great concrete without the huge emissions from cement. Why isn’t this common?",
+    "data": "2026-11-11T22:24:01Z",
+    "fonte": "Environment + Energy – The Conversation",
+    "autore": "Pooja Kaur Chaggar, Researcher, Western Sydney University",
+    "link": "https://theconversation.com/its-possible-to-make-great-concrete-without-the-huge-emissions-from-cement-why-isnt-this-common-292236"
   },
   {
     "titolo": "Nepal-Tibet floods showed the need for greater climate finance. Is the world listening?",
@@ -1011,7 +885,7 @@
     "titolo": "Global carbon emissions may have peaked in 2026 – but only time will tell",
     "data": "2026-11-11T02:28:16Z",
     "fonte": "Environment + Energy – The Conversation",
-    "autore": "Roger Dargaville, Assoc Prof. Renewable Energy, Monash University",
+    "autore": "Roger Dargaville, Associate Professor, Renewable Energy, Monash University",
     "link": "https://theconversation.com/global-carbon-emissions-may-have-peaked-in-2026-but-only-time-will-tell-296152"
   },
   {
@@ -1057,18 +931,11 @@
     "link": "https://theconversation.com/the-world-will-soon-shoot-past-1-5-c-what-does-this-mean-294577"
   },
   {
-    "titolo": "Australia’s climate minister is about to walk a diplomatic tightrope at COP31",
-    "data": "2026-11-08T18:44:21Z",
-    "fonte": "Environment + Energy – The Conversation",
-    "autore": "Matt McDonald, Professor of International Relations, The University of Queensland",
-    "link": "https://theconversation.com/australias-climate-minister-is-about-to-walk-a-diplomatic-tightrope-at-cop31-294565"
-  },
-  {
-    "titolo": "Yes, the COP climate talks are far from perfect. But they still hold the power for change",
-    "data": "2026-11-08T18:43:54Z",
-    "fonte": "Environment + Energy – The Conversation",
-    "autore": "Wesley Morgan, Research Associate, Institute for Climate Risk and Response, UNSW",
-    "link": "https://theconversation.com/yes-the-cop-climate-talks-are-far-from-perfect-but-they-still-hold-the-power-for-change-295350"
+    "titolo": "‘Nobody cared’: new research shows deepfakes are hurting regular people, not just celebrities",
+    "data": "2026-11-12T00:40:40Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Gemma Stevens, Research Assistant, School of Global, Urban and Social Studies, RMIT University",
+    "link": "https://theconversation.com/nobody-cared-new-research-shows-deepfakes-are-hurting-regular-people-not-just-celebrities-296154"
   },
   {
     "titolo": "Who controls trespass footage? Here’s what the High Court’s answer means for animals – and press freedom",
@@ -1134,11 +1001,60 @@
     "link": "https://theconversation.com/new-ai-regulator-announced-as-government-considers-criminal-law-change-to-keep-erring-frontier-companies-in-line-296274"
   },
   {
-    "titolo": "Victoria will bring in a domestic violence disclosure scheme. Could it help protect women?",
-    "data": "2026-11-10T03:38:24Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "Anastasia Powell, Professor of Family and Sexual Violence, RMIT University",
-    "link": "https://theconversation.com/victoria-will-bring-in-a-domestic-violence-disclosure-scheme-could-it-help-protect-women-296246"
+    "titolo": "Businesses could lose $590 million in R&D tax breaks under changes before the Senate. What’s the plan?",
+    "data": "2026-11-12T04:01:25Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Tamara Wilkinson, Senior Lecturer, Faculty of Law, Monash University",
+    "link": "https://theconversation.com/businesses-could-lose-590-million-in-randd-tax-breaks-under-changes-before-the-senate-whats-the-plan-296264"
+  },
+  {
+    "titolo": "Victoria’s Year 12 exam website has been hacked – here are 3 ways students can handle academic stress",
+    "data": "2026-11-12T03:52:47Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Jessica Belcher, Postdoctoral Fellow, School of Psychological Sciences, Macquarie University",
+    "link": "https://theconversation.com/victorias-year-12-exam-website-has-been-hacked-here-are-3-ways-students-can-handle-academic-stress-296484"
+  },
+  {
+    "titolo": "‘Plenty of reasons for hope’: what 30 years of climate talks have achieved",
+    "data": "2026-11-12T03:43:58Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Miki Perkins, Environment & Energy Editor, The Conversation",
+    "link": "https://theconversation.com/plenty-of-reasons-for-hope-what-30-years-of-climate-talks-have-achieved-296398"
+  },
+  {
+    "titolo": "Despite its sandpaper cheating bombshell, Usman Khawaja’s autobiography is strategic about its revelations",
+    "data": "2026-11-12T03:10:23Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Paul Giles, Professor of English, Institute for Humanities and Social Sciences, Australian Catholic University",
+    "link": "https://theconversation.com/despite-its-sandpaper-cheating-bombshell-usman-khawajas-autobiography-is-strategic-about-its-revelations-296392"
+  },
+  {
+    "titolo": "‘Nobody cared’: new research shows deepfakes are hurting regular people, not just celebrities",
+    "data": "2026-11-12T00:40:40Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Gemma Stevens, Research Assistant, School of Global, Urban and Social Studies, RMIT University",
+    "link": "https://theconversation.com/nobody-cared-new-research-shows-deepfakes-are-hurting-regular-people-not-just-celebrities-296154"
+  },
+  {
+    "titolo": "Johnny Depp returns to the screen as Scrooge – Dickens might have some notes",
+    "data": "2026-11-11T23:53:31Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Grace Moore, Associate Professor of English, University of Otago",
+    "link": "https://theconversation.com/johnny-depp-returns-to-the-screen-as-scrooge-dickens-might-have-some-notes-295865"
+  },
+  {
+    "titolo": "Flight of the Conchords return to NZ stages after 14 years away – but Wellington is still obviously home",
+    "data": "2026-11-11T23:22:40Z",
+    "fonte": "Home – The Conversation",
+    "autore": "David Simes, Teaching Assistant and Researcher, Te Whare Ngangahau – Theatre and Performance Studies, Te Herenga Waka — Victoria University of Wellington",
+    "link": "https://theconversation.com/flight-of-the-conchords-return-to-nz-stages-after-14-years-away-but-wellington-is-still-obviously-home-296280"
+  },
+  {
+    "titolo": "It’s possible to make great concrete without the huge emissions from cement. Why isn’t this common?",
+    "data": "2026-11-11T22:24:01Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Pooja Kaur Chaggar, Researcher, Western Sydney University",
+    "link": "https://theconversation.com/its-possible-to-make-great-concrete-without-the-huge-emissions-from-cement-why-isnt-this-common-292236"
   },
   {
     "titolo": "Nepal-Tibet floods showed the need for greater climate finance. Is the world listening?",
@@ -1153,62 +1069,6 @@
     "fonte": "Home – The Conversation",
     "autore": "Helen Hodgson, Professor Emerita, Curtin Law School and Curtin Business School, Curtin University",
     "link": "https://theconversation.com/australias-4-8-trillion-super-system-has-become-a-political-football-a-new-book-explains-why-294576"
-  },
-  {
-    "titolo": "Loved and scorned for his sincerity, ‘perpetual boy’ Tim Winton ages poetically in Songs from the Firefront",
-    "data": "2026-11-11T17:28:57Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Tony Hughes-d'Aeth, Professor, Chair of Australian Literature, The University of Western Australia",
-    "link": "https://theconversation.com/loved-and-scorned-for-his-sincerity-perpetual-boy-tim-winton-ages-poetically-in-songs-from-the-firefront-296129"
-  },
-  {
-    "titolo": "Is this iconic black hole image accurate? New study delivers an independent result",
-    "data": "2026-11-11T17:28:44Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Nithyanandan Thyagarajan, Principal Research Scientist, Space & Astronomy, CSIRO",
-    "link": "https://theconversation.com/is-this-iconic-black-hole-image-accurate-new-study-delivers-an-independent-result-296146"
-  },
-  {
-    "titolo": "AI marking means uni assessments could theoretically never be read by a human. What now?",
-    "data": "2026-11-11T17:28:29Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Margaret Bearman, Professor (Assessment and Digital Learning), Deakin University",
-    "link": "https://theconversation.com/ai-marking-means-uni-assessments-could-theoretically-never-be-read-by-a-human-what-now-294039"
-  },
-  {
-    "titolo": "CCTV is touted as a safety measure for daycare centres. But does it work?",
-    "data": "2026-11-11T17:27:55Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Kelli-Anne Price, Associate Lecturer, Early Childhood Education, University of New England",
-    "link": "https://theconversation.com/cctv-is-touted-as-a-safety-measure-for-daycare-centres-but-does-it-work-296276"
-  },
-  {
-    "titolo": "The state apologised to abuse-in-care survivors two years ago today. What has changed?",
-    "data": "2026-11-11T17:26:38Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Stephen Winter, Associate Professor in Political Theory, University of Auckland, Waipapa Taumata Rau",
-    "link": "https://theconversation.com/the-state-apologised-to-abuse-in-care-survivors-two-years-ago-today-what-has-changed-296136"
-  },
-  {
-    "titolo": "One of the Beaconsfield miners has died. Here’s how his story hooked the nation for 20 years",
-    "data": "2026-11-11T06:02:26Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Jason Bainbridge, Dean of Curriculum and Quality, University of Southern Queensland",
-    "link": "https://theconversation.com/one-of-the-beaconsfield-miners-has-died-heres-how-his-story-hooked-the-nation-for-20-years-296259"
-  },
-  {
-    "titolo": "New home loans dropped by a record 15% as Australia’s housing market downturn deepens",
-    "data": "2026-11-11T05:53:05Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Christian A. Nygaard, Professor of Housing Economics, UNSW",
-    "link": "https://theconversation.com/new-home-loans-dropped-by-a-record-15-as-australias-housing-market-downturn-deepens-296156"
-  },
-  {
-    "titolo": "Some antidepressants may work better than others long term – new study",
-    "data": "2026-11-11T05:37:32Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Lauren Cortis, Senior Lecturer in Pharmacy Practice, Adelaide University",
-    "link": "https://theconversation.com/some-antidepressants-may-work-better-than-others-long-term-new-study-296151"
   },
   {
     "titolo": "Democrats are at Cop31 to show that the US has not abandoned the fight against climate change",
@@ -1421,6 +1281,13 @@
     "link": "https://theconversation.com/its-a-bumper-year-for-wild-mushrooms-heres-what-you-could-find-in-the-woods-today-290272"
   },
   {
+    "titolo": "El Salvador is exporting the ‘Bukele model’ to Haiti – but the gang offensive is a gamble for both nations",
+    "data": "2026-11-11T23:58:06Z",
+    "fonte": "The Conversation – Articles (US)",
+    "autore": "Robert Muggah, Richard von Weizsäcker Fellow na Bosch Academy e Co-fundador, Instituto Igarapé; Princeton University",
+    "link": "https://theconversation.com/el-salvador-is-exporting-the-bukele-model-to-haiti-but-the-gang-offensive-is-a-gamble-for-both-nations-296390"
+  },
+  {
     "titolo": "You likely have genes that affect how well your medications work – testing for them could improve treatment",
     "data": "2026-11-11T19:00:24Z",
     "fonte": "The Conversation – Articles (US)",
@@ -1482,13 +1349,6 @@
     "fonte": "The Conversation – Articles (US)",
     "autore": "Pushpinder Gill, Assistant Professor of Marketing, Toronto Metropolitan University",
     "link": "https://theconversation.com/when-a-walmart-closes-what-happens-to-nearby-stores-294847"
-  },
-  {
-    "titolo": "COP31: Governments are failing to rein in emissions from their own power plants",
-    "data": "2026-11-10T13:36:45Z",
-    "fonte": "The Conversation – Articles (US)",
-    "autore": "Don Grant, Professor of Sociology, University of Colorado Boulder",
-    "link": "https://theconversation.com/cop31-governments-are-failing-to-rein-in-emissions-from-their-own-power-plants-295592"
   },
   {
     "titolo": "World Cup 2026 quiz",
@@ -1561,74 +1421,74 @@
     "link": "https://theconversation.com/is-childproofing-the-internet-constitutional-a-tech-law-expert-draws-out-the-issues-240430"
   },
   {
-    "titolo": "COP31: How AI can help us adapt to climate change",
-    "data": "2026-11-11T20:15:12Z",
+    "titolo": "Businesses could lose $590 million in R&D tax breaks under changes before the Senate. What’s the plan?",
+    "data": "2026-11-12T04:01:25Z",
     "fonte": "English – The Conversation",
-    "autore": "Robin Cox, Professor & Director ResilienceByDesign Research Innovation Lab, Royal Roads University",
-    "link": "https://theconversation.com/cop31-how-ai-can-help-us-adapt-to-climate-change-294050"
+    "autore": "Tamara Wilkinson, Senior Lecturer, Faculty of Law, Monash University",
+    "link": "https://theconversation.com/businesses-could-lose-590-million-in-randd-tax-breaks-under-changes-before-the-senate-whats-the-plan-296264"
   },
   {
-    "titolo": "Why teaching ‘ethical’ classroom use of AI to learn writing must include the right to refuse",
-    "data": "2026-11-11T19:35:22Z",
+    "titolo": "Victoria’s Year 12 exam website has been hacked – here are 3 ways students can handle academic stress",
+    "data": "2026-11-12T03:52:47Z",
     "fonte": "English – The Conversation",
-    "autore": "Loren Gaudet, Assistant Teaching Professor, Academic and Technical Writing Program, University of Victoria",
-    "link": "https://theconversation.com/why-teaching-ethical-classroom-use-of-ai-to-learn-writing-must-include-the-right-to-refuse-293520"
+    "autore": "Jessica Belcher, Postdoctoral Fellow, School of Psychological Sciences, Macquarie University",
+    "link": "https://theconversation.com/victorias-year-12-exam-website-has-been-hacked-here-are-3-ways-students-can-handle-academic-stress-296484"
   },
   {
-    "titolo": "You likely have genes that affect how well your medications work – testing for them could improve treatment",
-    "data": "2026-11-11T19:00:24Z",
+    "titolo": "‘Plenty of reasons for hope’: what 30 years of climate talks have achieved",
+    "data": "2026-11-12T03:43:58Z",
     "fonte": "English – The Conversation",
-    "autore": "Philip Empey, Associate Professor, University of Pittsburgh School of Pharmacy, University of Pittsburgh",
-    "link": "https://theconversation.com/you-likely-have-genes-that-affect-how-well-your-medications-work-testing-for-them-could-improve-treatment-296352"
+    "autore": "Miki Perkins, Environment & Energy Editor, The Conversation",
+    "link": "https://theconversation.com/plenty-of-reasons-for-hope-what-30-years-of-climate-talks-have-achieved-296398"
   },
   {
-    "titolo": "The ‘religious left’ may be rising – but Black Christian women have been there all along",
-    "data": "2026-11-11T17:47:30Z",
+    "titolo": "Despite its sandpaper cheating bombshell, Usman Khawaja’s autobiography is strategic about its revelations",
+    "data": "2026-11-12T03:10:23Z",
     "fonte": "English – The Conversation",
-    "autore": "Dara Delgado, Assistant Professor of Religion, University of North Carolina Wilmington",
-    "link": "https://theconversation.com/the-religious-left-may-be-rising-but-black-christian-women-have-been-there-all-along-296110"
+    "autore": "Paul Giles, Professor of English, Institute for Humanities and Social Sciences, Australian Catholic University",
+    "link": "https://theconversation.com/despite-its-sandpaper-cheating-bombshell-usman-khawajas-autobiography-is-strategic-about-its-revelations-296392"
   },
   {
-    "titolo": "Democrats are at Cop31 to show that the US has not abandoned the fight against climate change",
-    "data": "2026-11-11T17:31:32Z",
+    "titolo": "How the fog of war puts journalism in the frame",
+    "data": "2026-11-12T02:54:21Z",
     "fonte": "English – The Conversation",
-    "autore": "Natasha Lindstaedt, Professor in the Department of Government, University of Essex",
-    "link": "https://theconversation.com/democrats-are-at-cop31-to-show-that-the-us-has-not-abandoned-the-fight-against-climate-change-296218"
+    "autore": "Alena Radina, Postdoctoral Research Fellow, Centre for Media Transition, University of Technology Sydney",
+    "link": "https://theconversation.com/how-the-fog-of-war-puts-journalism-in-the-frame-295855"
   },
   {
-    "titolo": "Nepal-Tibet floods showed the need for greater climate finance. Is the world listening?",
-    "data": "2026-11-11T17:29:31Z",
+    "titolo": "‘Nobody cared’: new research shows deepfakes are hurting regular people, not just celebrities",
+    "data": "2026-11-12T00:40:40Z",
     "fonte": "English – The Conversation",
-    "autore": "Melanie Pill, Honorary Senior Lecturer, Australian National University",
-    "link": "https://theconversation.com/nepal-tibet-floods-showed-the-need-for-greater-climate-finance-is-the-world-listening-294675"
+    "autore": "Gemma Stevens, Research Assistant, School of Global, Urban and Social Studies, RMIT University",
+    "link": "https://theconversation.com/nobody-cared-new-research-shows-deepfakes-are-hurting-regular-people-not-just-celebrities-296154"
   },
   {
-    "titolo": "Australia’s $4.8 trillion super system has become a political football. A new book explains why",
-    "data": "2026-11-11T17:29:16Z",
+    "titolo": "El Salvador is exporting the ‘Bukele model’ to Haiti – but the gang offensive is a gamble for both nations",
+    "data": "2026-11-11T23:58:06Z",
     "fonte": "English – The Conversation",
-    "autore": "Helen Hodgson, Professor Emerita, Curtin Law School and Curtin Business School, Curtin University",
-    "link": "https://theconversation.com/australias-4-8-trillion-super-system-has-become-a-political-football-a-new-book-explains-why-294576"
+    "autore": "Robert Muggah, Richard von Weizsäcker Fellow na Bosch Academy e Co-fundador, Instituto Igarapé; Princeton University",
+    "link": "https://theconversation.com/el-salvador-is-exporting-the-bukele-model-to-haiti-but-the-gang-offensive-is-a-gamble-for-both-nations-296390"
   },
   {
-    "titolo": "Loved and scorned for his sincerity, ‘perpetual boy’ Tim Winton ages poetically in Songs from the Firefront",
-    "data": "2026-11-11T17:28:57Z",
+    "titolo": "Johnny Depp returns to the screen as Scrooge – Dickens might have some notes",
+    "data": "2026-11-11T23:53:31Z",
     "fonte": "English – The Conversation",
-    "autore": "Tony Hughes-d'Aeth, Professor, Chair of Australian Literature, The University of Western Australia",
-    "link": "https://theconversation.com/loved-and-scorned-for-his-sincerity-perpetual-boy-tim-winton-ages-poetically-in-songs-from-the-firefront-296129"
+    "autore": "Grace Moore, Associate Professor of English, University of Otago",
+    "link": "https://theconversation.com/johnny-depp-returns-to-the-screen-as-scrooge-dickens-might-have-some-notes-295865"
   },
   {
-    "titolo": "Is this iconic black hole image accurate? New study delivers an independent result",
-    "data": "2026-11-11T17:28:44Z",
+    "titolo": "Flight of the Conchords return to NZ stages after 14 years away – but Wellington is still obviously home",
+    "data": "2026-11-11T23:22:40Z",
     "fonte": "English – The Conversation",
-    "autore": "Nithyanandan Thyagarajan, Principal Research Scientist, Space & Astronomy, CSIRO",
-    "link": "https://theconversation.com/is-this-iconic-black-hole-image-accurate-new-study-delivers-an-independent-result-296146"
+    "autore": "David Simes, Teaching Assistant and Researcher, Te Whare Ngangahau – Theatre and Performance Studies, Te Herenga Waka — Victoria University of Wellington",
+    "link": "https://theconversation.com/flight-of-the-conchords-return-to-nz-stages-after-14-years-away-but-wellington-is-still-obviously-home-296280"
   },
   {
-    "titolo": "AI marking means uni assessments could theoretically never be read by a human. What now?",
-    "data": "2026-11-11T17:28:29Z",
+    "titolo": "It’s possible to make great concrete without the huge emissions from cement. Why isn’t this common?",
+    "data": "2026-11-11T22:24:01Z",
     "fonte": "English – The Conversation",
-    "autore": "Margaret Bearman, Professor (Assessment and Digital Learning), Deakin University",
-    "link": "https://theconversation.com/ai-marking-means-uni-assessments-could-theoretically-never-be-read-by-a-human-what-now-294039"
+    "autore": "Pooja Kaur Chaggar, Researcher, Western Sydney University",
+    "link": "https://theconversation.com/its-possible-to-make-great-concrete-without-the-huge-emissions-from-cement-why-isnt-this-common-292236"
   },
   {
     "titolo": "Les géants peuvent-ils exister ? Ce qu’en dit la physique",
