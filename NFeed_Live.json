@@ -161,6 +161,13 @@
     "link": "https://elifesciences.org/articles/110559"
   },
   {
+    "titolo": "Multimodal single-cell analyses reveal distinct fusion-regulated transcriptional programs in Ewing sarcoma",
+    "data": "Wed, 11 Nov 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "Beth.lawlor@seattlechildrens.org (Zev Kronenberg)",
+    "link": "https://elifesciences.org/articles/109124"
+  },
+  {
     "titolo": "Engineering ATP import in yeast uncovers a synthetic route to extend cellular lifespan",
     "data": "Wed, 11 Nov 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -175,11 +182,11 @@
     "link": "https://elifesciences.org/articles/108972"
   },
   {
-    "titolo": "Multimodal single-cell analyses reveal distinct fusion-regulated transcriptional programs in Ewing sarcoma",
-    "data": "Wed, 11 Nov 2026 00:00:00 +0000",
+    "titolo": "Midbrain somatostatin-expressing cells control pain-suppression during defensive states",
+    "data": "Tue, 10 Nov 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "Beth.lawlor@seattlechildrens.org (Zev Kronenberg)",
-    "link": "https://elifesciences.org/articles/109124"
+    "autore": "nanci.winke@inserm.fr (Zoe Grivet)",
+    "link": "https://elifesciences.org/articles/106826"
   },
   {
     "titolo": "Molidustat targets a synthetic lethal vulnerability in APC-mutant colorectal cancer through GSTP1 and PHD2 co-inhibition",
@@ -187,13 +194,6 @@
     "fonte": "eLife: latest articles",
     "autore": "kevin.myant@ed.ac.uk (Kevin B Myant)",
     "link": "https://elifesciences.org/articles/110991"
-  },
-  {
-    "titolo": "Midbrain somatostatin-expressing cells control pain-suppression during defensive states",
-    "data": "Tue, 10 Nov 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "nanci.winke@inserm.fr (Zoe Grivet)",
-    "link": "https://elifesciences.org/articles/106826"
   },
   {
     "titolo": "Life-history trade-offs explain local adaptation in <i>Arabidopsis thaliana</i>",
@@ -280,74 +280,74 @@
     "link": "http://pubmedsearches.blogspot.com/2025/01/united-kingdom-keywords-for-embase.html"
   },
   {
-    "titolo": "When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology",
-    "data": "2026-11-10T18:55:48Z",
+    "titolo": "Similarity-Guided Optimization Strategies for Approximate Network Symmetry Detection",
+    "data": "2026-11-12T09:44:02Z",
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Yeyuan Liu",
-    "link": "https://arxiv.org/abs/2611.14508v1"
+    "autore": "Petra Vidnerová",
+    "link": "https://arxiv.org/abs/2611.16555v1"
   },
   {
-    "titolo": "Measuring Robustness and Efficiency in a Connectome-Constrained Fly Visual System Model: Linking an Adversarial and a Perceptual Illusion",
-    "data": "2026-11-10T18:51:31Z",
+    "titolo": "Exact power spectra and effective dimensionality in critical block-GOE networks",
+    "data": "2026-11-12T07:37:29Z",
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Janne K. Lappalainen",
-    "link": "https://arxiv.org/abs/2611.14498v1"
+    "autore": "Dionissios Hristopulos",
+    "link": "https://arxiv.org/abs/2611.16427v1"
   },
   {
-    "titolo": "Optimization principles, revisited",
-    "data": "2026-11-10T17:36:48Z",
+    "titolo": "Planning as Dynamics Relaxation: Hippocampal Recurrent Network Realizes Optimal Goal-Directed Navigation",
+    "data": "2026-08-30T16:48:52Z",
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "William Bialek",
-    "link": "https://arxiv.org/abs/2611.14381v1"
+    "autore": "Si Wu",
+    "link": "https://arxiv.org/abs/2609.13219v2"
   },
   {
-    "titolo": "Embodiment-aware control by inference over the operator: a simulation study",
-    "data": "2026-09-29T19:28:08Z",
+    "titolo": "Pyramidal Columns Acting as Attention Heads",
+    "data": "2026-11-11T22:13:12Z",
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Sara Falcone",
-    "link": "https://arxiv.org/abs/2609.38437v2"
+    "autore": "Marco Giunti",
+    "link": "https://arxiv.org/abs/2611.16057v1"
   },
   {
-    "titolo": "ScaleBrain: A Scale-Consistent Framework for EEG Foundation Models",
-    "data": "2026-11-10T13:03:41Z",
+    "titolo": "The Platonic brain bridge hypothesis: brain networks as architectural priors for multimodal large language models",
+    "data": "2026-09-10T01:13:14Z",
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Wensheng Zhang",
-    "link": "https://arxiv.org/abs/2611.14035v1"
+    "autore": "Li Liu",
+    "link": "https://arxiv.org/abs/2609.10947v4"
   },
   {
-    "titolo": "Towards full-stack functionalist theories of consciousness: Identifying the functional profile",
-    "data": "2026-09-27T08:47:40Z",
+    "titolo": "Optogenetic Modulation Fraction: A Robust Opsin-Presence Effect and an Unresolved Cell-Type Question, by Censoring-Aware Survival Analysis of Public Neuropixels Data",
+    "data": "2026-11-11T15:25:15Z",
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Paras Chopra",
-    "link": "https://arxiv.org/abs/2609.33366v3"
+    "autore": "Siddhardha Nanda",
+    "link": "https://arxiv.org/abs/2611.15606v1"
   },
   {
-    "titolo": "BrainVista: Modeling Naturalistic Brain Dynamics as Multimodal Next-Token Prediction",
-    "data": "2026-02-04T13:00:06Z",
+    "titolo": "Lilith: Developmental Modular LLMs with Chemical Signaling",
+    "data": "2025-07-06T23:18:51Z",
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Weidong Cai",
-    "link": "https://arxiv.org/abs/2602.04512v2"
+    "autore": "Alejandro Comas-Leon",
+    "link": "https://arxiv.org/abs/2507.04575v2"
   },
   {
-    "titolo": "Neuromodulation Through Intrinsic Noise",
-    "data": "2026-11-10T09:19:45Z",
+    "titolo": "Analysis choices decide whether untrained networks beat trained ones at V1: a multiverse analysis of model-brain RSA",
+    "data": "2026-11-11T14:18:23Z",
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Rodolphe Sepulchre",
-    "link": "https://arxiv.org/abs/2611.13780v1"
+    "autore": "Nils Leutenegger",
+    "link": "https://arxiv.org/abs/2611.15533v1"
   },
   {
-    "titolo": "Similar visual tuning conceals different recovery dynamics in a model of macaque V1",
-    "data": "2026-11-10T07:39:57Z",
+    "titolo": "Recognizing Mind Wandering: A Computational Phenomenology of Focused-Attention Meditation",
+    "data": "2026-07-16T10:53:30Z",
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Zhuo-Cheng Xiao",
-    "link": "https://arxiv.org/abs/2611.13692v1"
+    "autore": "Gustavo Patow",
+    "link": "https://arxiv.org/abs/2607.14833v2"
   },
   {
-    "titolo": "A Functional Preservation Score for Auditing Connectome Operations: Compression, Alignment, Transport, and Local-Rule Writing",
-    "data": "2026-11-10T07:30:42Z",
+    "titolo": "A theory of plasticity: capacity for change as inverse configurational constraint",
+    "data": "2026-09-21T19:02:10Z",
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Praveg Vashishtha",
-    "link": "https://arxiv.org/abs/2611.13681v1"
+    "autore": "Igor Branchi",
+    "link": "https://arxiv.org/abs/2609.25312v4"
   },
   {
     "titolo": "Reducing Catastrophic Risk from AI with Systematic Monitoring and Evaluation of Rogue AI Progression",
@@ -441,6 +441,13 @@
     "link": "https://arxiv.org/abs/1803.06969v2"
   },
   {
+    "titolo": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
+    "data": "Thu, 12 Nov 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168796"
+  },
+  {
     "titolo": "Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
     "data": "Thu, 12 Nov 2026 12:00:00 +0000",
     "fonte": "UN News - Global perspective Human stories",
@@ -502,13 +509,6 @@
     "fonte": "UN News - Global perspective Human stories",
     "autore": "Anonimo",
     "link": "https://news.un.org/feed/view/en/story/2026/11/1168784"
-  },
-  {
-    "titolo": "World News in Brief: Ending cholera by 2030 ‘within reach’, Haiti displacement and hunger, US human rights review rescheduled",
-    "data": "Tue, 10 Nov 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168782"
   },
   {
     "titolo": "Why Is Mexico Defying Latin America’s Right Turn?",
@@ -721,6 +721,13 @@
     "link": "https://cepr.org/research/programme-areas/international-macroeconomics"
   },
   {
+    "titolo": "Being Heumaan is no ‘inspirational cripple’ tale. It’s a story of ordinary people taking on impossible odds",
+    "data": "2026-11-12T23:48:55Z",
+    "fonte": "Arts + Culture – The Conversation",
+    "autore": "Shane Clifton, Associate Professor and Director of the Centre for Disability Research and Policy, University of Sydney",
+    "link": "https://theconversation.com/being-heumaan-is-no-inspirational-cripple-tale-its-a-story-of-ordinary-people-taking-on-impossible-odds-295962"
+  },
+  {
     "titolo": "There’s a formula for writing a hit song. So why isn’t every song a hit?",
     "data": "2026-11-12T19:04:34Z",
     "fonte": "Arts + Culture – The Conversation",
@@ -782,13 +789,6 @@
     "fonte": "Arts + Culture – The Conversation",
     "autore": "Audrey Mitchell, PhD Candidate and Sessional Tutor/Lecturer in Film Studies, University of Sydney",
     "link": "https://theconversation.com/can-you-see-everything-nathan-fielder-and-elizabeth-holmes-face-off-in-you-can-see-everything-295458"
-  },
-  {
-    "titolo": "Powerhouse Parramatta: a museum of science, design and technology supercharged by spectacular art",
-    "data": "2026-11-09T05:14:44Z",
-    "fonte": "Arts + Culture – The Conversation",
-    "autore": "Joanna Mendelssohn, Honorary Senior Fellow, School of Culture and Communication, The University of Melbourne",
-    "link": "https://theconversation.com/powerhouse-parramatta-a-museum-of-science-design-and-technology-supercharged-by-spectacular-art-295745"
   },
   {
     "titolo": "Victoria’s Year 12 exam website has been hacked – here are 3 ways students can handle academic stress",
@@ -861,6 +861,27 @@
     "link": "https://theconversation.com/does-australia-need-more-national-exams-for-school-students-295562"
   },
   {
+    "titolo": "Avoiding the ‘F word’: Australia and Turkey dance around fossil fuels at COP31 summit",
+    "data": "2026-11-13T04:21:18Z",
+    "fonte": "Environment + Energy – The Conversation",
+    "autore": "Matt McDonald, Professor of International Relations, The University of Queensland",
+    "link": "https://theconversation.com/avoiding-the-f-word-australia-and-turkey-dance-around-fossil-fuels-at-cop31-summit-296418"
+  },
+  {
+    "titolo": "A quarter of the world’s reptiles use rocky habitats. So why aren’t we protecting them?",
+    "data": "2026-11-13T00:45:20Z",
+    "fonte": "Environment + Energy – The Conversation",
+    "autore": "David Lindenmayer, Distinguished Professor of Ecology, Fenner School of Environment and Society, Australian National University",
+    "link": "https://theconversation.com/a-quarter-of-the-worlds-reptiles-use-rocky-habitats-so-why-arent-we-protecting-them-295159"
+  },
+  {
+    "titolo": "‘A clear call for climate action’: Bowen defends Albanese at COP31",
+    "data": "2026-11-13T00:32:35Z",
+    "fonte": "Environment + Energy – The Conversation",
+    "autore": "Miki Perkins, Environment & Energy Editor, The Conversation",
+    "link": "https://theconversation.com/a-clear-call-for-climate-action-bowen-defends-albanese-at-cop31-296545"
+  },
+  {
     "titolo": "Concrete and steel – or mangroves and forests? When it comes to climate adaptation, nature is much cheaper",
     "data": "2026-11-12T19:04:48Z",
     "fonte": "Environment + Energy – The Conversation",
@@ -910,25 +931,11 @@
     "link": "https://theconversation.com/time-is-running-out-to-protect-franz-josef-from-its-rising-river-stopbanks-wont-work-forever-295959"
   },
   {
-    "titolo": "Overheating cattle: more and more dangerous heat is coming for northern Australia’s herds",
-    "data": "2026-11-10T19:16:58Z",
-    "fonte": "Environment + Energy – The Conversation",
-    "autore": "Rachel Taylor, Research Fellow in Climate Extremes and Adaptation, University of Southern Queensland",
-    "link": "https://theconversation.com/overheating-cattle-more-and-more-dangerous-heat-is-coming-for-northern-australias-herds-295978"
-  },
-  {
-    "titolo": "The world needs to get serious about electrification – here’s why",
-    "data": "2026-11-10T19:12:39Z",
-    "fonte": "Environment + Energy – The Conversation",
-    "autore": "Anita Talberg, Honorary Fellow, Melbourne Climate Futures, The University of Melbourne",
-    "link": "https://theconversation.com/the-world-needs-to-get-serious-about-electrification-heres-why-296062"
-  },
-  {
-    "titolo": "The pet and skin trades pose little threat to reptile species: new research",
-    "data": "2026-11-10T03:13:48Z",
-    "fonte": "Environment + Energy – The Conversation",
-    "autore": "Timothy J. Colston, Associate Professor, Biology, University of Puerto Rico - Mayagüez",
-    "link": "https://theconversation.com/the-pet-and-skin-trades-pose-little-threat-to-reptile-species-new-research-287964"
+    "titolo": "What’s missing from election promises in Victoria’s rural health debate? A long-term vision",
+    "data": "2026-11-13T04:15:11Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Belinda O'Sullivan, Professor and Director of Research, Monash Rural Health, Monash University",
+    "link": "https://theconversation.com/whats-missing-from-election-promises-in-victorias-rural-health-debate-a-long-term-vision-294358"
   },
   {
     "titolo": "RNZ’s budget crisis threatens its core purpose. But there’s an obvious solution",
@@ -994,11 +1001,60 @@
     "link": "https://theconversation.com/politics-with-michelle-grattan-kos-samaras-and-richard-willingham-on-victorias-expected-change-of-government-296250"
   },
   {
-    "titolo": "Safe seats, shortchanged: why rural Australia bears the brunt of pork-barrelling",
-    "data": "2026-11-10T19:15:23Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "William Partlett, Associate Professor of Public Law, The University of Melbourne",
-    "link": "https://theconversation.com/safe-seats-shortchanged-why-rural-australia-bears-the-brunt-of-pork-barrelling-295342"
+    "titolo": "Avoiding the ‘F word’: Australia and Turkey dance around fossil fuels at COP31 summit",
+    "data": "2026-11-13T04:21:18Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Matt McDonald, Professor of International Relations, The University of Queensland",
+    "link": "https://theconversation.com/avoiding-the-f-word-australia-and-turkey-dance-around-fossil-fuels-at-cop31-summit-296418"
+  },
+  {
+    "titolo": "What’s missing from election promises in Victoria’s rural health debate? A long-term vision",
+    "data": "2026-11-13T04:15:11Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Belinda O'Sullivan, Professor and Director of Research, Monash Rural Health, Monash University",
+    "link": "https://theconversation.com/whats-missing-from-election-promises-in-victorias-rural-health-debate-a-long-term-vision-294358"
+  },
+  {
+    "titolo": "GPs are now ‘prescribing’ time in nature. Is it likely to improve your health?",
+    "data": "2026-11-13T02:38:07Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Victoria Sullivan, Health Promotion Practitioner | PhD Candidate, Centre for Community Health and Wellbeing, The University of Queensland",
+    "link": "https://theconversation.com/gps-are-now-prescribing-time-in-nature-is-it-likely-to-improve-your-health-296469"
+  },
+  {
+    "titolo": "Microsoft has suffered a global outage. A tech expert explains what went wrong",
+    "data": "2026-11-13T01:26:45Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Mahmoud Elkhodr, Senior Lecturer in Information and Communication Technologies, CQUniversity Australia",
+    "link": "https://theconversation.com/microsoft-has-suffered-a-global-outage-a-tech-expert-explains-what-went-wrong-296588"
+  },
+  {
+    "titolo": "A quarter of the world’s reptiles use rocky habitats. So why aren’t we protecting them?",
+    "data": "2026-11-13T00:45:20Z",
+    "fonte": "Home – The Conversation",
+    "autore": "David Lindenmayer, Distinguished Professor of Ecology, Fenner School of Environment and Society, Australian National University",
+    "link": "https://theconversation.com/a-quarter-of-the-worlds-reptiles-use-rocky-habitats-so-why-arent-we-protecting-them-295159"
+  },
+  {
+    "titolo": "‘A clear call for climate action’: Bowen defends Albanese at COP31",
+    "data": "2026-11-13T00:32:35Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Miki Perkins, Environment & Energy Editor, The Conversation",
+    "link": "https://theconversation.com/a-clear-call-for-climate-action-bowen-defends-albanese-at-cop31-296545"
+  },
+  {
+    "titolo": "Becoming a Man has good advice – but as a manosphere expert, I wish it wasn’t so gendered",
+    "data": "2026-11-12T23:52:11Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Simon Copland, Honorary Fellow in Sociology, Australian National University",
+    "link": "https://theconversation.com/becoming-a-man-has-good-advice-but-as-a-manosphere-expert-i-wish-it-wasnt-so-gendered-294246"
+  },
+  {
+    "titolo": "Being Heumaan is no ‘inspirational cripple’ tale. It’s a story of ordinary people taking on impossible odds",
+    "data": "2026-11-12T23:48:55Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Shane Clifton, Associate Professor and Director of the Centre for Disability Research and Policy, University of Sydney",
+    "link": "https://theconversation.com/being-heumaan-is-no-inspirational-cripple-tale-its-a-story-of-ordinary-people-taking-on-impossible-odds-295962"
   },
   {
     "titolo": "RNZ’s budget crisis threatens its core purpose. But there’s an obvious solution",
@@ -1013,62 +1069,6 @@
     "fonte": "Home – The Conversation",
     "autore": "Simon Wright, Senior Research Fellow, Energy & Circularity, Gulbali Institute, Charles Sturt University",
     "link": "https://theconversation.com/rural-australian-communities-are-hosting-the-clean-energy-boom-are-they-getting-a-fair-say-296254"
-  },
-  {
-    "titolo": "Concrete and steel – or mangroves and forests? When it comes to climate adaptation, nature is much cheaper",
-    "data": "2026-11-12T19:04:48Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Robert Nasi, Director General CIFOR, Director of Science CIFOR-ICRAF, Center for International Forestry Research – World Agroforestry (CIFOR-ICRAF)",
-    "link": "https://theconversation.com/concrete-and-steel-or-mangroves-and-forests-when-it-comes-to-climate-adaptation-nature-is-much-cheaper-292462"
-  },
-  {
-    "titolo": "There’s a formula for writing a hit song. So why isn’t every song a hit?",
-    "data": "2026-11-12T19:04:34Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Timothy McKenry, Professor of Music, Australian Catholic University",
-    "link": "https://theconversation.com/theres-a-formula-for-writing-a-hit-song-so-why-isnt-every-song-a-hit-283586"
-  },
-  {
-    "titolo": "Discoveries from a 125,000-year-old lakeshore reveal life in a greener Arabia",
-    "data": "2026-11-12T19:04:14Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Michael Petraglia, Director, ARC Centre of Excellence for Transforming Human Origins Research, Griffith University",
-    "link": "https://theconversation.com/discoveries-from-a-125-000-year-old-lakeshore-reveal-life-in-a-greener-arabia-293952"
-  },
-  {
-    "titolo": "Most new parents have intrusive thoughts about their baby being harmed. It’s OK to talk about it",
-    "data": "2026-11-12T19:04:00Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Jodie Pestana, Postdoctoral Research Associate in the School of Psychology, Faculty of Science, UNSW",
-    "link": "https://theconversation.com/most-new-parents-have-intrusive-thoughts-about-their-baby-being-harmed-its-ok-to-talk-about-it-289231"
-  },
-  {
-    "titolo": "Friday essay: to tackle the dreadful rise in antisemitism, we must speak the truth about Israel’s war crimes",
-    "data": "2026-11-12T19:03:45Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Robert Manne, Emeritus Professor of Politics, La Trobe University",
-    "link": "https://theconversation.com/friday-essay-to-tackle-the-dreadful-rise-in-antisemitism-we-must-speak-the-truth-about-israels-war-crimes-296263"
-  },
-  {
-    "titolo": "Amid rising job cuts, these are your legal rights if you’re made redundant",
-    "data": "2026-11-12T19:03:28Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Julia Tomassetti, Lecturer, School of Business, Law and Entrepreneurship, Swinburne University of Technology",
-    "link": "https://theconversation.com/amid-rising-job-cuts-these-are-your-legal-rights-if-youre-made-redundant-296258"
-  },
-  {
-    "titolo": "Women suffer more from climate change. Policymakers must recognise this",
-    "data": "2026-11-12T19:03:15Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Tegan Clark, PhD Candidate, College of Systems and Society, Australian National University",
-    "link": "https://theconversation.com/women-suffer-more-from-climate-change-policymakers-must-recognise-this-295879"
-  },
-  {
-    "titolo": "Pasifika women are making rugby league history. But what about the next generation?",
-    "data": "2026-11-12T18:21:47Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Mihi Joy Nemani, Senior Lecturer, Te Huataki Waiora School of Health, University of Waikato",
-    "link": "https://theconversation.com/pasifika-women-are-making-rugby-league-history-but-what-about-the-next-generation-295741"
   },
   {
     "titolo": "Slapps, NDAs and gendered ‘lawfare’: how the rich and powerful silence victims of sexual offences",
@@ -1421,6 +1421,62 @@
     "link": "https://theconversation.com/is-childproofing-the-internet-constitutional-a-tech-law-expert-draws-out-the-issues-240430"
   },
   {
+    "titolo": "Avoiding the ‘F word’: Australia and Turkey dance around fossil fuels at COP31 summit",
+    "data": "2026-11-13T04:21:18Z",
+    "fonte": "English – The Conversation",
+    "autore": "Matt McDonald, Professor of International Relations, The University of Queensland",
+    "link": "https://theconversation.com/avoiding-the-f-word-australia-and-turkey-dance-around-fossil-fuels-at-cop31-summit-296418"
+  },
+  {
+    "titolo": "What’s missing from election promises in Victoria’s rural health debate? A long-term vision",
+    "data": "2026-11-13T04:15:11Z",
+    "fonte": "English – The Conversation",
+    "autore": "Belinda O'Sullivan, Professor and Director of Research, Monash Rural Health, Monash University",
+    "link": "https://theconversation.com/whats-missing-from-election-promises-in-victorias-rural-health-debate-a-long-term-vision-294358"
+  },
+  {
+    "titolo": "GPs are now ‘prescribing’ time in nature. Is it likely to improve your health?",
+    "data": "2026-11-13T02:38:07Z",
+    "fonte": "English – The Conversation",
+    "autore": "Victoria Sullivan, Health Promotion Practitioner | PhD Candidate, Centre for Community Health and Wellbeing, The University of Queensland",
+    "link": "https://theconversation.com/gps-are-now-prescribing-time-in-nature-is-it-likely-to-improve-your-health-296469"
+  },
+  {
+    "titolo": "Microsoft has suffered a global outage. A tech expert explains what went wrong",
+    "data": "2026-11-13T01:26:45Z",
+    "fonte": "English – The Conversation",
+    "autore": "Mahmoud Elkhodr, Senior Lecturer in Information and Communication Technologies, CQUniversity Australia",
+    "link": "https://theconversation.com/microsoft-has-suffered-a-global-outage-a-tech-expert-explains-what-went-wrong-296588"
+  },
+  {
+    "titolo": "A quarter of the world’s reptiles use rocky habitats. So why aren’t we protecting them?",
+    "data": "2026-11-13T00:45:20Z",
+    "fonte": "English – The Conversation",
+    "autore": "David Lindenmayer, Distinguished Professor of Ecology, Fenner School of Environment and Society, Australian National University",
+    "link": "https://theconversation.com/a-quarter-of-the-worlds-reptiles-use-rocky-habitats-so-why-arent-we-protecting-them-295159"
+  },
+  {
+    "titolo": "‘A clear call for climate action’: Bowen defends Albanese at COP31",
+    "data": "2026-11-13T00:32:35Z",
+    "fonte": "English – The Conversation",
+    "autore": "Miki Perkins, Environment & Energy Editor, The Conversation",
+    "link": "https://theconversation.com/a-clear-call-for-climate-action-bowen-defends-albanese-at-cop31-296545"
+  },
+  {
+    "titolo": "Becoming a Man has good advice – but as a manosphere expert, I wish it wasn’t so gendered",
+    "data": "2026-11-12T23:52:11Z",
+    "fonte": "English – The Conversation",
+    "autore": "Simon Copland, Honorary Fellow in Sociology, Australian National University",
+    "link": "https://theconversation.com/becoming-a-man-has-good-advice-but-as-a-manosphere-expert-i-wish-it-wasnt-so-gendered-294246"
+  },
+  {
+    "titolo": "Being Heumaan is no ‘inspirational cripple’ tale. It’s a story of ordinary people taking on impossible odds",
+    "data": "2026-11-12T23:48:55Z",
+    "fonte": "English – The Conversation",
+    "autore": "Shane Clifton, Associate Professor and Director of the Centre for Disability Research and Policy, University of Sydney",
+    "link": "https://theconversation.com/being-heumaan-is-no-inspirational-cripple-tale-its-a-story-of-ordinary-people-taking-on-impossible-odds-295962"
+  },
+  {
     "titolo": "Why Canada has a moral imperative to address homelessness",
     "data": "2026-11-12T21:18:55Z",
     "fonte": "English – The Conversation",
@@ -1433,62 +1489,6 @@
     "fonte": "English – The Conversation",
     "autore": "Peter Thompson, Associate Professor  in Media and Communication, Te Herenga Waka — Victoria University of Wellington",
     "link": "https://theconversation.com/rnzs-budget-crisis-threatens-its-core-purpose-but-theres-an-obvious-solution-296293"
-  },
-  {
-    "titolo": "From ancient Asia to the AI age: Has China’s ‘beauty stratagem’ found a new victim in Nvidia’s Jensen Huang?",
-    "data": "2026-11-12T20:25:32Z",
-    "fonte": "English – The Conversation",
-    "autore": "Linggong Kong, Ph.D. Candidate in Political Science, Auburn University",
-    "link": "https://theconversation.com/from-ancient-asia-to-the-ai-age-has-chinas-beauty-stratagem-found-a-new-victim-in-nvidias-jensen-huang-296393"
-  },
-  {
-    "titolo": "What the Nvidia allegations mean for Canada’s growing engagement with China",
-    "data": "2026-11-12T19:40:36Z",
-    "fonte": "English – The Conversation",
-    "autore": "Kawser Ahmed, Adjunct Professor, Natural Resource Institute (NRI), University of Manitoba",
-    "link": "https://theconversation.com/what-the-nvidia-allegations-mean-for-canadas-growing-engagement-with-china-296388"
-  },
-  {
-    "titolo": "Rural Australian communities are hosting the clean energy boom. Are they getting a fair say?",
-    "data": "2026-11-12T19:05:21Z",
-    "fonte": "English – The Conversation",
-    "autore": "Simon Wright, Senior Research Fellow, Energy & Circularity, Gulbali Institute, Charles Sturt University",
-    "link": "https://theconversation.com/rural-australian-communities-are-hosting-the-clean-energy-boom-are-they-getting-a-fair-say-296254"
-  },
-  {
-    "titolo": "Far from farms and cities, dry climates are boosting river nitrate pollution",
-    "data": "2026-11-12T19:04:55Z",
-    "fonte": "English – The Conversation",
-    "autore": "Li Li (李黎), Professor of Civil and Environmental Engineering, Penn State",
-    "link": "https://theconversation.com/far-from-farms-and-cities-dry-climates-are-boosting-river-nitrate-pollution-294558"
-  },
-  {
-    "titolo": "Concrete and steel – or mangroves and forests? When it comes to climate adaptation, nature is much cheaper",
-    "data": "2026-11-12T19:04:48Z",
-    "fonte": "English – The Conversation",
-    "autore": "Robert Nasi, Director General CIFOR, Director of Science CIFOR-ICRAF, Center for International Forestry Research – World Agroforestry (CIFOR-ICRAF)",
-    "link": "https://theconversation.com/concrete-and-steel-or-mangroves-and-forests-when-it-comes-to-climate-adaptation-nature-is-much-cheaper-292462"
-  },
-  {
-    "titolo": "There’s a formula for writing a hit song. So why isn’t every song a hit?",
-    "data": "2026-11-12T19:04:34Z",
-    "fonte": "English – The Conversation",
-    "autore": "Timothy McKenry, Professor of Music, Australian Catholic University",
-    "link": "https://theconversation.com/theres-a-formula-for-writing-a-hit-song-so-why-isnt-every-song-a-hit-283586"
-  },
-  {
-    "titolo": "Discoveries from a 125,000-year-old lakeshore reveal life in a greener Arabia",
-    "data": "2026-11-12T19:04:14Z",
-    "fonte": "English – The Conversation",
-    "autore": "Michael Petraglia, Director, ARC Centre of Excellence for Transforming Human Origins Research, Griffith University",
-    "link": "https://theconversation.com/discoveries-from-a-125-000-year-old-lakeshore-reveal-life-in-a-greener-arabia-293952"
-  },
-  {
-    "titolo": "Most new parents have intrusive thoughts about their baby being harmed. It’s OK to talk about it",
-    "data": "2026-11-12T19:04:00Z",
-    "fonte": "English – The Conversation",
-    "autore": "Jodie Pestana, Postdoctoral Research Associate in the School of Psychology, Faculty of Science, UNSW",
-    "link": "https://theconversation.com/most-new-parents-have-intrusive-thoughts-about-their-baby-being-harmed-its-ok-to-talk-about-it-289231"
   },
   {
     "titolo": "L’empreinte carbone astronomique des preuves mathématiques d’OpenAI",
