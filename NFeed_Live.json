@@ -140,6 +140,13 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004073"
   },
   {
+    "titolo": "The zoo of the gene networks capable of pattern formation by extracellular signaling",
+    "data": "Fri, 13 Nov 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "isaac.salazar@uab.cat (Kevin Martinez Anhom)",
+    "link": "https://elifesciences.org/articles/107563"
+  },
+  {
     "titolo": "Learning-associated flexibility of cortical taste coding is impaired in <i>Shank3</i> knockout mice",
     "data": "Thu, 12 Nov 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -161,6 +168,13 @@
     "link": "https://elifesciences.org/articles/110575"
   },
   {
+    "titolo": "Cholinergic blockade reveals a role for human hippocampal theta in memory encoding but not retrieval",
+    "data": "Wed, 11 Nov 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "bradley.lega@utsouthwestern.edu (Tamara Gedankien)",
+    "link": "https://elifesciences.org/articles/108972"
+  },
+  {
     "titolo": "Engineering ATP import in yeast uncovers a synthetic route to extend cellular lifespan",
     "data": "Wed, 11 Nov 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -175,11 +189,11 @@
     "link": "https://elifesciences.org/articles/109124"
   },
   {
-    "titolo": "Cholinergic blockade reveals a role for human hippocampal theta in memory encoding but not retrieval",
-    "data": "Wed, 11 Nov 2026 00:00:00 +0000",
+    "titolo": "Life-history trade-offs explain local adaptation in <i>Arabidopsis thaliana</i>",
+    "data": "Tue, 10 Nov 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "bradley.lega@utsouthwestern.edu (Tamara Gedankien)",
-    "link": "https://elifesciences.org/articles/108972"
+    "autore": "jb7684@nyu.edu (Viktoria Nizhynska)",
+    "link": "https://elifesciences.org/articles/107477"
   },
   {
     "titolo": "Midbrain somatostatin-expressing cells control pain-suppression during defensive states",
@@ -189,25 +203,11 @@
     "link": "https://elifesciences.org/articles/106826"
   },
   {
-    "titolo": "Life-history trade-offs explain local adaptation in <i>Arabidopsis thaliana</i>",
-    "data": "Tue, 10 Nov 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "jb7684@nyu.edu (Viktoria Nizhynska)",
-    "link": "https://elifesciences.org/articles/107477"
-  },
-  {
     "titolo": "Molidustat targets a synthetic lethal vulnerability in APC-mutant colorectal cancer through GSTP1 and PHD2 co-inhibition",
     "data": "Tue, 10 Nov 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
     "autore": "kevin.myant@ed.ac.uk (Kevin B Myant)",
     "link": "https://elifesciences.org/articles/110991"
-  },
-  {
-    "titolo": "Virus-specific impacts on honey bee flight performance are mediated by the octopamine pathway",
-    "data": "Mon, 09 Nov 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "michelle.flenniken@montana.edu (Naomi G Kaku)",
-    "link": "https://elifesciences.org/articles/111072"
   },
   {
     "titolo": "Skin conditions and symptoms  -- EMBASE via embase.com",
@@ -278,6 +278,76 @@
     "fonte": "PubMed Search Strategies",
     "autore": "Cindy Schmidt, M.D., M.L.S. (noreply@blogger.com)",
     "link": "http://pubmedsearches.blogspot.com/2025/01/united-kingdom-keywords-for-embase.html"
+  },
+  {
+    "titolo": "Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets",
+    "data": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Gerhard Trippen (University of Toronto)",
+    "link": "https://arxiv.org/abs/2611.14544"
+  },
+  {
+    "titolo": "Cleaning an Agent's History Hurts When the World Still Holds the Error",
+    "data": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Egor Pakhomov, Anurag Koul, Hongjun Liu, Bo Pang, Shafiq Joty, Erik Nijkamp",
+    "link": "https://arxiv.org/abs/2611.14654"
+  },
+  {
+    "titolo": "Together Compiler: Continual Compilation for AI Inference",
+    "data": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Reyna Abhyankar, Dylan Lim, Drew Wadsworth, Venkata Hasith Vattikuti, YuTong Julia Zhang, Jung Hwan Heo, Taeksang Kim, Kesavan Ramakrishnan, Evangelene Stanley, Xinyu Fang, Daniel Y. Fu, Simran Arora",
+    "link": "https://arxiv.org/abs/2611.14681"
+  },
+  {
+    "titolo": "When Should Semantic Priors Enter Partially-Identified Causal Discovery?",
+    "data": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Muhammad Ahmed Mohsin, Saad Bin Ather, Valentin Six, Lancelot Da Costa, Tommaso Salvatori, Bernhard Scholkopf",
+    "link": "https://arxiv.org/abs/2611.14736"
+  },
+  {
+    "titolo": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
+    "data": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Jiani Zhang, Manav Garg, Eugenie Lai, Cheng Zhen, Eva Sharma, Yang Pan, Yaming Lin, Alon Halevy",
+    "link": "https://arxiv.org/abs/2611.14765"
+  },
+  {
+    "titolo": "Rational Use of Time for Social Coordination in Humans and AI",
+    "data": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Xiulin Yang, Sirisha Gudavalli, Jennifer Hu",
+    "link": "https://arxiv.org/abs/2611.14766"
+  },
+  {
+    "titolo": "Leaderboard Hacking: Preference-Based Model Evaluations are Vulnerable to Manipulation",
+    "data": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Eve Fleisig, Joachim Baumann, Dylan Hadfield-Menell, Dirk Hovy",
+    "link": "https://arxiv.org/abs/2611.14769"
+  },
+  {
+    "titolo": "Robust Task-Aware State Estimation from Pre-trained Perception",
+    "data": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Guy Azran, Sarah Keren",
+    "link": "https://arxiv.org/abs/2611.14781"
+  },
+  {
+    "titolo": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
+    "data": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Abhinav Gupta, Ben Slivinski, Yashica Patodia, Michael Saldivar",
+    "link": "https://arxiv.org/abs/2611.14794"
+  },
+  {
+    "titolo": "GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering",
+    "data": "Sat, 14 Nov 2026 00:00:00 -0500",
+    "fonte": "cs.AI updates on arXiv.org",
+    "autore": "Noah J. Bagazinski, Cyril Picard, Faez Ahmed",
+    "link": "https://arxiv.org/abs/2611.14804"
   },
   {
     "titolo": "Structure-Preserving Leaky Integrate-and-Fire Dynamics on Arbitrary Time Scales",
@@ -441,6 +511,13 @@
     "link": "https://arxiv.org/abs/1803.06969v2"
   },
   {
+    "titolo": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years",
+    "data": "Fri, 13 Nov 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168803"
+  },
+  {
     "titolo": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
     "data": "Fri, 13 Nov 2026 12:00:00 +0000",
     "fonte": "UN News - Global perspective Human stories",
@@ -502,13 +579,6 @@
     "fonte": "UN News - Global perspective Human stories",
     "autore": "Anonimo",
     "link": "https://news.un.org/feed/view/en/story/2026/11/1168792"
-  },
-  {
-    "titolo": "Kenya begins countdown towards end of Ebola after last patient discharged",
-    "data": "Thu, 12 Nov 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168790"
   },
   {
     "titolo": "The Rare-Earth Game",
