@@ -280,216 +280,6 @@
     "link": "http://pubmedsearches.blogspot.com/2025/01/united-kingdom-keywords-for-embase.html"
   },
   {
-    "titolo": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
-    "data": "Mon, 16 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Samarth Vinayaka",
-    "link": "https://arxiv.org/abs/2611.17338"
-  },
-  {
-    "titolo": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
-    "data": "Mon, 16 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Shubhra Mittal, Gaurav Naresh Mittal",
-    "link": "https://arxiv.org/abs/2611.17339"
-  },
-  {
-    "titolo": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
-    "data": "Mon, 16 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Inish Melroy D Souza, Tom Jackson, Vitor Castro, Rebecca Higginson, Andrea Soltoggio",
-    "link": "https://arxiv.org/abs/2611.17340"
-  },
-  {
-    "titolo": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
-    "data": "Mon, 16 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Animesh Agarwal, Meysam Ghaffari, Nina Fatehi, Carlos Morato",
-    "link": "https://arxiv.org/abs/2611.17341"
-  },
-  {
-    "titolo": "An Operationalization of Opaque Serial Depth",
-    "data": "Mon, 16 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Nathan Sheffield, Alek Westover, Lukas Finnveden, Alexa Pan, Julian Stastny, Ryan Greenblatt",
-    "link": "https://arxiv.org/abs/2611.17495"
-  },
-  {
-    "titolo": "Advancing Quantization for R&R Models with Microscaling Formats",
-    "data": "Mon, 16 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Yavuz Yetim, Bor-Yiing Su, Zhe Wang, Arthur Liu, Pranav Sharma, Ying Wang, Randy Shuai, Luke Pfister, Ruichao Xiao, Bill Zhao, Zihao Liu, Liyuan Li, Jiangyuan Li, Gaoxiang Liu, Nathan Yan, Geonhwa Jeong, Jatin Chhugani, Elias Ellison, Uladzimir Pashkevich",
-    "link": "https://arxiv.org/abs/2611.17501"
-  },
-  {
-    "titolo": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
-    "data": "Mon, 16 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Harrison C. Margolin",
-    "link": "https://arxiv.org/abs/2611.17515"
-  },
-  {
-    "titolo": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
-    "data": "Mon, 16 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Ali Mohammadi Ruzbahani, Rezvan Abouzadeh",
-    "link": "https://arxiv.org/abs/2611.17524"
-  },
-  {
-    "titolo": "Astrocyte Biocomputing: Astrocytic Contributions to Neural Network Computation",
-    "data": "Mon, 16 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Kate M. O'Neill, Ian Whitehouse, Adam N. McCaughan, Ryan O'Loughlin, Sonia Buckley, Wolfgang Losert",
-    "link": "https://arxiv.org/abs/2611.17532"
-  },
-  {
-    "titolo": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
-    "data": "Mon, 16 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Samuel Chen, Jiaru Bai, Austin Henry Cheng, Varinia Bernales, Al\\'an Aspuru-Guzik",
-    "link": "https://arxiv.org/abs/2611.17539"
-  },
-  {
-    "titolo": "Accessible 3D Printed Archimedes System for Accurate and Precise Density Measurements and Uncertainty Analysis",
-    "data": "Mon, 16 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Emily Doucet, Jan-Hendrik P\\\"ohls",
-    "link": "https://arxiv.org/abs/2611.17342"
-  },
-  {
-    "titolo": "Curvature-Aware Edge Dynamic GNNs for Low-$p_T$ Track Reconstruction at HL-LHC",
-    "data": "Mon, 16 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Syed Haider Ali, Nouhaila Innan, Muhammad Shafique",
-    "link": "https://arxiv.org/abs/2611.17343"
-  },
-  {
-    "titolo": "Rank-One Ultralight Dark Matter Response in a Full-Tensor Gravity Gradiometer",
-    "data": "Mon, 16 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "John J. Oh, Ho Jung Paik",
-    "link": "https://arxiv.org/abs/2611.17344"
-  },
-  {
-    "titolo": "Composition-dependent ultralight dark matter detection with a tetrahedral superconducting gravity gradiometer",
-    "data": "Mon, 16 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "John J. Oh, Ho Jung Paik",
-    "link": "https://arxiv.org/abs/2611.17345"
-  },
-  {
-    "titolo": "Artificial Intelligence for VAMOS++: From Data Analysis to Intelligent Instrumentation",
-    "data": "Mon, 16 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Maurycy Rejmund, Antoine Lemasson, Diego Ramos",
-    "link": "https://arxiv.org/abs/2611.17346"
-  },
-  {
-    "titolo": "Performance and Stability Studies of GEM Detectors for High Energy Physics Applications",
-    "data": "Mon, 16 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "S. Mandal, S. Das, S. Biswas",
-    "link": "https://arxiv.org/abs/2611.17347"
-  },
-  {
-    "titolo": "Topology-based fast neutron background suppression and sterile-neutrino sensitivity in a segmented reactor ${\\overline{\\nu}}_{e}$ detector",
-    "data": "Mon, 16 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Roni Dey",
-    "link": "https://arxiv.org/abs/2611.17348"
-  },
-  {
-    "titolo": "High-Transmission Cryogenic Fiber-Optic U-Bench Filter for Ultra-Low-Background Single-Photon Detection in Superconducting Devices",
-    "data": "Mon, 16 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Elmeri O. Rivasto, Katharina-Sophie Isleif, Friederike Januschek, Axel Lindner, Manuel Meyer, Joakim R. Rosenkilde, Jos\\'e Alejandro Rubiera Gimeno",
-    "link": "https://arxiv.org/abs/2611.17349"
-  },
-  {
-    "titolo": "Energy resolving optical transition-edge sensor approaching fundamental limits",
-    "data": "Mon, 16 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Leaf Swordy, Benedikt Hampel, Paul Szypryt, Negar Otrooshi, Douglas A. Bennett, Jordan Wheeler, Galen O'Neil, Michael R. Vissers, Daniel S. Swetz, Joel N. Ullom, Martin J. Stevens, Adriana E. Lita",
-    "link": "https://arxiv.org/abs/2611.17350"
-  },
-  {
-    "titolo": "Unsupervised Anomaly Detection in Measured Neutron Flux Profiles of the SAFARI-1 Research Reactor",
-    "data": "Mon, 16 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Rethabile Kgolobe, Pavel M. Bokov, Simon H. Connell, Charis Harley, Bongani G. Maqabuka, Lesego E. Moloko",
-    "link": "https://arxiv.org/abs/2611.17351"
-  },
-  {
-    "titolo": "FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices",
-    "data": "2026-11-13T18:59:02Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Chethan Pandarinath",
-    "link": "https://arxiv.org/abs/2611.18561v1"
-  },
-  {
-    "titolo": "Lightweight Semantic EEG Foundation Model for Frozen Cross-Disorder Transfer",
-    "data": "2026-10-04T20:17:54Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Nhat Bui",
-    "link": "https://arxiv.org/abs/2610.05503v2"
-  },
-  {
-    "titolo": "PINR-ESI: Physics-Informed Self-Supervised Implicit Neural Representation Framework for EEG Extended-Source Imaging",
-    "data": "2026-11-04T16:02:28Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Yakang Dai",
-    "link": "https://arxiv.org/abs/2611.06700v3"
-  },
-  {
-    "titolo": "A Variational Latent Equilibrium for Learning in Neuronal Circuits",
-    "data": "2026-03-10T12:44:48Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Mihai A. Petrovici",
-    "link": "https://arxiv.org/abs/2603.09600v3"
-  },
-  {
-    "titolo": "Local Spike Timing Enables Gradient-based Learning in Neural Microcircuits",
-    "data": "2026-09-08T00:27:18Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Björn W. Schuller",
-    "link": "https://arxiv.org/abs/2609.08070v3"
-  },
-  {
-    "titolo": "Future of Brain Health: From Developmental Insights to Clinical Translation",
-    "data": "2025-09-08T17:46:14Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Bea R. H. Van den Bergh",
-    "link": "https://arxiv.org/abs/2509.21332v3"
-  },
-  {
-    "titolo": "An In-Silico Audit of Topographic Organization in a Multimodal Brain-Response Model",
-    "data": "2026-11-13T12:32:56Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Jakub Strawa",
-    "link": "https://arxiv.org/abs/2611.18105v1"
-  },
-  {
-    "titolo": "Striatal Optogenetic Modulation Shifts Seizure Onset Timing: A Survival-Analysis Reanalysis with Effect Sizes, Permutation Validation, and Sensitivity Analysis",
-    "data": "2026-11-13T06:17:13Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Siddhardha Nanda",
-    "link": "https://arxiv.org/abs/2611.17795v1"
-  },
-  {
-    "titolo": "Vision-Language Models Reproduce a Human Mental-Extrapolation Bias in the Watanabe Illusion",
-    "data": "2026-11-13T04:47:00Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Akiyoshi Kitaoka",
-    "link": "https://arxiv.org/abs/2611.17741v1"
-  },
-  {
-    "titolo": "A Minimal Quantitative Model of Perceptual Suppression and Breakthrough in Visual Rivalry",
-    "data": "2025-10-20T04:55:46Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "David Alais",
-    "link": "https://arxiv.org/abs/2510.17154v3"
-  },
-  {
     "titolo": "Reducing Catastrophic Risk from AI with Systematic Monitoring and Evaluation of Rogue AI Progression",
     "data": "2026-09-02T22:13:24Z",
     "fonte": "arXiv Query: search_query=au:\"Bengio Y\"&id_list=&start=0&max_results=100",
@@ -581,6 +371,20 @@
     "link": "https://arxiv.org/abs/1803.06969v2"
   },
   {
+    "titolo": "‘Peace begins in our hearts’: Children close Muscat forum with a message to the world",
+    "data": "Mon, 16 Nov 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168820"
+  },
+  {
+    "titolo": "‘An unfulfilled plan helps no one’: Superbug plans have doubled, but few countries are delivering",
+    "data": "Mon, 16 Nov 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168819"
+  },
+  {
     "titolo": "Lebanon leading the way in mental health support",
     "data": "Mon, 16 Nov 2026 12:00:00 +0000",
     "fonte": "UN News - Global perspective Human stories",
@@ -635,20 +439,6 @@
     "fonte": "UN News - Global perspective Human stories",
     "autore": "Anonimo",
     "link": "https://news.un.org/feed/view/en/story/2026/11/1168807"
-  },
-  {
-    "titolo": "Empowering faith and Indigenous leaders to combat hate",
-    "data": "Sun, 15 Nov 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168808"
-  },
-  {
-    "titolo": "Nadia Murad: ‘Day by day, I took my story back’",
-    "data": "Sun, 15 Nov 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168801"
   },
   {
     "titolo": "America After the Midterms",
@@ -861,6 +651,20 @@
     "link": "https://cepr.org/research/programme-areas/international-macroeconomics"
   },
   {
+    "titolo": "Could James Bond ever be anything other than a white, British man?",
+    "data": "2026-11-17T02:59:13Z",
+    "fonte": "Arts + Culture – The Conversation",
+    "autore": "Benjamin D. Muir, Casual Academic, School of Humanities and Communication Arts, Western Sydney University",
+    "link": "https://theconversation.com/could-james-bond-ever-be-anything-other-than-a-white-british-man-296483"
+  },
+  {
+    "titolo": "‘Noirvember is the perfect excuse to discover film critics’ favourite style",
+    "data": "2026-11-17T02:56:31Z",
+    "fonte": "Arts + Culture – The Conversation",
+    "autore": "Kristian Ramsden, PhD Candidate in English, Creative Writing and Film, Adelaide University",
+    "link": "https://theconversation.com/noirvember-is-the-perfect-excuse-to-discover-film-critics-favourite-style-296058"
+  },
+  {
     "titolo": "Don’s Party at 50 remains a biting examination of Australia’s left-leaning middle class",
     "data": "2026-11-16T18:24:06Z",
     "fonte": "Arts + Culture – The Conversation",
@@ -915,20 +719,6 @@
     "fonte": "Arts + Culture – The Conversation",
     "autore": "Grace Moore, Associate Professor of English, University of Otago",
     "link": "https://theconversation.com/johnny-depp-returns-to-the-screen-as-scrooge-dickens-might-have-some-notes-295865"
-  },
-  {
-    "titolo": "Flight of the Conchords return to NZ stages after 14 years away – but Wellington is still obviously home",
-    "data": "2026-11-11T23:22:40Z",
-    "fonte": "Arts + Culture – The Conversation",
-    "autore": "David Simes, Teaching Assistant and Researcher, Te Whare Ngangahau – Theatre and Performance Studies, Te Herenga Waka — Victoria University of Wellington",
-    "link": "https://theconversation.com/flight-of-the-conchords-return-to-nz-stages-after-14-years-away-but-wellington-is-still-obviously-home-296280"
-  },
-  {
-    "titolo": "One of the Beaconsfield miners has died. Here’s how his story hooked the nation for 20 years",
-    "data": "2026-11-11T06:02:26Z",
-    "fonte": "Arts + Culture – The Conversation",
-    "autore": "Jason Bainbridge, Dean of Curriculum and Quality, University of Southern Queensland",
-    "link": "https://theconversation.com/one-of-the-beaconsfield-miners-has-died-heres-how-his-story-hooked-the-nation-for-20-years-296259"
   },
   {
     "titolo": "Schoolies starts this week – six things young people can get wrong about safety",
@@ -1001,6 +791,13 @@
     "link": "https://theconversation.com/most-uni-students-now-use-ai-but-that-doesnt-mean-they-like-it-295170"
   },
   {
+    "titolo": "Large companies can still fall short on their climate commitments. Here’s what must change",
+    "data": "2026-11-16T23:58:16Z",
+    "fonte": "Environment + Energy – The Conversation",
+    "autore": "Ella Vines, Post-doctoral researcher, Green Lab, Monash University",
+    "link": "https://theconversation.com/large-companies-can-still-fall-short-on-their-climate-commitments-heres-what-must-change-295971"
+  },
+  {
     "titolo": "Holding the line: how transmission lines became an election flashpoint in Victoria",
     "data": "2026-11-16T18:24:19Z",
     "fonte": "Environment + Energy – The Conversation",
@@ -1064,11 +861,25 @@
     "link": "https://theconversation.com/plenty-of-reasons-for-hope-what-30-years-of-climate-talks-have-achieved-296398"
   },
   {
-    "titolo": "It’s possible to make great concrete without the huge emissions from cement. Why isn’t this common?",
-    "data": "2026-11-11T22:24:01Z",
-    "fonte": "Environment + Energy – The Conversation",
-    "autore": "Pooja Kaur Chaggar, Researcher, Western Sydney University",
-    "link": "https://theconversation.com/its-possible-to-make-great-concrete-without-the-huge-emissions-from-cement-why-isnt-this-common-292236"
+    "titolo": "Australia’s backpacker visa rules are changing again. Here’s how the new system will work",
+    "data": "2026-11-17T06:19:10Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Louisa Jones, Lecturer and Discipline Lead (Migration), Thomas More Law School, Australian Catholic University",
+    "link": "https://theconversation.com/australias-backpacker-visa-rules-are-changing-again-heres-how-the-new-system-will-work-296812"
+  },
+  {
+    "titolo": "Can the police monitor a suspect’s brain during interrogation? A new report issues a stark warning",
+    "data": "2026-11-17T05:03:20Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "David Hamer, Professor of Evidence Law, University of Sydney",
+    "link": "https://theconversation.com/can-the-police-monitor-a-suspects-brain-during-interrogation-a-new-report-issues-a-stark-warning-295555"
+  },
+  {
+    "titolo": "Stable government is parliament’s first priority – a fresh election isn’t the answer",
+    "data": "2026-11-17T00:08:57Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Grant Duncan, Research Associate, Public Policy Institute, University of Auckland, Waipapa Taumata Rau",
+    "link": "https://theconversation.com/stable-government-is-parliaments-first-priority-a-fresh-election-isnt-the-answer-296669"
   },
   {
     "titolo": "Minecraft, techno raves and brainrot are modern election strategies, but do they win any votes?",
@@ -1120,25 +931,67 @@
     "link": "https://theconversation.com/whats-missing-from-election-promises-in-victorias-rural-health-debate-a-long-term-vision-294358"
   },
   {
-    "titolo": "RNZ’s budget crisis threatens its core purpose. But there’s an obvious solution",
-    "data": "2026-11-12T20:33:56Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "Peter Thompson, Associate Professor  in Media and Communication, Te Herenga Waka — Victoria University of Wellington",
-    "link": "https://theconversation.com/rnzs-budget-crisis-threatens-its-core-purpose-but-theres-an-obvious-solution-296293"
+    "titolo": "Australia’s backpacker visa rules are changing again. Here’s how the new system will work",
+    "data": "2026-11-17T06:19:10Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Louisa Jones, Lecturer and Discipline Lead (Migration), Thomas More Law School, Australian Catholic University",
+    "link": "https://theconversation.com/australias-backpacker-visa-rules-are-changing-again-heres-how-the-new-system-will-work-296812"
   },
   {
-    "titolo": "Rural Australian communities are hosting the clean energy boom. Are they getting a fair say?",
-    "data": "2026-11-12T19:05:21Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "Simon Wright, Senior Research Fellow, Energy & Circularity, Gulbali Institute, Charles Sturt University",
-    "link": "https://theconversation.com/rural-australian-communities-are-hosting-the-clean-energy-boom-are-they-getting-a-fair-say-296254"
+    "titolo": "Can the police monitor a suspect’s brain during interrogation? A new report issues a stark warning",
+    "data": "2026-11-17T05:03:20Z",
+    "fonte": "Home – The Conversation",
+    "autore": "David Hamer, Professor of Evidence Law, University of Sydney",
+    "link": "https://theconversation.com/can-the-police-monitor-a-suspects-brain-during-interrogation-a-new-report-issues-a-stark-warning-295555"
   },
   {
-    "titolo": "Grattan on Friday: Can Albanese regain political altitude for Labor – and himself?",
-    "data": "2026-11-12T07:13:03Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "Michelle Grattan, Professorial Fellow, University of Canberra",
-    "link": "https://theconversation.com/grattan-on-friday-can-albanese-regain-political-altitude-for-labor-and-himself-294365"
+    "titolo": "Renting through an agent? You’re more than twice as likely to report slow repairs and unfair rent hikes",
+    "data": "2026-11-17T03:53:54Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Sha Liu, Research Fellow, Australian Centre for Housing Research, Adelaide University",
+    "link": "https://theconversation.com/renting-through-an-agent-youre-more-than-twice-as-likely-to-report-slow-repairs-and-unfair-rent-hikes-296678"
+  },
+  {
+    "titolo": "Could James Bond ever be anything other than a white, British man?",
+    "data": "2026-11-17T02:59:13Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Benjamin D. Muir, Casual Academic, School of Humanities and Communication Arts, Western Sydney University",
+    "link": "https://theconversation.com/could-james-bond-ever-be-anything-other-than-a-white-british-man-296483"
+  },
+  {
+    "titolo": "‘Noirvember is the perfect excuse to discover film critics’ favourite style",
+    "data": "2026-11-17T02:56:31Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Kristian Ramsden, PhD Candidate in English, Creative Writing and Film, Adelaide University",
+    "link": "https://theconversation.com/noirvember-is-the-perfect-excuse-to-discover-film-critics-favourite-style-296058"
+  },
+  {
+    "titolo": "What’s the new advice about puberty blockers for trans and gender-diverse children?",
+    "data": "2026-11-17T02:47:09Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Matthew Mitchell, Lecturer in the School of Humanities and Social Sciences, Deakin University",
+    "link": "https://theconversation.com/whats-the-new-advice-about-puberty-blockers-for-trans-and-gender-diverse-children-296699"
+  },
+  {
+    "titolo": "Stable government is parliament’s first priority – a fresh election isn’t the answer",
+    "data": "2026-11-17T00:08:57Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Grant Duncan, Research Associate, Public Policy Institute, University of Auckland, Waipapa Taumata Rau",
+    "link": "https://theconversation.com/stable-government-is-parliaments-first-priority-a-fresh-election-isnt-the-answer-296669"
+  },
+  {
+    "titolo": "Large companies can still fall short on their climate commitments. Here’s what must change",
+    "data": "2026-11-16T23:58:16Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Ella Vines, Post-doctoral researcher, Green Lab, Monash University",
+    "link": "https://theconversation.com/large-companies-can-still-fall-short-on-their-climate-commitments-heres-what-must-change-295971"
+  },
+  {
+    "titolo": "How does a compass work?",
+    "data": "2026-11-16T23:55:20Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Emma Brown, Lecturer in Math and Physics, CQUniversity Australia",
+    "link": "https://theconversation.com/how-does-a-compass-work-289238"
   },
   {
     "titolo": "Sentinels is an urgent call to action on bird flu, and capitalism gone wild. It’s also a joy to read",
@@ -1146,69 +999,6 @@
     "fonte": "Home – The Conversation",
     "autore": "Euan Ritchie, Professor in Wildlife Ecology and Conservation, School of Life & Environmental Sciences, Deakin University",
     "link": "https://theconversation.com/sentinels-is-an-urgent-call-to-action-on-bird-flu-and-capitalism-gone-wild-its-also-a-joy-to-read-293348"
-  },
-  {
-    "titolo": "Holding the line: how transmission lines became an election flashpoint in Victoria",
-    "data": "2026-11-16T18:24:19Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Wendy Conway-Lamb, Postdoctoral Research Fellow, Centre for Deliberative Democracy and Centre for Environmental Governance, University of Canberra",
-    "link": "https://theconversation.com/holding-the-line-how-transmission-lines-became-an-election-flashpoint-in-victoria-296502"
-  },
-  {
-    "titolo": "Don’s Party at 50 remains a biting examination of Australia’s left-leaning middle class",
-    "data": "2026-11-16T18:24:06Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Gregory Ferris, Senior Lecturer, Media Arts & Production, University of Technology Sydney",
-    "link": "https://theconversation.com/dons-party-at-50-remains-a-biting-examination-of-australias-left-leaning-middle-class-293944"
-  },
-  {
-    "titolo": "Minecraft, techno raves and brainrot are modern election strategies, but do they win any votes?",
-    "data": "2026-11-16T18:23:51Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Susan Grantham, Senior Lecturer in Communication, Griffith University",
-    "link": "https://theconversation.com/minecraft-techno-raves-and-brainrot-are-modern-election-strategies-but-do-they-win-any-votes-296049"
-  },
-  {
-    "titolo": "Schoolies starts this week – six things young people can get wrong about safety",
-    "data": "2026-11-16T18:23:35Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Alison Hutton, Professor of Nursing, University of Technology Sydney",
-    "link": "https://theconversation.com/schoolies-starts-this-week-six-things-young-people-can-get-wrong-about-safety-296474"
-  },
-  {
-    "titolo": "Australia wants to give us more control over social media feeds. But what about the ads?",
-    "data": "2026-11-16T18:23:20Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Meena Jha, Associate Professor, College of Information & Communication Technology, School of Engineering and Technology, CQUniversity Australia",
-    "link": "https://theconversation.com/australia-wants-to-give-us-more-control-over-social-media-feeds-but-what-about-the-ads-296510"
-  },
-  {
-    "titolo": "If Australians don’t trust the RBA on inflation, the interest rate pain may have to get worse",
-    "data": "2026-11-16T18:23:03Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Meg Elkins, Associate Professor in Economics, RMIT University",
-    "link": "https://theconversation.com/if-australians-dont-trust-the-rba-on-inflation-the-interest-rate-pain-may-have-to-get-worse-296141"
-  },
-  {
-    "titolo": "El Niño is nudging the Pacific’s cyclone risk east. What does that mean for New Zealand?",
-    "data": "2026-11-16T17:44:28Z",
-    "fonte": "Home – The Conversation",
-    "autore": "James Renwick, Professor of Physical Geography (Climate Science), Te Herenga Waka — Victoria University of Wellington",
-    "link": "https://theconversation.com/el-nino-is-nudging-the-pacifics-cyclone-risk-east-what-does-that-mean-for-new-zealand-296680"
-  },
-  {
-    "titolo": "Should Australia change its age-of-consent laws? Protecting young people requires more than legal reform",
-    "data": "2026-11-16T06:03:53Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Kim Andreassen, Program Coordinator Curtin School of Population Health, Curtin University",
-    "link": "https://theconversation.com/should-australia-change-its-age-of-consent-laws-protecting-young-people-requires-more-than-legal-reform-296685"
-  },
-  {
-    "titolo": "Eurovision Asia: a diverse and spectacular showcase of Asian pop",
-    "data": "2026-11-16T04:44:27Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Jess Carniel, Associate Professor in Humanities, University of Southern Queensland",
-    "link": "https://theconversation.com/eurovision-asia-a-diverse-and-spectacular-showcase-of-asian-pop-294346"
   },
   {
     "titolo": "Robert Pattinson is James Bond – an unexpected choice that bodes well for the next era of 007",
@@ -1561,74 +1351,74 @@
     "link": "https://theconversation.com/is-childproofing-the-internet-constitutional-a-tech-law-expert-draws-out-the-issues-240430"
   },
   {
+    "titolo": "Australia’s backpacker visa rules are changing again. Here’s how the new system will work",
+    "data": "2026-11-17T06:19:10Z",
+    "fonte": "English – The Conversation",
+    "autore": "Louisa Jones, Lecturer and Discipline Lead (Migration), Thomas More Law School, Australian Catholic University",
+    "link": "https://theconversation.com/australias-backpacker-visa-rules-are-changing-again-heres-how-the-new-system-will-work-296812"
+  },
+  {
+    "titolo": "Can the police monitor a suspect’s brain during interrogation? A new report issues a stark warning",
+    "data": "2026-11-17T05:03:20Z",
+    "fonte": "English – The Conversation",
+    "autore": "David Hamer, Professor of Evidence Law, University of Sydney",
+    "link": "https://theconversation.com/can-the-police-monitor-a-suspects-brain-during-interrogation-a-new-report-issues-a-stark-warning-295555"
+  },
+  {
+    "titolo": "Renting through an agent? You’re more than twice as likely to report slow repairs and unfair rent hikes",
+    "data": "2026-11-17T03:53:54Z",
+    "fonte": "English – The Conversation",
+    "autore": "Sha Liu, Research Fellow, Australian Centre for Housing Research, Adelaide University",
+    "link": "https://theconversation.com/renting-through-an-agent-youre-more-than-twice-as-likely-to-report-slow-repairs-and-unfair-rent-hikes-296678"
+  },
+  {
+    "titolo": "Could James Bond ever be anything other than a white, British man?",
+    "data": "2026-11-17T02:59:13Z",
+    "fonte": "English – The Conversation",
+    "autore": "Benjamin D. Muir, Casual Academic, School of Humanities and Communication Arts, Western Sydney University",
+    "link": "https://theconversation.com/could-james-bond-ever-be-anything-other-than-a-white-british-man-296483"
+  },
+  {
+    "titolo": "‘Noirvember is the perfect excuse to discover film critics’ favourite style",
+    "data": "2026-11-17T02:56:31Z",
+    "fonte": "English – The Conversation",
+    "autore": "Kristian Ramsden, PhD Candidate in English, Creative Writing and Film, Adelaide University",
+    "link": "https://theconversation.com/noirvember-is-the-perfect-excuse-to-discover-film-critics-favourite-style-296058"
+  },
+  {
+    "titolo": "What’s the new advice about puberty blockers for trans and gender-diverse children?",
+    "data": "2026-11-17T02:47:09Z",
+    "fonte": "English – The Conversation",
+    "autore": "Matthew Mitchell, Lecturer in the School of Humanities and Social Sciences, Deakin University",
+    "link": "https://theconversation.com/whats-the-new-advice-about-puberty-blockers-for-trans-and-gender-diverse-children-296699"
+  },
+  {
+    "titolo": "Stable government is parliament’s first priority – a fresh election isn’t the answer",
+    "data": "2026-11-17T00:08:57Z",
+    "fonte": "English – The Conversation",
+    "autore": "Grant Duncan, Research Associate, Public Policy Institute, University of Auckland, Waipapa Taumata Rau",
+    "link": "https://theconversation.com/stable-government-is-parliaments-first-priority-a-fresh-election-isnt-the-answer-296669"
+  },
+  {
+    "titolo": "Large companies can still fall short on their climate commitments. Here’s what must change",
+    "data": "2026-11-16T23:58:16Z",
+    "fonte": "English – The Conversation",
+    "autore": "Ella Vines, Post-doctoral researcher, Green Lab, Monash University",
+    "link": "https://theconversation.com/large-companies-can-still-fall-short-on-their-climate-commitments-heres-what-must-change-295971"
+  },
+  {
+    "titolo": "How does a compass work?",
+    "data": "2026-11-16T23:55:20Z",
+    "fonte": "English – The Conversation",
+    "autore": "Emma Brown, Lecturer in Math and Physics, CQUniversity Australia",
+    "link": "https://theconversation.com/how-does-a-compass-work-289238"
+  },
+  {
     "titolo": "How the US elections and Iran war are influencing the UN’s COP31 climate talks – and discussions around fossil fuels",
     "data": "2026-11-16T20:31:35Z",
     "fonte": "English – The Conversation",
     "autore": "Jennifer Morgan, Senior Fellow, Center for International Environment and Resource Policy and Climate Policy Lab, Tufts University",
     "link": "https://theconversation.com/how-the-us-elections-and-iran-war-are-influencing-the-uns-cop31-climate-talks-and-discussions-around-fossil-fuels-296682"
-  },
-  {
-    "titolo": "Building children’s numeracy foundations involves more than 1, 2, 3",
-    "data": "2026-11-16T20:26:08Z",
-    "fonte": "English – The Conversation",
-    "autore": "Alexandra (Sandy) Youmans, Assistant Professor of Elementary Mathematics Education, Queen's University, Ontario",
-    "link": "https://theconversation.com/building-childrens-numeracy-foundations-involves-more-than-1-2-3-293518"
-  },
-  {
-    "titolo": "Why don’t GLP-1 obesity drugs work for everyone?",
-    "data": "2026-11-16T20:20:30Z",
-    "fonte": "English – The Conversation",
-    "autore": "Rachel J. Skow, Research Coordinator, Haqq Lab, University of Alberta",
-    "link": "https://theconversation.com/why-dont-glp-1-obesity-drugs-work-for-everyone-295447"
-  },
-  {
-    "titolo": "Data centres may consume far more water than developers suggest",
-    "data": "2026-11-16T20:17:01Z",
-    "fonte": "English – The Conversation",
-    "autore": "Corwyn Shomachuk, Ph.D Student, College of Engineering, University of Saskatchewan",
-    "link": "https://theconversation.com/data-centres-may-consume-far-more-water-than-developers-suggest-296245"
-  },
-  {
-    "titolo": "Sentinels is an urgent call to action on bird flu, and capitalism gone wild. It’s also a joy to read",
-    "data": "2026-11-16T18:24:34Z",
-    "fonte": "English – The Conversation",
-    "autore": "Euan Ritchie, Professor in Wildlife Ecology and Conservation, School of Life & Environmental Sciences, Deakin University",
-    "link": "https://theconversation.com/sentinels-is-an-urgent-call-to-action-on-bird-flu-and-capitalism-gone-wild-its-also-a-joy-to-read-293348"
-  },
-  {
-    "titolo": "Holding the line: how transmission lines became an election flashpoint in Victoria",
-    "data": "2026-11-16T18:24:19Z",
-    "fonte": "English – The Conversation",
-    "autore": "Wendy Conway-Lamb, Postdoctoral Research Fellow, Centre for Deliberative Democracy and Centre for Environmental Governance, University of Canberra",
-    "link": "https://theconversation.com/holding-the-line-how-transmission-lines-became-an-election-flashpoint-in-victoria-296502"
-  },
-  {
-    "titolo": "Don’s Party at 50 remains a biting examination of Australia’s left-leaning middle class",
-    "data": "2026-11-16T18:24:06Z",
-    "fonte": "English – The Conversation",
-    "autore": "Gregory Ferris, Senior Lecturer, Media Arts & Production, University of Technology Sydney",
-    "link": "https://theconversation.com/dons-party-at-50-remains-a-biting-examination-of-australias-left-leaning-middle-class-293944"
-  },
-  {
-    "titolo": "Minecraft, techno raves and brainrot are modern election strategies, but do they win any votes?",
-    "data": "2026-11-16T18:23:51Z",
-    "fonte": "English – The Conversation",
-    "autore": "Susan Grantham, Senior Lecturer in Communication, Griffith University",
-    "link": "https://theconversation.com/minecraft-techno-raves-and-brainrot-are-modern-election-strategies-but-do-they-win-any-votes-296049"
-  },
-  {
-    "titolo": "Schoolies starts this week – six things young people can get wrong about safety",
-    "data": "2026-11-16T18:23:35Z",
-    "fonte": "English – The Conversation",
-    "autore": "Alison Hutton, Professor of Nursing, University of Technology Sydney",
-    "link": "https://theconversation.com/schoolies-starts-this-week-six-things-young-people-can-get-wrong-about-safety-296474"
-  },
-  {
-    "titolo": "Australia wants to give us more control over social media feeds. But what about the ads?",
-    "data": "2026-11-16T18:23:20Z",
-    "fonte": "English – The Conversation",
-    "autore": "Meena Jha, Associate Professor, College of Information & Communication Technology, School of Engineering and Technology, CQUniversity Australia",
-    "link": "https://theconversation.com/australia-wants-to-give-us-more-control-over-social-media-feeds-but-what-about-the-ads-296510"
   },
   {
     "titolo": "Trois stratégies pour les entreprises et les États face à l’IA, ou pourquoi les décisions de Mistral et de l’Union européenne ne sont pas contradictoires avec la souveraineté numérique",
