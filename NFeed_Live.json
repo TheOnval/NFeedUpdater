@@ -140,18 +140,18 @@
     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3004065"
   },
   {
-    "titolo": "Rhodopsin 7 is an ancestral non-canonical photoreceptor that shapes light-responsive behavior",
-    "data": "Wed, 18 Nov 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "pingkalai.senthilan@uni-wuerzburg.de (Valentina Kirsch)",
-    "link": "https://elifesciences.org/articles/109811"
-  },
-  {
     "titolo": "Correction: Uncovering the electrical synapse proteome in retinal neurons via in vivo proximity labeling",
     "data": "Wed, 18 Nov 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
     "autore": "Anonimo",
     "link": "https://elifesciences.org/articles/113746"
+  },
+  {
+    "titolo": "Rhodopsin 7 is an ancestral non-canonical photoreceptor that shapes light-responsive behavior",
+    "data": "Wed, 18 Nov 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "pingkalai.senthilan@uni-wuerzburg.de (Valentina Kirsch)",
+    "link": "https://elifesciences.org/articles/109811"
   },
   {
     "titolo": "A Gαq/11-IP<sub>3</sub>R1-ANO1 pacemaking axis underlies pressure-induced lymphatic chronotropy",
@@ -161,13 +161,6 @@
     "link": "https://elifesciences.org/articles/109466"
   },
   {
-    "titolo": "Perceptual glimpses are locally accumulated and globally maintained at distinct processing levels",
-    "data": "Wed, 18 Nov 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "eparesp@gmail.com (Simon P Kelly)",
-    "link": "https://elifesciences.org/articles/107980"
-  },
-  {
     "titolo": "Human mitochondrial DNA variants influence telomere length",
     "data": "Wed, 18 Nov 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
@@ -175,18 +168,11 @@
     "link": "https://elifesciences.org/articles/111391"
   },
   {
-    "titolo": "Correction: Deciphering the preeclampsia-specific immune microenvironment and the role of pro-inflammatory macrophages at the maternal–fetal interface",
-    "data": "Tue, 17 Nov 2026 00:00:00 +0000",
+    "titolo": "Perceptual glimpses are locally accumulated and globally maintained at distinct processing levels",
+    "data": "Wed, 18 Nov 2026 00:00:00 +0000",
     "fonte": "eLife: latest articles",
-    "autore": "Anonimo",
-    "link": "https://elifesciences.org/articles/113687"
-  },
-  {
-    "titolo": "WNK-SPAK/OSR1 signaling pathway facilitates ictal activity via reduced neuronal chloride extrusion rate",
-    "data": "Tue, 17 Nov 2026 00:00:00 +0000",
-    "fonte": "eLife: latest articles",
-    "autore": "VDZHALA@mgh.harvard.edu (Volodymyr I Dzhala)",
-    "link": "https://elifesciences.org/articles/112181"
+    "autore": "eparesp@gmail.com (Simon P Kelly)",
+    "link": "https://elifesciences.org/articles/107980"
   },
   {
     "titolo": "Transposons contribute to splice-isoform diversity in the <i>Drosophila</i> brain",
@@ -194,6 +180,13 @@
     "fonte": "eLife: latest articles",
     "autore": "christoph.d.treiber@gmail.com (Tina Rainey)",
     "link": "https://elifesciences.org/articles/110625"
+  },
+  {
+    "titolo": "WNK-SPAK/OSR1 signaling pathway facilitates ictal activity via reduced neuronal chloride extrusion rate",
+    "data": "Tue, 17 Nov 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "VDZHALA@mgh.harvard.edu (Volodymyr I Dzhala)",
+    "link": "https://elifesciences.org/articles/112181"
   },
   {
     "titolo": "Hierarchical neural circuit theory of normalization and inter-areal communication",
@@ -208,6 +201,13 @@
     "fonte": "eLife: latest articles",
     "autore": "tszk@cc.tuat.ac.jp (Vojislava Grbic)",
     "link": "https://elifesciences.org/articles/110082"
+  },
+  {
+    "titolo": "ITK deficiency protects against autoimmune pulmonary hemorrhage in mice by promoting amphiregulin-producing regulatory T cells",
+    "data": "Tue, 17 Nov 2026 00:00:00 +0000",
+    "fonte": "eLife: latest articles",
+    "autore": "karimim@upstate.edu (Rosanne Trevail)",
+    "link": "https://elifesciences.org/articles/111915"
   },
   {
     "titolo": "Skin conditions and symptoms  -- EMBASE via embase.com",
@@ -420,6 +420,48 @@
     "link": "https://arxiv.org/abs/2611.21790"
   },
   {
+    "titolo": "A Dual-SOM Learner Model of Instructional Efficiency within Cognitive Load Theory",
+    "data": "2026-11-18T04:00:21Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Spyridon Revithis",
+    "link": "https://arxiv.org/abs/2611.23795v1"
+  },
+  {
+    "titolo": "GramStatTexNet: Efficient, Interpretable, and Neuro-Inspired Texture Analysis-by-Synthesis",
+    "data": "2026-11-18T03:09:06Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Ruth Rosenholtz",
+    "link": "https://arxiv.org/abs/2611.23755v1"
+  },
+  {
+    "titolo": "Quantitative Modeling of Action-Potential-Driven Sodium Dynamics in Neurons: From Sodium Influx to Sodium MRI",
+    "data": "2026-11-17T21:56:43Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Yongxian Qian",
+    "link": "https://arxiv.org/abs/2611.23549v1"
+  },
+  {
+    "titolo": "How the material world of the brain, as a complex system governed by intermittent dynamics, gives rise to the supposedly \"immaterial\" world of mental processes such as thought",
+    "data": "2026-11-17T20:36:00Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Alexandros K. Karlis",
+    "link": "https://arxiv.org/abs/2611.23486v1"
+  },
+  {
+    "titolo": "Hebbian self-organization of monosynaptic reflexes in a biologically realistic multiarticular limb",
+    "data": "2026-11-17T19:42:33Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Gerald E. Loeb",
+    "link": "https://arxiv.org/abs/2611.23441v1"
+  },
+  {
+    "titolo": "Neural Circuit Architectural Priors for Rat Locomotion",
+    "data": "2026-11-17T18:57:31Z",
+    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
+    "autore": "Grace W. Lindsay",
+    "link": "https://arxiv.org/abs/2611.23364v1"
+  },
+  {
     "titolo": "Fully Spiking Neural Implementation of Lambda-Calculus Beta-Reduction via Biologically Documented Mechanisms",
     "data": "2026-11-17T18:27:55Z",
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
@@ -446,48 +488,6 @@
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
     "autore": "Maria Sekatskaya",
     "link": "https://arxiv.org/abs/2611.22868v1"
-  },
-  {
-    "titolo": "Real-time fall detection based on vision for low-power edge platforms",
-    "data": "2026-07-14T15:43:41Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Zhengdi Zhang",
-    "link": "https://arxiv.org/abs/2607.12909v2"
-  },
-  {
-    "titolo": "Hierarchical Control of Antiphase Synchronization in Biomorphic Spiking Neural Architectures for Locomotor Control",
-    "data": "2026-11-17T11:55:19Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Viktor B. Kazantsev",
-    "link": "https://arxiv.org/abs/2611.22639v1"
-  },
-  {
-    "titolo": "Fly Whiskers Meet LiDAR: Robust Navigation under Sensor Failure",
-    "data": "2026-11-02T20:05:14Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Homayoun Jamshidi",
-    "link": "https://arxiv.org/abs/2611.03897v2"
-  },
-  {
-    "titolo": "Overlooked weak structural connections support human cognition under nonlinear connectome scaling",
-    "data": "2025-05-30T01:50:30Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Changsong Zhou",
-    "link": "https://arxiv.org/abs/2505.24125v4"
-  },
-  {
-    "titolo": "The shape of individual differences in judgment: shared axes, personal weights, and when their spread crosses the consensus",
-    "data": "2026-11-17T09:12:19Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Hiroshi Higashi",
-    "link": "https://arxiv.org/abs/2611.22440v1"
-  },
-  {
-    "titolo": "Earth-strength magnetic-field axis modulates non-spatial probabilistic decision-making in humans",
-    "data": "2026-11-17T08:36:51Z",
-    "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
-    "autore": "Kwon-Seok Chae",
-    "link": "https://arxiv.org/abs/2611.22386v1"
   },
   {
     "titolo": "Reducing Catastrophic Risk from AI with Systematic Monitoring and Evaluation of Rogue AI Progression",
@@ -581,6 +581,13 @@
     "link": "https://arxiv.org/abs/1803.06969v2"
   },
   {
+    "titolo": "COP31 deadlock persists as countries launch new ‘climate reality check’",
+    "data": "Wed, 18 Nov 2026 12:00:00 +0000",
+    "fonte": "UN News - Global perspective Human stories",
+    "autore": "Anonimo",
+    "link": "https://news.un.org/feed/view/en/story/2026/11/1168833"
+  },
+  {
     "titolo": "Patients running out of options as antibiotics stop working against common infections",
     "data": "Wed, 18 Nov 2026 12:00:00 +0000",
     "fonte": "UN News - Global perspective Human stories",
@@ -642,13 +649,6 @@
     "fonte": "UN News - Global perspective Human stories",
     "autore": "Anonimo",
     "link": "https://news.un.org/feed/view/en/story/2026/11/1168820"
-  },
-  {
-    "titolo": "‘An unfulfilled plan helps no one’: Superbug plans have doubled, but few countries are delivering",
-    "data": "Mon, 16 Nov 2026 12:00:00 +0000",
-    "fonte": "UN News - Global perspective Human stories",
-    "autore": "Anonimo",
-    "link": "https://news.un.org/feed/view/en/story/2026/11/1168819"
   },
   {
     "titolo": "Demography is the Achilles’ Heel of Dictatorships",
@@ -1071,6 +1071,20 @@
     "link": "https://theconversation.com/a-clear-call-for-climate-action-bowen-defends-albanese-at-cop31-296545"
   },
   {
+    "titolo": "Coalition takes primary vote lead in a federal Morgan poll",
+    "data": "2026-11-19T00:59:30Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Adrian Beaumont, Election Analyst (Psephologist) at The Conversation; and Honorary Associate, School of Mathematics and Statistics, The University of Melbourne",
+    "link": "https://theconversation.com/coalition-takes-primary-vote-lead-in-a-federal-morgan-poll-296805"
+  },
+  {
+    "titolo": "Victoria has long dominated the AFL draft landscape. Other regions are catching up",
+    "data": "2026-11-18T23:20:40Z",
+    "fonte": "Politics + Society – The Conversation",
+    "autore": "Sam McIntosh, Post-graduate researcher",
+    "link": "https://theconversation.com/victoria-has-long-dominated-the-afl-draft-landscape-other-regions-are-catching-up-295548"
+  },
+  {
     "titolo": "Xi-Trump-Putin summit: when great powers want to call all the shots, what does it mean for everyone else?",
     "data": "2026-11-18T03:25:58Z",
     "fonte": "Politics + Society – The Conversation",
@@ -1088,7 +1102,7 @@
     "titolo": "The election was an ‘MMP special’ – now’s the time to tune the system, not scapegoat it",
     "data": "2026-11-18T00:45:44Z",
     "fonte": "Politics + Society – The Conversation",
-    "autore": "Sylvia Nissen, Senior Lecturer, Lincoln University, New Zealand",
+    "autore": "Sylvia Nissen, Senior Lecturer in Politics, Lincoln University, New Zealand",
     "link": "https://theconversation.com/the-election-was-an-mmp-special-nows-the-time-to-tune-the-system-not-scapegoat-it-296909"
   },
   {
@@ -1127,18 +1141,39 @@
     "link": "https://theconversation.com/can-the-police-monitor-a-suspects-brain-during-interrogation-a-new-report-issues-a-stark-warning-295555"
   },
   {
-    "titolo": "Stable government is parliament’s first priority – a fresh election isn’t the answer",
-    "data": "2026-11-17T00:08:57Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "Grant Duncan, Research Associate, Public Policy Institute, University of Auckland, Waipapa Taumata Rau",
-    "link": "https://theconversation.com/stable-government-is-parliaments-first-priority-a-fresh-election-isnt-the-answer-296669"
+    "titolo": "When’s a new organ not really new? Two anatomists explain",
+    "data": "2026-11-19T01:53:33Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Jamie Chapman, Senior Lecturer in Human Anatomy, Tasmanian School of Medicine, UTAS Health, University of Tasmania",
+    "link": "https://theconversation.com/whens-a-new-organ-not-really-new-two-anatomists-explain-292684"
   },
   {
-    "titolo": "Minecraft, techno raves and brainrot are modern election strategies, but do they win any votes?",
-    "data": "2026-11-16T18:23:51Z",
-    "fonte": "Politics + Society – The Conversation",
-    "autore": "Susan Grantham, Senior Lecturer in Communication, Griffith University",
-    "link": "https://theconversation.com/minecraft-techno-raves-and-brainrot-are-modern-election-strategies-but-do-they-win-any-votes-296049"
+    "titolo": "Coalition takes primary vote lead in a federal Morgan poll",
+    "data": "2026-11-19T00:59:30Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Adrian Beaumont, Election Analyst (Psephologist) at The Conversation; and Honorary Associate, School of Mathematics and Statistics, The University of Melbourne",
+    "link": "https://theconversation.com/coalition-takes-primary-vote-lead-in-a-federal-morgan-poll-296805"
+  },
+  {
+    "titolo": "An attempt to tax US billionaires has failed. It says a lot about wealth and power in America",
+    "data": "2026-11-19T00:52:10Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Henry Maher, Lecturer in Politics, Department of Government and International Relations, University of Sydney",
+    "link": "https://theconversation.com/an-attempt-to-tax-us-billionaires-has-failed-it-says-a-lot-about-wealth-and-power-in-america-296594"
+  },
+  {
+    "titolo": "Victoria has long dominated the AFL draft landscape. Other regions are catching up",
+    "data": "2026-11-18T23:20:40Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Sam McIntosh, Post-graduate researcher",
+    "link": "https://theconversation.com/victoria-has-long-dominated-the-afl-draft-landscape-other-regions-are-catching-up-295548"
+  },
+  {
+    "titolo": "Westpac’s new hazard risk reports should sound a warning for NZ homeowners",
+    "data": "2026-11-18T22:39:57Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Rohan Havelock, Lecturer, Faculty of Law, University of Auckland, Waipapa Taumata Rau",
+    "link": "https://theconversation.com/westpacs-new-hazard-risk-reports-should-sound-a-warning-for-nz-homeowners-296695"
   },
   {
     "titolo": "Oil! – 100 years ago, Upton Sinclair wrote the great American anti-capitalist epic",
@@ -1174,41 +1209,6 @@
     "fonte": "Home – The Conversation",
     "autore": "Brenda Gannon, Professor of Health, Ageing and Care Economics, The University of Queensland",
     "link": "https://theconversation.com/from-cooked-breakfast-to-their-own-tv-aged-care-residents-need-to-watch-for-extra-fees-295445"
-  },
-  {
-    "titolo": "As in-home aged care costs soar, more older Australians are facing financial hardship",
-    "data": "2026-11-18T19:10:21Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Tracy Comans, Professor, School of Public Health, The University of Queensland; The University of Melbourne",
-    "link": "https://theconversation.com/as-in-home-aged-care-costs-soar-more-older-australians-are-facing-financial-hardship-295441"
-  },
-  {
-    "titolo": "The last bird to go extinct in NZ has lessons for saving other species – new study",
-    "data": "2026-11-18T18:56:04Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Alexander Verry, Researcher, Department of Zoology, University of Otago",
-    "link": "https://theconversation.com/the-last-bird-to-go-extinct-in-nz-has-lessons-for-saving-other-species-new-study-292112"
-  },
-  {
-    "titolo": "Queensland, NT economic growth beats the rest of the nation, led by mining",
-    "data": "2026-11-18T04:28:49Z",
-    "fonte": "Home – The Conversation",
-    "autore": "John Hawkins, Senior lecturer, Canberra School of Government, University of Canberra",
-    "link": "https://theconversation.com/queensland-nt-economic-growth-beats-the-rest-of-the-nation-led-by-mining-296503"
-  },
-  {
-    "titolo": "Xi-Trump-Putin summit: when great powers want to call all the shots, what does it mean for everyone else?",
-    "data": "2026-11-18T03:25:58Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Alexander Korolev, Associate Professor in Politics and International Relations, UNSW",
-    "link": "https://theconversation.com/xi-trump-putin-summit-when-great-powers-want-to-call-all-the-shots-what-does-it-mean-for-everyone-else-296811"
-  },
-  {
-    "titolo": "Storm Boy at 50: South Australia’s stunning coastal landscape is key to this beloved film’s success",
-    "data": "2026-11-18T03:23:29Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Allison Craven, Associate Professor, College of Arts, Society and Education, James Cook University",
-    "link": "https://theconversation.com/storm-boy-at-50-south-australias-stunning-coastal-landscape-is-key-to-this-beloved-films-success-296262"
   },
   {
     "titolo": "Electric cooking could be as important as EVs in the global energy transition",
@@ -1421,6 +1421,20 @@
     "link": "https://theconversation.com/the-ss-united-states-has-been-deliberately-sunk-this-is-how-marine-life-will-colonise-the-worlds-largest-artificial-reef-294758"
   },
   {
+    "titolo": "AI helps uncover critical flaw in ubiquitous internet software",
+    "data": "2026-11-18T21:43:47Z",
+    "fonte": "The Conversation – Articles (US)",
+    "autore": "Doug Jacobson, University Professor of Electrical and Computer Engineering, Iowa State University",
+    "link": "https://theconversation.com/ai-helps-uncover-critical-flaw-in-ubiquitous-internet-software-296930"
+  },
+  {
+    "titolo": "Florida’s flooding déjà vu is a sign of things to come – so, who is most at risk and how can they prepare?",
+    "data": "2026-11-18T20:12:23Z",
+    "fonte": "The Conversation – Articles (US)",
+    "autore": "Smitha Rao, Associate Professor of Social Work, The Ohio State University",
+    "link": "https://theconversation.com/floridas-flooding-deja-vu-is-a-sign-of-things-to-come-so-who-is-most-at-risk-and-how-can-they-prepare-297006"
+  },
+  {
     "titolo": "A convincing vegan meat alternative needs both taste and texture – here’s how food scientists manufacture them",
     "data": "2026-11-18T19:31:51Z",
     "fonte": "The Conversation – Articles (US)",
@@ -1475,20 +1489,6 @@
     "fonte": "The Conversation – Articles (US)",
     "autore": "Nathaniel Geiger, Assistant Professor of Environment and Sustainability, University of Michigan",
     "link": "https://theconversation.com/midterms-blue-tsunami-gives-congress-and-states-an-opportunity-to-take-action-on-climate-change-heres-what-they-could-actually-do-296590"
-  },
-  {
-    "titolo": "Your favorite Thanksgiving dishes won’t cost substantially more this year – here’s why",
-    "data": "2026-11-18T13:34:29Z",
-    "fonte": "The Conversation – Articles (US)",
-    "autore": "Elizabeth Canales, Associate Professor of Agricultural Economics, Mississippi State University",
-    "link": "https://theconversation.com/your-favorite-thanksgiving-dishes-wont-cost-substantially-more-this-year-heres-why-296670"
-  },
-  {
-    "titolo": "NASA’s Voyager 1 has reached 1 light-day from Earth, the first human-made object in space to reach that distance",
-    "data": "2026-11-18T13:34:06Z",
-    "fonte": "The Conversation – Articles (US)",
-    "autore": "Matthew Shindell, Curator of Planetary Science and Exploration, Smithsonian Institution",
-    "link": "https://theconversation.com/nasas-voyager-1-has-reached-1-light-day-from-earth-the-first-human-made-object-in-space-to-reach-that-distance-296026"
   },
   {
     "titolo": "World Cup 2026 quiz",
@@ -1561,6 +1561,48 @@
     "link": "https://theconversation.com/is-childproofing-the-internet-constitutional-a-tech-law-expert-draws-out-the-issues-240430"
   },
   {
+    "titolo": "Coalition takes primary vote lead in a federal Morgan poll",
+    "data": "2026-11-19T00:59:30Z",
+    "fonte": "English – The Conversation",
+    "autore": "Adrian Beaumont, Election Analyst (Psephologist) at The Conversation; and Honorary Associate, School of Mathematics and Statistics, The University of Melbourne",
+    "link": "https://theconversation.com/coalition-takes-primary-vote-lead-in-a-federal-morgan-poll-296805"
+  },
+  {
+    "titolo": "An attempt to tax US billionaires has failed. It says a lot about wealth and power in America",
+    "data": "2026-11-19T00:52:10Z",
+    "fonte": "English – The Conversation",
+    "autore": "Henry Maher, Lecturer in Politics, Department of Government and International Relations, University of Sydney",
+    "link": "https://theconversation.com/an-attempt-to-tax-us-billionaires-has-failed-it-says-a-lot-about-wealth-and-power-in-america-296594"
+  },
+  {
+    "titolo": "Victoria has long dominated the AFL draft landscape. Other regions are catching up",
+    "data": "2026-11-18T23:20:40Z",
+    "fonte": "English – The Conversation",
+    "autore": "Sam McIntosh, Post-graduate researcher",
+    "link": "https://theconversation.com/victoria-has-long-dominated-the-afl-draft-landscape-other-regions-are-catching-up-295548"
+  },
+  {
+    "titolo": "Westpac’s new hazard risk reports should sound a warning for NZ homeowners",
+    "data": "2026-11-18T22:39:57Z",
+    "fonte": "English – The Conversation",
+    "autore": "Rohan Havelock, Lecturer, Faculty of Law, University of Auckland, Waipapa Taumata Rau",
+    "link": "https://theconversation.com/westpacs-new-hazard-risk-reports-should-sound-a-warning-for-nz-homeowners-296695"
+  },
+  {
+    "titolo": "AI helps uncover critical flaw in ubiquitous internet software",
+    "data": "2026-11-18T21:43:47Z",
+    "fonte": "English – The Conversation",
+    "autore": "Doug Jacobson, University Professor of Electrical and Computer Engineering, Iowa State University",
+    "link": "https://theconversation.com/ai-helps-uncover-critical-flaw-in-ubiquitous-internet-software-296930"
+  },
+  {
+    "titolo": "Florida’s flooding déjà vu is a sign of things to come – so, who is most at risk and how can they prepare?",
+    "data": "2026-11-18T20:12:23Z",
+    "fonte": "English – The Conversation",
+    "autore": "Smitha Rao, Associate Professor of Social Work, The Ohio State University",
+    "link": "https://theconversation.com/floridas-flooding-deja-vu-is-a-sign-of-things-to-come-so-who-is-most-at-risk-and-how-can-they-prepare-297006"
+  },
+  {
     "titolo": "A convincing vegan meat alternative needs both taste and texture – here’s how food scientists manufacture them",
     "data": "2026-11-18T19:31:51Z",
     "fonte": "English – The Conversation",
@@ -1587,48 +1629,6 @@
     "fonte": "English – The Conversation",
     "autore": "John Totterdell, Lead Cetacean Researcher, Flinders University",
     "link": "https://theconversation.com/this-years-humpback-whale-migration-was-missing-something-vital-the-calves-and-their-mothers-295343"
-  },
-  {
-    "titolo": "My teen wants to play Grand Theft Auto 6. What do I need to know about the game?",
-    "data": "2026-11-18T19:10:51Z",
-    "fonte": "English – The Conversation",
-    "autore": "James Birt, Associate Professor, Film, Screen and Creative Media, and Associate Dean Engagement, Bond University",
-    "link": "https://theconversation.com/my-teen-wants-to-play-grand-theft-auto-6-what-do-i-need-to-know-about-the-game-296506"
-  },
-  {
-    "titolo": "From cooked breakfast to their own TV, aged care residents need to watch for extra fees",
-    "data": "2026-11-18T19:10:34Z",
-    "fonte": "English – The Conversation",
-    "autore": "Brenda Gannon, Professor of Health, Ageing and Care Economics, The University of Queensland",
-    "link": "https://theconversation.com/from-cooked-breakfast-to-their-own-tv-aged-care-residents-need-to-watch-for-extra-fees-295445"
-  },
-  {
-    "titolo": "As in-home aged care costs soar, more older Australians are facing financial hardship",
-    "data": "2026-11-18T19:10:21Z",
-    "fonte": "English – The Conversation",
-    "autore": "Tracy Comans, Professor, School of Public Health, The University of Queensland; The University of Melbourne",
-    "link": "https://theconversation.com/as-in-home-aged-care-costs-soar-more-older-australians-are-facing-financial-hardship-295441"
-  },
-  {
-    "titolo": "The last bird to go extinct in NZ has lessons for saving other species – new study",
-    "data": "2026-11-18T18:56:04Z",
-    "fonte": "English – The Conversation",
-    "autore": "Alexander Verry, Researcher, Department of Zoology, University of Otago",
-    "link": "https://theconversation.com/the-last-bird-to-go-extinct-in-nz-has-lessons-for-saving-other-species-new-study-292112"
-  },
-  {
-    "titolo": "Something else is lurking just ‘Below’ the surface of Newfoundland’s waters — raw sewage",
-    "data": "2026-11-18T18:44:48Z",
-    "fonte": "English – The Conversation",
-    "autore": "Josie Wittmer, Assistant Professor, Environment & Sustainability, Memorial University of Newfoundland",
-    "link": "https://theconversation.com/something-else-is-lurking-just-below-the-surface-of-newfoundlands-waters-raw-sewage-296015"
-  },
-  {
-    "titolo": "History shows Canada’s attempts to exploit Arctic oil have failed",
-    "data": "2026-11-18T17:15:58Z",
-    "fonte": "English – The Conversation",
-    "autore": "Warren Bernauer, Assistant Professor, Department of Environment & Geography, University of Manitoba",
-    "link": "https://theconversation.com/history-shows-canadas-attempts-to-exploit-arctic-oil-have-failed-296584"
   },
   {
     "titolo": "Cybersécurité : que sont les failles PHP qui ont mis Internet en pause fin octobre ?",
