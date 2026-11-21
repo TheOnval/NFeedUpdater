@@ -280,146 +280,6 @@
     "link": "http://pubmedsearches.blogspot.com/2025/01/united-kingdom-keywords-for-embase.html"
   },
   {
-    "titolo": "Human-AI Mutualism Is Unstable under Capability Asymmetry",
-    "data": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Aydin Mohseni",
-    "link": "https://arxiv.org/abs/2611.23322"
-  },
-  {
-    "titolo": "Training Language Models for Introspective Oversight",
-    "data": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Alex Lin Wang, Linus Yifeng Tang, Dami Choi, Neil Chowdhury",
-    "link": "https://arxiv.org/abs/2611.23365"
-  },
-  {
-    "titolo": "Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
-    "data": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Al\\'an Aspuru-Guzik, Varinia Bernales",
-    "link": "https://arxiv.org/abs/2611.23375"
-  },
-  {
-    "titolo": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
-    "data": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Yuanlin Wen, Elan Markowitz, Zubo Gu, Sami Abu-El-Haija, Bryan Perozzi, Mikhail Galkin, Ali Parviz, Aayush Gupta, Venkata Chivukula, Griffin Hadfield, Aravind Akella, Daniel J. Frame, Vahab Mirrokni, Amin Vahdat",
-    "link": "https://arxiv.org/abs/2611.23398"
-  },
-  {
-    "titolo": "RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding",
-    "data": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Jiarui Cui, Boxun Yan",
-    "link": "https://arxiv.org/abs/2611.23410"
-  },
-  {
-    "titolo": "Why Sub-4-Bit Vision CNNs Collapse and Where Mixed-Precision Recovery Stops",
-    "data": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Michael Schroeder",
-    "link": "https://arxiv.org/abs/2611.23445"
-  },
-  {
-    "titolo": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
-    "data": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Carla Teixeira Lopes, Daniel F\\'elix",
-    "link": "https://arxiv.org/abs/2611.23454"
-  },
-  {
-    "titolo": "VeriMath: Human-in-the-Loop Generation and Verification of Curriculum-Aligned Mathematics Assessment Items",
-    "data": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Quy P. Nguyen, Duong Q. Nguyen, Dinh P. T. Nguyen, Truong-Giang T. Le, Truong A. Bui, Vi H. Vo, Quang-Thinh Bui, My-Phuong Ngo, Trong N. Do, Thao P. Le, Phuc M. Nguyen, H. Nguyen-Xuan",
-    "link": "https://arxiv.org/abs/2611.23456"
-  },
-  {
-    "titolo": "GUARD: Stabilizing Recursive Self-Improvement with Regret Guidance",
-    "data": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Minghe Zhang, Xuetao Kang, Yifei Ming, Yanfei Chen, Han Yu, Yufan Zhuang, Chen-Yu Lee",
-    "link": "https://arxiv.org/abs/2611.23476"
-  },
-  {
-    "titolo": "Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations",
-    "data": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "fonte": "cs.AI updates on arXiv.org",
-    "autore": "Jonathan Lichtle, Aymen Meddeb, Antonin Birot, Ibrahima Niang, Lisa Gastaud, Riyad Hanafi, Sofiane Dujardin, Corentin Selomme, Guillaume Cachard, Aghiles Hamroun, Gr\\'egory Kuchcinski, Su Hwan Kim, Bastien Le Guellec",
-    "link": "https://arxiv.org/abs/2611.23480"
-  },
-  {
-    "titolo": "Can Language Models Build Molecules in Three Dimensions?",
-    "data": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Hanyong Xu, Yunheng Zou, Olalla Nieto Faza, Juan Bernardo P\\'erez S\\'anchez, Aiwei Yin, Al\\'an Aspuru-Guzik, Varinia Bernales",
-    "link": "https://arxiv.org/abs/2611.25041"
-  },
-  {
-    "titolo": "MAPPA: Mapping of Atoms by Progressive Pattern Assembly with Molecular Symmetry",
-    "data": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Yunheng Zou, Olalla Nieto Faza, Shifa Hussain, Varinia Bernales, Alan Aspuru-Guzik",
-    "link": "https://arxiv.org/abs/2611.25052"
-  },
-  {
-    "titolo": "Evaluation of machine-learning and deep-learning SPEI drought forecasts against persistence across timescales and lead times in Bangladesh",
-    "data": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Mahir Ahnaf, Showmitra Kumar Sarkar",
-    "link": "https://arxiv.org/abs/2611.25075"
-  },
-  {
-    "titolo": "A Computational and Experimental Framework for Fourier Optics in Python",
-    "data": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Rachel Migdal, Antoine Islegen-Wojdyla",
-    "link": "https://arxiv.org/abs/2611.25116"
-  },
-  {
-    "titolo": "Colloquium: Isotopes for medicine and fundamental physics",
-    "data": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "V. J. Ajith, Mark G. Raizen",
-    "link": "https://arxiv.org/abs/2611.25145"
-  },
-  {
-    "titolo": "Nodal Knotted Finite-Energy Spatiotemporally Localized Scalar Wave Solutions",
-    "data": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Ioannis M. Besieris, Peeter Saari",
-    "link": "https://arxiv.org/abs/2611.25155"
-  },
-  {
-    "titolo": "A universal modal-noise limit for multimode photonic systems",
-    "data": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Kalaga Madhav",
-    "link": "https://arxiv.org/abs/2611.25156"
-  },
-  {
-    "titolo": "Geometric control of diffusive relaxation: spectral design, transport bounds and transverse mode isolation",
-    "data": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Pengfei Zhu",
-    "link": "https://arxiv.org/abs/2611.25173"
-  },
-  {
-    "titolo": "The Complete Set of Solutions for the Equations of Temporal Coupled Mode Theory",
-    "data": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Matthew Beutel, Ming Zhou, Shanhui Fan",
-    "link": "https://arxiv.org/abs/2611.25181"
-  },
-  {
-    "titolo": "From FAIR to AWARE: Data Readiness for Agentic AI in the Earth Sciences",
-    "data": "Fri, 20 Nov 2026 00:00:00 -0500",
-    "fonte": "physics updates on arXiv.org",
-    "autore": "Ivan Kuznetsov, Dmitrii Pantiukhin, Sonja H\\\"anzelmann, Fabian Wachsmann, Jonas S{\\o}lvsteen, Daniel Wiesmann, Thomas Jung, Nikolay Koldunov",
-    "link": "https://arxiv.org/abs/2611.25209"
-  },
-  {
     "titolo": "A Control-Theoretic Approximation to Predictive Coding Dynamics",
     "data": "2026-11-19T16:04:50Z",
     "fonte": "arXiv Query: search_query=all:q-bio.NC&id_list=&start=0&max_results=100",
@@ -1001,6 +861,13 @@
     "link": "https://theconversation.com/ai-has-turned-university-assessments-into-a-wicked-problem-and-we-dont-have-all-the-answers-294350"
   },
   {
+    "titolo": "Why fossil fuel-producing countries are stalling this crucial climate report",
+    "data": "2026-11-21T05:45:46Z",
+    "fonte": "Environment + Energy – The Conversation",
+    "autore": "Kathryn Bowen, Director, Melbourne Climate Futures and Professor - Environment, Climate and Global Health at Melbourne Climate Futures and Melbourne School of Population and Global Health, University of Melbourne, The University of Melbourne",
+    "link": "https://theconversation.com/why-fossil-fuel-producing-countries-are-stalling-this-crucial-climate-report-296997"
+  },
+  {
     "titolo": "Wars and cost of living have pushed climate change off the priority list",
     "data": "2026-11-20T00:31:15Z",
     "fonte": "Environment + Energy – The Conversation",
@@ -1062,13 +929,6 @@
     "fonte": "Environment + Energy – The Conversation",
     "autore": "Wendy Conway-Lamb, Postdoctoral Research Fellow, Centre for Deliberative Democracy and Centre for Environmental Governance, University of Canberra",
     "link": "https://theconversation.com/holding-the-line-how-transmission-lines-became-an-election-flashpoint-in-victoria-296502"
-  },
-  {
-    "titolo": "El Niño is nudging the Pacific’s cyclone risk east. What does that mean for New Zealand?",
-    "data": "2026-11-16T17:44:28Z",
-    "fonte": "Environment + Energy – The Conversation",
-    "autore": "James Renwick, Professor of Physical Geography (Climate Science), Te Herenga Waka — Victoria University of Wellington",
-    "link": "https://theconversation.com/el-nino-is-nudging-the-pacifics-cyclone-risk-east-what-does-that-mean-for-new-zealand-296680"
   },
   {
     "titolo": "View from The Hill: Jobless numbers highlight that the Reserve Bank’s credibility is on the line",
@@ -1141,6 +1001,13 @@
     "link": "https://theconversation.com/xi-trump-putin-summit-when-great-powers-want-to-call-all-the-shots-what-does-it-mean-for-everyone-else-296811"
   },
   {
+    "titolo": "Why fossil fuel-producing countries are stalling this crucial climate report",
+    "data": "2026-11-21T05:45:46Z",
+    "fonte": "Home – The Conversation",
+    "autore": "Kathryn Bowen, Director, Melbourne Climate Futures and Professor - Environment, Climate and Global Health at Melbourne Climate Futures and Melbourne School of Population and Global Health, University of Melbourne, The University of Melbourne",
+    "link": "https://theconversation.com/why-fossil-fuel-producing-countries-are-stalling-this-crucial-climate-report-296997"
+  },
+  {
     "titolo": "View from The Hill: Jobless numbers highlight that the Reserve Bank’s credibility is on the line",
     "data": "2026-11-20T08:22:21Z",
     "fonte": "Home – The Conversation",
@@ -1202,13 +1069,6 @@
     "fonte": "Home – The Conversation",
     "autore": "Lisa Meehan, Director, NZ Policy Research Institute, Auckland University of Technology",
     "link": "https://theconversation.com/nzs-pay-equity-law-has-been-found-to-breach-womens-rights-how-can-it-stand-297057"
-  },
-  {
-    "titolo": "The most iconic sports film of all time taught us winning isn’t everything: 50 years of Rocky",
-    "data": "2026-11-19T19:05:54Z",
-    "fonte": "Home – The Conversation",
-    "autore": "Lisa J. Hackett, Senior Lecturer, Cultural History, University of New England",
-    "link": "https://theconversation.com/the-most-iconic-sports-film-of-all-time-taught-us-winning-isnt-everything-50-years-of-rocky-276876"
   },
   {
     "titolo": "Alcohol addiction and eating disorders often go hand in hand – here’s why",
@@ -1561,6 +1421,13 @@
     "link": "https://theconversation.com/is-childproofing-the-internet-constitutional-a-tech-law-expert-draws-out-the-issues-240430"
   },
   {
+    "titolo": "Why fossil fuel-producing countries are stalling this crucial climate report",
+    "data": "2026-11-21T05:45:46Z",
+    "fonte": "English – The Conversation",
+    "autore": "Kathryn Bowen, Director, Melbourne Climate Futures and Professor - Environment, Climate and Global Health at Melbourne Climate Futures and Melbourne School of Population and Global Health, University of Melbourne, The University of Melbourne",
+    "link": "https://theconversation.com/why-fossil-fuel-producing-countries-are-stalling-this-crucial-climate-report-296997"
+  },
+  {
     "titolo": "Whether it’s ‘Sister’ or your own sister, the burden that caring for aging parents puts on women is no joke",
     "data": "2026-11-20T19:58:13Z",
     "fonte": "English – The Conversation",
@@ -1622,13 +1489,6 @@
     "fonte": "English – The Conversation",
     "autore": "Marc Cohen, Professor of Gerontology, UMass Boston",
     "link": "https://theconversation.com/snl-sister-sketch-nails-the-failures-of-us-healthcare-policy-297022"
-  },
-  {
-    "titolo": "Trump administration may fund white South Africans to document ‘hateful rhetoric and violent acts’",
-    "data": "2026-11-20T13:45:01Z",
-    "fonte": "English – The Conversation",
-    "autore": "David Campbell, Professor of Public Administration, Binghamton University, State University of New York",
-    "link": "https://theconversation.com/trump-administration-may-fund-white-south-africans-to-document-hateful-rhetoric-and-violent-acts-296360"
   },
   {
     "titolo": "Pourquoi des continents entiers ont perdu des centaines de millions d’années de roches",
